@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT Barra lateral: Mejora flujos con GPT-4o, Claude3.5, Gemini 1.5 para búsqueda y escritura AI."
+   },
+   "appDescEdge": {
+      "message": "ChatGPT Barra lateral: Mejora flujos con GPT-4o, Claude3, Gemini 1.5 para búsqueda y escritura AI."
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Barra lateral + GPT-4o, Claude 3.5, Gemini & Herramientas IA"
+   },
+   "appNameEdge": {
+      "message": "Sider: Barra lateral de ChatGPT"
+   }
+}

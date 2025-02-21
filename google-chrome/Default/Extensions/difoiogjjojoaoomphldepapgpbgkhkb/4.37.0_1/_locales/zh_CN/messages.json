@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT 侧边栏：使用 ChatGPT、GPT-4o、Claude3 和 Gemini 1.5 Pro 进行高级 AI 搜索、阅读和写作，提升工作效率。"
+   },
+   "appDescEdge": {
+      "message": "ChatGPT 侧边栏：使用 ChatGPT、GPT-4o、Claude3 和 Gemini 1.5 Pro 进行高级 AI 搜索、阅读和写作，提升工作效率。"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT 侧边栏 + GPT-4o, Claude 3.5, Gemini 1.5 & AI工具"
+   },
+   "appNameEdge": {
+      "message": "Sider: ChatGPT 侧边栏"
+   }
+}

@@ -1,0 +1,139 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1738315388931" />
+    </e>
+    <e n="$Undo">
+      <i c="6" l="1738008014592" />
+    </e>
+    <e n="AIAssistant.ToolWindow.Chat.Copy.Chameleon">
+      <i c="1" l="1737999555949" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1738008021034" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="757" l="1738318947161" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="19" l="1738317945808" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="4" l="1738317940540" />
+    </e>
+    <e n="EditorCopy">
+      <i c="10" l="1738322220984" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1738008858070" />
+    </e>
+    <e n="EditorDelete">
+      <i c="56" l="1738318833154" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="9" l="1738008718737" />
+    </e>
+    <e n="EditorDown">
+      <i c="146" l="1738318811000" />
+    </e>
+    <e n="EditorEnter">
+      <i c="190" l="1738318946111" />
+    </e>
+    <e n="EditorEscape">
+      <i c="7" l="1738318651474" />
+    </e>
+    <e n="EditorLeft">
+      <i c="383" l="1738318816977" />
+    </e>
+    <e n="EditorPaste">
+      <i c="5" l="1738008863191" />
+    </e>
+    <e n="EditorRight">
+      <i c="429" l="1738318687184" />
+    </e>
+    <e n="EditorTab">
+      <i c="7" l="1738008883001" />
+    </e>
+    <e n="EditorUp">
+      <i c="130" l="1738318810509" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1738001581093" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1738318552877" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="2" l="1738315348116" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="111" l="1738318766655" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1738315395300" />
+    </e>
+    <e n="NewElement">
+      <i c="1" l="1738005146385" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="14" l="1738315404852" />
+    </e>
+    <e n="NewPythonPackage">
+      <i c="3" l="1738315338693" />
+    </e>
+    <e n="ProblemsView.QuickFixes">
+      <i c="2" l="1737999250088" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1737999261198" />
+    </e>
+    <e n="Run">
+      <i c="50" l="1738322200513" />
+    </e>
+    <e n="RuntimeErrorExplanationAction">
+      <i c="3" l="1738008086252" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1738001576115" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1738319113596" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1738008028115" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="4" l="1738008017297" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
+      <i c="1" l="1738318610210" />
+    </e>
+    <e n="com.intellij.ml.llm.core.chat.promptLibrary.entryPoints.AIAssistantPromptListOpenSettingsAction">
+      <i c="1" l="1738005919305" />
+    </e>
+    <e n="com.intellij.ml.llm.core.codeGeneration.popup.SubmitAction">
+      <i c="1" l="1738318930451" />
+    </e>
+    <e n="com.intellij.ml.llm.intentions.editor.IntentionWrapperAction">
+      <i c="4" l="1738318898606" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1738318949693" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1737999231423" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1738315352696" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1738319110638" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1737999098970" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1738008268656" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,2571 @@
+{
+  "sidebar": "Sivupalkki",
+  "shortcut": "Pikanäppäimet",
+  "ask": "Kysyä",
+  "save": "Tallenna se",
+  "saved": "Tallennettu",
+  "delete": "Poistaa",
+  "deleteAll": "Poista kaikki",
+  "remove": "Poista",
+  "cancel": "Peruuttaa",
+  "close": "Sulje",
+  "minimize": "Pienennä",
+  "disable": "Poista käytöstä",
+  "retry": "Yritä uudelleen",
+  "stop": "Lopettaa",
+  "pause": "Tauko",
+  "play": "Toista",
+  "replay": "Toista uudelleen",
+  "changeSpeed": "Vaihda nopeutta",
+  "ttsDemo": "Esimerkki",
+  "icon": "Ikoni",
+  "select": "Valitse",
+  "change": "Vaihda",
+  "insert": "Lisää",
+  "replace": "Korvata",
+  "ok": "OK",
+  "Loading": "Ladataan",
+  "thoughtProgress": "Ajatusprosessi",
+  "submit": "Lähetä",
+  "attention": "Ilmoitus",
+  "welcome": "Tervetuloa",
+  "send": "Lähettää",
+  "copy": "Kopio",
+  "auto": "Auto",
+  "unpublish": "Poista julkaisu",
+  "unpublishArtifact": "Poista artifaktin julkaisu",
+  "aiResCompare": "AI-vastausten vertailu",
+  "copied": "Kopioitu",
+  "clear": "Asia selvä",
+  "table": "Taulukko",
+  "tryDemo": "Kokeile demoa",
+  "translate": "Käännä",
+  "rewrite": "Kirjoita uudelleen",
+  "next": "Seuraava",
+  "prev": "Edellinen",
+  "hi": "Hei,",
+  "experimental": "Varhainen käyttöoikeus",
+  "experimentalDesc": "Maksavat käyttäjät saavat varhaisen käyttöoikeuden yksinoikeudellisiin, huipputeknologisiin työkaluihin ja kokeellisiin ominaisuuksiin, jotka eivät ole saatavilla ei-tilaajille.",
+  "clickToTry": "Klikkaa kokeillaksesi tätä ominaisuutta",
+  "detected": "Tunnistettu",
+  "reset": "Nollaa",
+  "upTo6file": "Lataa enintään 6 tiedostoa",
+  "quote": "Lainata",
+  "download": "Lataa",
+  "downloadTypeFile": "Lataa {{type}}-tiedosto",
+  "collapse": "Tiivistä sivupalkki",
+  "done": "Tehty",
+  "trial": "Kokeilu",
+  "manage": "Hallitse",
+  "template": "sapluuna",
+  "edit": "Muokata",
+  "exit": "Poistu",
+  "add": "Lisätä",
+  "feedback": "Palaute",
+  "fullscreenBookmarkTip": "Klikkaa tähtikuvaketta lisätäksesi koko näytön keskustelun kirjanmerkkeihin, jotta pääset siihen helposti seuraavalla kerralla!",
+  "tweetit": "Seuraa meitä {{X}}:ssä",
+  "joinDiscord": "Liity Discord-yhteisöömme",
+  "whatsnewInvite": "Kutsu kokeilemaan ilmaiseksi",
+  "fullPageChat": "Koko sivun chat",
+  "whatNew": "Uudet ominaisuudet",
+  "helpCenter": "Ohjekeskus",
+  "learnMore": "Lue lisää",
+  "gotIt": "Sain sen",
+  "you": "Sinä",
+  "settings": "asetukset",
+  "signin": "Kirjaudu sisään",
+  "extractingText": "Tekstin purku",
+  "extractingTextFailed": "Tekstin purku epäonnistui",
+  "textExtracted": "Teksti purettu",
+  "audioExtractedText": "Äänestä purettu teksti",
+  "account": "Tili",
+  "createAccount": "Luo tili",
+  "createAccountTip": "Rekisteröidy saadaksesi <a>{{NUM}} ilmaista</a> krediittiä joka päivä",
+  "free": "Ilmainen",
+  "signinNow": "Kirjaudu sisään nyt",
+  "unlimited": "Rajoittamaton",
+  "share": "Jaa",
+  "toolMoveTip": "Keskustelutyökalulla on uusi koti! Voit käyttää kaikkia keskustelun hallintatoimintoja täällä.",
+  "myChats": "Omat keskustelut",
+  "general": "Yleinen konfigurointi",
+  "archive": "arkisto",
+  "unarchive": "poista arkistosta",
+  "searchPage": "Hakusivu",
+  "addons": "Lisäosat",
+  "webStore": "Verkkokauppa",
+  "webApp": "Verkkosovellus",
+  "webAccess": "Web-käyttö",
+  "upgradeNow": "Päivitä nyt",
+  "unlock": "Avaa",
+  "allFeatures": "Kaikki ominaisuudet",
+  "everyThing": "Kaikki",
+  "unlockFeatMsg": "Olet saavuttanut suunnitelmasi rajan. Päivitä nyt avataksesi kaikki ominaisuudet!",
+  "upgradeUnlock": "Päivitä nyt avataksesi!",
+  "upgrade": "Päivitä",
+  "subscribe": "Tilaa",
+  "language": "Kieli",
+  "theme": "Teema",
+  "sendShortcut": "Lähetä pikakuvake",
+  "speechVoice": "Puheääni",
+  "buyBooster": "Osta tehopakkaus ",
+  "model": "Malli",
+  "version": "Versio",
+  "more": "Lisää",
+  "clickPreview": "Klikkaa esikatsellaksesi",
+  "clickView": "Napsauta nähdäksesi",
+  "sendToChat": "Lähetä keskusteluun",
+  "listen": "Kuunnella",
+  "openAnswerCompare": "Rinnakkainen vertailu",
+  "skip": "Ohita",
+  "basic": "Perus",
+  "advanced": "Edistynyt",
+  "superAdvanced": "Super edistynyt",
+  "switchModel": "Vaihda mallia",
+  "switchVoice": "Vaihda ääntä",
+  "changeVoice": "Vaihda ääntä",
+  "vote": "Äänestys",
+  "invite": "Kutsu",
+  "hide": "Piilota",
+  "show": "Näytä",
+  "logout": "Kirjaudu ulos",
+  "pin": "kiinnittää",
+  "unpin": "irrota kiinnitys",
+  "showMore": "Näytä lisää",
+  "editTitle": "Muokkaa otsikkoa",
+  "summarize": "Tee yhteenveto",
+  "summary": "Yhteenveto",
+  "fact-check": "Faktantarkistus",
+  "highlight-excerpts": "Korosta katkelmia",
+  "key-concepts": "Selvennä keskeisiä käsitteitä",
+  "identify-assumptions": "Tunnista oletukset",
+  "contrast-analysis": "Analysoi vastakohtia",
+  "about-author": "Opi kirjoittajasta",
+  "related-news": "Etsi aiheeseen liittyviä uutisia",
+  "related-academic-research": "Näytä aiheeseen liittyviä artikkeleita",
+  "related-videos": "Katso aiheeseen liittyviä videoita",
+  "keypoints": "Avainkohdat",
+  "quiz": "Tietokilpailu",
+  "autoToText": "Automaattinen tekstiksi",
+  "textFromSelect": "Teksti valinnastasi",
+  "textFromOCR": "Teksti OCR:stä",
+  "textFromTranslate": "Käännöksen teksti",
+  "textFromWrite": "Teksti kirjoituksesta",
+  "textFromSearch": "Teksti hakurobotilta",
+  "textFromGrammar": "Teksti kieliopista",
+  "quoteText": "Lainaa tekstiä",
+  "summarizing": "Yhteenveto",
+  "summarizeFailed": "Yhteenvedon luominen epäonnistui",
+  "answering": "Vastaaminen",
+  "productivity": "Tuottavuus",
+  "generating": "Luodaan",
+  "modelUpdateSuccess": "Mallin päivitys onnistui",
+  "modelUpdateFailed": "Mallin päivitys epäonnistui",
+  "customPrompt": "Mukautettu kehote",
+  "currentTpl": "Nykyinen malli:",
+  "current": "Nykyinen",
+  "extra": "ylimääräistä",
+  "generatingTranscript": "Luodaan transkriptiota",
+  "transcriptGenerated": "Transkriptio luotu",
+  "transcriptFailed": "Transkription luonti epäonnistui",
+  "transcriptReady": "Transkriptio valmis",
+  "audioTranscript": "Äänitranskriptio",
+  "audio-to-text": "Ääni tekstiksi",
+  "audio-summarize": "Yhteenveto",
+  "audio-meeting-minutes": "Kokousmuistiot",
+  "publishArtifact": "Julkaise Artefakti",
+  "uploadLocal": "Lataa tietokoneeltasi",
+  "openTabs": "Valitse avoimista välilehdistä",
+  "editTpl": "Muokkaa tätä mallia",
+  "delteTpl": "Poista tämä malli",
+  "restoreTpl": "Palauta tämä malli",
+  "archiveTpl": "Arkistoi tämä malli",
+  "showTpl": "Näytä tämä malli",
+  "prompts": "Kehotteet",
+  "selectPrompt": "Valitse kehotus",
+  "imageRetryTip": "Tapahtui virhe. Yritä uudelleen.",
+  "mentionBot": "Mainitse malli",
+  "mentionGPTs": "Mainitse GPT:t",
+  "promptName": "Kehotusnimi",
+  "promptContent": "Pikasisältö",
+  "PromptManage": "Kehotehallinta",
+  "contactUs": "Ota meihin yhteyttä",
+  "webAssistant": "Verkkoavustaja",
+  "quickAction": "Kontekstivalikko",
+  "promptManage": "Nopea johtaja",
+  "morePrompts": "Lisää kehotteita",
+  "addPrompts": "Lisää kehotus",
+  "issueType": "Ongelman tyyppi",
+  "pinExt": "Pin-laajennus",
+  "yourEmailAddress": "Sähköpostiosoitteesi",
+  "troubleshooting": "Ongelmien karttoittaminen",
+  "openSidebar": "Avaa sivupalkki",
+  "pasteSelection": "Liitä valinta",
+  "pasteTextPage": "Liitä tekstiä sivulta",
+  "getAnotherKey": "Hanki toinen avain",
+  "showSearchPanel": "Näytä hakupaneeli",
+  "getItNow": "Hae se nyt",
+  "addTools": "Lisää työkalut",
+  "toolsTitle": "Työkalut",
+  "notNow": "Ei nyt",
+  "alwaysDisplay": "Aina Näytä",
+  "credit": "Krediitti",
+  "credits": "Krediitit",
+  "unlimitedCredits": "Rajoittamattomat krediitit",
+  "total": "kaikki yhteensä",
+  "getMore": "saada lisää",
+  "goPremium": "Päivitä Premiumiin",
+  "goPremiumGetMore": "päivitä premium-versioon saadaksesi enemmän",
+  "myAccount": "Tilini",
+  "clickToAsk": "Klikkaa kysyäksesi",
+  "searchingFor": "Etsimässä:",
+  "searchedFor": "Etsitty:",
+  "conversationTip": "Tämä keskustelu luotiin {{CHATPROVIDER}}-tilassa. Vaihda tilaa jatkaaksesi tai aloita uusi keskustelu nykyisessä tilassa.",
+  "using": "Käyttämällä",
+  "used": "Käytetty",
+  "switchAndContinue": "Vaihda tilaa",
+  "ExtractText": "Poimi teksti",
+  "extracted": "Ääni purettu",
+  "describleImage": "Kuvaile",
+  "pricePerDay": "Alle {{num}}/päivä",
+  "readingwriting": "Lukeminen & Kirjoittaminen",
+  "reading": "Lukeminen",
+  "writing": "Kirjoittaminen",
+  "compareWith": "Vertaa henkilöön {{NAME}}",
+  "smarterWith": "Saat älykkäämmän vastauksen {{NAME}}:ltä",
+  "summarizePage": "Tee yhteenveto tästä sivusta",
+  "searched3": "Haettu 3 sivustolta",
+  "browseFiles": "Selaa {{NUM}} tiedostoa",
+  "browseFiles1": "Selaa 1 tiedosto",
+  "readPage": "Lue tämä sivu",
+  "moreQueries": "Lisää krediittejä!",
+  "newPlan": "Uusi suunnitelma",
+  "switchToXXX": "Vaihda malliin {{model}}",
+  "switchToSider": "Vaihda sovellusliittymään {{APP_NAME}}",
+  "switch": "Vaihda",
+  "settingApiKey": "API-avaimen asettaminen",
+  "all": "Kaikki",
+  "dropMsg": "Pudota tähän lähettääksesi Sideriin",
+  "success": "Menestys",
+  "usedIn": "Käytetty",
+  "check": "Tarkistaa",
+  "example": "Esimerkki",
+  "toolsUpgradeTitle": "Päivitä ja paranna keskustelukokemustasi!",
+  "ChangeTone": "Vaihda sävyä",
+  "screenshot": "Kuvakaappaus",
+  "takeAScreenshot": "Ota kuvakaappaus",
+  "back": "Takaisin",
+  "image": "Kuva",
+  "uploadImage": "Lataa kuva",
+  "hideImage": "Piilota kuva",
+  "chatWithPDF": "Keskustele PDF-tiedoston kanssa",
+  "recentFiles": "Viimeaikaiset tiedostot",
+  "orTakeAction": "Tai tee muita toimia:",
+  "NoFiles": "Tässä keskustelussa ei ole uusimpia tiedostoja",
+  "showImage": "Näytä kuva",
+  "fullscreen": "Koko näyttö",
+  "moreQuery": "Lisää krediittejä",
+  "moreFeature": "Lisää ominaisuuksia!",
+  "switchToSidepanel": "Vaihda sivupalkkiin",
+  "deepReadTools": "Syvälukemisen työkalut",
+  "OR": "TAI",
+  "enable": "Ota käyttöön",
+  "refresh": "virkistää",
+  "painterOnBoardingTip": "Napsauta tästä tekoälyn kuvan luomiseen ja muokkaamiseen",
+  "pdfOnBoardingTip": "Napsauta tästä ChatPDF:ään",
+  "refreshModel": "Päivitä mallit",
+  "refreshing": "Päivitetään",
+  "collapseNav": "Kokoa navigointipalkki",
+  "expand": "Laajenna",
+  "expandNav": "Laajenna navigointipalkki",
+  "phoneNumber": "Puhelinnumero",
+  "recognizing": "Tunnustaminen",
+  "useFreeVoice": "Käytä ilmaista ääntä",
+  "reselect": "Valitse uudelleen",
+  "earnFree": "Ansaitse ilmaisia krediittejä",
+  "appearance": "Ulkoasu",
+  "result": "Tulos",
+  "sidepanelTip": "Sivupaneelin kärki",
+  "continue": "Jatkaa",
+  "confirm": "Vahvistaa",
+  "describeImage": "Kuvaile tätä kuvaa",
+  "inviteFriendTip": "<a>Kutsu ystäviä</a> saadaksesi lisäkrediittejä",
+  "resetTime": "Palauta <a>3. elokuuta 2023</a>",
+  "imageQuoteTipTitle": "Kysy kuvasta uudestaan? Sinun täytyy lainata kuvaa",
+  "imageQuoteTipContent": "Jos haluat kysyä kuvasta uudelleen, lainaa sitä.",
+  "ocrEmptyMsg": "Valitettavasti en löydä tekstiä tästä kuvasta.",
+  "imageInputHint": "Esitä kysymyksiä tästä kuvasta",
+  "selectedTextInputHint": "Esitä kysymyksiä valitusta tekstistä",
+  "fileInputHint": "Esitä kysymyksiä tästä tiedostosta",
+  "inviteYourFriends": "Kutsua ystäviä",
+  "xmasSale": "Joulun myynti",
+  "bigSale": "Alennusmyynti",
+  "bigSaleRest": "Alennusmyynti",
+  "videoTutorial": "Näytä tiedot",
+  "edgePasteBug": "Liittäminen pikanäppäimillä ei onnistu Edge-selainvirheen vuoksi. Napsauta hiiren kakkospainikkeella liittääksesi.",
+  "enable&continue": "Ota käyttöön ja jatka",
+  "readAloud": "Lue ääneen",
+  "seeMoreHelp": "Katso lisää <a>Ohjekeskuksessa</a>",
+  "translateInto": "Käännä kielelle: {{lang}}",
+  "imageTranslateInto": "Käännä kuvan teksti kielelle {{lang}}",
+  "translateBackInto": "Käännä takaisin kielelle: {{lang}}",
+  "explainSection": "Voitko selittää tämän osion tarkemmin?",
+  "betterAnswer": "Saat parempia tuloksia käyttämällä {{MODEL_NAME}}",
+  "genBy": "Luotu käyttäen {{MODEL_NAME}}",
+  "explain": "Selitä",
+  "building": "Rakennetaan...",
+  "keyboardShortcuts": "Pikanäppäimet",
+  "console": "Konsoli",
+  "enterText": "Syötä teksti",
+  "publish": "Julkaise",
+  "publishing": "Julkaiseminen",
+  "published": "Julkaistu",
+  "artifactPublished": "Artefakti Julkaistu",
+  "artifactPublishTip1": "Kun julkaiset tämän artefaktin, luomme julkisen URL-osoitteen, jotta kuka tahansa voi käyttää sitä. Keskustelusi pysyy yksityisenä, ja voit lopettaa jakamisen milloin tahansa.",
+  "artifactPublishTip2": "Tämä artefakti on julkisesti saatavilla. Kuka tahansa voi käyttää sitä jaetun linkin kautta.",
+  "artifactUnpublishedTip": "Kun lopetat julkaisun, muut eivät enää pääse artefaktiin jaetun linkin kautta.",
+  "artifactNarrow": "Palauta oletusleveys",
+  "artifactWide": "Laajenna täyteen leveyteen",
+  "artifactRemixContent": "Tutkitaan joitakin tämän {{ARTIFACT}} variaatioita. Voitko ehdottaa 3 tapaa muokata sitä ja odottaa vastaustani?",
+  "faceError": "Törmäsin tähän virheeseen uusimmassa {{ARTIFACT}}, korjaa se.",
+  "artifactError": {
+    "title": "Voit kokeilla seuraavia vaihtoehtoja:",
+    "solution1": "<a>Päivitä esikatselu</a>",
+    "solution2": "Lähetä virheilmoitus keskustelussa saadaksesi apua. <a>Lähetä virheilmoitus</a>"
+  },
+  "artifactsBetaTip": "Nauti Artifacts (Pro) ilmaiseksi betan aikana—älä jää paitsi!",
+  "tryArtifact": "Kokeile {{ARTIFACTS}}",
+  "tryNow": "Kokeile esimerkkejä",
+  "errorOccurred": "Tapahtui virhe",
+  "artifactDemos": [
+    {
+      "title": "Luo virtuaalinen ksylofoni",
+      "value": "Luo HTML-pohjainen ksylofoni värikkäillä koskettimilla {{ARTIFACT}}-sisällön sisään. Tarjoa visuaalista palautetta lyödyistä koskettimista ja tuota yksinkertaisia, realistisia ääniä Web Audio API:n avulla taajuusparametrien perusteella. Sisällytä perusohjeet."
+    },
+    {
+      "title": "Luo ruokaa syövä emoji-peli",
+      "value": "Luo yksinkertainen HTML-pohjainen peli, joka on samanlainen kuin Catch the Candy, {{ARTIFACT}}-sisällön sisään. Pelaaja ohjaa näytön alareunassa olevaa emojia, liikuttaen sitä nopeasti vasemmalle ja oikealle saadakseen kiinni ja syödäkseen ylhäältä putoavia ruokaesineitä (esim. 🍓, 🍔, 🍎) samalla välttäen pommeja (💣). Joka kerta, kun pelaaja saa kiinni ruokaemojin, hänen emojinsa muuttuu liioitellummaksi positiiviseksi ilmeeksi (esim. 🤩, 😆, 😋) osoittaakseen onnistumista. Jos pelaaja vahingossa saa kiinni pommin, emoji näyttää ensin räjähdyksen (💥) ja muuttuu sitten pyörryttäväksi ilmeeksi (😵‍💫)."
+    },
+    {
+      "title": "Luo älypuhelinten toimituskaavio",
+      "value": "Käytä Reactia luodaksesi kauniin viivakaavion {{ARTIFACT}}-sisällön sisään seuraavan taulukon perusteella.\n------\n\nÄlypuhelinten toimitukset suurimmilta brändeiltä viimeisen vuosikymmenen aikana (miljardeina)\n\n| Vuosi | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60 | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "Esikatselu",
+  "dataAnalysisTip": "Tämä työkalu aktivoituu vain käytettäessä, vähentäen 1 Advanced Creditin.",
+  "code": "Koodi",
+  "code&preview": "Koodi ja esikatselu",
+  "tryItNow": "Kokeile nyt",
+  "letsTryItNow": "Kokeillaan nyt!",
+  "tryArtifactNow": "Kokeile {{ARTIFACTS}} nyt",
+  "roast": {
+    "analyzing": "Analysoidaan...",
+    "roastX1": "🔥 Joku juuri kiusoitteli sinua, katso",
+    "roastX2": "Paista tämä tyyppi!",
+    "roast": "😜 Paistaa",
+    "boast": "🥰 Kehua"
+  },
+  "historyGroups": {
+    "today": "Tänään",
+    "thisWeek": "Tällä viikolla",
+    "thisMonth": "Tässä kuussa",
+    "earlier": "Aiemmin"
+  },
+  "quotaInfo": {
+    "mobilePlan": "Mobiilisuunnitelma",
+    "resetsDaily": "Nollautuu päivittäin",
+    "resetDate": "Nollauspäivä",
+    "tryForFree": "Kokeile ilmaiseksi",
+    "unlockFeats": "Avaa kaikki premium-ominaisuudet",
+    "unlockToUse": "Avaa rajoittamaton käyttö",
+    "unlockAllFeats": "Avaa kaikki ominaisuudet",
+    "unlockAllFeatsDesc": "Olet saavuttanut premium-ominaisuuksien kokeilurajan. Päivitä avataksesi kaikki ominaisuudet.",
+    "unlockAllFeats2": "Avaa täysi käyttöoikeus",
+    "unlockAllFeatsDesc2": "Saat rajattomasti keskusteluja, verkkokäyttöä, data-analyysiä, kuvien luontia, YouTube-yhteenvetoja, tiedosto/linkkikeskusteluja, tekstin poimintaa ja paljon muuta",
+    "enjoyUnlimitedCredits": "Nauti rajoittamattomista krediiteistä",
+    "enjoyUnlimitedCreditsDesc": "Hyödynnä GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro ja paljon muuta.",
+    "webAccess": "Verkkokäyttö",
+    "chatActionTranslate": "Käännä kielelle {{lang}}",
+    "dataAnalysis": "Edistynyt data-analyysi",
+    "shortVideo": "AI Video Lyhentäjä",
+    "chatPDF": "PDF/Linkki Chat",
+    "chatFileLink": "Tiedosto/Linkkikeskustelu",
+    "youtubeSummary": "YouTube-yhteenveto",
+    "readAloud": "AI ääneenluku",
+    "tryReadAloudForFree": "Kokeile Lue ääneen -toimintoa ilmaiseksi",
+    "extractText": "AI Tekstin poiminta",
+    "upgradeFor": "Päivitä vain {{price}}/kk",
+    "off": "{{num}} alennus",
+    "allPlans": "Näytä kaikki suunnitelmat",
+    "usedCredits": "{{count}} krediittiä käytetty",
+    "usedCredits_one": "{{count}} krediitti käytetty",
+    "usedCredits_other": "{{count}} krediittiä käytetty",
+    "premiumTrial": "Kokeile premium-ominaisuuksia ilmaiseksi",
+    "premiumTrialTip": "Kokeilu antaa sinulle rajoitetun pääsyn premium-ominaisuuksiin, jotka ovat vain maksullisten jäsenten käytettävissä. Huomaa, että jokainen käyttö maksaa silti krediittejä.",
+    "creditRuleTitle": "Krediittien vähennyssäännöt",
+    "creditRuleTip": "Vähennämme krediittejä mallin, ominaisuuksien ja käyttämäsi kontekstin pituuden perusteella. Täydelliset tiedot löydät <a>Ohjekeskuksesta</a>.",
+    "extraCreditTip": "Nämä ovat ylimääräisiä krediittejä kertakäyttöön.",
+    "dailyCreditTip": "Nollaus sääntö koskee vain suunnitelmakrediittejä, ei ylimääräisiä krediittejä.",
+    "inviteFriends": "<a>Kutsu ystäviä</a> saadaksesi lisää krediittejä",
+    "vipInviteFriends": "Nautitko {{APP_NAME}}? <a>Kutsu ystäväsi!</a>",
+    "pocketPlanTips": "Pocket-krediittejä voi käyttää vain mobiilissa. Nauti ilmaisista työpöytäkrediiteistä.",
+    "pocketUpgrade": "Päivitä avataksesi lisää"
+  },
+  "prompt": "Kehote",
+  "addPrompt": "Lisää kehote",
+  "allSettings": "Kaikki asetukset",
+  "getAIAnswer": "Hanki AI-vastaus",
+  "login": {
+    "google": "Jatka Googlella",
+    "apple": "Jatka Applen kanssa",
+    "microsoft": "Jatka Microsoftin kanssa",
+    "phone": "Jatka puhelimen kanssa"
+  },
+  "loginTip": "Eikö sinulla ole tiliä? <a>Luo tili</a>",
+  "signupTip": "Onko sinulla jo tili? <a>Kirjaudu sisään</a>",
+  "guideVideoTitle": {
+    "chat": "Keskustele",
+    "translation": "Käännä",
+    "summary": "Tiivistä",
+    "chatpdf": "ChatPDF",
+    "write": "Kirjoita",
+    "painter": "Maalari",
+    "ocr": "OCR",
+    "grammar": "Kielioppi",
+    "email": "Sähköpostivastaus"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Monibotti-keskustelu",
+      "web-access": "Verkkopääsy",
+      "data-analysis": "Edistynyt datan analyysi",
+      "painter": "Kuvien generointi",
+      "prompts": "Mukautetut kehotteet"
+    },
+    "translation": {
+      "widget": "Valittu teksti sivupalkin kautta",
+      "selected": "Valittu teksti kontekstivalikosta",
+      "input": "Sivulla kirjoitettu teksti",
+      "page": "Koko verkkosivu",
+      "in-chat": "Valittu teksti keskustelussa",
+      "in-chat2": "Keskustelussa kirjoitettu teksti"
+    },
+    "summary": {
+      "youtube": "YouTube-videot",
+      "doc": "Ladatut dokumentit",
+      "page": "Verkkosivu pikavalikon kautta",
+      "page2": "Verkkosivu keskustelun kautta"
+    },
+    "chatpdf": {
+      "chatpdf": "Keskustele PDF:n kanssa"
+    },
+    "write": {
+      "widget": "Luo pyynnöstä",
+      "context": "Paranna valittua tekstiä",
+      "input": "Muokkaa syötteitä"
+    },
+    "painter": {
+      "image": "Generoi kuvia",
+      "bg-remove": "Poista tausta",
+      "bg-replace": "Korvaa tausta",
+      "upscale": "Paranna kuvien laatua",
+      "eraser": "Poista siveltimellä tehty alue",
+      "text-remove": "Poista teksti"
+    },
+    "ocr": {
+      "ocr": "Poimi teksti ja yhtälöt"
+    },
+    "grammar": {
+      "widget": "Kieliopin tarkistus sivupalkin kautta",
+      "context": "Kieliopin tarkistus kontekstivalikosta"
+    },
+    "email": {
+      "reply": "Generoi sähköpostivastauksia"
+    }
+  },
+  "llmStatus": {
+    "thinking": "Ajatellaan..."
+  },
+  "popupPage": {
+    "thank": "Kiitos, että käytit laajennusta {{APP_NAME}}!",
+    "desc": "Nykyinen sivu on ainutlaatuinen sivu, eikä sivupalkkitoiminto ole käytettävissä. Voit kuitenkin avata koko sivun keskustellaksesi!",
+    "chatNow": "Keskustele nyt"
+  },
+  "setupPage": {
+    "loginSuccess": "Kirjautuminen onnistui",
+    "welcome": "Tervetuloa sovellukseen {{APP_NAME}}!",
+    "startUsing": "Aloita käyttämään {{APP_NAME}}",
+    "explore": "Tutustu {{FEATURE_NAME}}-ominaisuuteen",
+    "favorites": "Chromen suosituin laajennus",
+    "fiveStarRate": "5 tähden arvostelut",
+    "activeUser": "Aktiiviset käyttäjät",
+    "userCount": "4M+",
+    "spamMsg": "Tietosi eivät vuoda ja roskapostia ei tule.",
+    "privacy": "Jatkamalla hyväksyt <a>Tietosuojakäytännön</a> & <b>Käyttöehdot</b>.",
+    "privacyPart1": "Jatkamalla hyväksyt",
+    "privacyPart2": "<a>Tietosuojakäytännön</a> & <b>Käyttöehdot</b>",
+    "loginWith": "Kirjaudu sisään tilillä {{name}}",
+    "pinTips": "<b>Kiinnitä {{APP_NAME}}</b>, helpompi käyttää!",
+    "pinClickTip": "Kiinnitä {{icon}} napsauttamalla {{APP_NAME}}",
+    "pinClickTip2": "Kiinnitä {{APP_NAME}} nopeaa käyttöä varten",
+    "pinClickTip3": "Napsauta {{icon}}-kuvaketta oikeassa yläkulmassa",
+    "next": "Seuraava",
+    "tryOut": "kokeile sitä",
+    "endTitle": "{{APP_NAME}} on valmiina auttamaan sinua!",
+    "endTip": "Voit nyt selata mitä tahansa verkkosivua tai sukeltaa Apukeskukseemme oppiaksesi lisää.",
+    "learnMore": "Lue lisää {{APP_NAME}}:sta",
+    "endBottom": "Tarvitsetko apua tai onko sinulla ehdotuksia?",
+    "endBottom2": "Arvostamme palautettasi! <a>Anna palautetta</a> auttaaksesi meitä parantamaan kokemustasi."
+  },
+  "getKeyPage": {
+    "welcome": "Tervetuloa sovellukseen {{APP_NAME}}! Tässä on matkasi alkuun:",
+    "stepTitle": "Kuinka saada API-avain.",
+    "step1": "Vaihe 1: Hanki API-avain",
+    "step1-1": "<i>Kirjaudu sisään OpenAI-tilillesi</i> Jos sinulla ei ole tiliä, rekisteröidy <b>TÄSTÄ</b>",
+    "step1-2": "Vieraile OpenAI API Key -sivulla",
+    "step1-3": "Luo uusi salainen avain ja kopioi se seuraavasti",
+    "step2": "Vaihe 2: Liitä API-avain alla olevaan kenttään",
+    "step2-tips": "Älä huoli. API-avainta käytetään vain paikallisesti ChatGPT-laajennuksessa. API:n käyttö on vakaampaa kuin suoraan ChatGPT:n käyttäminen.",
+    "step3": "Vaihe 3: Tarkista luottotietosi <i>täältä</i>"
+  },
+  "optionPage": {
+    "openNewChat": "Aloita uusi keskustelu",
+    "howToAccess": "Kuinka käyttää ChatGPT:tä ja käyttää sitä missä tahansa",
+    "howToAccessTip": "Varmistaaksemme, että tekoäly on kaikkien saatavilla, tarjoamme kolme tapaa käyttää ChatGPT:tä ja käyttää sitä missä tahansa.",
+    "recommended": "Suositeltu",
+    "loginFirst": "Kirjaudu ensin sisään.",
+    "loginFirstTip": "Kirjaudu sisään aloittaaksesi Siderin käytön ja saadaksesi ilmaisia krediittejä joka päivä.",
+    "displayMode": "Näyttötila",
+    "displayLanguage": "Näyttökieli",
+    "fontSizeTitle": "Viestin fonttikoko",
+    "fontSizeTip": "Vain viestitekstille",
+    "fontSizeOptions": {
+      "regular": "Normaali",
+      "large": "Suuri"
+    },
+    "fontSizeAutoTip": "Säädä automaattisesti sivupalkin leveyden mukaan",
+    "sidepanelPosition": "Sivupaneelin sijainti",
+    "sidepanelPositionTip": "Chrome 114 tai uudempi: voidaan muuttaa vain selaimen asetuksista",
+    "providerPartTitle": "AI-yhteys",
+    "serviceProvider": "Palveluntarjoaja",
+    "providerSiderTip": "{{APP_NAME}} tarjoaa saumattoman, nopean ja vakaan pääsyn huippu-AI-malleihin, kuten OpenAI o1, Claude 3.5, Gemini, Llama ja muihin—kaikki virallisten API:en kautta yhdellä alustalla.",
+    "providerWebappTip": "Kokemus voi vaihdella vierailijoiden ja sisäänkirjautuneiden käyttäjien välillä OpenAI:n rajoitusten vuoksi.",
+    "providerSiderDesc": "Toimii johtavien mallien virallisilla API:illa, nopea ja luotettava",
+    "providerAPIKeyDesc": "Ihanteellinen niille, joilla on API-avain: vakaa, käyttöön perustuva hinnoittelu",
+    "providerWebappDesc": "Voi olla epävakaa OpenAI:n politiikan muutosten vuoksi",
+    "importantReminders": "Tärkeitä muistutuksia",
+    "webappReminder1": "Pysy kirjautuneena tilillesi.",
+    "webappReminder2": "Tämä palvelu voi olla epävakaa OpenAI:n politiikan muutosten vuoksi. Nopean ja vakaan suorituskyvyn takaamiseksi suosittelemme käyttämään {{APP_NAME}}.",
+    "defaultVoice": "Oletusääni",
+    "defaultSpeed": "Oletusnopeus",
+    "whenSidebarReopens": "Kun sivupalkki avataan uudelleen",
+    "scrollingBehavior": "Vierityskäyttäytyminen pitkille vastauksille",
+    "autoQuoteSelectedText": "Lisää automaattisesti lainaus valitusta tekstistä syöttökenttään",
+    "autoQuoteSelectedTextTip": "Kun päällä, valittu teksti ilmestyy automaattisesti syöttökenttään nopeita toimintoja varten",
+    "siderIcon": "{{APP_NAME}}-kuvake",
+    "siderIconDisplay": "Näytä aina {{APP_NAME}}-kuvake sivulla",
+    "siderIconDisplayTip": "Kun päällä, {{APP_NAME}}-kuvake ilmestyy oikeaan alakulmaan ja sitä voi vetää",
+    "webAsstSearchTitle": "Hakua varten",
+    "webAsstYoutubeTitle": "YouTubea varten",
+    "webAsstImageTitle": "Kuvia varten",
+    "webAsstEmailTitle": "Sähköpostia varten",
+    "webAsstCodeTitle": "Koodia varten",
+    "webAsstQATitle": "Kysymys & vastaus -sivustoja varten",
+    "webAsstLinkPreviewTitle": "Linkkien esikatseluille",
+    "webAsstAISitesTitle": "Vertaa malleja ChatGPT:ssä",
+    "webAsstSearchDesc": "Näytä tekoälyn vastaus hakutulosten rinnalla",
+    "webAsstVideoSummaryDesc": "Näytä yhteenvetopaneeli YouTubessa",
+    "webAsstVideoBilingualDesc": "Näytä kaksikielinen ohjaus YouTubessa",
+    "webAsstImageDesc": "Näytä tekoälytyökalut kuvan päällä",
+    "webAsstEmailDesc": "Näytä tekoälyvastauspainike Gmailissa",
+    "webAsstCodeDesc": "Näytä Selitä koodi -painike koodilohkossa",
+    "webAsstQADesc": "Näytä Vastaus-painike Kysymykset & Vastaukset -sivustoilla",
+    "webAsstAISitesDesc": "Näytä \"Vertaile\"-painike sivustolla {{url}}",
+    "webAsstInputBoxTitle": "Syöttökenttä",
+    "webAsstInputBoxDesc": "Näytä pistekuvake syöttökentässä kirjoittamisen parantamiseksi",
+    "webAsstLinkPreviewDesc": "Näytä linkin esikatseluikkuna, kun vedät linkkiä.",
+    "webAsstLinkpreviewExampleLink": "Tämä on suojattu linkki, yritä vetää sitä nähdäksesi esikatseluikkunan",
+    "sendMessage": "Lähetä viesti",
+    "translatePage": "Käännä sivu",
+    "activateContextMenu": "Avaa nopea kysymys",
+    "invalidShortcutTip": "Sisällytä {{key1}}, {{key2}} tai {{key3}}",
+    "shortcutInUseTip": "Jo käytössä, kokeile toista",
+    "disabledSites": "Poistettu käytöstä sivustoilla",
+    "addASite": "Lisää sivusto",
+    "noSiteAdded": "Ei lisättyjä sivustoja",
+    "wrongSiteTip": "Virheellinen URL-osoite: Tarkista URL-osoite ja yritä uudelleen.",
+    "restoreDefault": "Palauta oletusasetukset",
+    "recommend4all": "(Suositellaan kaikille)",
+    "sidebarProvider": "Sivupalkki käyttää ChatGPT Premium -sovellusliittymää vakaan käytön varmistamiseksi.",
+    "sidebarProviderGoPremium": "Tarjoamme {{num}} ilmaista päivittäistä krediittiä taataksemme AI:n saavutettavuuden kaikille. <a>Päivitä premiumiin</a> nostaaksesi päivittäistä krediittirajaasi ja tukeaksesi missiotamme <b>tarjota universaali AI kaikille</b>.",
+    "webappGPT4": "(ChatGPT Plus -käyttäjät voivat kokeilla sitä)",
+    "webappTip1": "Jos olet ChatGPT Plus -käyttäjä, sinulla on nyt mahdollisuus valita GPT-4. OpenAI voi kuitenkin rajoittaa päivässä lähetettävien viestien määrää.",
+    "webappTip2": "<m>Kiinnitä ChatGPT-välilehti</m> ja pysy kirjautuneena ChatGPT-verkkosivustolle. Tämä ei kuitenkaan välttämättä takaa vakautta. Jos kohtaat ongelmia, käy <v>ChatGPT-sivustossa </v> ja päivitä sivu.",
+    "GPT4Desc": "Sinun on pysyttävä kirjautuneena ChatGPT-tilillesi verkkosivustolla. Vakavuus voi olla epäjohdonmukaista sekä Plus-käyttäjille että ilmaiskäyttäjille OpenAI:n rajoituksen vuoksi.",
+    "apiKeyProviderTip": "(Kehittäjille, joilla on API-avain)",
+    "apiKeyProvider": "Virallinen OpenAI API on vakaampi ja maksut perustuvat käyttöön.",
+    "apiKeyLocally": "API-avaimesi tallennetaan paikallisesti selaimeesi eikä sitä koskaan lähetetä muualle.",
+    "ownURL": "Käytä omaa URL-osoitettani",
+    "customModelName": "Käytä mukautettua mallinimeä",
+    "apiKeyTip1": "Ilmainen OpenAI API -avaimesi on saattanut vanhentua. <a>Tarkista API-avaimen vanhenemistila täältä.</a>",
+    "apiKeyTip2": "Jos käytät ilmaista OpenAI API-avainta, ChatGPT:n käyttöoikeus ei välttämättä ole vakaa, kun sille on suuri kysyntä.",
+    "apiFreeGuide": "Noudata ohjeita saadaksesi API-avain.",
+    "apiKeyGpt4Tip": "Laajennus tukee GPT-4:ää, jos syötät GPT-4 API-avaimen.",
+    "displaySearchRes": "Näytä ChatGPT-vastaus hakutulossivujen vieressä",
+    "whenToAsk": "Milloin kysyä ChatGPT:ltä",
+    "promptTplForSearch": "Kehotusmalli Googlelle ja muille hakukoneille",
+    "addNewTplForSearch": "Lisää uusi kehotemalli",
+    "launchSidebar": "Avaa sivupalkki",
+    "sidebarLocation": "Sivupalkin sijainti",
+    "showSelectedTextTitle": "Näytä valittu teksti automaattisesti syöttökentässä",
+    "showSelectedTextDesc": "Näytä automaattisesti valittu teksti lainauksena syöttökentässä nopeita toimintoja ja kehotteita varten",
+    "sendingMsgBehavior": "Käyttäytyminen viestin lähettämisen jälkeen chatissa",
+    "showSelectedTextTip": "Jos et halua, että valittu teksti näytetään automaattisesti tulevaisuudessa, voit kytkeä sen pois päältä <a>sivupalkin asetuksissa</a>.",
+    "sidepanelLocation": "Sivupalkin sijainti",
+    "sidebarLeftOrRight": "Aseta sivupalkki vasemmalle tai oikealle puolelle",
+    "linkToSetting": "Vaihda sivupalkin sijainti selaimen asetuksissa",
+    "sidepanelLeftOrRight": "Aseta sivupaneeli vasemmalle tai oikealle puolelle. Sivupaneeli on saatavilla vain Google Chrome -versiosta 114 tai uudempi.",
+    "sidebarDisplayOption": "Sivupalkin näyttötila",
+    "sidebarDisplayOptionTip": "Valitse, miten sivupalkki näkyy sivulla",
+    "sidebarDisplayOptions": {
+      "overlay": "Peittokuva",
+      "expand": "Laajenee"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "Vieritä automaattisesti vastauksen loppuun",
+      "messageTop": "Keskeytä vieritys, kun vastaus saavuttaa yläosan"
+    },
+    "sidebarOnStartup": "Kun avataan sivupalkki",
+    "sidebarOnStartupTip": "Määritä chat-käyttöliittymän näyttötila, kun avaat sivupalkin",
+    "sidebarOnStartupOptions": {
+      "new": "Aloita aina uusi keskustelu",
+      "last": "Jatka aina edellistä keskustelua",
+      "auto": "Automaattinen jatkaminen tai uudelleenkäynnistys"
+    },
+    "sidebarOnStartupAutoTip": "Jos avataan uudelleen 10 minuutin sisällä, keskustelu jatkuu; jos yli 10 minuutin jälkeen, uusi keskustelu alkaa",
+    "sidebarIcon": "Sivupalkin kuvake",
+    "sidebarIconAccess": "Siirry sivupalkkiin sivun oikeassa alakulmassa olevan kuvakkeen kautta. Voit siirtää sitä ylös ja alas vetämällä",
+    "easiestWayUse": "Helpoin tapa käyttää {{APP_NAME}}",
+    "displayWhenSelect": "Näyttö, kun teksti on valittuna",
+    "addNewTplForSidebar": "Lisää uusi kehotemalli",
+    "editSearchTplTip": "käytä {{keywords}} hakusanojen viittaamiseen",
+    "editSearchTplPlaceholder": "{{keywords}} kehotteen sisällössä korvataan automaattisesti hakusanoillasi",
+    "editSidebarTplTip": "Liitä tai syötä sisältö tähän",
+    "quickAction": {
+      "mainSwitchTitle": "Näytä {{name}}",
+      "mainSwitchDesc": "Kun päällä, valikko pikanäppäimillä ilmestyy tekstin valinnan yhteydessä",
+      "displayOnSelect": "kun teksti on valittu",
+      "displayOnShortcut": "kun teksti on valittu ja {{key}} on painettu",
+      "displayOnSelectGuide": "Haluatko selkeämmän näkymän? Aktivoi pikavalikko valitsemallasi pikanäppäimellä <a>asetuksissa</a>.",
+      "closeTips": "Pikatoiminnot valitulle tekstille. Klikkaa {{icon}} poistaaksesi käytöstä, jos ei tarvita.",
+      "customPromptMenu": "Hallitse kehotteita {{name}}:lle",
+      "useageScene": "Käyttötilanne",
+      "useageSceneRW": "Näytä {{name}}, kun valitset tekstiä missä tahansa",
+      "useageSceneR": "Näytä {{name}} valittaessa tekstiä verkkosivulla",
+      "useageSceneW": "Näytä {{name}} valittaessa tekstiä syöttökentässä"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "YouTube-avustaja",
+        "SummaryDesc": "<b>Videon tiivistelmä</b>: Kun tämä on käytössä, {{APP_NAME}} voi auttaa sinua tiivistämään YouTube-videoita",
+        "BilingualDesc": "<b>Kaksikieliset tekstitykset</b>: Kun tämä on käytössä, {{APP_NAME}} näyttää automaattisesti tekstitykset YouTube-videoita katsellessa"
+      },
+      "qa": {
+        "title": "Q&A Assistant",
+        "desc": "Kun {{APP_NAME}} on käytössä, se voi vastata kysymykseen Quorassa, StackOverflowssa ja muilla laadunvarmistussivustoilla"
+      },
+      "code": {
+        "title": "Koodiavustaja",
+        "desc": "Kun se on päällä, {{APP_NAME}} voi auttaa sinua selittämään koodia verkkosivulla"
+      },
+      "image": {
+        "title": "Kuvan Assistentti",
+        "desc": "Kun tämä on käytössä, voit nopeasti päästä käsiksi tekoälykuvatyökaluihin viemällä osoittimen minkä tahansa kuvan päälle"
+      },
+      "linkPreview": {
+        "autoSummarize": "Automaattinen yhteenveto",
+        "collapse": "Supista",
+        "guideTipDesc": "Vedä linkki esikatsellaksesi sitä poistumatta. Poista käytöstä <link>asetuksissa</link>, jos ei tarvita.",
+        "guideTipTitle": "Esikatsele linkkejä tehokkaasti",
+        "openInNewTab": "Avaa uudessa välilehdessä",
+        "pageLoadFailed": "Sivun lataus epäonnistui",
+        "summarizeNotSupported": "Tämä sivu ei tue yhteenvedon tekemistä.",
+        "viewSummary": "Näytä yhteenveto"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Uusi kehote",
+      "editPrompt": "Muokkaa kehotetta",
+      "checkPrompt": "Tarkista kehote",
+      "showInList": "Näytä luettelossa",
+      "hideFromList": "Piilota luettelosta",
+      "noPrompts": "Ei kehotteita täällä",
+      "promptTabChatDesc": "Kehotteet kohdassa 'Näytä luettelossa' näkyvät {{name}}-ominaisuudessa.",
+      "promptTabReadDesc": "Kehotteet kohdassa 'Näytä luettelossa' näkyvät {{name}}-sivutekstissä.",
+      "promptTabWriteDesc": "Kehotteet kohdassa 'Näytä luettelossa' näkyvät {{name}}-syöttökentissä.",
+      "deletePromptWarn": "Poistetaanko tämä kehotus?",
+      "howToWritePrompt": "Kuinka kirjoittaa kehote",
+      "howToVarTitle": "Mitä muuttujia kehotteeseen voidaan sisällyttää?",
+      "howToVar1": "Voit käyttää tätä muuttujaa syötteen tai valitun sisällön edustamiseen. Jos kehote ei sisällä tätä muuttujaa, syöte tai valittu sisältö suljetaan kolminkertaisilla lainausmerkeillä ja sijoitetaan aivan kehotteen loppuun.",
+      "howToVar2": "Voit käyttää tätä muuttujaa edustamaan kieltä, jota haluat käyttää tulostukseen asetuksissa määritetyn oletuskielen perusteella.",
+      "howToExample": "Käytä seuraavia aiheita tai avainsanoja luodaksesi hahmotelman, joka sisältää otsikot, luvut ja alakohdat.\nTulosta se Markdown-muodossa. Anna minulle vain tulos, ei mitään muuta. Jäsennyksen tulee olla {{lang}} kielellä.\nAiheet tai avainsanat: {{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Ongelmaraportti",
+        "title": {
+          "label": "Ongelman yhteenveto",
+          "tip": "Kerro meille muutamalla sanalla, mikä meni pieleen."
+        },
+        "detail": {
+          "label": "Ongelman yksityiskohdat",
+          "tip": "Kuvaile yksityiskohtaisesti, mikä meni pieleen, mitä toimenpiteitä olet tehnyt, ja saamasi virheilmoitukset."
+        }
+      },
+      "fr": {
+        "name": "Ominaisuuspyyntö",
+        "title": {
+          "label": "Otsikko",
+          "tip": "Mitä pyyntösi koskee?"
+        },
+        "detail": {
+          "label": "Kuvaus",
+          "tip": "Anna yksityiskohtainen kuvaus haluamastasi uudesta ominaisuudesta."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "Tallenna uutena kehotteena",
+    "replacePrompt": "Vaihda kehote",
+    "inputPlaceholder1": "Syötä kehote tai valitse valikosta",
+    "inputPlaceholder2": "Liitä tai syötä sisältö tähän",
+    "startNewLine": "Aloita uusi rivi painamalla {{shortcut}}",
+    "inputPlaceholderCodes": "Liitä tai syötä koodit tähän",
+    "inputPlaceholderQA": "Liitä tai syötä kysymys tähän",
+    "pressToSubmit": "Lähetä painamalla {{key}}",
+    "stopGenerating": "Lopeta tuottaminen",
+    "regenerate": "Luo vastaus uudelleen",
+    "askTabLabel": "Kysyä",
+    "chatTabLabel": "Chat",
+    "moreTabLabel": "Lisää",
+    "composeTabLabel": "Kirjoittaa",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "Kääntää",
+    "grammarTabLabel": "Kielioppi",
+    "searchTabLabel": "Haku",
+    "toolsTabLabel": "Työkalut",
+    "freePlan": "Ilmainen suunnitelma",
+    "premiumPlan": "Premium-suunnitelma",
+    "extraQuota": "Ylimääräinen kiintiö",
+    "submitOption": "Lähetä vaihtoehto",
+    "painterLabel": "Taidemaalari",
+    "downloadLabel": "Lataa työpöytä-/mobiilisovellus",
+    "deleteAllConfirmTitle": "Poista kaikki"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}} valitsee dynaamisesti GPT-4o mini, Claude 3 Haiku, Gemini 1.5 Flash tai Llama 3 parhaan vastauksen saamiseksi tilanteen mukaan.",
+    "gpt-3.5": "Erittäin nopea, sopii useimpiin päivittäisiin tehtäviin.",
+    "gpt-4": "Toimivin malli, sopii parhaiten monimutkaisiin tehtäviin, jotka vaativat edistynyttä päättelyä.",
+    "gpt-4o": "OpenAI:n paras malli, paras monimutkaisiin tehtäviin säilyttäen laadun.",
+    "gpt-4o-mini": "OpenAI:n uusin malli, tarjoaa nopean ja erinomaisen suorituskyvyn chatissa, koodauksessa ja päättelytehtävissä päivittäiseen käyttöön.",
+    "gpt-5": "OpenAI:n uusin malli, paras monimutkaisiin tehtäviin säilyttäen laadun.",
+    "claude-instant": "Anthropicin perusmalli, matala latenssi, korkea suoritusteho käyttötapaukset.",
+    "claude2": "Anthropicin luokkansa paras tarjousmalli, erinomainen suorituskyky monimutkaista päättelyä vaativissa tehtävissä.",
+    "claude-3-haiku": "Anthropicin kompaktein malli, suunniteltu lähes välittömään reagointiin ja saumattomiin tekoälykokemuksiin, jotka matkivat ihmisen vuorovaikutusta",
+    "claude-3-sonnet": "Anthropicin tasapainoisin malli älykkyyden ja nopeuden välillä, ihanteellinen laajalle valikoimalle tehtäviä.",
+    "claude-3.5-sonnet": "Anthropicin uusin malli, joka tarjoaa kaksinkertaisen nopeuden Claude 3 Opukseen verrattuna ja korkeamman älykkyyden, parantaen merkittävästi päättelyä, tietämystä, koodausta ja visuaalisia tehtäviä.",
+    "claude-3-opus": "Anthropicin tehokkain malli, joka tarjoaa huippuluokan suorituskyvyn erittäin monimutkaisissa tehtävissä ja osoittaa sujuvuutta ja ihmismäistä ymmärrystä.",
+    "bard": "Googlen malli (PaLM 2) suoriutuu hyvin edistyneistä päättelytehtävistä.",
+    "gemini-pro": "Googlen tasapainoisin malli, yhdistää täydellisesti kyvykkyyden ja tehokkuuden.",
+    "gemini-1.5-pro": "Googlen paras malli yleiseen suorituskykyyn monenlaisissa tehtävissä.",
+    "gemini-1.5-flash": "Googlen kevyt malli, optimoitu nopeuteen ja tehokkuuteen.",
+    "llama-3": "Metan uusin malli, paras monimutkaisiin tehtäviin samalla laadun säilyttäen."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Maksaa <m>1 peruskrediitti</m>.",
+    "gpt-3.5-n_one": "Kustannus <m>{{count}} perusluotto</m>.",
+    "gpt-3.5-n_other": "Kustannus <m>{{count}} perusluottoa</m>.",
+    "gpt-4": "Maksaa <m>1 edistynyt krediitti</m>.",
+    "gpt-4-2": "Maksaa <m>2 edistynyttä krediittiä</m>.",
+    "gpt-4-n_one": "Maksaa <m>{{count}} edistynyttä krediittiä</m>.",
+    "gpt-4-n_other": "Maksaa <m>{{count}} edistynyttä krediittiä</m>."
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "Vastaus",
+    "autoCloseBanner": "Keskeytyy automaattisesti toimettomuuden jälkeen",
+    "autoCloseTips": "Hakutoiminto keskeytyy, jos et klikkaa kortin painikkeita 30 haun aikana. Voit aktivoida sen uudelleen milloin tahansa klikkaamalla painiketta.",
+    "signinToAsk": "Kirjaudu sisään kysyäksesi {{MODEL_NAME}}",
+    "newChat": "Uusi keskustelu",
+    "chatHistory": "Keskusteluhistoria",
+    "writeHistory": "Kirjoitushistoria",
+    "searchHistory": "Hakuhistoria",
+    "chatControls": "Keskustelun hallintatoiminnot",
+    "inputPlaceholder": "Kirjoita viesti...",
+    "send": "Lähettää",
+    "feedback": "Palaute",
+    "experimental": "Tämä ominaisuus on vielä kehittymässä ja saattaa muuttua, joten jaa ajatuksesi.",
+    "share": "Jaa",
+    "replyLanguage": "Vastauskieli",
+    "capabilities": "Ominaisuudet",
+    "deleteConfirmTitle": "Poistetaanko tämä keskustelu?",
+    "deleteConfirmContent": "Tätä toimintoa ei voi kumota.",
+    "compareWeb": "Vertaa vastausta verkosta",
+    "compareAnsWith": "Vertaa vastausta",
+    "smarterAnsWith": "Saat älykkäämpiä vastauksia",
+    "improveWithXXX": "Saat älykkäämmän vastauksen <b>Botilta</b>",
+    "improveWithXXX2": "Saat kattavan vastauksen <b>Botilta</b>",
+    "compareWithXXX": "Kysy <b>botilta</b>",
+    "improveWithSearch": "Hanki verkkovastaus Googlelta",
+    "improveWithBoth": "Järjestä Google Answers GPT-4:n avulla",
+    "answerWithoutSearching": "Kysy alkuperäiseltä <b>botilta</b>",
+    "screenshot": "Kuvakaappaus",
+    "upload": "Lataa",
+    "uploadFile": "Lataa tiedostot",
+    "siderUploadFile": "Lataa tiedostoja PDF-, DOC-, XLSX-, CSV-, JPG-, JSON- ja muissa formaateissa, enintään 6 tiedostoa kerrallaan, enintään 100MB per tiedosto.",
+    "addImage": "Lisää kuva",
+    "uploadTip": {
+      "formatTitle": "Tuki:",
+      "limitTitle": "Rajoitus:",
+      "format": "Verkkosivu, PDF, DOC, XLSX, CSV, JPG, JSON, MP3, WAV, M4A, MPGA ja enemmän",
+      "limit": "Enintään 6 tiedostoa, 100MB kukin"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "Kirjoita Shakespeare-tyylinen sonetti älypuhelimista"
+      },
+      {
+        "title": "",
+        "ques": "Ehdota 10 luovaa Halloween-pukua lapsille"
+      },
+      {
+        "title": "",
+        "ques": "Laadi aloittelijan tiekartta henkilökohtaisen talouden oppimiseen"
+      },
+      {
+        "title": "",
+        "ques": "Selitä 10-vuotiaalle lapselle, miksi taivas on sininen"
+      }
+    ],
+    "textSelectedTip": "Teksti valinnastasi",
+    "ocrTextTip": "{{name}} Tulos",
+    "translateTip": "Käännä tulos",
+    "textSelectedSystemMsg": "Mitä haluaisit tehdä tekstillä?",
+    "welcomeSystemMsg": "Hei! Kuinka voin auttaa sinua tänään?",
+    "welcomeMsg": "Kuinka voin auttaa sinua tänään?",
+    "chatActionTranslate": "Käännä {{lang}}",
+    "search": "Hae",
+    "continueInChat": "Jatka chatissa",
+    "chatWithVideo": "Videokeskustelu",
+    "userStopTip": "Käyttäjä peruutti pyynnön.",
+    "noChatHistory": "Ei vielä historiaa.",
+    "noSearchHistory": "Tuloksia ei löytynyt",
+    "webAccessModalTitle": "{{APP_NAME}} mahdollistaa sekä ChatGPT-3.5:n että GPT-4:n pääsyn verkkoon!",
+    "webAccessModalContent": "ChatGPT:n tiedot eivät ole reaaliaikaisia. {{APP_NAME}} yhdistää ChatGPT:n älykkyyden reaaliaikaisiin verkkotietoihin, jolloin GPT voi käsitellä reaaliaikaisia tietoon liittyviä kysymyksiä tehokkaammin. Päivitä saadaksesi tämän ominaisuuden, äläkä murehdi vanhentuneista tiedoista!",
+    "readDoc": "Dokumenttien lukeminen",
+    "readDocFail": "Dokumenttien lukeminen epäonnistui"
+  },
+  "sidebarComposePanel": {
+    "compose": "Säveltää",
+    "reply": "Vastaa",
+    "write": "Kirjoita",
+    "writePlaceholder": "Syötä aihe, josta haluat kirjoittaa",
+    "replyPlaceholder1": "Syötä alkuperäinen teksti, johon haluat vastata",
+    "replyPlaceholder2": "Kuvaile vastauksesi yleinen idea",
+    "submitShortcut": "Luo luonnos painamalla {{shortcut}}",
+    "generate": "Luo luonnos",
+    "format": "Muoto",
+    "email": "Sähköposti",
+    "idea": "Idea",
+    "outline": "Outline",
+    "essay": "Essee",
+    "paragraph": "Kohta",
+    "blog": "Blogipostaus",
+    "ads": "Markkinointimainokset",
+    "twitter": "Viserrys",
+    "comment": "Kommentti",
+    "message": "Viesti",
+    "tone": "Sävy",
+    "basic": "perus",
+    "style": "Tyyli",
+    "professional": "Ammattilainen",
+    "formal": "Muodollinen",
+    "casual": "Rento",
+    "enthusiastic": "Innostunut",
+    "informational": "Tiedollinen",
+    "funny": "Hauska",
+    "length": "Pituus",
+    "short": "Lyhyt",
+    "medium": "Keskikokoinen",
+    "long": "Pitkä",
+    "regenerate": "Luo uudelleen",
+    "addToSite": "Lisää sivustolle",
+    "addToSiteTip": "Aseta hiiren osoitin haluamaasi syöttöruutuun ja lisää se napsauttamalla '{{name}}'",
+    "insertToSite": "Lisää tulos verkkosivun syöttökenttään",
+    "history": "Historia",
+    "formatExists": "Muoto on jo olemassa",
+    "AIWriter": "AI-kirjoittaja",
+    "continueOptimizeTips": "Jatka kehittämistä ja parantamista rinnakkain AI:n kanssa",
+    "alsoWriteTips": "Kirjoittaminen rinnakkain Al:n kanssa"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "Hyväksyä",
+    "checkFailed": "Tarkistus epäonnistui",
+    "checkNoError": "Ei virheitä",
+    "checking": "Tarkistetaan",
+    "fixError": "Korjaa kaikki ({{errorCount}})",
+    "ignore": "Jättää huomiotta",
+    "improve": "Paranna",
+    "inputPlaceholder": "Vain englanti on tuettu. Liitä tai kirjoita teksti tarkistettavaksi.",
+    "reasonForChanges": "Muutosten syy"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Automaattinen havainnointi",
+    "placeholde": "Kirjoita tai liitä teksti tähän...",
+    "errWrongTargetLang": "Sama lähde- ja kohdekieli. Tarkista valintasi.",
+    "errTooManyChar": "{{num}}/{{total}}: Syöte ylittää merkkirajan.",
+    "upgradeForLongChar": "Päivitä nyt avataksesi pidemmän syötteen ({{num}} merkkiä).",
+    "extraTransTips": "Voit myös kääntää:",
+    "currentPage": "Nykyinen sivu",
+    "customization": {
+      "defaultPreferences": "Oletusasetukset",
+      "title": "Käännösasetukset",
+      "Length": "Pituus",
+      "LengthOpt": {
+        "Brief": "Lyhyt",
+        "Concise": "Lyhyt",
+        "Standard": "Vakio",
+        "Expanded": "Laajennettu"
+      },
+      "Tone": "Sävy",
+      "ToneOpt": {
+        "Casual": "Rento",
+        "Neutral": "Neutraali",
+        "Formal": "Muodollinen",
+        "Authoritative": "Arvovaltainen",
+        "Empathetic": "Empaattinen"
+      },
+      "Style": "Tyyli",
+      "StyleOpt": {
+        "Literal": "Kirjaimellinen",
+        "DynamicEquivalence": "Dynaaminen vastaavuus",
+        "CreativeAdaptation": "Luova sopeutuminen"
+      },
+      "Complexity": "Monimutkaisuus",
+      "ComplexityOpt": {
+        "Layman": "Maallikko",
+        "Standard": "Vakio",
+        "Expert": "Asiantuntija"
+      }
+    },
+    "inputTranslateAdText": "Käännä teksti välittömästi syöttökentässä millä tahansa verkkosivulla!",
+    "inputTranslateAdBtn": "Aseta se nyt",
+    "seeDict": "Katso sanakirjaa"
+  },
+  "sidebarSearchPanel": {
+    "history": "Historia",
+    "searchProgress": {
+      "searching": "Etsitään",
+      "analyzing": "Analysoidaan",
+      "organizing": "Järjestetään",
+      "generatingAnswer": "Luodaan vastausta",
+      "competed": "Valmis",
+      "searchInWeb": "Hae verkosta",
+      "analyzeSearchResult": "Analysoi hakutulokset",
+      "generateAnswer": "Luo vastaus",
+      "searchCompleted": "Haku valmis",
+      "searchCancelled": "Haku peruutettu"
+    },
+    "relatedSearches": "Liittyvät haut",
+    "searchFrom": "Hae",
+    "searchHistory": "Hakuhistoria",
+    "answer": "Vastaus",
+    "currentVisit": "Nykyinen vierailu",
+    "feedback": {
+      "stepAnswer": "Luo vastaus",
+      "stepSearch": "Suorita haku",
+      "stepUnderstand": "Ymmärrä kysymykset",
+      "tipTotal": "Yhteensä {{count}} krediittiä"
+    },
+    "stoppedSearch": "Olet keskeyttänyt tämän haun.",
+    "newSearch": "Uusi haku",
+    "searching": "Haku",
+    "searchFromAll": "Hae koko Internetistä",
+    "searchAll": "Hae kaikista",
+    "searchRange": "Hakuväli",
+    "searchFromSite": "Hae {{domain}}-sivustolta",
+    "sources": "Lähteet",
+    "suggestions": "Ehdotukset",
+    "title": "Haku",
+    "viewAll": "Näytä kaikki",
+    "defaultSearchSuggesiton": "Milloin on paras aika vierailla Pariisissa?",
+    "followUpQuestion": "Jatkokysymys...",
+    "searchPlaceholder": "Syötä tiedot, joita haluat etsiä"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "AI OCR voi tehdä virheitä",
+    "dragImgTips": "Klikkaa ladataksesi tai pudota kuva tähän tekstin poimimiseksi",
+    "noText": "Tekstiä ei tunnistettu",
+    "ocrCost": "Jokainen {{name}} maksaa {{num}} peruskrediittiä",
+    "ocrTips": "Poimi tekstiä, numeroita ja yhtälöitä kuvasta"
+  },
+  "pageTranslation": {
+    "title": "Sivun kääntäminen",
+    "demoText": "ChatGPT toimii Transformerilla, syväoppimismallilla, joka on suunniteltu luonnollisen kielen käsittelyyn ja sisältää itsehuomion ja syöttöverkot.",
+    "free": "Ilmainen",
+    "aiTranslator2": "AI-kääntäjä",
+    "aiTranslatorFunTitle1": "Kontekstin ymmärtäminen",
+    "aiTranslatorFunDesc1": "Tavoittaa sekä tarkoituksen että sävyn, menee syvemmälle kuin sanasta sanaan -käännös",
+    "aiTranslatorFunTitle2": "Tarkka käännös",
+    "aiTranslatorFunDesc2": "Käännä selkeästi ja tarkasti, varmistaen, ettei yksityiskohtia jää pois",
+    "newAITranslationTip": "AI-sivun käännös on nyt käytettävissä! Napsauta tästä asentaaksesi sen.",
+    "translateService": "Käännöspalvelu",
+    "translateServiceTip": "Tekoälykäännös kuluttaa peruskrediittejä sisällön pituuden mukaan.",
+    "pageTranslation": "Käännä tämä sivu",
+    "showOriginal": "Näytä alkuperäinen teksti",
+    "transSettings": "Käännösasetukset",
+    "source": "Lähdekieli",
+    "target": "Kohdekieli",
+    "autoDetect": "Automaattinen havainnointi",
+    "displayMode": "Näyttötila",
+    "displayModes": [
+      "Kaksikielinen",
+      "Vain käännös"
+    ],
+    "displayStyle": "Näyttötyyli",
+    "displayStyles": [
+      "Ei mitään",
+      "Alleviivaa",
+      "Heikennä"
+    ],
+    "displayStyleDesc": "Vain kaksikielisessä vertailutilassa tehtäville käännöksille",
+    "autoTrans": "Automaattinen käännös",
+    "autoTrans2": "Käännä verkkosivut automaattisesti",
+    "autoTrans2Desc": "Kun pois päältä, napsauta käännöspainiketta tai käytä pikanäppäintä",
+    "neverTransSite": "Älä koskaan käännä tätä sivustoa",
+    "neverTransSites": "Älä koskaan käännä näitä sivustoja",
+    "transAgain": "Käännä uudelleen"
+  },
+  "inputTranslation": {
+    "title": "Syötteen kääntäminen",
+    "mainSwitchTitle": "Käännä syötetty teksti pikanäppäimellä",
+    "mainSwitchDesc": "Käännä ja korvaa teksti syöttökentässä millä tahansa verkkosivulla",
+    "triggerKeyTitle": "Laukaisunäppäin",
+    "triggerKeyDesc": "Paina laukaisunäppäintä 3 kertaa nopeasti kääntääksesi, peruuta painamalla {{key}}",
+    "spaceKey": "Välilyöntinäppäin",
+    "model": "Käännösmalli",
+    "neverTransSites": "Älä koskaan käännä näillä sivustoilla"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "Ajattelutila",
+      "desc": "Ajattelutila hyödyntää Chain of Thought -päättelyä analysoidakseen monimutkaisia ongelmia monivaiheisen päättelyn kautta, tarjoten kattavampia ja oivaltavampia vastauksia.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Ajattele: 9.11 tai 9.8, kumpi on suurempi"
+        },
+        {
+          "title": "",
+          "value": "Mieti ja kirjoita funktio, joka mallintaa 'Kuuden asteen erottelu' -teoriaa. Annetun sosiaalisen verkoston ollessa graafi, löydä lyhin polku kahden henkilön välillä."
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "Artefaktit",
+      "desc": "Luo ja esitä helposti sisältöä, kuten verkkosivuja tai vuokaavioita, uudessa ikkunassa. Lisää tuottavuutta reaaliaikaisilla vuorovaikutuksilla ja keskittyneellä työtilalla.",
+      "demos": [
+        {
+          "title": "Luo virtuaalinen ksylofon",
+          "value": "Luo HTML-pohjainen ksylofon värikkäillä näppäimillä {{ARTIFACT}}:ssä. Anna visuaalista palautetta lyödyistä näppäimistä ja tuota yksinkertaisia, realistisia ääniä Web Audio API:n avulla taajuusparametrien perusteella. Sisällytä perusohjeet."
+        },
+        {
+          "title": "Luo ruoan syömiseen liittyvä emoji-peli",
+          "value": "Luo yksinkertainen HTML-pohjainen peli, joka on samanlainen kuin Catch the Candy, {{ARTIFACT}}:ssä. Pelaaja ohjaa emojia näytön alareunassa, liikuttaen sitä nopeasti vasemmalle ja oikealle saadakseen kiinni ja syödäkseen ruokaesineitä (esim. 🍓, 🍔, 🍎), jotka putoavat ylhäältä samalla kun vältetään pommeja (💣). Joka kerta, kun pelaaja saa kiinni ruokaemojin, heidän emojinsa muuttuu yhä liioitellummaksi positiiviseksi ilmeeksi (esim. 🤩, 😆, 😋) menestyksen merkiksi. Jos pelaaja vahingossa saa kiinni pommin, emoji näyttää ensin räjähdyksen (💥) ja muuttuu sitten huimaantuneeksi ilmeeksi (😵‍💫)."
+        },
+        {
+          "title": "Luo älypuhelinlähetysten kaavio",
+          "value": "Käytä Reactia luodaksesi kauniin viivakaavion {{ARTIFACT}}:ssä seuraavan taulukon perusteella.\n------\n\nÄlypuhelinlähetykset suurilta brändeiltä viimeisen vuosikymmenen aikana (miljardeina)\n\n| Vuosi | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+        }
+      ]
+    },
+    "search": {
+      "name": "Verkkopääsy",
+      "desc": "Hanki reaaliaikaisia oivalluksia esikoulutetun datan ulkopuolelta, varmistaen tarkat ja ajankohtaiset vastaukset ajankohtaisiin tapahtumiin, uutisiin ja kehittyviin aiheisiin.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Mitkä ovat parhaat elokuvat tällä hetkellä Yhdysvaltojen teattereissa?"
+        },
+        {
+          "title": "",
+          "value": "Mitkä osakkeet kokivat tänään huomattavia nousuja?"
+        },
+        {
+          "title": "",
+          "value": "Mikä on tänään julkaistu huomattavin uusi elektroniikkatuote?"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "Luo kuva",
+      "desc": "Kuvaile yksinkertaisesti, mitä sinulla on mielessäsi, ja luo korkealaatuisia kuvia välittömästi. Ei tarvita suunnittelutaitoja – vain mielikuvitustasi.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Suunnittele futuristinen lentävä auton malli."
+        },
+        {
+          "title": "",
+          "value": "Luonnostele kultainennoutaja, joka juoksee nurmikolla."
+        },
+        {
+          "title": "",
+          "value": "Kuvaa vanhempi nainen, joka juo kahvia rennosti."
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "Data-analyysi",
+      "desc": "Suorita Python-koodia reaaliajassa edistyneeseen matematiikkaan, tilastotieteeseen, koneoppimiseen ja datankäsittelyyn, tehostaen tehtäviä eri muodoissa.",
+      "demos": [
+        {
+          "title": "Lue tiedoston tiedot ja luo ympyräkaavio, joka näyttää eri kulubudjettien osuudet.",
+          "value": "Lue tiedoston tiedot ja luo ympyräkaavio, joka näyttää eri kulubudjettien osuudet."
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Pidätkö laajennustamme?</b> Auta meitä kasvamaan antamalla meille viisi tähteä verkkokaupassa",
+    "newInVersion": "Mitä uutta versiossa {{versionId}}",
+    "learnToUse": "Opi käyttämään",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, AI-kääntäjä",
+      "4_36_0": "Kerää tietoa Wisebasen avulla",
+      "4_35_0": "Esikatsele linkkejä: Selaa älykkäämmin",
+      "4_34_0": "Gmail Al Vastaus, Artifaktit ja Käännösten Parannukset",
+      "4_33_0": "O1 & Video Yhteenvetopäivitykset",
+      "4_32_0": "Tuki äänitiedostoille chatissa",
+      "4_31_0": "Työkalut Nav, Syötteen Käännös, Nopea Kopiointi",
+      "4_30_0": "Päivitetty GPT-4o, Sivun käännös ja YouTube-tekstitykset",
+      "4_29_0": "Parannettu keskustelukokemus",
+      "4_28_0": "Claude 3.5 Haiku & Parannetut vaihtoehdot",
+      "4_27_0": "Parannettu kontekstivalikko ja artefaktit",
+      "4_26_0": "Esittelyssä Ajattelutila (Kokeellinen)",
+      "4_25_0": "Uusi ilme paremman käyttökokemuksen takaamiseksi",
+      "4_24_0": "Gemini-mallit ovat juuri tulleet älykkäämmiksi ja nopeammiksi!",
+      "4_23_0": "OpenAI o1-preview & o1-mini ovat nyt saatavilla!",
+      "4_22_0": "Demon vs Angel: Röntgenkuvaa X-persoonallisuutesi",
+      "4_20_0": "Käännöstoimintojen päivitys",
+      "4_19_0": "{{ARTIFACTS}}: Reaaliaikaiset, interaktiiviset sisältölohkot",
+      "4_18_0": "Keskustelun jakaminen on nyt käytössä!",
+      "4_17_0": "Esittelyssä Watch Highlights YouTubelle",
+      "4_16_0": "Esittelyssä GPT-4o mini",
+      "4_13_0": "Esittelyssä AI ääneenluku: Henkilökohtainen ääniavustajasi",
+      "4_12_0": "",
+      "4_11_0": "Syvä lukija parantaa kriittisiä lukutaitojasi!",
+      "4_10_0": "OpenAI:n GPT-4o on nyt täällä!",
+      "4_9_0": "Llama 3 nyt! Metan huippumodernin avoimen lähdekoodin LLM:n seuraava sukupolvi.",
+      "4_8_0": "Gemini 1.5 Pro - Nyt saatavilla!",
+      "4_7_0": "In-Chat Videon yhteenveto, tekstityksen poiminta, Claude 3 Haiku! 🚀",
+      "4_6_0": "Tue Claude 3 -perhettä nyt!",
+      "4_5_0": "",
+      "4_4_0": "Kaikki työkalut Chat & GPT-4 -käyttöliittymässä",
+      "4_3_0": "Maksimoi kokemuksesi koko näytön tilassa!",
+      "4_2_0": "Tehokkaampi käyttöliittymä ja sivupalkin GPT-käyttö",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "Sider on valmis paahtamaan ja kehumaan julkisia X (Twitter) -viestejäsi! Valitse mukaan nauruja varten, tietoja ei säilytetä. Peli käyntiin ja jaa ilo ystäviesi kanssa!"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>: Vastaa OpenAI-o1:n suorituskykyä"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>: Loistaa monimutkaisessa päättelyssä, matematiikassa ja koodauksessa"
+          ]
+        },
+        {
+          "features": [
+            "<b>AI-kääntäjä verkkosivuille</b>: Tarjoaa luonnollisia ja tarkkoja käännöksiä"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>Tallenna verkkosivut ja kohokohdat</b>: Tallenna arvokas verkkosisältö Wisebaseen (Al-tietokanta) yhdellä napsautuksella"
+          ]
+        },
+        {
+          "features": [
+            "<b>Al Inbox</b>: Anna Al:n luokitella sisältösi automaattisesti"
+          ]
+        },
+        {
+          "features": [
+            "<b>Keskustele useiden tiedostojen kanssa</b>: Saat välittömiä vastauksia kerätyistä tiedostoistasi"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>Välittömät esikatselut</b>: Vedä linkkejä nähdäksesi sisältö avaamatta uusia välilehtiä"
+          ]
+        },
+        {
+          "features": [
+            "<b>Älykkäät yhteenvedot</b>: Saa keskeiset oivallukset sivuilta yhdellä silmäyksellä"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tehokas selaaminen</b>: Pysy keskittyneenä vähemmillä klikkauksilla ja häiriöillä"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Al Vastaus Gmailissa</b>: Tukee käännöksiä ja Al-mallin valintaa paremman viestinnän saavuttamiseksi"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artifaktit</b>: Vie vuokaaviot kuvina helppoa jakamista varten"
+          ]
+        },
+        {
+          "features": [
+            "<b>Käännös</b>: Al-sanakirja tarkkoihin sanojen ja lauseiden käännöksiin"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>: Nopeampi kuin ‘o1-preview’, erinomainen monimutkaisissa monivaiheisissa tehtävissä edistyneellä tarkkuudella"
+          ]
+        },
+        {
+          "features": [
+            "<b>Yhteenveto Videoista Ilman Tekstityksiä</b>: Saat transkriptiot ja yhteenvedot YouTube-videoista ilman tekstityksiä"
+          ]
+        },
+        {
+          "features": [
+            "<b>Verkkosisällön Yhteenveto</b>: Parannettu alustoille kuten Reddit ja Twitter"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>Ääni tekstiksi</b>: Lataa MP3, WAV, M4A tai MPGA-tiedosto luodaksesi transkriptioita"
+          ]
+        },
+        {
+          "features": [
+            "<b>Näytä & Kuuntele</b>: Lue transkriptioita samalla kun kuuntelet ääntä"
+          ]
+        },
+        {
+          "features": [
+            "<b>Yhteenveto helposti</b>: Luo nopeita yhteenvetoja yhdellä napsautuksella"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>Työkalut Nav</b>: Käytä AI-työkaluja kuvien, PDF-tiedostojen ja videoiden käsittelyyn navigointipalkista"
+          ]
+        },
+        {
+          "features": [
+            "<b>Syötteen Käännös</b>: Kolmoisvälilyönti kääntääksesi syötteen tekstin (ota käyttöön Asetuksista)"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nopea Kopiointi</b>: Kopioi teksti välittömästi kontekstivalikosta"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>: Parannetut luonnollisen kirjoittamisen ominaisuudet ja parempi tiedostojen käsittely"
+          ]
+        },
+        {
+          "features": [
+            "<b>Vain käännöksen näyttö</b>: Sivun käännös tukee nyt vain käännetyn sisällön katselua"
+          ]
+        },
+        {
+          "features": [
+            "<b>Paremmat YouTube-tekstitykset</b>: Nauti korkealaatuisemmista kaksikielisistä tekstityskäännöksistä"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>Viestien muokkaus</b>: Muokkaa helposti lähetettyjä viestejä ja lähetä uudelleen saadaksesi uusia vastauksia"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rinnakkainen vertailu</b>: Näytä useiden mallien vastaukset koko sivulla"
+          ]
+        },
+        {
+          "features": [
+            "<b>Kuvake mukautetuille kehotteille</b>: Määritä kuvakkeet mukautetuille kehotteille selkeämmän järjestelyn takaamiseksi"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Haiku</b>: Tarjoaa suorituskyvyn, joka ylittää Claude 3 Opuksen, loistaen koodauksessa, työkalujen käytössä ja päättelyssä"
+          ]
+        },
+        {
+          "features": [
+            "<b>Muokkaa fonttikokoa</b>: Voit nyt muuttaa viestin fonttikokoa"
+          ]
+        },
+        {
+          "features": [
+            "<b>Yksinkertaistettu käyttöliittymä</b>: Siistimpi, intuitiivisempi vaihtoehtojen käyttöliittymä helppoon personointiin"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>Yksinkertaistettu käyttöliittymä</b>: Selkeämpi ja intuitiivisempi käyttöliittymä sujuvampaan käyttökokemukseen"
+          ]
+        },
+        {
+          "features": [
+            "<b>Parannettu käännös</b>: Toimittaa sanojen merkitykset kontekstuaalisella tarkkuudella"
+          ]
+        },
+        {
+          "features": [
+            "<b>Julkaise ja jaa artefaktit</b>: Jaa artefaktisi helposti julkisesti linkkien kautta"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>Chain of Thought -päättely</b>: Pilkkoo monimutkaiset tehtävät vaihe vaiheelta älykkäämpään ongelmanratkaisuun"
+          ]
+        },
+        {
+          "features": [
+            "<b>Syvemmät oivallukset</b>: Tarjoaa harkittuja vastauksia vaikeiden kysymysten ratkaisemiseen"
+          ]
+        },
+        {
+          "features": [
+            "<b>Toimii kaikilla malleilla</b>: Saumattomasti käytettävissä kaikissa malleissa"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>Hienostunut muotoilu</b>: Modernit visuaalit, selkeämpi asettelu helppokäyttöisyyden ja keskittymisen takaamiseksi"
+          ]
+        },
+        {
+          "features": [
+            "<b>Pikakomentojen kiinnitys</b>: Kiinnitä usein käytetyt komennot nopeaa käyttöä varten"
+          ]
+        },
+        {
+          "features": [
+            "<b>Laajennettavat taulukot</b>: Näytä suuret tiedot uudessa ikkunassa parannetun luettavuuden takaamiseksi"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>: Tehostettu päättelykyky parannetuilla matemaattisilla ja visuaalisilla taidoilla."
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>: 2x nopeampi, 3x alhaisempi viive, parempi visuaaleissa ja koodauksessa."
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>: Käsittelee monimutkaisia tehtäviä ja ratkaisee vaikeampia ongelmia kuin aiemmat mallit tieteessä, koodauksessa ja matematiikassa. Maksaa 15 edistynyttä krediittiä per viesti."
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>: Nopeampi malli, joka on erityisen tehokas koodauksessa. Ihanteellinen keskittyneeseen päättelyyn ilman laajaa tietämystä. Maksaa 3 edistynyttä krediittiä per viesti."
+          ]
+        },
+        {
+          "features": [
+            "<b>Huom</b>: Käyttörajoituksia on."
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>Monimallikäännös</b>: Käytä useita malleja kerralla tarkempien käännösten saamiseksi."
+          ]
+        },
+        {
+          "features": [
+            "<b>Monipuoliset käännösten uudelleenkirjoitukset</b>: Kirjoita käännöksiä uudelleen eri tilanteisiin."
+          ]
+        },
+        {
+          "features": [
+            "<b>Kaksikieliset tekstitykset</b>: Näytä YouTube-tekstitykset molemmilla kielillä samanaikaisesti."
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>Live Preview:</b> Esikatsele ja vuorovaikuta tekoälyn luomien verkkosivujen, asiakirjojen ja kaavioiden kanssa reaaliajassa."
+          ]
+        },
+        {
+          "features": [
+            "<b>Saumaton iterointi:</b> Iteroi luotuja artefakteja keskustelun kautta."
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>Useita muotoja</b>: Jaa keskustelusi linkkinä tai kuvana."
+          ]
+        },
+        {
+          "features": [
+            "<b>Joustava valinta</b>: Valitse ja jaa koko keskustelu tai vain osa siitä."
+          ]
+        },
+        {
+          "features": [
+            "<b>Helppo hallinta</b>: Peruuta jaetut linkit milloin tahansa."
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>Videon kohokohdat</b>: Tekoälyn tuottama kertomus säästää aikaasi korostamalla nopeasti videon keskeiset kohdat."
+          ]
+        },
+        {
+          "features": [
+            "<b>Luonnollinen kertomus</b>: Realistiset tekoälyäänet parantavat katselukokemustasi."
+          ]
+        },
+        {
+          "features": [
+            "<b>Monikielinen tuki</b>: Ymmärrä helposti videoita kielimuurien yli."
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>Nopeampi, parempi suorituskyky:</b> Tekee päivittäisistä tehtävistä sujuvampia ja tehokkaampia."
+          ]
+        },
+        {
+          "features": [
+            "<b>Parannettu matematiikka ja koodaus:</b> Varmistaa tarkan suorituskyvyn teknisissä tehtävissä."
+          ]
+        },
+        {
+          "features": [
+            "<b>Päivitys GPT-3.5:stä:</b> GPT-4o mini korvaa GPT-3.5:n paremmalla suorituskyvyllä."
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>Luonnolliset AI-äänet</b>: Nauti 9 luonnolliselta kuulostavasta AI-äänestä useilla kielillä."
+          ]
+        },
+        {
+          "features": [
+            "<b>Kuuntele missä tahansa</b>: Valitse mikä tahansa teksti verkkosivulta kuullaksesi sen ääneen luettuna."
+          ]
+        },
+        {
+          "features": [
+            "<b>Sivupalkin tuki</b>: Kuuntele helposti AI:n tuottamaa sisältöä sivupalkin widgeteistä."
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>Tuki Claude 3.5 Sonnetille:</b> Anthropicin uusin malli, joka on 2 kertaa nopeampi kuin Claude 3 Opus ja omaa korkeamman älykkyyden, parantaa merkittävästi päättelyä, tietämystä, koodausta ja visuaalisia tehtäviä."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Opuksen poistuminen käytöstä:</b> korvattu edistyneemmällä Claude 3.5 Sonnetilla."
+          ]
+        },
+        {
+          "features": [
+            "<b>Kutsu ja ansaitse:</b> Kutsu ystäväsi ansaitaksesi ilmaisia kyselyjä ja kokeile uusinta mallia jo tänään!"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>Useita verkkosivuja:</b> Lue useita verkkosivuja tai dokumentteja kerralla"
+          ]
+        },
+        {
+          "features": [
+            "<b>Kriittisen lukemisen työkalut:</b> Selkeytä keskeisiä käsitteitä, tunnista oletukset, korosta otteita, opi kirjoittajasta ja paljon muuta."
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}:</b> Valitsee dynaamisesti parhaan nopean mallin (GPT-3.5, Claude 3 Haiku, Gemini 1.5 Flash tai Llama 3) tiettyä tehtävääsi varten."
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Lisääntynyt nopeus:</b> Saat vastaukset 2x nopeammin kuin GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Parannettu näkökyky:</b> Huomattavasti parantunut kuvien ymmärtäminen"
+          ]
+        },
+        {
+          "features": [
+            "<b>Laajennetut kielet:</b> Lisää kieliä, parempi laatu ja nopeampi suorituskyky"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Uusi malli:</b> Tuki Llama 3:lle nyt"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Uusi malli:</b> Tuki Gemini 1.5 Prolle nyt"
+          ]
+        },
+        {
+          "features": [
+            "<b>Uudet AI-kuvatyökalut:</b> Pääsy AI-ominaisuuksiin vie hiiren kuvan päälle"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "In-Chat yhteenveto: Saat YouTube-videoiden avainkohdat 'Lue tämä sivu' -toiminnolla chat-ikkunassa."
+          ]
+        },
+        {
+          "features": [
+            "Helppo tekstityksen poiminta: Saat tekstitykset yhdellä napsautuksella YouTubesta syvällisempää tietoa varten."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Nyt saatavilla rikastamaan chat-kokemustasi."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Väittää omaavansa \"lähes ihmismäiset\" kyvyt ja voittavansa GPT-4:n."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Tasapainottaa älykkyyden ja nopeuden, ihanteellinen tietojen noutamiseen tai myynnin automatisointiin."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Hakukoneagentti-widgetti:</b> Koe hakukoneiden tulevaisuus tekoälyn automaation avulla"
+          ]
+        },
+        {
+          "features": [
+            "<b>Käännä verkkosivu:</b> Lisää lukijaystävällisiä käännösnäyttötyylejä"
+          ]
+        },
+        {
+          "features": [
+            "<b>Uusi asetus:</b> Avaa automaattisesti viimeisin keskustelu, kun sivupalkki avataan"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Uusi edistynyt tietojen analysointityökalu:</b> Kooditulkki tehokasta tietojen käsittelyä ja monimutkaisia laskutoimituksia varten"
+          ]
+        },
+        {
+          "features": [
+            "<b>Uusi maalaustyökalu:</b> Luo kuvia välittömästi chatissa"
+          ]
+        },
+        {
+          "features": [
+            "<b>Parannettu kontekstivalikko:</b> Käytä GPT-4:ää kontekstivalikossa."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Sukella immersiiviseen, koko näytön näkymään"
+          ]
+        },
+        {
+          "features": [
+            "Nauti kaikista sivupalkin ominaisuuksista nyt koko näytöllä"
+          ]
+        },
+        {
+          "features": [
+            "Vaihda saumattomasti tilojen välillä parhaan mahdollisen kokemuksen saavuttamiseksi"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Päivitetty käyttöliittymä:</b> Puhtaampi ja helpompi navigoida"
+          ]
+        },
+        {
+          "features": [
+            "<b>Kutistettava siirtymispalkki:</b> Varmistaa keskittyneen keskustelukokemuksen pitäen samalla olennaiset ominaisuudet helposti ulottuvilla"
+          ]
+        },
+        {
+          "features": [
+            "<b>Sivupalkin GPT-pääsy:</b> ChatGPT Plus -käyttäjille suora pääsy GPT:ihin on nyt saatavilla sivupalkissa verkkosovellustilassa"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "GPT-4V(ision) esikatselu! & AI vastaus Gmailille",
+          "features": [
+            "{{SIDERVISION}} saa virtansa GPT-4V:stä",
+            "Parempi kuvien ymmärtäminen",
+            "Ota nopeasti kiinni sähköpostin aikeista",
+            "Valitse eri sävyistä ja persoonasta",
+            "Valitse vaivattomasti vastausehdotuksia"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "GPT-4 Turbo and Chat -verkkosivu!",
+          "features": [
+            "Tukee GPT-4 Turboa ja GPT-3.5 Turboa",
+            "Käännä koko verkkosivu",
+            "Chat-verkkosivu sivupalkissa",
+            "Chat PDF sivupalkissa"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Käännöswidget",
+          "features": [
+            "Mukauta käännösi erillisessä Käännös-widgetissä",
+            "Paranna ChatGPT-vastauksia Google, Bing, Baidu jne."
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} tuli älykkäämmäksi",
+          "features": [
+            "{{4+VISION}}",
+            "1-napsautus vastataksesi samaan kysymykseen eri boteilla"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Grammar Widget",
+          "features": [
+            "Tarkista kielioppivirheet",
+            "Korjaa kielioppivirheet",
+            "Paranna kirjoittamista kieliopin ulkopuolelle"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} – ChatGPT-sivupalkki Visionilla",
+          "features": [
+            "Poimi tekstiä kuvasta",
+            "Kysy kuvasta mitä tahansa kysyttävää",
+            "3 tapaa lähettää kuva kohteeseen {{SIDERVISION}} <div><ol><li>Ota kuvakaappaus</li><li>Vedä ja pudota kuva chat-ikkunaan</li><li>Lähetä kuva </li> li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Poimi tekstiä kuvasta"
+          ]
+        },
+        {
+          "features": [
+            "Poimi tekstiä kuvasta"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Uusi hinnoittelusuunnitelma, jossa on 5x enemmän GPT-4-krediittejä",
+          "features": [
+            "Hyviä uutisia! Päivitetty hinnoittelumme antaa sinulle vielä enemmän pääsyä GPT-4- ja Claude 2 -krediitteihin.",
+            "Jos olet jo premium-käyttäjä, sinut päivitetään automaattisesti. Lisäksi meillä on uusi \"Unlimited\" -paketti kaikille tehokäyttäjille!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Lisää bottia!",
+          "features": [
+            "ChatGPT:n ja Clauden lisäksi Sider tukee Bardia nyt!"
+          ]
+        },
+        {
+          "title": "OCR: Poimi teksti mistä tahansa kuvasta ja lähetä se ChatGPT:hen",
+          "features": [
+            "Tunnista yli 10 pääkieltä",
+            "Tunnista käsin kirjoitettu englanniksi",
+            "Tunnista <b>matemaattiset yhtälöt</b> tekstistä"
+          ]
+        },
+        {
+          "title": "Paranna maalaria",
+          "features": [
+            "Vaihda koko tausta",
+            "Poista valittu alue"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Lisää chatbotteja</b>: nyt tuetaan Claude-instantia, Claude 2:ta!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ryhmäkeskustelu</b>: Vertaa vastauksia chatbottien välillä!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Mainita</b>: käytä @-merkkiä mainitaksesi vaivattomasti minkä tahansa keskustelun chatbotin ja olla vuorovaikutuksessa heidän kanssaan!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Pikakehote</b>: Kirjoita vain '/' ja mene!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Yksinkertainen muotoilu</b>: Tee suunnittelusta suoraviivaista ja helppokäyttöistä"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Paranneltu nopea hallinta",
+          "features": [
+            "Luetaan kontekstivalikkoa",
+            "Kontekstivalikon kirjoittaminen"
+          ]
+        },
+        {
+          "title": "AI-kuvankäsittelyohjelma",
+          "features": [
+            "Poista tausta kaikista kuvista",
+            "Poista teksti kaikista kuvista"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Reading Assistant: Käytä tekoälyä nopeaan ymmärtämiseen verkkosivuja lukiessasi",
+        "Kirjoitusavustaja: Luo nopeasti sisältöä verkkosyöttöruudun tekoälyn avulla"
+      ],
+      "2_7_0": [
+        "Piirrä kuva tekstistä",
+        "Piirrä kuva referenssikuvasta"
+      ],
+      "2_6_0": [
+        "Sider tukee kiinteää sivupalkkia - Voit keskustella kaikkien välilehtien välillä ilman päällekkäistä sisältöä <br /> (saatavilla Chrome 114:ssä tai uudemmassa)"
+      ],
+      "2_5_0": [
+        "YouTuben yhteenveto! Katso 1 tunnin YouTube-video 1 minuutissa",
+        "Vertaa ihmisten ja tekoälyn vastauksia Quora-, StackOverflow- ja Zhihu-sivustoilla."
+      ],
+      "2_4_0": [
+        "<b>Älykäs verkkokäyttö</b>: kyselysi perusteella Al päättää, tarvitseeko se käyttää Internetiä.",
+        "Vakauden parantaminen"
+      ],
+      "2_3_0": [
+        "Tuki selaamiseen ja laajennuksiin Plus-käyttäjille!",
+        "ChatGPT internetyhteydellä kaikille!"
+      ],
+      "2_2_0": [
+        "Kirjoita mikä tahansa viesti",
+        "Vastaa sähköpostiin, twiittiin, kommentoi jne"
+      ],
+      "2_1_0": [
+        "Pikahaun pikakuvake",
+        "Muuta Pikahaku-ikkunan kokoa",
+        "Virheenkorjauksia ja muita UX-parannuksia"
+      ],
+      "2_0_0": [
+        "Tuki <b>GPT-4 </b> kaikille käyttäjille!",
+        "Kutsu ystäviä ja ansaitse <b>GPT-4</b> krediittejä molemmille!",
+        "Virheenkorjauksia ja muita UX-parannuksia"
+      ],
+      "1_1_0": [
+        "Täysi chat <b>uudella välilehdellä</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> yhdessä!",
+        "Virheenkorjauksia"
+      ],
+      "1_0_13": [
+        "Jatka keskustelua kysymysten esittämisen jälkeen",
+        "Vaihda GPT-4:n ja GPT-3.5:n välillä Plus-käyttäjille",
+        "Käytä ja hae chat-historiaa helposti"
+      ],
+      "1_0_12": [
+        "Synkronoi laajennusasetukset tietokoneiden välillä",
+        "Käytä kehotteitasi eri kannettavissa tietokoneissa",
+        "Tallenna keskustelut tulevaa käyttöä varten",
+        "Jaa chatit linkin kautta"
+      ],
+      "1_0_11": [
+        "Pääset nopeasti toimiin ponnahdusikkunan kautta avaamatta sivupalkkia.",
+        "Lisää tuki lisäkielille.",
+        "Säilytä käyttäjän kieliasetus, kun käytät käännösominaisuutta.",
+        "Ratkaise pikanäppäinristiriidat alustoilla, kuten GitHub ja muilla."
+      ],
+      "1_0_10": [
+        "Tue yli 50 kieltä nyt!"
+      ],
+      "1_0_8": [
+        "Tuki GPT-4 Plus-käyttäjille! Tarkista asetussivu!"
+      ],
+      "1_0_7": [
+        "Muista viimeksi käytetty kehote",
+        "Optimoi chatGPT-paneelin sijainti hakusivuilla",
+        "Lisää vaihtoehto sijoittaa sivupalkin kuvake vasemmalle puolelle",
+        "Optimoi paketin koko",
+        "Lisää tumma tila",
+        "Tue API url -välityspalvelinta"
+      ],
+      "1_0_6": [
+        "Paranna yhteenvetoominaisuutta Youtube-sivulla"
+      ],
+      "1_0_5": [
+        "Muista sivupalkin kuvakkeen sijainti",
+        "Paranna pikanäppäimiä",
+        "Tallenna kehotemallit suoraan sivupalkista"
+      ],
+      "1_0_4": [
+        "Tilaa kehotteet uudelleen avattavasta luettelosta",
+        "Arkistoi kehotekohteet, joita et käytä",
+        "Tukivastaus yli 50 kielellä"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter tehdäksesi nopean \"Lähetä\"",
+        "Mahdollisuus piilottaa paneeli hakutulossivulla",
+        "Tue ESC piilottaaksesi sivupalkin",
+        "Tuki tiivistää pitkän artikkelin"
+      ],
+      "1_0_2": [
+        "Lisää pysäytyspainike lopettaaksesi vastauksen luomisen",
+        "Muuta tiivistyskohdan painiketta"
+      ],
+      "1_0_1": [
+        "Paranna yhteenvetoominaisuutta Youtube-sivulla",
+        "Korjaa joitain kopioimiseen/liitämiseen ja tulostamiseen liittyviä virheitä"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Aktivoi chat-työkalut avataksesi tehokkaat toiminnot.",
+    "content2": [
+      "Tutki maailmanlaajuista verkkoa saumattomasti.",
+      "Muunna ideasi upeiksi visuaalisiksi elementeiksi.",
+      "Sukella syvälle dataan asiantuntija-analyysin avulla."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Äänestä Product Huntista",
+    "sidebar2Banner1": "Äänestä meitä <b>Product Huntissa</b> NYT levittääksesi sanaa.",
+    "sidebar2ModalTitle": "✨ Yhteenveto sivupalkin versiosta 2.0",
+    "sidebar2ModalDesc": "• Chat-välilehti\n  • Pikahaku nopeille kyselyille\n  • Tili kehotteiden synkronointia varten\n  • Tallenna ja jaa keskusteluja\n  • Tukee useampia kieliä\n  • Tuki GPT-4",
+    "ios1Banner1": "Äänestä ChitChat - ChatGPT iOS -sovellusta 🎉",
+    "ios1Banner2": "Aloitetaan hommat räjähdysmäisesti! 😄",
+    "ios1ModalTitle": "✨ Uutta ChitChat iOS -sovelluksessa",
+    "ios1ModalDesc": "• Hanki vastauksia ChatGPT 3.5:stä ja 4:stä\n• Botien tukitiimi auttaa sinua yhdestä paikasta\n  • Muuta PDF-tiedostosi chatbotiksi"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}} Macille",
+    "macContent": "Meillä on ilo ilmoittaa, että Sider on nyt saatavilla Mac-käyttäjille! Nauti saumattomasta ja tehokkaasta kokemuksesta, joka on räätälöity vain Macille, sekä kaikki tehokkaat ominaisuudet, joista pidät verkkoversiostamme.",
+    "macContent2": "{{APP_NAME}} on nyt saatavilla Macille!",
+    "macDownload": "Lataa nyt!",
+    "phTitle": "Pidätkö laajennuksen käytöstä?",
+    "phContent": "Ota hetki aikaa tukeaksesi meitä äänestämällä <i>Product Hunt</i>:ssa—se on nopeaa, helppoa ja auttaa meitä paljon!",
+    "phContent2": "Äänestä meitä <b>Product Huntissa</b>",
+    "phVote": "Äänestä nyt!",
+    "phTitle2": "Julkaisimme Sider 3.X -versiot <i>Product Huntissa</i>.",
+    "phFeatures1": "<b>ChatGPT-widgetit</b>: Kirjoita, poimi tekstiä kuvista, tarkista kielioppi ja käännä – kaikki yhdessä paikassa.",
+    "phFeatures2": "<b>Sider Vision</b>: Keskustele kuvista GPT-4 Visionin avulla ja vie tekoälykeskustelun uudelle tasolle.",
+    "phFeatures3": "<b>Tekoälyryhmäkeskustelu</b>: Ota yhteyttä ChatGPT:n, GPT-4:n, Clauden ja Bardin kanssa yhdessä uraauurtavassa ryhmäkeskustelussa.",
+    "phFeatures4": "<b>We Are All Ears</b>: Palautteesi muokkaa Sideriä – jaa ajatuksesi, me kuuntelemme!",
+    "phVote2": "Äänestä <i>Product Huntista</i>",
+    "phVoteTips": "<b>Tämän päivän äänestys on avain</b> - Tue meitä nyt!",
+    "halloweenCountdown": "Karmiva Tarjous: <b>{{time}} jäljellä</b>",
+    "halloweenCountdown2": "{{price}} ALENNUSTA: <b>{{time}} jäljellä</b>",
+    "halloweenCardTitle": "Halloween-alennus",
+    "halloweenCardDesc": "Avaa karmivat säästöt",
+    "halloweenCardTitle2": "Nappaa Halloween-herkku",
+    "halloweenCardDesc2": "Nauti {{price}} ALENNUKSESTA",
+    "blackFridayCountdown": "Black Friday: <b>{{time}} jäljellä</b>",
+    "xmasCountdown": "Vuodenlopun alennus: <b>{{time}} jäljellä</b>"
+  },
+  "timeUnit": {
+    "day": "Päivä",
+    "day_one": "Päivä",
+    "day_other": "Päivää",
+    "hour": "Tunti",
+    "hour_one": "Tunti",
+    "hour_other": "Tuntia",
+    "minute": "Minuutti",
+    "minute_one": "Minuutti",
+    "minute_other": "Minuuttia",
+    "second": "Sekunti",
+    "second_one": "Sekunti",
+    "second_other": "Sekuntia"
+  },
+  "searchTool": {
+    "questionMark": "Käynnistä ChatGPT lisäämällä kysymysmerkki kyselysi jälkeen",
+    "fiveStart": "Pidätkö tästä laajennuksesta? Anna meille 5 tähden arvio osoitteessa {{store}}",
+    "loginAndCloudflareCheck": "Kirjaudu sisään ja läpäise Cloudflare-tarkastus osoitteessa {{web}}",
+    "braveTrouble": "Ei toimi vieläkään? Seuraa {{url}}",
+    "cloudflareCheck": "OpenAI vaatii turvatarkastuksen läpäisemistä silloin tällöin. Jos tämä toistuu, vaihda tekoälyn tarjoajaksi OpenAI API <i>laajennusvaihtoehdoissa</i>.",
+    "failedResponse": "ChatGPT:n vastauksen lataaminen epäonnistui:",
+    "whenToAskTips": "Jokainen haku kuluttaa yhden peruskrediitin. Klikkaa tästä asettaaksesi, milloin ChatGPT kysyy.",
+    "waitResponse": "Odotetaan ChatGPT-vastausta..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> 5 tähden arvostelua",
+    "AIContentWarning": "AI-luotettu sisältö ei välttämättä ole aina aitoa",
+    "activeUsers": "<num>5M+</num> aktiivista käyttäjää",
+    "copyIamge": "Kopioi kuva",
+    "copyLink": "Kopioi linkki",
+    "downloadImage": "Lataa kuva",
+    "generateImage": "Luo kuva",
+    "generateLink": "Luo linkki",
+    "linkCopied": "Linkki kopioitu",
+    "linkGenerated": "Linkki luotu",
+    "qrcodeTip": "Skannaa saadaksesi {{APP_NAME}}!",
+    "selectAll": "Valitse kaikki",
+    "shareOn": "Jaa",
+    "slogan": "Sinun AI-avustajasi",
+    "socialMediaImageCopiedTip": "Kuva kopioitu ja valmis liitettäväksi."
+  },
+  "sidepanel": {
+    "title": "Sider tukee kiinteää sivupalkkia",
+    "tip": "Vinkki: Säädä sivupaneelin leveys sopivaksi saadaksesi paremman käyttökokemuksen.",
+    "benefit1": "Sider-sivupalkkisi <b>ei koskaan katoa</b>, jos siirryt uudelle sivulle.",
+    "benefit2": "Voit keskustella kaikkien välilehtien välillä ilman <b>sisällön päällekkäisyyttä</b>.",
+    "benefit3": "Saatavilla vain <b>Google Chrome 114:ssä tai uudemmassa</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Maksaa 1 peruskrediitin ja 1 lukijakyselyn",
+    "smartPlayCost": "Kustannus 1 nopea tekstikysely ja 1 lukijakysely, ääneenluku laskutetaan käytön mukaan",
+    "smartPlayOnlyCost": "ääneenluku laskutetaan käytön mukaan",
+    "videoSummaryBtn": "Yhteenveto videosta",
+    "videoSummaryMakeFullBtn": "Tee täydellinen yhteenveto",
+    "keyMomentsCollapse": "Kutista",
+    "keyMomentsClickExpand": "Napsauta laajentaaksesi",
+    "originalSubtitles": "Alkuperäiset tekstitykset",
+    "transcribing": "Transkribointi",
+    "expandAll": "Laajenna kaikki",
+    "loginToAsk": "Kirjaudu sisään kysyäksesi",
+    "videoSummaryText": "Videon yhteenveto",
+    "summary": "Tiivistä",
+    "smartPlay": "视频速览",
+    "createShortenVideo": "Luo lyhyt video",
+    "smartPlayBtnTips": "Katso lyhyt video, joka auttaa sinua saamaan tärkeimmät kohokohdat nopeasti ja säästämään aikaa.",
+    "shortenVideoTips": "Muuta tämä video tiiviiksi yhteenvetovideoksi, joka sisältää keskeiset kohdat!",
+    "smartPlaySwtichVoiceTitle": "Krediittien vähennyksen ilmoitus",
+    "smartPlaySwitchVoiceContent": "Äänen vaihtaminen vähentää krediittejä uudelleen koko videon käsikirjoituksen pituuden perusteella. Video jatkuu nykyisestä kohdasta. Haluatko jatkaa?",
+    "smartPlaySwitchVoiceBtn": "Kyllä, vaihda ääni",
+    "smartPlaySwitchVoiceCancel": "Ei, peruuta",
+    "smartPlayReturnToCurrentProgress": "Palaa nykyiseen edistymiseen",
+    "smartPlayPlaybackEnded": "Kohokohtien toisto päättyi",
+    "showHighlights": "Näytä kohokohdat",
+    "hideHighlights": "Piilota kohokohdat",
+    "previousHighlight": "Edellinen kohokohta",
+    "nextHighlight": "Seuraava kohokohta",
+    "showSubtitles": "Näytä tekstitykset",
+    "hideSubtitles": "Piilota tekstitykset",
+    "fullScreen": "Koko näyttö",
+    "playbackSpeed": "Toiston nopeus",
+    "subtitle": "Tekstitys",
+    "subtitles": "Tekstitykset",
+    "responseLanguage": "Vastauskieli",
+    "bilingual": "Kaksikielinen",
+    "subtitleFailed": "Tekstitykset eivät ladanneet",
+    "videoTooLang": "Yhteenvedon tekemiseksi videoiden on oltava alle 10 tuntia pitkiä.",
+    "displayTranslation": "Näytä käännös",
+    "noSubtitleTips": "Yhteenvedot ovat saatavilla tällä hetkellä vain tekstityksellisille videoille.",
+    "shareToComment": "Jaa kommentoidaksesi",
+    "generatedBy": "Luotu käyttäjän {{name}} toimesta",
+    "shownotes": "Kohokohdat",
+    "freeLimitTips": "Ilmainen kokeilujaksosi on käytetty loppuun. Päivitä nyt jatkaaksesi videoyhteenvetoominaisuuden käyttöä.",
+    "askQuestionBtn": "Vastaa",
+    "noQuestionTip": "{{APP_NAME}} ei pysty saamaan ongelmaa sivulle.",
+    "targetLanguage": "Kohdekieli",
+    "whisperCostText": "Tässä videossa ei ole ulkoisia tekstityksiä ja se vaatii litterointia yhteenvedon tekemiseksi. (1 Advanced Credit/10 min tai vähemmän)"
+  },
+  "quickActions": {
+    "requireSignin": "Sisäänkirjautuminen vaaditaan",
+    "siginHint": "Kirjaudu sisään käyttääksesi tätä ominaisuutta.",
+    "askAI": "Kysy {{name}}",
+    "defaultPlaceholder": "Kysy sovellukselta {{APP_NAME}} mitä tahansa",
+    "defaultPlaceholder2": "Kysy sovellukselta {{APP_NAME}} yllä olevalla sisällöllä",
+    "managePrompts": "Hallinnoi kehotteita",
+    "pressToClose": "Sulje painamalla {{name}}",
+    "disableOnce": "Piilota seuraavaan vierailuun asti",
+    "disableSite": "Poista käytöstä tällä sivustolla",
+    "disableGlobal": "Poista käytöstä kaikilla sivustoilla",
+    "continueImproving": "Jatka parantamista",
+    "dictExample": "Esimerkki:"
+  },
+  "wisebase": {
+    "inbox": "AI Saapuneet",
+    "myWisebase": "Minun {{name}}",
+    "highlight": "Korosta",
+    "unhighlight": "Poista korostus",
+    "HighlightInvalid": "Kohokohdat puuttuvat",
+    "HighlightInvalidDesc": "Tämän verkkosivun muutosten vuoksi kohokohdat eivät ole enää näkyvissä. Voit silti käyttää niitä <a>{{name}}</a>.",
+    "viewInSite": "Näytä sivustolla",
+    "addCollection": "Lisää {{name}}",
+    "savePage": "Tallenna sivu",
+    "editSavedPage": "Muokkaa tallennettua sivua",
+    "failedToSave": "Tallennus epäonnistui",
+    "failedToDelete": "Poisto epäonnistui",
+    "pageRemoved": "Sivu poistettu",
+    "removePage": "Poistetaanko sivu?",
+    "removePageDesc": "Tämä poistaa sivun ja sen kohokohdat.",
+    "saving": "Tallennetaan",
+    "pageSaved": "Sivu tallennettu",
+    "vistMyWisebase": "Avaa {{name}}",
+    "errNameExists": "Nimi on jo käytössä"
+  },
+  "msg": {
+    "searchNotFound": "Ei tuloksia löytynyt",
+    "iosDownload": "Lataa iOS / Android -sovellus",
+    "notSupportFile": "Tiedostomuotoa ei tueta",
+    "supportedFileFormat": "Tuetut tiedostomuodot ovat {{formats}}",
+    "maxFileSize": "Tiedoston enimmäiskoko on {{size}}",
+    "maxSize": "Maksimikoko: {{num}}",
+    "fetchFailed": "Kuvaa ei voitu noutaa. Voit ladata sen ja lähettää sen manuaalisesti.",
+    "enterAPIKey": "Anna OpenAI API-avaimesi",
+    "selectModel": "Valitse kelvollinen malli",
+    "changeSaved": "muutokset tallennettu",
+    "fiveStart": "Anna meille 5 tähteä",
+    "inviteTitle": "Kutsu ja palkinnot",
+    "inviteEarn": "Ansaitse <mx>{{num}} krediittiä</mx> itsellesi ja ystävillesi. <b>Mitä enemmän suosittelet, sitä enemmän ansaitset</b>.",
+    "inviteStep1": "Suosittele ystäviäsi Kutsulinkin avulla",
+    "inviteStep2": "Ystäväsi ilmoittautuvat",
+    "inviteStep3": "He asentavat laajennuksen ja kirjautumisen. Palkinnot ansaittu!",
+    "checkInvitation": "Tarkista kutsutiedot",
+    "invitedRewardObtained": "Palkinnot saatu!",
+    "invitedWelcome": "Tervetuloa! GPT-krediitit on lisätty tilillesi!",
+    "inviteFriendJoin_one": "{{count}} ystävä liittyi",
+    "inviteFriendJoin_other": "{{count}} ystävää liittyi",
+    "getMoreGPT4": "Hanki lisää edistyneitä krediittejä",
+    "ttsChooseVoice": "Valitse ääni",
+    "ttsChooseVoiceLater": "Voit muuttaa tätä myöhemmin.",
+    "ttsCharacterLimit": "Merkkiraja saavutettu",
+    "ttsCharacterLimitDesc": "AI Lue ääneen -toiminnolla on {{count}}-merkkiraja. Valitse lyhyempi teksti tai käytä ilmaista ääntä.",
+    "ttsCharacterLimitDesc2": "Tämä viesti on liian pitkä AI-äänien luettavaksi. Voit käyttää ilmaista ääntä sen sijaan.",
+    "ttsCreditLimit": "Riittämättömät perusluotot",
+    "ttsCreditLimitDesc": "Sinulla ei ole tarpeeksi perusluottoja tälle äänelle. Päivitä suunnitelmasi tai käytä ilmaista ääntä.",
+    "ttsChangeVoiceTip": "Luottojen vähennyksen ilmoitus",
+    "ttsChangeVoiceTipDesc": "Äänen vaihtaminen toiseen vähentää luottoja uudelleen. Haluatko varmasti jatkaa?",
+    "dontRemindAgain": "Älä kysy minulta uudestaan",
+    "failToPlay": "Toisto epäonnistui",
+    "onlyOneRequest": "Aktiivinen pyyntö käynnissä",
+    "onlyOneRequestDesc": "Tililläsi on aktiivinen pyyntö - vain yksi pyyntö kerrallaan. Yritä myöhemmin uudelleen.",
+    "basicCreditLimit": "Peruskrediitit loppu",
+    "basicCreditLimitDesc": "Olet käyttänyt kaikki peruskrediittisi. Päivitä suunnitelmasi tai kutsu ystäviä saadaksesi lisää krediittejä.",
+    "errSiderLoginExpired": "Kirjautumisesi on vanhentunut, kirjaudu uudelleen",
+    "errSiderAdminKickout": "Sinut on kirjattu ulos, kirjaudu uudelleen",
+    "errSiderUserBanned": "Tilisi on jäädytetty havaitun epätavallisen toiminnan vuoksi (esim. sääntörikkomukset tai tilin jakaminen). Jos sinulla on kysyttävää, lähetä meille sähköpostia osoitteeseen care@sider.ai ja liitä mukaan tilitietosi.",
+    "errSiderDeviceLimitLogout": "Sinut on kirjattu ulos, koska laiteraja on saavutettu. Voit kirjautua uudelleen, mikä kirjaa ulos tilisi aikaisimman aktiivisen laitteen.",
+    "errSiderApiTrialFeatLimit": "Olet saavuttanut premium-ominaisuuden kokeilurajan. Päivitä avataksesi kaikki ominaisuudet.",
+    "errSiderApiLimitDevice": "Ole hyvä ja kirjaudu sisään käyttääksesi.",
+    "errSiderApiLimitLogin": "Olet käyttänyt kaikki ilmaiset krediitit tänään. Päivitä tai kutsu ystäviä saadaksesi lisää, tai odota huomiseen krediittien nollaukseen.",
+    "errSiderApiLimitPremium": "Tämän kuukauden peruskrediittisi on käytetty. Vaihda edistyneisiin krediitteihin, odota seuraavan kuukauden nollautumista (tilauspäivä) tai päivitä saadaksesi lisää.",
+    "errSiderApiLimitPremiumDiscount": "Olet käyttänyt kaikki krediittisi. Päivitä nyt saadaksesi rajoittamattomat krediitit <b>$1</b> alennuksella.",
+    "errSiderTranslateApiLimitPremium": "Tämän kuukauden peruskrediittisi on käytetty. Odota seuraavan kuukauden nollautumista (tilauspäivä) tai päivitä saadaksesi lisää.",
+    "errSiderApiImageLimit": "Olet käyttänyt kaikki peruskrediitit, ole hyvä ja päivitä jatkaaksesi tämän ominaisuuden käyttöä.",
+    "errSiderApiSummaryVideoLimit": "Olet käyttänyt kaikki krediittisi. Päivitä tai kutsu ystäviä saadaksesi lisää.",
+    "errSiderApiOcrLimit": "Olet käyttänyt kaikki peruskrediittisi. Päivitä jatkaaksesi tämän ominaisuuden käyttöä.",
+    "errSiderApiImgLimitPremiumUltra": "Olet saavuttanut peruskrediittien enimmäismäärän. Odota seuraavaa nollausta jatkaaksesi käyttöä.",
+    "errSiderPremiumRequired": "Tämä ominaisuus on vain premium-käyttäjien käytettävissä. Päivitä nyt avataksesi tämän toiminnon.",
+    "errSiderHighTrafficError": "Suuren liikenteen vuoksi yritä myöhemmin uudelleen tai päivitä premium-tiliin nopeuttaaksesi pääsyä.",
+    "errSiderHighTrafficTip": "Harkitse <a>päivittämistä premium-tiliin</a> vakaan käyttöoikeuden ja kehitystyömme tukemiseksi.",
+    "errSiderDeviceBinded": "Ole hyvä ja kirjaudu sisään käyttääksesi.",
+    "errSiderApiHighLoad": "OpenAI-palvelin on tällä hetkellä varattu. Yritä uudelleen myöhemmin.",
+    "errSiderGPT4HighLoad": "OpenAI-palvelin on tällä hetkellä varattu. Yritä uudelleen myöhemmin.",
+    "errSiderOpenaiFault": "Openai-palvelin on varattu. Vaihda malliin {{model}} OpenAI-katkon aikana.",
+    "errServiceUnavailable": "Openai-palvelin on varattu, yritä myöhemmin uudelleen tai vaihda Sider API:hen ja käytä {{model}} OpenAI-katkon aikana.",
+    "errSiderGPT4LimitDevice": "Ole hyvä ja <b>kirjaudu sisään</b> ensin, ja <amb>kutsu ystäväsi</amb> tai <ta>päivitä premiumiin</ta> saadaksesi lisää edistyneitä krediittejä.",
+    "errSiderGPT4LimitLogin": "Päivitä tai kutsu ystäviä avataksesi lisää edistyneitä krediittejä saadaksesi tarkempia vastauksia.",
+    "errSiderGPT4LimitPremium": "Olet käyttänyt kaikki kuukausittaiset Advanced Credits -krediittisi. Päivitä suunnitelmasi saadaksesi korkeamman kuukausikiintiön tai osta Advanced Credits -lisäpaketti välittömään käyttöön!",
+    "errSiderGPT4LimitPremiumDiscount": "Tämän kuukauden edistyneet krediittisi on käytetty. Päivitä nyt saadaksesi rajoittamattomat krediitit <b>$1</b> alennuksella, tai odota seuraavan kuukauden nollausta (tilauspäivä).",
+    "errSiderDataAnalysisCredit": "Tämä vastaus tarvitsee Data-analyysin (1 Edistynyt krediitti). Edistyneet krediitit ovat loppuneet, joten päivitä tai kutsu ystäviä saadaksesi lisää!",
+    "errSiderNeedLogin": "Ole hyvä ja kirjaudu sisään käyttääksesi.",
+    "errGeminiPro": "{{GEMINI}} virhe, yritä myöhemmin uudelleen.",
+    "errSiderO1Limit1": "OpenAI o1 -malli on erittäin kysytty ja on saavuttanut kiintiörajan. Älä huoli, voit myös esittää OpenAI o1 -kysymyksiä ilmaiseksi yhteisömme ylläpitämällä K&A-sivustolla: <a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "Tarvitset lisää Advanced Credits -krediittejä. Jokainen 10 minuuttia (tai vähemmän) ääntä maksaa 1 Advanced Credit -krediitin. Päivitä tai kutsu ystäviä saadaksesi lisää!",
+    "goToSignIn": "Mene kirjautumaan sisään",
+    "errSiderTimeout": "Pyyntö aikakatkaistiin. Yritä uudelleen.",
+    "errSiderProcessing": "Vain yksi viesti kerrallaan. Anna muiden vastausten valmistua ennen uuden viestin lähettämistä tai odota hetki.",
+    "errTrySiderAPI": "Vaihda <i>ChatGPT-sivupalkin sovellusliittymään</i> saadaksesi vakaan pääsyn (kaikki)",
+    "errTrySiderAPI2": "TAI käytä omaa API-avainta <a>asetussivulla</a> (kehittäjille)",
+    "errChatGPTAuth": "<m>Kirjaudu sisään </m>ChatGPT-verkkosivullesi napsauttamalla linkkiä, niin autamme sinua kiinnittämään sen. Sitten voit käyttää sitä sivupalkissa.",
+    "errChatGPTAuthTipTitle": "Jos se ei toimi:",
+    "errChatGPTFailToFetch": "ChatGPT:ltä ei saatu vastausta.",
+    "errOpenaiFailToFetch": "OpenAI:lta ei saada vastausta API-avaimesi kautta.",
+    "errSiderCreditUsageLimit": "Käyttöraja saavutettu",
+    "errSiderCreditFreqLimit": "Olet saavuttanut nykyisen käyttörajan. Tämä rajoitus varmistaa oikeudenmukaisen käytön kaikille käyttäjille. Yritä uudelleen {{count}} minuutin kuluttua.",
+    "errSiderBasicTextLimit": "Olet saavuttanut perusluoton rajoituksen. Tällä hetkellä rajoitus on {{count}} viestiä 60 minuutin aikana. Vaihtoehtoisesti voit käyttää edistynyttä luottoa ja palata myöhemmin.",
+    "errSiderAdvancedTextLimit": "Olet saavuttanut edistyneen luoton rajoituksen. Tällä hetkellä rajoitus on {{count}} viestiä 60 minuutin aikana. Vaihtoehtoisesti voit käyttää perusluottoa ja palata myöhemmin.",
+    "errSiderUnlimitedLimit": "Olet saavuttanut väliaikaisen rajan ({{timesToUse}} kertaa / {{periodTime}} tunti) Advanced Credits -krediiteille. Yritämme hankkia sinulle lisää krediittejä. Uusia krediittejä on saatavilla {{resetTime}}. Tarvitsetko lisää nyt? Kokeile booster pack -pakettia!",
+    "errorOutputLimit": "Pituusraja saavutettu. Päivitä saadaksesi pidemmän vastauksen.",
+    "errorFileType": "Tiedostomuotoa ei tueta",
+    "error1139_1": "Kiitos, että käytät rajattomia suunnitelmia! Voit edelleen käyttää edistyneitä tekoälymalleja. Olet kuitenkin saavuttanut tilapäisen nopeusrajoituksen. <a>Tässä on syy, miksi nopeusrajoitus on olemassa ja miten yritämme auttaa sinua</a>. Ole hyvä ja <mx>LUE SE</mx>.",
+    "error1139_1_2": "Kiitos, että käytät rajattomia suunnitelmia! Voit edelleen käyttää edistyneitä tekoälymalleja. Olet kuitenkin saavuttanut tilapäisen nopeusrajoituksen ja käyttänyt kaikki ylimääräiset edistyneet kyselyt. Tässä on <a>miksi nopeusrajoitus on olemassa ja miten yritämme auttaa sinua</a>. Ole hyvä ja <mx>LUE SE</mx>.",
+    "error1139_1_3": "Kiitos, että käytät rajattomia suunnitelmia! Voit edelleen käyttää edistyneitä tekoälymalleja. Olet kuitenkin saavuttanut tilapäisen nopeusrajoituksen ja käyttänyt kaikki lahjaksi saadut edistyneet kyselyt. Tässä on <a>miksi nopeusrajoitus on olemassa ja miten yritämme auttaa sinua</a>. Ole hyvä ja <mx>LUE SE</mx>.",
+    "error1139_2": "Jotta emme keskeyttäisi nykyistä työtäsi, olemme antaneet sinulle lahjaksi joitakin ylimääräisiä edistyneitä kyselyjä nykyisen nopeusrajoituksen avaamiseksi. <b>Kun olet käyttänyt kaikki nämä ylimääräiset edistyneet kyselyt, sinulla on nopeusrajoitus</b>.",
+    "error1139_3": "Nykyinen nopeusrajoitus on ({{timesToUse}} kertaa / {{periodTime}} tuntia) edistyneissä kyselyissä. Saatamme säätää sitä kapasiteettiemme mukaan. Tarvitsetko lisää nyt? Kokeile tehopakettia!",
+    "error1139_4": "Olemme antaneet sinulle lahjaksi 50 ylimääräistä edistynyttä kyselyä nykyisen nopeusrajoituksen avaamiseksi. <b>Kun olet käyttänyt kaikki nämä ylimääräiset edistyneet kyselyt, sinulla on nopeusrajoitus.</b>",
+    "loginAndCloudflareCheck": "Vaihda <a>Sidebar-sovellusliittymään</a> saadaksesi vakaan pääsyn TAI kirjaudu sisään ja läpäise Cloudflare-tarkistus osoitteessa <i>chat.openai.com</i>",
+    "invalidApiKey": "API-avain on virheellinen, hanki toinen.",
+    "getApiKeyGuide": "Tarvitset OpenAI API-avaimen, jotta se toimii. Noudata oppaamme saadaksesi API-avain.",
+    "thankForFeedback": "Kiitos. Lomake lähetettiin onnistuneesti. Otamme sinuun yhteyttä pian.",
+    "writeSomething": "Kirjoita jotain.",
+    "enterEmail": "Anna sähköpostiosoite saadaksesi päivityksiä ongelmasta.",
+    "emailRequired": "Sähköposti vaaditaan.",
+    "promptNameRequired": "Kehotteen nimi on pakollinen.",
+    "titleRequired": "Otsikko vaaditaan.",
+    "nameYourPrompt": "Nimeä kehote",
+    "nameYourTitle": "Nimeä keskustelusi",
+    "promptTplRequired": "Nopea sisältö vaaditaan.",
+    "deletePromptWarn": "Haluatko poistaa tämän kehotteen?",
+    "restorePromptWarn": "Haluatko palauttaa tämän kehotemallin?",
+    "notValidEmail": "ei kelvollinen sähköposti",
+    "signinTips": "Kirjaudu sisään synkronoidaksesi kehotteet ja asetukset",
+    "signinAward": "Kirjaudu sisään saadaksesi {{num}} <span>ILMAISTA</span> krediittiä päivässä",
+    "signinAward2": "Kirjautumattoman käyttäjän krediitit on käytetty. Voit kirjautua sisään saadaksesi <b>{{num}} ilmaista krediittiä päivässä</b>.",
+    "signinAward3": "Kirjaudu sisään saadaksesi lisää krediittejä päivässä",
+    "signinAward4": "Aloita maaginen AI-matka selaimesi kanssa ja saat {{num}} <span>ILMAISTA</span> krediittiä joka päivä",
+    "chatgptTabGuardTips": "Pidä tämä välilehti auki, nyt voit palata sovellukseen {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Jotain meni pieleen ChatGPT:ssä. Yhdistetään uudelleen, odota...",
+    "chatgptTabGuardRefreshingTips1": "Jotain meni pieleen ChatGPT:ssä.",
+    "chatgptTabGuardRefreshingTips2": "Yhdistetään uudelleen, odota...",
+    "chatgptTabGuardSetupSuccessTips": "Korjattu, yritä uudelleen",
+    "switchToSiderApiToContinue": "Tämä ominaisuus tukee tällä hetkellä vain {{APP_NAME}} API-tilaa. Jatka <a>vaihtamalla {{APP_NAME}} API:hen</a>.",
+    "switchRequired": "Vaihda {{APP_NAME}}:iin?",
+    "switchToSiderDesc": "Käyttääksesi tätä ominaisuutta, vaihda AI-käyttötapasi {{APP_NAME}}:iin.",
+    "signInRequired": "Sisäänkirjautuminen vaaditaan",
+    "useUpUpgrade": "Krediittisi on käytetty, päivitä saadaksesi lisää krediittejä.",
+    "featureLimit": "Ominaisuusrajoitus",
+    "featureLimitTip": "Päivitä käyttämään Claude and Bardia.",
+    "featureUnavailableOnPage": "Ei voi suorittaa tällä sivulla",
+    "featureBrowserLimit": "Tämä sivu ei tue selainlaajennuksia. Rajoitettuja sivuja ovat yleensä uudet välilehdet, verkkokauppa, muut laajennukset ja asetukset (chrome:// URL-osoitteet). Kokeile sen sijaan tavallista sivua.",
+    "localFileAccessRequiredTitle": "Tiedostojen käyttö vaaditaan",
+    "localFileAccessRequiredDesc": "Käyttääksesi laajennusta paikallisten tiedostojen kanssa, mene laajennuksen asetuksiin ja kytke päälle \"<b>Salli pääsy tiedosto-URL-osoitteisiin</b>\".",
+    "localFileAccessRequiredBtn": "Siirry laajennuksen asetuksiin",
+    "quotaModelContent": "GPT-4/Claude-2 kyselyrajasi on saavutettu. Päivitä Premium-suunnitelmaan saadaksesi lisää käyttöä, tai kutsu ystäviä saadaksesi ilmaisia lisäkrediittejä.",
+    "signinFeature": "Kirjaudu sisään käyttääksesi tätä ominaisuutta",
+    "dragImgTips": "Klikkaa ladataksesi tai pudota kuva tähän",
+    "dragTips": "Klikkaa ladataksesi tai pudota tiedostot tähän",
+    "fileSizeTip": "Maksimikoko: 100MB kultakin. Enintään 5 tiedostoa.",
+    "reEnableInSettings": "Voit ottaa sen uudelleen käyttöön <a>asetuksissa</a>",
+    "switchBarTip": "Kiinnitä navigointipalkki laajentamalla sivupaneelia.",
+    "upgradeSupport": "Päivitä premium-sopimukseen tukeaksesi meitä",
+    "upgradeSupport2": "Päivitä lisäominaisuuksia varten",
+    "imageSizeLimit": "Kuvan rajoitus",
+    "fileSizeLimit": "Tiedosto on liian suuri",
+    "imageSizeLimitTip": "Varmista, että kuva on pienempi kuin 10 Mt ja sen leveys tai korkeus ei ylitä 4096 pikseliä, ja yritä sitten uudelleen.",
+    "fileSizeLimitTip": "Tiedosto ylittää 100MB latausrajan. Pienennä tiedoston kokoa ja yritä uudelleen.",
+    "errOpenAIFilter": "Vastaus suodatettiin, koska kehotteesi laukaisi OpenAI:n sisällönhallintapolitiikan. Muokkaa kehotettasi ja yritä uudelleen.",
+    "unreadableMsg": "Tältä sivulta ei löydy pääsisältöä. Kokeile toista sivua.",
+    "unreadableTitle": "Pääsisältö puuttuu",
+    "noSubtitleMsg": "Videossa ei ole tekstitystä, eikä sitä voida tiivistää.",
+    "noSubtitleTitle": "Tiivistelmää varten vaaditaan tekstitys",
+    "fileLimit": "Tämän tiedoston käsittelemiseksi ota käyttöön edistynyt data-analyysityökalu. Se maksaa 1 edistyneen krediitin per käyttö. Haluatko ottaa sen käyttöön ja jatkaa?",
+    "fileLimitFree": "Lähettämäsi tiedosto vaatii kehittynyttä datan analysointia käsittelyä varten. Päivitä nyt avataksesi tämän ominaisuuden.",
+    "openLastConversationTitle": "Avata viimeisin keskustelu?",
+    "openLastConversationContent": "Nyt voimme asettaa, palauttaako sivupalkki viimeisimmän keskustelun aina käynnistyessään.",
+    "openLastConversationCancel": "Selvä",
+    "openLastConversationOk": "Siirry asetuksiin",
+    "keepConversationTip": "Joka kerta kun avaat Siderin, uusi chat alkaa. Jatkaaksesi viimeistä chattia, säädä <a>asetuksia</a>.",
+    "uploadFailed": "\"{{FILENAME}}\"-tiedoston lataus epäonnistui.",
+    "askOriginalModel": "Alkuperäinen {{MODELNAME}}",
+    "videoTooLang": "Video on liian pitkä (max 10 tuntia). Valitse lyhyempi video.",
+    "somethingWrong": "Jokin meni pieleen. Yritä myöhemmin uudelleen.",
+    "cantBeTranscribed": "Tämän videon tiivistäminen ei ole mahdollista tekijänoikeusrajoitusten vuoksi. Yritä toista videota.",
+    "notSupportLiveVideo": "Live-videon tiivistäminen ei ole tuettuna tällä hetkellä."
+  },
+  "options": {
+    "title": "Vaihtoehdot",
+    "shortcut": {
+      "tips": "Kirjoita pikakomento"
+    },
+    "theme": {
+      "auto": "Automaattinen",
+      "light": "kirkas tila",
+      "dark": "tumma tila"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Aina",
+        "desc": "Aina"
+      },
+      "questionMark": {
+        "title": "Kysymysmerkki",
+        "desc": "Kun kysely päättyy kysymysmerkkiin"
+      },
+      "manually": {
+        "title": "Käsin",
+        "desc": "Kun vastauspainiketta painetaan"
+      }
+    },
+    "sidebarLocation": {
+      "left": "vasen puoli",
+      "right": "oikea puoli"
+    },
+    "sidebarMode": {
+      "sidepanel": "Kiinteä sivupalkki",
+      "inpage": "Sivun sisäinen sivupalkki"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "Kun vaihdat välilehteä, Sider pysyy aina kiinteänä selaimen oikealla puolella.",
+      "inpage": "Kun vaihdat välilehteä, Sider ei pysy näkyvissä; sinun on avattava sivupalkki uudelleen uudella sivulla."
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "Selittää",
+        "template": "Selitä seuraava sisältö:"
+      },
+      "explain-codes": {
+        "title": "Selitä koodit",
+        "template": "Selitä seuraavat koodit:"
+      },
+      "translate": {
+        "title": "Kääntää",
+        "template": "Käännä seuraava sisältö {{lang}} kielelle:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Ilmainen suunnitelma",
+    "basic": "Perussuunnitelma",
+    "pro": "Pro Plan",
+    "ultra": "Rajoittamaton suunnitelma",
+    "starter": "Aloitusohjelma"
+  },
+  "shortPlanNames": {
+    "free": "Ilmainen",
+    "basic": "Perus",
+    "pro": "Pro",
+    "ultra": "Rajoittamaton",
+    "starter": "Aloitus",
+    "pocket": "Pocket"
+  },
+  "queryNames": {
+    "fast": "Perus",
+    "advanced": "Edistynyt",
+    "image": "Kuva",
+    "reader": "Lukija"
+  },
+  "upgradeModal": {
+    "off": "Alennus!",
+    "desc": "Lisää krediittejä ja enemmän ominaisuuksia",
+    "upgradeToUseXXX": "Päivitä <b>botin</b> käyttöön",
+    "getAllTTSVoices": "Avaa kaikki äänet",
+    "allVoices": "Kaikki äänet",
+    "getAllTTSVoicesDesc": "Tämä ääni on vain premium-käyttäjille. Päivitä nyt saadaksesi pääsyn kaikkiin ääniin.",
+    "getAllTTSVoicesDesc2": "Olet saavuttanut premium-äänien kokeilurajan. Päivitä nyt saadaksesi rajoittamattoman pääsyn 9 luonnollisen kuuloiseen AI-ääneen tai käytä ilmaista ääntä.",
+    "tryAllVoices": "Kokeile vapaasti kaikkia ääniä",
+    "getWebAccess": "Päivitä saadaksesi web-vastauksen",
+    "videoSummay": "Päivitä käyttääksesi videoyhteenvetoa",
+    "gpt4Desc": "GPT-4o on merkittävästi älykkäämpi ja voi auttaa sinua saamaan loogisempia ja tarkempia vastauksia.",
+    "claude3SonnetDesc": "Claude 3 Sonnet on hienostunut kielimalli tarkkaan ja vivahteikkaaseen viestintään.",
+    "claude35SonnetDesc": "Claude 3.5 Sonnet on Anthropicin uusin malli, joka tarjoaa kaksinkertaisen nopeuden Claude 3 Opukseen verrattuna ja korkeamman älykkyyden, parantaen merkittävästi päättelyä, tietämystä, koodausta ja visuaalisia tehtäviä.",
+    "claude3OpusDesc": "Claude 3 Opus on edistynyt tekoäly monimutkaisten tehtävien ratkaisemiseen huomattavalla tehokkuudella.",
+    "webAccessDesc": "Sider hakee vastaukset kysymyksiisi Googlelta ja käyttää tekoälyä tiiviissä organisoinnissa ja yhteenvedoissa.",
+    "videoSummaryDesc": "Olet saavuttanut ilmaisen käyttörajan. Jos haluat jatkaa tämän ominaisuuden käyttöä, harkitse premium-jäsenyyden päivittämistä."
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Tutustu rajojen yli!",
+      "pro": "Kiintiöraja saavutettu",
+      "ultra": "Kiintiöraja saavutettu"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Olet saavuttanut ilmaisen kiintiösi. Päivitä korkeampaan kiintiöön ja avaa lisäominaisuudet.",
+      "pro": "Olet saavuttanut tämän kuun kiintiösi. Päivitä lisäkiintiötä varten.",
+      "ultra": "Olet saavuttanut tämän kuun kiintiösi. Ota yhteyttä osoitteeseen <a>care@sider.ai</a> ja anna ehdotuksiasi."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Anna meille viisi tähteä",
+    "enjoy": "😘 Pidätkö tästä laajennuksesta?",
+    "enjoyNo": "Ei palautetta",
+    "enjoyYes": "Kyllä, 5 tähden arvio!",
+    "feedbackTip": "🥹 Kerro meille tyytymättömyytesi syy.",
+    "feedbackThx": "Kiitos palautteestasi."
+  },
+  "sidepanelPinGuide": {
+    "title": "Napsauta \"{{icon}}\"",
+    "desc": "Lisää {{APP_NAME}} työkalupalkkiisi nopeaa käyttöä varten"
+  },
+  "emailEnhance": {
+    "emailAssistant": "Sähköpostiavustaja",
+    "emailAssistantDesc": "Kun Sider on käytössä, se voi auttaa sinua vastaamaan nopeasti sähköposteihin.",
+    "hideTranslation": "Piilota käännös",
+    "inputPlaceholder": "Kerro Siderille, kuinka haluat vastata...",
+    "intent": "Lähettäjän tarkoitus",
+    "orgLang": "Sähköpostin Kieli",
+    "quickAIReply": "AI Vastaus",
+    "replyInputPlaceholder": "Mitä haluaisit vastata?",
+    "resultsTitle": "Vastausluonnos",
+    "showTranslation": "Näytä käännös",
+    "translateEmail": "Käännä sähköposti",
+    "tryAgain": "Yritä uudelleen",
+    "voice": {
+      "applicant": "Hakija",
+      "casual": "Rento",
+      "colleague": "Kollega",
+      "confident": "itsevarma",
+      "customer-service-staff": "Asiakaspalvelun henkilökunta",
+      "direct": "suoraan",
+      "emailLength": "Sähköpostin pituus",
+      "empathetic": "empaattinen",
+      "enthusiastic": "Intohimoinen",
+      "formal": "Muodollinen",
+      "formality": "Muodollisuus",
+      "friendly": "ystävällinen",
+      "human-resources": "henkilöstöhallinto",
+      "informational": "informatiivinen",
+      "leader": "Johtaja",
+      "long": "Pitkä",
+      "medium": "Keskikokoinen",
+      "neutral": "Neutraali",
+      "personable": "Rakas",
+      "project-manager": "Projektipäällikkö",
+      "sales-representative": "Myyntiedustaja",
+      "short": "Lyhyt",
+      "subordinate": "Alisteinen",
+      "tone": "Sävy",
+      "witty": "fiksu",
+      "yourRole": "Sinun roolisi"
+    },
+    "voiceSettings": "Äänen asetus",
+    "wayToReply": "Vastausideoita"
+  },
+  "searchEnhance": {
+    "getStarted": "Aloita nyt",
+    "adContent": "Älykkäämpi kuin GPT-4? Claude 3 on täällä! Kutsu ystäviäsi ja kokeile sitä ilmaiseksi!",
+    "noLoginAdContent": "Avaa tekoälyn voima: Etsi, lue, kirjoita, käännä nopeammin ja älykkäämmin!",
+    "noLoginBtn": "Liity yli 4 miljoonan tyytyväisen käyttäjän joukkoon!"
+  },
+  "imageToolbar": {
+    "AITools": "Tekoälytyökalut",
+    "chatWithImage": "Keskustele kuvan kanssa",
+    "extractText": "Poimi teksti",
+    "imageTools": "Kuvatyökalut",
+    "inpaint": "Korvaa siveltimellä käsitelty alue",
+    "removeBackground": "Poista tausta",
+    "removeText": "Poista teksti",
+    "replaceBackground": "Korvaa tausta",
+    "upscale": "Suurenna",
+    "variation": "Luo variaatioita"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "Hanki parempia vastauksia",
+      "Monipuolisempi tieto",
+      "Vahvempi ymmärrys"
+    ],
+    "claude3Advantages": [
+      "Yhtä voimakas kuin GPT-4",
+      "Luonnollisemmat vastaukset",
+      "Vahvat päättelykyvyt"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "Avaa verkkopääsy",
+      "text_to_image": "Avaa kuvan luonti",
+      "data_analysis": "Avaa Data-analyysi",
+      "artifacts": "Avaa {{ARTIFACTS}}",
+      "thinking_mode": "Avaa Ajattelutila"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "Parannettu ongelmanratkaisu",
+          "desc": "Hallitse monimutkaisia haasteita monivaiheisella päättelyllä!"
+        },
+        {
+          "title": "Kattava analyysi",
+          "desc": "Hanki syvällisiä näkemyksiä kriittisiin päätöksiin välittömästi."
+        },
+        {
+          "title": "Älykäs iterointi",
+          "desc": "Hio ratkaisuja vaivattomasti ohjatun ajattelun avulla."
+        }
+      ],
+      "search": [
+        {
+          "title": "Pysy Ajan Tasalla",
+          "desc": "Pääsy ajantasaiseen tietoon verkossa."
+        },
+        {
+          "title": "Paranna Tarkkuutta",
+          "desc": "Saa tarkempia ja relevanteimpia vastauksia."
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "Sytytä Luovuus",
+          "desc": "Muunna kuvaukset välittömästi korkealaatuisiksi."
+        },
+        {
+          "title": "Paranna Sisältöä",
+          "desc": "Paranna projektejasi mukautetuilla visuaaleilla."
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "Hanki Näkemyksiä",
+          "desc": "Analysoi ja visualisoi dataa helposti löytääksesi selkeän."
+        },
+        {
+          "title": "Koodaa Fiksummin",
+          "desc": "Hio, tulkkaa ja suorita koodia tehokkaaseen ongelmanratkaisuun."
+        },
+        {
+          "title": "Menesty Matematiikassa",
+          "desc": "Ratkaise monimutkaiset matematiikkaongelmat helposti ja tarkasti."
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "Parannettu tuottavuus",
+          "desc": "Muuta ideat konkreettisiksi tuotoksiksi välittömästi!"
+        },
+        {
+          "title": "Reaaliaikainen esikatselu",
+          "desc": "Visualisoi välittömästi tekoälyn luomat verkkosivut, asiakirjat ja kaaviot."
+        },
+        {
+          "title": "Saumaton iterointi",
+          "desc": "Hio artefakteja vaivattomasti luonnollisen keskustelun kautta."
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "Keskustele valitun tekstin kanssa",
+    "highlightSelection": "Korosta valittu teksti",
+    "summarizePage": "Yhteenveto sivusta",
+    "savePage": "Tallenna sivu kohteeseen {{name}}",
+    "revertSavePage": "Poista kohteesta {{name}}",
+    "translatePage": "Käännä kielelle {{lang}}",
+    "revertTranslatePage": "Näytä alkuperäinen teksti",
+    "imageTools": "{{AI}} Kuvatyökalut",
+    "togglePageTranslation": "Käännä sivu / Näytä alkuperäinen teksti",
+    "openFullPageChat": "Avaa koko sivun keskustelu"
+  },
+  "highlightType": {
+    "key-sentences": "Keskeiset lauseet",
+    "structural-importance": "Rakenteellinen tärkeys",
+    "comprehensive-coverage": "Kattava kattavuus",
+    "memorable-quotes": "Ikimuistoiset lainaukset"
+  },
+  "freeTrial": {
+    "panelTitle": "3 päivän rajoittamaton suunnitelma ilmainen kokeilu",
+    "panelList": [
+      "Keskustele vapaasti GPT-4:n ja Claude 3:n kanssa",
+      "Keskustele minkä tahansa PDF:n, kuvan ja linkin kanssa",
+      "Yhteenveto verkkosivuista ja YouTube-videoista"
+    ],
+    "panelBtn": "Aloita ilmainen kokeilu",
+    "cancelTip": "Peruuta milloin tahansa"
+  }
+}

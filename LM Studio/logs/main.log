@@ -1,0 +1,29 @@
+[2025-01-25 21:14:01.722] [info]  App starting...
+[2025-01-25 21:14:01.724] [info]  [AppUpdater] Update channel set to 'stable'
+[2025-01-25 21:14:03.176] [warn]  Failed to perform general hardware survey with bundled 'vulkan' LMSCore library. Error: Failed to perform hardware survey with bundled 'vulkan' liblmstudio. Error: LMSCore process using library '/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/bin/liblmstudio/vulkan/liblmstudio_bindings_vulkan.node' exited unexpectedly on command 'survey-hardware' with code: 134, stack: Error
+    at Proxy._0x32f376 (/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/main/index.js:24:279121)
+    at Object.onceWrapper (node:events:634:26)
+    at _0x5bcf99.emit (node:events:531:35)
+    at _0x5bcf99.onChildExit (/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/main/index.js:24:243719)
+    at _0x5bcf99.onChildExit (/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/main/index.js:24:277999)
+    at ForkUtilityProcess.<anonymous> (/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/main/index.js:24:243035)
+    at ForkUtilityProcess.emit (node:events:519:28)
+    at ForkUtilityProcess.a.emit (node:electron/js2c/browser_init:2:71438)
+[2025-01-25 21:14:03.256] [info]  Hardware survey for general system resources through 'cpu' took 79.54ms
+[2025-01-25 21:14:03.330] [info]  Hardware survey for general system resources through  'gpu shell' took 73.29ms
+[2025-01-25 21:14:03.490] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2025-01-25 21:14:03.490] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2025-01-25 21:14:03.490] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.3.8
+[2025-01-25 21:14:04.598] [info]  [AppUpdater] Received version info response
+[2025-01-25 21:14:04.598] [info]  [AppUpdater] Current version: 0.3.8 (build: 4), new version: 0.3.8 (build: 4)
+[2025-01-25 21:14:04.598] [info]  No update available: 0.3.8 (build: 4) <= 0.3.8 (build: 4)
+[2025-01-25 21:14:04.598] [info]  AppUpdater state changed to idle
+[2025-01-25 21:14:11.860] [warn]  Failed to survey hardware with backend 'llama.cpp-linux-x86_64-vulkan-avx2', version '1.10.0': LMSCore process using library '/home/bintor/.lmstudio/extensions/backends/llama.cpp-linux-x86_64-vulkan-avx2-1.10.0/liblmstudio_bindings_vulkan.node' exited unexpectedly on command 'survey-hardware' with code: 134, stack: Error
+    at Proxy._0x32f376 (/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/main/index.js:24:279121)
+    at Object.onceWrapper (node:events:634:26)
+    at _0x5bcf99.emit (node:events:531:35)
+    at _0x5bcf99.onChildExit (/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/main/index.js:24:243719)
+    at _0x5bcf99.onChildExit (/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/main/index.js:24:277999)
+    at ForkUtilityProcess.<anonymous> (/tmp/.mount_LM-StuALknZ5/resources/app/.webpack/main/index.js:24:243035)
+    at ForkUtilityProcess.emit (node:events:519:28)
+    at ForkUtilityProcess.a.emit (node:electron/js2c/browser_init:2:71438)

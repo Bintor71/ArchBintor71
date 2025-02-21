@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT Sidebar: Enhance workflow with ChatGPT, GPT-4o, Claude3.5, Gemini 1.5 Pro for advanced AI search, read, and write."
+   },
+   "appDescEdge": {
+      "message": "ChatGPT Sidebar: Enhance workflow with ChatGPT, GPT-4o, Claude3, Gemini 1.5 Pro for advanced AI search, read, and write."
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + GPT-4o, Claude 3.5, Gemini 1.5 & AI Tools"
+   },
+   "appNameEdge": {
+      "message": "Sider: ChatGPT Sidebar"
+   }
+}

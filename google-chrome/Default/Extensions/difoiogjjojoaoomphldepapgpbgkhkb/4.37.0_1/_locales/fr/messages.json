@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT Barre latérale : Améliorez flux de travail avec GPT-4o, Claude3.5, Gemini 1.5 pour recherches AI."
+   },
+   "appDescEdge": {
+      "message": "ChatGPT Barre latérale : Améliorez flux de travail avec GPT-4o, Claude3, Gemini 1.5 pour recherches AI."
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Barre latérale + GPT-4o, Claude 3.5, Gemini 1.5 & Outils IA"
+   },
+   "appNameEdge": {
+      "message": "Sider : Barre latérale ChatGPT"
+   }
+}

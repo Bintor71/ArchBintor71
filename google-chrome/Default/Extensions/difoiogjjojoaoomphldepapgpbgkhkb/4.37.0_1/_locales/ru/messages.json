@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT Боковая панель: Улучшите рабочие процессы с GPT-4o, Claude3.5, Gemini 1.5 для AI поиска и написания."
+   },
+   "appDescEdge": {
+      "message": "ChatGPT Боковая панель: Улучшите рабочие процессы с GPT-4o, Claude3, Gemini 1.5 для AI поиска и написания."
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Боковая панель + GPT-4o, Claude 3.5, Gemini & Инструменты ИИ"
+   },
+   "appNameEdge": {
+      "message": "Sider: Боковая панель ChatGPT"
+   }
+}

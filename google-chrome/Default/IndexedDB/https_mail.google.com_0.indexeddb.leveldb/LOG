@@ -1,0 +1,6 @@
+2025/01/29-10:45:20.481 59d Reusing MANIFEST /home/bintor/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/29-10:45:20.481 59d Recovering log #3
+2025/01/29-10:45:20.481 59d Reusing old log /home/bintor/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2025/01/29-10:46:51.223 59e Level-0 table #5: started
+2025/01/29-10:46:51.237 59e Level-0 table #5: 3052562 bytes OK
+2025/01/29-10:46:51.239 59e Delete type=0 #3

@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_popup": "index.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "chromeos": "Alt+C",
+            "default": "Alt+C",
+            "linux": "Alt+C",
+            "mac": "Alt+C",
+            "windows": "Alt+C"
+         }
+      }
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_appDesc__",
+   "host_permissions": [ "https://www.currency.wiki/*" ],
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhzCxhpHXgj8Oa5d2YjBfbhUpjpvw2AzS+HpJv/Itw1NpQnBFvYuF3WWwbGGpvC8cq+19QEvBvNhZql8YMHgIe2vhOoIqNOFWRZDX0oFUkst9OT64tF20mGDqWaEKZzpjrwBe8kpZhi0+m/9GZrHCkPM3zdYWble0ZWs4B6PiFBtbC5LBHXT8WOZ6rLzVc0BM8aZfQuhsEN6hI7vgujwfsEgSYnCGDmIBh0A4DSdirDZeg9CqbpgyxUS1DbvIQ2IZ3hAqrs669xDqZTJDpUK/E41dFpWt2kTYQMEg0zQ8ACPCVgqWeBrIaaInBTJaU/NY7Ez1jBC7Gmc50luhescI6QIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8"
+}

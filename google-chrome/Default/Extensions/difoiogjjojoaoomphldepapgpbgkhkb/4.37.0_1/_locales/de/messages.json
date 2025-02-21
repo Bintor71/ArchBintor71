@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT Seitenleiste: Verbessern Sie Workflows mit GPT-4o, Claude3.5, Gemini 1.5 für AI-Suche und -Schreiben."
+   },
+   "appDescEdge": {
+      "message": "ChatGPT Seitenleiste: Verbessern Sie Workflows mit GPT-4o, Claude3, Gemini 1.5 für AI-Suche und -Schreiben."
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Seitenleiste + GPT-4o, Claude 3.5, Gemini 1.5 & AI-Werkzeuge"
+   },
+   "appNameEdge": {
+      "message": "Sider: ChatGPT Seitenleiste"
+   }
+}

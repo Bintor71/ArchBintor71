@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT 사이드바: 고급 AI 검색, 읽기 및 쓰기를 위해 ChatGPT, GPT-4o, Claude3, & Gemini 사용."
+   },
+   "appDescEdge": {
+      "message": "ChatGPT 사이드바: 고급 AI 검색, 읽기 및 쓰기를 위해 ChatGPT, GPT-4o, Claude3, & Gemini 사용."
+   },
+   "appName": {
+      "message": "Sider: ChatGPT 사이드바 + GPT-4o, Claude 3 & Gemini AI"
+   },
+   "appNameEdge": {
+      "message": "사이드바: ChatGPT 사이드바"
+   }
+}

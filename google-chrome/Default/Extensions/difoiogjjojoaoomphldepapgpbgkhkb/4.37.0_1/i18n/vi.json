@@ -1,0 +1,2571 @@
+{
+  "sidebar": "thanh bên",
+  "shortcut": "Phím tắt",
+  "ask": "Hỏi",
+  "save": "Lưu nó",
+  "saved": "Đã lưu",
+  "delete": "Xóa bỏ",
+  "deleteAll": "Xóa tất cả",
+  "remove": "Di dời",
+  "cancel": "Hủy bỏ",
+  "close": "Đóng",
+  "minimize": "Thu nhỏ",
+  "disable": "Vô hiệu hóa",
+  "retry": "Thử lại",
+  "stop": "Dừng lại",
+  "pause": "Tạm dừng",
+  "play": "Phát",
+  "replay": "Phát lại",
+  "changeSpeed": "Thay đổi tốc độ",
+  "ttsDemo": "Mẫu",
+  "icon": "Biểu tượng",
+  "select": "Chọn",
+  "change": "Thay đổi",
+  "insert": "Chèn",
+  "replace": "Thay thế",
+  "ok": "ĐƯỢC RỒI",
+  "Loading": "Đang tải",
+  "thoughtProgress": "Quá trình suy nghĩ",
+  "submit": "Nộp",
+  "attention": "Để ý",
+  "welcome": "Chào mừng",
+  "send": "Gửi",
+  "copy": "Sao chép",
+  "auto": "Tự động",
+  "unpublish": "Hủy công khai",
+  "unpublishArtifact": "Hủy công khai Tài liệu",
+  "aiResCompare": "So sánh phản hồi AI",
+  "copied": "Đã sao chép",
+  "clear": "Thông thoáng",
+  "table": "Bảng",
+  "tryDemo": "Thử bản demo",
+  "translate": "Dịch",
+  "rewrite": "Viết lại",
+  "next": "Tiếp theo",
+  "prev": "Trước",
+  "hi": "Chào,",
+  "experimental": "Truy cập sớm",
+  "experimentalDesc": "Người dùng trả phí được truy cập sớm vào các công cụ độc quyền, tiên tiến và các tính năng thử nghiệm mà không có sẵn cho những người không đăng ký.",
+  "clickToTry": "Nhấp để thử tính năng này",
+  "detected": "Đã phát hiện",
+  "reset": "Đặt lại",
+  "upTo6file": "Tải lên tối đa 6 tệp",
+  "quote": "Trích dẫn",
+  "download": "Tải xuống",
+  "downloadTypeFile": "Tải xuống tệp {{type}}",
+  "collapse": "Thu gọn thanh bên",
+  "done": "Xong",
+  "trial": "Dùng thử",
+  "manage": "Quản lý",
+  "template": "bản mẫu",
+  "edit": "Biên tập",
+  "exit": "Thoát",
+  "add": "Thêm vào",
+  "feedback": "Nhận xét",
+  "fullscreenBookmarkTip": "Nhấp vào biểu tượng ngôi sao để đánh dấu trò chuyện toàn màn hình để dễ dàng truy cập lần sau!",
+  "tweetit": "Theo dõi chúng tôi trên {{X}}",
+  "joinDiscord": "Tham gia cộng đồng Discord của chúng tôi",
+  "whatsnewInvite": "Mời dùng thử miễn phí",
+  "fullPageChat": "Trò chuyện toàn trang",
+  "whatNew": "Tính năng mới",
+  "helpCenter": "Trung tâm trợ giúp",
+  "learnMore": "Tìm hiểu thêm",
+  "gotIt": "Hiểu rồi",
+  "you": "Bạn",
+  "settings": "Cài đặt",
+  "signin": "Đăng nhập",
+  "extractingText": "Đang trích xuất văn bản",
+  "extractingTextFailed": "Trích xuất văn bản thất bại",
+  "textExtracted": "Văn bản đã được trích xuất",
+  "audioExtractedText": "Văn bản trích xuất từ âm thanh",
+  "account": "Tài khoản",
+  "createAccount": "Tạo tài khoản",
+  "createAccountTip": "Đăng ký để nhận <a>{{NUM}} miễn phí</a> tín dụng mỗi ngày",
+  "free": "Miễn phí",
+  "signinNow": "Đăng nhập ngay bây giờ",
+  "unlimited": "Vô hạn",
+  "share": "Chia sẻ",
+  "toolMoveTip": "Công cụ trò chuyện có một ngôi nhà mới! Bạn có thể truy cập tất cả các điều khiển trò chuyện tại đây.",
+  "myChats": "Cuộc trò chuyện của tôi",
+  "general": "Cấu hình chung",
+  "archive": "lưu trữ",
+  "unarchive": "hủy lưu trữ",
+  "searchPage": "Trang tìm kiếm",
+  "addons": "tiện ích bổ sung",
+  "webStore": "Cửa hàng trên mạng",
+  "webApp": "ứng dụng web",
+  "webAccess": "Đăng nhập trang web",
+  "upgradeNow": "Nâng cấp ngay bây giờ",
+  "unlock": "Mở khóa",
+  "allFeatures": "Tất cả các tính năng",
+  "everyThing": "Mọi thứ",
+  "unlockFeatMsg": "Bạn đã đạt đến giới hạn của gói dịch vụ. Nâng cấp ngay để mở khóa tất cả các tính năng!",
+  "upgradeUnlock": "Nâng cấp để mở khóa ngay!",
+  "upgrade": "Nâng cấp",
+  "subscribe": "Đăng ký",
+  "language": "Ngôn ngữ",
+  "theme": "chủ đề",
+  "sendShortcut": "Gửi phím tắt",
+  "speechVoice": "Giọng nói",
+  "buyBooster": "Mua gói tăng cường",
+  "model": "Người mẫu",
+  "version": "Phiên bản",
+  "more": "Hơn",
+  "clickPreview": "Nhấp để xem trước",
+  "clickView": "Nhấn để xem",
+  "sendToChat": "Gửi đến chat",
+  "listen": "Nghe",
+  "openAnswerCompare": "So sánh song song",
+  "skip": "Nhảy",
+  "basic": "Cơ bản",
+  "advanced": "Nâng cao",
+  "superAdvanced": "Siêu tiên tiến",
+  "switchModel": "Chuyển đổi mô hình",
+  "switchVoice": "Chuyển giọng",
+  "changeVoice": "Thay đổi giọng",
+  "vote": "Bỏ phiếu",
+  "invite": "Mời",
+  "hide": "Ẩn",
+  "show": "Hiện",
+  "logout": "Đăng xuất",
+  "pin": "ghim lên",
+  "unpin": "bỏ ghim",
+  "showMore": "Cho xem nhiều hơn",
+  "editTitle": "Chỉnh sửa tiêu đề",
+  "summarize": "tóm tắt",
+  "summary": "Tóm tắt",
+  "fact-check": "Kiểm tra sự thật",
+  "highlight-excerpts": "Đánh dấu đoạn trích nổi bật",
+  "key-concepts": "Làm rõ các khái niệm chính",
+  "identify-assumptions": "Xác định các giả định",
+  "contrast-analysis": "Phân tích sự tương phản",
+  "about-author": "Tìm hiểu về tác giả",
+  "related-news": "Tìm tin tức liên quan",
+  "related-academic-research": "Xem các bài báo liên quan",
+  "related-videos": "Xem các video liên quan",
+  "keypoints": "Những điểm chính",
+  "quiz": "Đố",
+  "autoToText": "Tự động chuyển thành văn bản",
+  "textFromSelect": "Văn bản từ lựa chọn của bạn",
+  "textFromOCR": "Văn bản từ OCR",
+  "textFromTranslate": "Văn bản từ bản dịch",
+  "textFromWrite": "Văn bản từ viết",
+  "textFromSearch": "Văn bản từ tác nhân tìm kiếm",
+  "textFromGrammar": "Văn bản từ ngữ pháp",
+  "quoteText": "Trích dẫn",
+  "summarizing": "tổng kết",
+  "summarizeFailed": "Tóm tắt thất bại",
+  "answering": "trả lời",
+  "productivity": "Năng suất",
+  "generating": "Đang tạo",
+  "modelUpdateSuccess": "Đã cập nhật mẫu thành công",
+  "modelUpdateFailed": "Cập nhật mô hình không thành công",
+  "customPrompt": "Lời nhắc tùy chỉnh",
+  "currentTpl": "Mẫu hiện tại:",
+  "current": "Hiện hành",
+  "extra": "thêm",
+  "generatingTranscript": "Đang tạo bản ghi",
+  "transcriptGenerated": "Bản ghi đã được tạo",
+  "transcriptFailed": "Tạo bản ghi thất bại",
+  "transcriptReady": "Bản ghi đã sẵn sàng",
+  "audioTranscript": "Bản ghi âm thanh",
+  "audio-to-text": "Âm thanh thành văn bản",
+  "audio-summarize": "Tóm tắt",
+  "audio-meeting-minutes": "Biên bản cuộc họp",
+  "publishArtifact": "Xuất bản Artifact",
+  "uploadLocal": "Tải lên từ máy tính của bạn",
+  "openTabs": "Chọn từ các tab đã mở",
+  "editTpl": "Chỉnh sửa mẫu này",
+  "delteTpl": "Xóa mẫu này",
+  "restoreTpl": "Khôi phục mẫu này",
+  "archiveTpl": "Lưu trữ mẫu này",
+  "showTpl": "Hiển thị mẫu này",
+  "prompts": "Gợi ý",
+  "selectPrompt": "Chọn lời nhắc",
+  "imageRetryTip": "Đã xảy ra lỗi. Vui lòng thử lại.",
+  "mentionBot": "Đề cập đến mô hình",
+  "mentionGPTs": "Đề cập đến GPTs",
+  "promptName": "Nhắc tên",
+  "promptContent": "Nội dung nhắc nhở",
+  "PromptManage": "Quản lý Lời nhắc",
+  "contactUs": "Liên hệ chúng tôi",
+  "webAssistant": "Trợ lý web",
+  "quickAction": "Menu ngữ cảnh",
+  "promptManage": "Trình quản lý nhắc nhở",
+  "morePrompts": "Nhiều gợi ý hơn",
+  "addPrompts": "Thêm gợi ý",
+  "issueType": "các loại vấn đề",
+  "pinExt": "phần mở rộng ghim",
+  "yourEmailAddress": "Địa chỉ email của bạn",
+  "troubleshooting": "Xử lý sự cố",
+  "openSidebar": "Mở thanh bên",
+  "pasteSelection": "Dán lựa chọn",
+  "pasteTextPage": "Dán văn bản từ trang",
+  "getAnotherKey": "Nhận một chìa khóa khác",
+  "showSearchPanel": "Hiển thị bảng tìm kiếm",
+  "getItNow": "Lấy nó ngay",
+  "addTools": "Thêm Công cụ",
+  "toolsTitle": "Công cụ",
+  "notNow": "Không phải bây giờ",
+  "alwaysDisplay": "Luôn hiển thị",
+  "credit": "Tín dụng",
+  "credits": "Tín dụng",
+  "unlimitedCredits": "Tín dụng không giới hạn",
+  "total": "tổng cộng",
+  "getMore": "nhận được nhiều hơn",
+  "goPremium": "nâng cấp lên hạng sang",
+  "goPremiumGetMore": "nâng cấp lên cao cấp để nhận được nhiều hơn",
+  "myAccount": "Tài khoản của tôi",
+  "clickToAsk": "bấm vào để hỏi",
+  "searchingFor": "Tìm kiếm:",
+  "searchedFor": "Tìm kiếm:",
+  "conversationTip": "Cuộc trò chuyện này được tạo trong chế độ {{CHATPROVIDER}}. Chuyển chế độ để tiếp tục, hoặc bắt đầu cuộc trò chuyện mới trong chế độ hiện tại.",
+  "using": "sử dụng",
+  "used": "Đã sử dụng",
+  "switchAndContinue": "Chuyển chế độ",
+  "ExtractText": "Trích xuất văn bản",
+  "extracted": "Âm thanh đã được trích xuất",
+  "describleImage": "Mô tả",
+  "pricePerDay": "Ít hơn {{num}}/ngày",
+  "readingwriting": "Đọc & Viết",
+  "reading": "Đọc",
+  "writing": "Viết",
+  "compareWith": "So sánh với {{NAME}}",
+  "smarterWith": "Nhận câu trả lời thông minh hơn từ {{NAME}}",
+  "summarizePage": "Tóm tắt trang này",
+  "searched3": "Đã tìm kiếm 3 trang web",
+  "browseFiles": "Đã duyệt {{NUM}} tệp",
+  "browseFiles1": "Đã duyệt 1 tệp",
+  "readPage": "Đọc trang này",
+  "moreQueries": "Thêm tín dụng!",
+  "newPlan": "Kế hoạch mới",
+  "switchToXXX": "Chuyển sang {{model}}",
+  "switchToSider": "Chuyển sang API {{APP_NAME}}",
+  "switch": "Chuyển đổi",
+  "settingApiKey": "Đặt khóa API của bạn",
+  "all": "Tất cả",
+  "dropMsg": "Kéo vào đây để gửi tới Sider",
+  "success": "Thành công",
+  "usedIn": "Được dùng trong",
+  "check": "Kiểm tra",
+  "example": "Ví dụ",
+  "toolsUpgradeTitle": "Nâng cấp để trải nghiệm trò chuyện tốt hơn!",
+  "ChangeTone": "Thay đổi giai điệu",
+  "screenshot": "Ảnh chụp màn hình",
+  "takeAScreenshot": "Chụp màn hình",
+  "back": "Quay lại",
+  "image": "Hình ảnh",
+  "uploadImage": "Tải lên một hình ảnh",
+  "hideImage": "Ẩn hình ảnh",
+  "chatWithPDF": "Trò chuyện bằng PDF",
+  "recentFiles": "Tệp gần đây",
+  "orTakeAction": "Hoặc thực hiện các hành động khác:",
+  "NoFiles": "Không có tệp gần đây trong cuộc trò chuyện này",
+  "showImage": "Hiển thị hình ảnh",
+  "fullscreen": "Toàn màn hình",
+  "moreQuery": "Thêm tín dụng",
+  "moreFeature": "Nhiều tính năng hơn!",
+  "switchToSidepanel": "Chuyển sang thanh bên",
+  "deepReadTools": "Công cụ đọc sâu",
+  "OR": "HOẶC",
+  "enable": "Kích hoạt",
+  "refresh": "Làm cho khỏe lại",
+  "painterOnBoardingTip": "Nhấp vào đây để tạo và chỉnh sửa hình ảnh AI",
+  "pdfOnBoardingTip": "Nhấp vào đây để ChatPDF",
+  "refreshModel": "Làm mới mô hình",
+  "refreshing": "Đang làm mới",
+  "collapseNav": "Thu gọn thanh điều hướng",
+  "expand": "Mở rộng",
+  "expandNav": "Mở rộng thanh điều hướng",
+  "phoneNumber": "Số điện thoại",
+  "recognizing": "Công nhận",
+  "useFreeVoice": "Sử dụng giọng miễn phí",
+  "reselect": "Chọn lại",
+  "earnFree": "Kiếm tín dụng miễn phí",
+  "appearance": "Giao diện",
+  "result": "Kết quả",
+  "sidepanelTip": "Mẹo bảng điều khiển bên",
+  "continue": "Tiếp tục",
+  "confirm": "Xác nhận",
+  "describeImage": "Mô tả hình ảnh này",
+  "inviteFriendTip": "<a>Mời bạn bè</a> để nhận thêm tín dụng",
+  "resetTime": "Đặt lại vào <a>ngày 3 tháng 8 năm 2023</a>",
+  "imageQuoteTipTitle": "Hỏi lại hình ảnh? Bạn cần trích dẫn hình ảnh",
+  "imageQuoteTipContent": "Để hỏi lại về hình ảnh, bạn chỉ cần trích dẫn nó.",
+  "ocrEmptyMsg": "Xin lỗi, tôi không thể tìm thấy văn bản trong hình ảnh này.",
+  "imageInputHint": "Đặt câu hỏi về hình ảnh này",
+  "selectedTextInputHint": "Đặt câu hỏi về đoạn văn bản đã chọn",
+  "fileInputHint": "Đặt câu hỏi về tệp này",
+  "inviteYourFriends": "Mời bạn bè",
+  "xmasSale": "Giảm giá Giáng sinh",
+  "bigSale": "Khuyến mãi",
+  "bigSaleRest": "Khuyến mãi",
+  "videoTutorial": "Xem chi tiết",
+  "edgePasteBug": "Không thể dán bằng phím tắt do lỗi trình duyệt Edge. Vui lòng nhấp chuột phải để dán.",
+  "enable&continue": "Bật & Tiếp tục",
+  "readAloud": "Đọc to",
+  "seeMoreHelp": "Xem thêm tại <a>Trung Tâm Trợ Giúp</a>",
+  "translateInto": "Dịch sang: {{lang}}",
+  "imageTranslateInto": "Dịch văn bản trong hình sang {{lang}}",
+  "translateBackInto": "Dịch lại sang: {{lang}}",
+  "explainSection": "Bạn có thể giải thích phần này cho tôi chi tiết hơn không?",
+  "betterAnswer": "Nhận kết quả tốt hơn với {{MODEL_NAME}}",
+  "genBy": "Được tạo bởi {{MODEL_NAME}}",
+  "explain": "Giải thích",
+  "building": "Đang xây dựng...",
+  "keyboardShortcuts": "Phím tắt",
+  "console": "Console",
+  "enterText": "Nhập văn bản",
+  "publish": "Công khai",
+  "publishing": "Xuất bản",
+  "published": "Đã công khai",
+  "artifactPublished": "Artifact đã được xuất bản",
+  "artifactPublishTip1": "Khi bạn xuất bản artifact này, chúng tôi sẽ tạo một URL công khai để bất kỳ ai cũng có thể truy cập. Cuộc trò chuyện của bạn sẽ vẫn riêng tư, và bạn có thể ngừng chia sẻ bất cứ lúc nào.",
+  "artifactPublishTip2": "Artifact này có sẵn cho công chúng. Bất kỳ ai cũng có thể truy cập với liên kết được chia sẻ.",
+  "artifactUnpublishedTip": "Khi bạn ngừng xuất bản, người khác sẽ không còn có thể truy cập Artifact thông qua liên kết được chia sẻ.",
+  "artifactNarrow": "Khôi phục chiều rộng mặc định",
+  "artifactWide": "Mở rộng toàn bộ chiều rộng",
+  "artifactRemixContent": "Hãy khám phá một số biến thể của {{ARTIFACT}} này. Bạn có thể đề xuất 3 cách để remix nó và chờ phản hồi của tôi không?",
+  "faceError": "Gặp lỗi này trong {{ARTIFACT}} mới nhất, vui lòng sửa nó.",
+  "artifactError": {
+    "title": "Bạn có thể thử các tùy chọn sau:",
+    "solution1": "<a>Làm mới Xem trước</a>",
+    "solution2": "Gửi tin nhắn lỗi trong trò chuyện để được trợ giúp. <a>Gửi tin nhắn lỗi</a>"
+  },
+  "artifactsBetaTip": "Thưởng thức Artifacts (Pro) miễn phí trong giai đoạn beta—đừng bỏ lỡ!",
+  "tryArtifact": "Thử {{ARTIFACTS}}",
+  "tryNow": "Thử các ví dụ",
+  "errorOccurred": "Đã xảy ra lỗi",
+  "artifactDemos": [
+    {
+      "title": "Tạo Xylophone Ảo",
+      "value": "Tạo một đàn xylophone dựa trên HTML với các phím màu sắc trong {{ARTIFACT}}. Cung cấp phản hồi hình ảnh cho các phím bị đánh, và tạo ra âm thanh đơn giản, thực tế bằng cách sử dụng Web Audio API dựa trên các thông số tần số. Bao gồm hướng dẫn cơ bản."
+    },
+    {
+      "title": "Tạo Trò Chơi Emoji Ăn Thực Phẩm",
+      "value": "Tạo một trò chơi đơn giản dựa trên HTML, tương tự như Catch the Candy, trong {{ARTIFACT}}. Người chơi điều khiển một biểu tượng cảm xúc ở dưới cùng của màn hình, di chuyển nó nhanh chóng sang trái và phải để bắt và ăn các món ăn (ví dụ: 🍓, 🍔, 🍎) rơi từ trên xuống trong khi tránh bom (💣). Mỗi lần người chơi bắt được một biểu tượng cảm xúc thức ăn, biểu tượng cảm xúc của họ sẽ thay đổi thành một biểu cảm tích cực hơn (ví dụ: 🤩, 😆, 😋) để chỉ ra sự thành công. Nếu người chơi vô tình bắt phải một quả bom, biểu tượng cảm xúc sẽ đầu tiên hiển thị một vụ nổ (💥) và sau đó thay đổi thành biểu cảm chóng mặt (😵‍💫)."
+    },
+    {
+      "title": "Tạo Biểu Đồ Lô Hàng Điện Thoại Thông Minh",
+      "value": "Sử dụng React để tạo một biểu đồ đường đẹp trong {{ARTIFACT}} dựa trên bảng sau.\n------\n\nLượng điện thoại thông minh được giao bởi các thương hiệu lớn trong thập kỷ qua (tính bằng tỷ)\n\n| Năm | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "Xem trước",
+  "dataAnalysisTip": "Công cụ này chỉ được kích hoạt khi sử dụng, trừ đi 1 Advanced Credit.",
+  "code": "Mã",
+  "code&preview": "Mã & Xem trước",
+  "tryItNow": "Thử ngay bây giờ",
+  "letsTryItNow": "Hãy Thử Ngay Bây Giờ!",
+  "tryArtifactNow": "Thử {{ARTIFACTS}} ngay bây giờ",
+  "roast": {
+    "analyzing": "Đang phân tích...",
+    "roastX1": "🔥 Ai đó vừa trêu chọc bạn, hãy xem ngay",
+    "roastX2": "Chế nhạo người này!",
+    "roast": "😜 Chế giễu",
+    "boast": "🥰 Khoe khoang"
+  },
+  "historyGroups": {
+    "today": "Hôm nay",
+    "thisWeek": "Tuần này",
+    "thisMonth": "Tháng này",
+    "earlier": "Trước đó"
+  },
+  "quotaInfo": {
+    "mobilePlan": "Gói di động",
+    "resetsDaily": "Đặt lại hàng ngày",
+    "resetDate": "Ngày đặt lại",
+    "tryForFree": "Dùng thử miễn phí",
+    "unlockFeats": "Mở khóa tất cả các tính năng cao cấp",
+    "unlockToUse": "Mở khóa sử dụng không giới hạn",
+    "unlockAllFeats": "Mở khóa tất cả các tính năng",
+    "unlockAllFeatsDesc": "Bạn đã đạt đến giới hạn dùng thử cho các tính năng cao cấp. Nâng cấp để mở khóa tất cả các tính năng.",
+    "unlockAllFeats2": "Mở khóa Truy cập Đầy đủ",
+    "unlockAllFeatsDesc2": "Nhận trò chuyện không giới hạn, truy cập web, phân tích dữ liệu, tạo hình ảnh, tóm tắt YouTube, trò chuyện tệp/liên kết, trích xuất văn bản và nhiều hơn nữa",
+    "enjoyUnlimitedCredits": "Thưởng thức tín dụng không giới hạn",
+    "enjoyUnlimitedCreditsDesc": "Tận dụng tối đa GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro và nhiều hơn nữa.",
+    "webAccess": "Truy cập web",
+    "chatActionTranslate": "Dịch sang {{lang}}",
+    "dataAnalysis": "Phân tích dữ liệu nâng cao",
+    "shortVideo": "Rút ngắn video AI",
+    "chatPDF": "Trò chuyện PDF/Link",
+    "chatFileLink": "Trò chuyện tệp/liên kết",
+    "youtubeSummary": "Tóm tắt YouTube",
+    "readAloud": "AI Đọc To",
+    "tryReadAloudForFree": "Thử đọc to miễn phí",
+    "extractText": "AI Trích xuất văn bản",
+    "upgradeFor": "Nâng cấp chỉ với {{price}}/tháng",
+    "off": "Giảm giá {{num}}",
+    "allPlans": "Xem tất cả các gói",
+    "usedCredits": "Đã sử dụng {{count}} tín dụng",
+    "usedCredits_one": "{{count}} tín dụng đã sử dụng",
+    "usedCredits_other": "{{count}} tín dụng đã sử dụng",
+    "premiumTrial": "Dùng thử các tính năng cao cấp miễn phí",
+    "premiumTrialTip": "Dùng thử cho phép bạn truy cập hạn chế vào các tính năng cao cấp dành riêng cho thành viên trả phí. Lưu ý rằng mỗi lần sử dụng vẫn sẽ tốn tín dụng.",
+    "creditRuleTitle": "Quy tắc khấu trừ tín dụng",
+    "creditRuleTip": "Chúng tôi khấu trừ tín dụng dựa trên mô hình, tính năng và độ dài ngữ cảnh bạn sử dụng. Để biết chi tiết đầy đủ, hãy truy cập <a>Trung tâm trợ giúp</a>.",
+    "extraCreditTip": "Đây là các tín dụng bổ sung cho một lần sử dụng.",
+    "dailyCreditTip": "Quy tắc đặt lại chỉ áp dụng cho tín dụng gói, không áp dụng cho tín dụng bổ sung.",
+    "inviteFriends": "<a>Mời bạn bè</a> để nhận thêm tín dụng",
+    "vipInviteFriends": "Thưởng thức {{APP_NAME}}? <a>Mời bạn bè của bạn!</a>",
+    "pocketPlanTips": "Tín dụng Pocket chỉ có thể sử dụng trên di động. Hãy tận hưởng một số tín dụng trên máy tính để bàn miễn phí.",
+    "pocketUpgrade": "Nâng cấp để mở khóa thêm"
+  },
+  "prompt": "Lời nhắc",
+  "addPrompt": "Thêm lời nhắc",
+  "allSettings": "Tất cả cài đặt",
+  "getAIAnswer": "Nhận câu trả lời từ AI",
+  "login": {
+    "google": "Tiếp tục với Google",
+    "apple": "Tiếp tục với Apple",
+    "microsoft": "Tiếp tục với Microsoft",
+    "phone": "Tiếp tục với Số Điện Thoại"
+  },
+  "loginTip": "Bạn chưa có tài khoản? <a>Tạo tài khoản</a>",
+  "signupTip": "Bạn đã có tài khoản? <a>Đăng nhập</a>",
+  "guideVideoTitle": {
+    "chat": "Trò chuyện",
+    "translation": "Dịch",
+    "summary": "Tóm tắt",
+    "chatpdf": "ChatPDF",
+    "write": "Viết",
+    "painter": "Họa sĩ",
+    "ocr": "OCR",
+    "grammar": "Ngữ pháp",
+    "email": "Trả lời Email"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Trò chuyện Đa-bot",
+      "web-access": "Truy cập Web",
+      "data-analysis": "Phân tích Dữ liệu Nâng cao",
+      "painter": "Tạo hình ảnh",
+      "prompts": "Lời nhắc Tùy chỉnh"
+    },
+    "translation": {
+      "widget": "Văn bản Được chọn qua Sidebar",
+      "selected": "Văn bản Được chọn qua Menu Ngữ cảnh",
+      "input": "Văn bản Đã gõ trên Trang",
+      "page": "Toàn bộ Trang web",
+      "in-chat": "Văn bản Được chọn trong Trò chuyện",
+      "in-chat2": "Văn bản Đã gõ trong Trò chuyện"
+    },
+    "summary": {
+      "youtube": "Video YouTube",
+      "doc": "Tài liệu Đã tải lên",
+      "page": "Trang web qua Menu Nhanh",
+      "page2": "Trang web qua Trò chuyện"
+    },
+    "chatpdf": {
+      "chatpdf": "Trò chuyện với PDF"
+    },
+    "write": {
+      "widget": "Soạn theo Yêu cầu",
+      "context": "Cải thiện Văn bản Được chọn",
+      "input": "Viết lại Đầu vào"
+    },
+    "painter": {
+      "image": "Tạo hình ảnh",
+      "bg-remove": "Loại bỏ Phông nền",
+      "bg-replace": "Thay thế Phông nền",
+      "upscale": "Nâng cao Hình ảnh",
+      "eraser": "Loại bỏ Khu vực Đã quét",
+      "text-remove": "Loại bỏ Văn bản"
+    },
+    "ocr": {
+      "ocr": "Trích xuất Văn bản và Phương trình"
+    },
+    "grammar": {
+      "widget": "Kiểm tra Ngữ pháp qua Sidebar",
+      "context": "Kiểm tra Ngữ pháp qua Menu Ngữ cảnh"
+    },
+    "email": {
+      "reply": "Tạo Trả lời Email"
+    }
+  },
+  "llmStatus": {
+    "thinking": "Đang suy nghĩ..."
+  },
+  "popupPage": {
+    "thank": "Cảm ơn bạn đã sử dụng tiện ích mở rộng {{APP_NAME}}!",
+    "desc": "Trang hiện tại là một trang duy nhất và tính năng thanh bên không khả dụng. Tuy nhiên, bạn có thể mở toàn bộ trang để trò chuyện!",
+    "chatNow": "Nói chuyện ngay"
+  },
+  "setupPage": {
+    "loginSuccess": "Đăng nhập thành công",
+    "welcome": "Chào mừng bạn đến với {{APP_NAME}}!",
+    "startUsing": "Bắt đầu sử dụng {{APP_NAME}}",
+    "explore": "Hãy Khám phá Tính năng {{FEATURE_NAME}}",
+    "favorites": "Phần mở rộng phổ biến nhất của Chrome",
+    "fiveStarRate": "Đánh giá 5 sao",
+    "activeUser": "Người dùng hoạt động",
+    "userCount": "4M+",
+    "spamMsg": "Dữ liệu của bạn sẽ không bị rò rỉ và sẽ không có thư rác.",
+    "privacy": "Bằng cách tiếp tục, bạn đồng ý với <a>Chính sách Bảo mật</a> & <b>Điều khoản Sử dụng</b>.",
+    "privacyPart1": "Bằng cách tiếp tục, bạn đồng ý với",
+    "privacyPart2": "<a>Chính sách Bảo mật</a> & <b>Điều khoản Sử dụng</b>",
+    "loginWith": "Đăng nhập bằng {{name}}",
+    "pinTips": "<b>Ghim {{APP_NAME}</b>, truy cập dễ dàng hơn!",
+    "pinClickTip": "Nhấp vào {{icon}} để ghim {{APP_NAME}}",
+    "pinClickTip2": "Ghim {{APP_NAME}} để Truy cập Nhanh",
+    "pinClickTip3": "Nhấp vào biểu tượng {{icon}} ở góc trên bên phải",
+    "next": "Kế tiếp",
+    "tryOut": "thử nó ra",
+    "endTitle": "{{APP_NAME}} sẵn sàng giúp đỡ bạn!",
+    "endTip": "Bạn có thể duyệt bất kỳ trang web nào hoặc tìm hiểu thêm tại Trung tâm Trợ giúp của chúng tôi.",
+    "learnMore": "Tìm hiểu thêm về {{APP_NAME}}",
+    "endBottom": "Cần Hỗ trợ hoặc Có Góp ý?",
+    "endBottom2": "Chúng tôi trân trọng ý kiến của bạn! <a>Phản hồi</a> để giúp chúng tôi cải thiện trải nghiệm của bạn."
+  },
+  "getKeyPage": {
+    "welcome": "Chào mừng bạn đến với {{APP_NAME}}! Đây là hành trình của bạn để bắt đầu:",
+    "stepTitle": "Cách lấy khóa API.",
+    "step1": "Bước 1: Nhận khóa API",
+    "step1-1": "<i>Đăng nhập tài khoản OpenAI của bạn</i> Nếu bạn chưa có tài khoản, hãy Đăng ký <b>TẠI ĐÂY</b>",
+    "step1-2": "Truy cập trang Khóa API OpenAI",
+    "step1-3": "Tạo một khóa bí mật mới và sao chép nó như sau",
+    "step2": "Bước 2: Dán API Key vào ô bên dưới",
+    "step2-tips": "Đừng lo lắng. Khóa API của bạn chỉ được sử dụng cục bộ trong tiện ích mở rộng ChatGPT. Sử dụng API ổn định hơn so với trực tiếp sử dụng ChatGPT.",
+    "step3": "Bước 3: Kiểm tra tín dụng của bạn <i>tại đây</i>"
+  },
+  "optionPage": {
+    "openNewChat": "Bắt đầu cuộc trò chuyện mới",
+    "howToAccess": "Cách truy cập ChatGPT và sử dụng nó ở mọi nơi",
+    "howToAccessTip": "Để đảm bảo mọi người đều có thể truy cập AI, chúng tôi cung cấp 3 cách để truy cập ChatGPT và sử dụng nó ở mọi nơi.",
+    "recommended": "Đề xuất",
+    "loginFirst": "Vui lòng đăng nhập trước.",
+    "loginFirstTip": "Đăng nhập để bắt đầu sử dụng Sider và nhận tín dụng miễn phí mỗi ngày.",
+    "displayMode": "Chế độ hiển thị",
+    "displayLanguage": "Ngôn ngữ hiển thị",
+    "fontSizeTitle": "Kích thước phông chữ cho tin nhắn",
+    "fontSizeTip": "Chỉ dành cho văn bản tin nhắn",
+    "fontSizeOptions": {
+      "regular": "Thường",
+      "large": "Lớn"
+    },
+    "fontSizeAutoTip": "Tự động điều chỉnh theo độ rộng của thanh bên",
+    "sidepanelPosition": "Vị trí bảng điều khiển bên",
+    "sidepanelPositionTip": "Đối với Chrome 114 trở lên, chỉ có thể thay đổi trong cài đặt trình duyệt",
+    "providerPartTitle": "Truy cập AI",
+    "serviceProvider": "Nhà cung cấp dịch vụ",
+    "providerSiderTip": "{{APP_NAME}} cung cấp truy cập liền mạch, nhanh chóng và ổn định đến các mô hình AI hàng đầu như OpenAI o1, Claude 3.5, Gemini, Llama và các mô hình khác—tất cả thông qua các API chính thức trên một nền tảng duy nhất.",
+    "providerWebappTip": "Trải nghiệm có thể khác nhau đối với khách truy cập và người dùng đã đăng nhập do hạn chế của OpenAI.",
+    "providerSiderDesc": "Được hỗ trợ bởi các API chính thức của các mô hình hàng đầu, nhanh chóng và đáng tin cậy",
+    "providerAPIKeyDesc": "Lý tưởng cho những người có khóa API: ổn định, giá dựa trên mức sử dụng",
+    "providerWebappDesc": "Có thể không ổn định do thay đổi chính sách của OpenAI",
+    "importantReminders": "Những nhắc nhở quan trọng",
+    "webappReminder1": "Giữ đăng nhập vào tài khoản của bạn.",
+    "webappReminder2": "Dịch vụ này có thể không ổn định do thay đổi chính sách của OpenAI. Để có hiệu suất nhanh và ổn định, chúng tôi khuyên bạn nên sử dụng {{APP_NAME}}.",
+    "defaultVoice": "Giọng nói mặc định",
+    "defaultSpeed": "Tốc độ mặc định",
+    "whenSidebarReopens": "Khi thanh bên mở lại",
+    "scrollingBehavior": "Hành vi cuộn cho các phản hồi dài",
+    "autoQuoteSelectedText": "Tự động trích dẫn văn bản đã chọn trong hộp nhập liệu",
+    "autoQuoteSelectedTextTip": "Khi bật, văn bản đã chọn tự động xuất hiện trong hộp nhập liệu để thực hiện nhanh",
+    "siderIcon": "Biểu tượng {{APP_NAME}}",
+    "siderIconDisplay": "Luôn hiển thị biểu tượng {{APP_NAME}} trên trang",
+    "siderIconDisplayTip": "Khi bật, biểu tượng {{APP_NAME}} xuất hiện ở góc dưới bên phải và có thể kéo",
+    "webAsstSearchTitle": "Dành cho tìm kiếm",
+    "webAsstYoutubeTitle": "Dành cho YouTube",
+    "webAsstImageTitle": "Dành cho hình ảnh",
+    "webAsstEmailTitle": "Dành cho email",
+    "webAsstCodeTitle": "Dành cho mã",
+    "webAsstQATitle": "Dành cho các trang hỏi đáp",
+    "webAsstLinkPreviewTitle": "Dành cho xem trước liên kết",
+    "webAsstAISitesTitle": "So sánh các mô hình trên ChatGPT",
+    "webAsstSearchDesc": "Hiển thị câu trả lời AI cùng với kết quả tìm kiếm",
+    "webAsstVideoSummaryDesc": "Hiển thị bảng tóm tắt trên YouTube",
+    "webAsstVideoBilingualDesc": "Hiển thị điều khiển song ngữ trên YouTube",
+    "webAsstImageDesc": "Hiển thị công cụ AI khi di chuột qua hình ảnh",
+    "webAsstEmailDesc": "Hiển thị nút Trả lời AI trong Gmail",
+    "webAsstCodeDesc": "Hiển thị nút Giải thích Mã trên khối mã",
+    "webAsstQADesc": "Hiển thị nút Trả lời trên các trang Hỏi & Đáp",
+    "webAsstAISitesDesc": "Hiển thị nút \"So sánh với\" trên {{url}}",
+    "webAsstInputBoxTitle": "Hộp nhập liệu",
+    "webAsstInputBoxDesc": "Hiển thị biểu tượng chấm trong hộp nhập liệu để cải thiện việc viết",
+    "webAsstLinkPreviewDesc": "Hiển thị cửa sổ xem trước liên kết khi kéo một liên kết.",
+    "webAsstLinkpreviewExampleLink": "Đây là một liên kết an toàn, hãy thử kéo nó để xem cửa sổ xem trước",
+    "sendMessage": "Gửi tin nhắn",
+    "translatePage": "Dịch trang",
+    "activateContextMenu": "Mở hỏi nhanh",
+    "invalidShortcutTip": "Bao gồm {{key1}}, {{key2}}, hoặc {{key3}}",
+    "shortcutInUseTip": "Đã được sử dụng, hãy thử cái khác",
+    "disabledSites": "Đã tắt trên các trang web",
+    "addASite": "Thêm một trang web",
+    "noSiteAdded": "Chưa thêm trang web nào",
+    "wrongSiteTip": "URL không hợp lệ: Kiểm tra URL và thử lại.",
+    "restoreDefault": "Khôi phục mặc định",
+    "recommend4all": "(Đề xuất cho mọi người)",
+    "sidebarProvider": "Thanh bên sử dụng API ChatGPT Premium để đảm bảo truy cập ổn định.",
+    "sidebarProviderGoPremium": "Chúng tôi cung cấp {{num}} tín dụng miễn phí hàng ngày để đảm bảo khả năng tiếp cận AI cho tất cả mọi người. <a>Nâng cấp lên cao cấp</a> để tăng giới hạn tín dụng hàng ngày của bạn và hỗ trợ sứ mệnh của chúng tôi <b>cung cấp AI phổ quát cho mọi người</b>.",
+    "webappGPT4": "(Người dùng ChatGPT Plus có thể dùng thử)",
+    "webappTip1": "Nếu bạn là người dùng ChatGPT Plus, giờ đây bạn có tùy chọn để chọn GPT-4. Tuy nhiên, OpenAI có thể giới hạn số lượng tin nhắn bạn có thể gửi mỗi ngày.",
+    "webappTip2": "Vui lòng <m>Ghim tab ChatGPT</m> và duy trì trạng thái đăng nhập trên trang web ChatGPT. Tuy nhiên, điều này có thể không đảm bảo sự ổn định. Nếu bạn gặp bất kỳ sự cố nào, hãy truy cập <v>trang web ChatGPT </v>và làm mới trang.",
+    "GPT4Desc": "Bạn phải duy trì đăng nhập vào tài khoản ChatGPT trên trang web. Tính ổn định có thể không nhất quán cho cả người dùng Plus và người dùng miễn phí do hạn chế của OpenAI.",
+    "apiKeyProviderTip": "(Dành cho nhà phát triển có khóa API)",
+    "apiKeyProvider": "API OpenAI chính thức ổn định hơn và tính phí dựa trên việc sử dụng.",
+    "apiKeyLocally": "Khóa API của bạn được lưu trữ cục bộ trong trình duyệt của bạn và không bao giờ được gửi đi nơi khác.",
+    "ownURL": "Sử dụng URL của riêng tôi",
+    "customModelName": "Sử dụng tên mô hình tùy chỉnh",
+    "apiKeyTip1": "Khóa API OpenAI miễn phí của bạn có thể đã hết hạn. Vui lòng <a>kiểm tra trạng thái hết hạn của khóa API tại đây.</a>",
+    "apiKeyTip2": "Nếu bạn sử dụng khóa API OpenAI miễn phí, quyền truy cập vào ChatGPT có thể không ổn định khi có nhu cầu cao.",
+    "apiFreeGuide": "Làm theo hướng dẫn để lấy khóa API.",
+    "apiKeyGpt4Tip": "Tiện ích mở rộng hỗ trợ GPT-4 nếu bạn nhập khóa API GPT-4.",
+    "displaySearchRes": "Hiển thị phản hồi ChatGPT bên cạnh các trang kết quả tìm kiếm",
+    "whenToAsk": "Khi nào nên hỏi ChatGPT",
+    "promptTplForSearch": "Mẫu lời nhắc cho Google và các công cụ tìm kiếm khác",
+    "addNewTplForSearch": "Thêm mẫu lời nhắc mới",
+    "launchSidebar": "Mở thanh bên",
+    "sidebarLocation": "Vị trí thanh bên",
+    "showSelectedTextTitle": "Hiển thị Tự động Văn bản Đã Chọn trong Hộp Nhập",
+    "showSelectedTextDesc": "Tự động hiển thị văn bản đã chọn dưới dạng trích dẫn trong hộp nhập để thực hiện nhanh các thao tác với lời nhắc",
+    "sendingMsgBehavior": "Hành vi sau khi gửi tin nhắn trong trò chuyện",
+    "showSelectedTextTip": "Nếu bạn không muốn văn bản đã chọn được hiển thị tự động trong tương lai, Bạn có thể tắt nó trong <a>cài đặt thanh bên</a>.",
+    "sidepanelLocation": "Vị trí thanh bên",
+    "sidebarLeftOrRight": "Đặt thanh bên ở bên trái hoặc bên phải",
+    "linkToSetting": "Thay đổi vị trí thanh bên trong cài đặt trình duyệt",
+    "sidepanelLeftOrRight": "Đặt bảng điều khiển bên ở phía trái hoặc phải. Bảng điều khiển bên chỉ có sẵn trên Google Chrome 114 hoặc mới hơn.",
+    "sidebarDisplayOption": "Chế độ hiển thị thanh bên",
+    "sidebarDisplayOptionTip": "Chọn cách thanh bên xuất hiện trên trang",
+    "sidebarDisplayOptions": {
+      "overlay": "lớp phủ",
+      "expand": "mở rộng"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "Tự động cuộn đến cuối phản hồi",
+      "messageTop": "Tạm dừng cuộn khi phản hồi đạt đến đầu"
+    },
+    "sidebarOnStartup": "Khi mở thanh bên",
+    "sidebarOnStartupTip": "Cấu hình chế độ hiển thị của giao diện chat khi mở Sidebar",
+    "sidebarOnStartupOptions": {
+      "new": "Luôn bắt đầu cuộc trò chuyện mới",
+      "last": "Luôn tiếp tục cuộc trò chuyện trước",
+      "auto": "Tự động tiếp tục hoặc khởi động lại"
+    },
+    "sidebarOnStartupAutoTip": "Nếu mở lại trong vòng 10 phút, cuộc trò chuyện sẽ tiếp tục; nếu sau 10 phút, một cuộc trò chuyện mới sẽ bắt đầu",
+    "sidebarIcon": "Biểu tượng thanh bên",
+    "sidebarIconAccess": "Truy cập thanh bên thông qua biểu tượng nằm ở góc dưới bên phải của trang. Bạn có thể kéo để di chuyển nó lên và xuống",
+    "easiestWayUse": "Cách dễ nhất để sử dụng {{APP_NAME}}",
+    "displayWhenSelect": "Hiển thị khi văn bản được chọn",
+    "addNewTplForSidebar": "Thêm mẫu lời nhắc mới",
+    "editSearchTplTip": "sử dụng {{keywords}} để giới thiệu từ khóa tìm kiếm của bạn",
+    "editSearchTplPlaceholder": "{{keywords}} trong nội dung nhắc sẽ được thay thế tự động bằng từ khóa tìm kiếm của bạn",
+    "editSidebarTplTip": "Dán hoặc nhập nội dung tại đây",
+    "quickAction": {
+      "mainSwitchTitle": "Hiển thị {{name}}",
+      "mainSwitchDesc": "Khi bật, một menu với các hành động nhanh sẽ xuất hiện khi chọn văn bản",
+      "displayOnSelect": "khi văn bản được chọn",
+      "displayOnShortcut": "khi văn bản được chọn và nhấn {{key}}",
+      "displayOnSelectGuide": "Muốn giao diện gọn gàng hơn? Kích hoạt menu ngữ cảnh với phím tắt do bạn chọn trong <a>cài đặt</a>.",
+      "closeTips": "Hành động nhanh cho văn bản đã chọn. Nhấp vào {{icon}} để tắt nếu không cần thiết.",
+      "customPromptMenu": "Quản lý lời nhắc cho {{name}}",
+      "useageScene": "Kịch bản sử dụng",
+      "useageSceneRW": "Hiển thị {{name}} khi chọn văn bản ở bất kỳ đâu",
+      "useageSceneR": "Hiển thị {{name}} khi chọn văn bản trên trang web",
+      "useageSceneW": "Hiển thị {{name}} khi chọn văn bản trong hộp nhập liệu"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "Trợ lý YouTube",
+        "SummaryDesc": "<b>Tóm tắt Video</b>: Khi được bật, {{APP_NAME}} có thể giúp bạn tóm tắt các video trên YouTube",
+        "BilingualDesc": "<b>Phụ đề Song ngữ</b>: Khi được bật, {{APP_NAME}} sẽ tự động hiển thị khi bạn xem video trên YouTube"
+      },
+      "qa": {
+        "title": "Trợ lý hỏi đáp",
+        "desc": "Khi được bật, {{APP_NAME}} có thể trả lời câu hỏi trên Quora, StackOverflow và các trang web QA khác"
+      },
+      "code": {
+        "title": "Trợ lý mã",
+        "desc": "Khi được bật, {{APP_NAME}} có thể giúp bạn giải thích mã trên trang web"
+      },
+      "image": {
+        "title": "Trợ lý Hình ảnh",
+        "desc": "Khi được bật, bạn có thể nhanh chóng truy cập vào Công cụ Hình ảnh AI bằng cách di chuột qua bất kỳ hình ảnh nào"
+      },
+      "linkPreview": {
+        "autoSummarize": "Tự động tóm tắt",
+        "collapse": "Thu gọn",
+        "guideTipDesc": "Kéo một liên kết để xem trước mà không cần rời khỏi trang. Vô hiệu hóa trong <link>cài đặt</link> nếu không cần thiết.",
+        "guideTipTitle": "Xem trước liên kết một cách hiệu quả",
+        "openInNewTab": "Mở trong tab mới",
+        "pageLoadFailed": "Tải trang thất bại",
+        "summarizeNotSupported": "Trang này không hỗ trợ tóm tắt.",
+        "viewSummary": "Xem tóm tắt"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Lời nhắc mới",
+      "editPrompt": "Chỉnh sửa lời nhắc",
+      "checkPrompt": "Kiểm tra lời nhắc",
+      "showInList": "Hiện trong danh sách",
+      "hideFromList": "Ẩn khỏi danh sách",
+      "noPrompts": "Không có lời nhắc nào ở đây",
+      "promptTabChatDesc": "Gợi ý trong 'Hiện trong danh sách' xuất hiện trong tính năng {{name}}.",
+      "promptTabReadDesc": "Gợi ý trong 'Hiện trong danh sách' xuất hiện trong {{name}} cho văn bản trang.",
+      "promptTabWriteDesc": "Gợi ý trong 'Hiện trong danh sách' xuất hiện trong {{name}} cho các hộp nhập liệu.",
+      "deletePromptWarn": "Xóa lời nhắc này?",
+      "howToWritePrompt": "Cách viết lời nhắc",
+      "howToVarTitle": "Những biến nào có thể được đưa vào lời nhắc?",
+      "howToVar1": "Bạn có thể sử dụng biến này để đại diện cho đầu vào hoặc nội dung được chọn. Nếu lời nhắc không bao gồm biến này, nội dung đầu vào hoặc nội dung được chọn sẽ được kèm theo ba dấu ngoặc kép và được đặt ở cuối lời nhắc.",
+      "howToVar2": "Bạn có thể sử dụng biến này để biểu thị ngôn ngữ bạn muốn sử dụng cho đầu ra, dựa trên ngôn ngữ mặc định được đặt trong cài đặt.",
+      "howToExample": "Vui lòng sử dụng các chủ đề hoặc từ khóa sau để tạo dàn ý bao gồm tiêu đề, chương và tiểu mục.\nXuất nó ở định dạng Markdown. Chỉ cung cấp cho tôi đầu ra và không có gì khác. Đề cương phải bằng ngôn ngữ {{lang}}.\nChủ đề hoặc từ khóa: {{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Báo cáo sự cố",
+        "title": {
+          "label": "Tóm tắt vấn đề",
+          "tip": "Hãy cho chúng tôi biết những gì đã xảy ra trong một vài từ."
+        },
+        "detail": {
+          "label": "Chi tiết vấn đề",
+          "tip": "Vui lòng mô tả chi tiết những gì đã xảy ra, mọi hành động bạn đã thực hiện và thông báo lỗi bạn nhận được."
+        }
+      },
+      "fr": {
+        "name": "Yêu cầu tính năng",
+        "title": {
+          "label": "Tiêu đề",
+          "tip": "Yêu cầu của bạn là gì?"
+        },
+        "detail": {
+          "label": "Sự miêu tả",
+          "tip": "Vui lòng cung cấp mô tả chi tiết về tính năng mới mà bạn muốn."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "Lưu dưới dạng lời nhắc mới",
+    "replacePrompt": "Thay thế lời nhắc",
+    "inputPlaceholder1": "Nhập lời nhắc hoặc chọn từ menu",
+    "inputPlaceholder2": "Dán hoặc nhập nội dung tại đây",
+    "startNewLine": "Nhấn {{shortcut}} để bắt đầu một dòng mới",
+    "inputPlaceholderCodes": "Dán hoặc nhập mã tại đây",
+    "inputPlaceholderQA": "Dán hoặc nhập câu hỏi tại đây",
+    "pressToSubmit": "Nhấn {{key}} để gửi",
+    "stopGenerating": "ngừng tạo",
+    "regenerate": "Tạo lại phản hồi",
+    "askTabLabel": "Hỏi",
+    "chatTabLabel": "Trò chuyện",
+    "moreTabLabel": "Thêm",
+    "composeTabLabel": "Viết",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "Dịch",
+    "grammarTabLabel": "Ngữ pháp",
+    "searchTabLabel": "Tìm kiếm",
+    "toolsTabLabel": "Công cụ",
+    "freePlan": "Gói miễn phí",
+    "premiumPlan": "Gói cao cấp",
+    "extraQuota": "hạn ngạch bổ sung",
+    "submitOption": "gửi tùy chọn",
+    "painterLabel": "Họa sĩ",
+    "downloadLabel": "Tải ứng dụng Desktop/Mobile",
+    "deleteAllConfirmTitle": "Xóa tất cả"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}} chọn động GPT-4o mini, Claude 3 Haiku, Gemini 1.5 Flash, hoặc Llama 3 để có phản hồi tối ưu dựa trên tình huống.",
+    "gpt-3.5": "Rất nhanh, tuyệt vời cho hầu hết các công việc hàng ngày.",
+    "gpt-4": "Mô hình có khả năng nhất, tốt nhất cho các nhiệm vụ phức tạp đòi hỏi khả năng suy luận nâng cao.",
+    "gpt-4o": "Mô hình tốt nhất của OpenAI, tốt nhất cho các nhiệm vụ phức tạp trong khi vẫn duy trì chất lượng.",
+    "gpt-4o-mini": "Mô hình mới nhất của OpenAI, cung cấp hiệu suất nhanh, vượt trội trong các nhiệm vụ trò chuyện, mã hóa và lý luận cho việc sử dụng hàng ngày.",
+    "gpt-5": "Mô hình mới nhất của OpenAI, tốt nhất cho các nhiệm vụ phức tạp trong khi vẫn duy trì chất lượng.",
+    "claude-instant": "Mô hình cơ bản từ các trường hợp sử dụng Anthropic, độ trễ thấp, thông lượng cao.",
+    "claude2": "Mô hình cung cấp tốt nhất của Anthropic, mang lại hiệu suất vượt trội cho các nhiệm vụ đòi hỏi khả năng suy luận phức tạp.",
+    "claude-3-haiku": "Mô hình nhỏ gọn nhất của Anthropic, được thiết kế để có thể phản hồi gần như tức thì và mang lại trải nghiệm trơn tru giống như tương tác của con người",
+    "claude-3-sonnet": "Mô hình cân bằng nhất của Anthropic giữa thông minh và tốc độ, lý tưởng cho một loạt các nhiệm vụ.",
+    "claude-3.5-sonnet": "Mô hình mới nhất của Anthropic, cung cấp tốc độ gấp đôi Claude 3 Opus và trí thông minh cao hơn, cải thiện đáng kể khả năng lập luận, kiến thức, mã hóa và các nhiệm vụ hình ảnh.",
+    "claude-3-opus": "Mô hình mạnh nhất của Anthropic, mang lại hiệu suất tối ưu trên các nhiệm vụ phức tạp và thể hiện sự lưu loát và hiểu biết giống con người.",
+    "bard": "Mô hình của Google (PaLM 2), hoạt động tốt trong các tác vụ suy luận nâng cao.",
+    "gemini-pro": "Mẫu cân bằng nhất của Google, kết hợp hoàn hảo giữa khả năng và hiệu quả.",
+    "gemini-1.5-pro": "Mô hình tốt nhất của Google cho hiệu suất chung trên nhiều loại nhiệm vụ.",
+    "gemini-1.5-flash": "Mô hình nhẹ của Google, được tối ưu hóa cho tốc độ và hiệu quả.",
+    "llama-3": "Mẫu mới nhất của Meta, tốt nhất cho các nhiệm vụ phức tạp trong khi vẫn duy trì chất lượng."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Chi phí <m>1 tín dụng cơ bản</m>.",
+    "gpt-3.5-n_one": "Chi phí <m>{{count}} tín dụng cơ bản</m>.",
+    "gpt-3.5-n_other": "Chi phí <m>{{count}} tín dụng cơ bản</m>.",
+    "gpt-4": "Chi phí <m>1 tín dụng nâng cao</m>.",
+    "gpt-4-2": "Chi phí <m>2 tín dụng nâng cao</m>.",
+    "gpt-4-n_one": "Chi phí <m>{{count}} tín dụng nâng cao</m>.",
+    "gpt-4-n_other": "Chi phí <m>{{count}} tín dụng nâng cao</m>."
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "Trả lời từ",
+    "autoCloseBanner": "Tự động tạm dừng sau khi không hoạt động",
+    "autoCloseTips": "Trợ lý Tìm kiếm sẽ tạm dừng nếu bạn không nhấp vào bất kỳ nút nào trên thẻ trong vòng 30 lần tìm kiếm. Bạn có thể kích hoạt lại bất cứ lúc nào bằng cách nhấp vào nút.",
+    "signinToAsk": "Đăng nhập để hỏi {{MODEL_NAME}}",
+    "newChat": "Trò chuyện mới",
+    "chatHistory": "Lịch sử trò chuyện",
+    "writeHistory": "Lịch sử viết",
+    "searchHistory": "Lịch sử tìm kiếm",
+    "chatControls": "Điều khiển trò chuyện",
+    "inputPlaceholder": "Gõ một tin nhắn...",
+    "send": "Gửi",
+    "feedback": "Nhận xét",
+    "experimental": "Tính năng này vẫn đang phát triển và có thể thay đổi, vì vậy hãy chia sẻ ý kiến của bạn.",
+    "share": "Chia sẻ",
+    "replyLanguage": "Ngôn ngữ phản hồi",
+    "capabilities": "Khả năng",
+    "deleteConfirmTitle": "Xóa cuộc trò chuyện này?",
+    "deleteConfirmContent": "Hành động này không thể được hoàn tác.",
+    "compareWeb": "So sánh câu trả lời từ web",
+    "compareAnsWith": "So sánh câu trả lời với",
+    "smarterAnsWith": "Nhận câu trả lời thông minh hơn từ",
+    "improveWithXXX": "Nhận câu trả lời thông minh hơn từ <b>Bot</b>",
+    "improveWithXXX2": "Nhận câu trả lời toàn diện từ <b>Bot</b>",
+    "compareWithXXX": "<b>Hỏi Bot</b>",
+    "improveWithSearch": "Nhận câu trả lời trên web từ Google",
+    "improveWithBoth": "Sắp xếp các câu trả lời của Google bằng GPT-4",
+    "answerWithoutSearching": "Hỏi <b>Bot</b> gốc",
+    "screenshot": "Ảnh chụp màn hình",
+    "upload": "Tải lên",
+    "uploadFile": "Tải lên Tệp",
+    "siderUploadFile": "Tải lên các tệp ở định dạng PDF, DOC, XLSX, CSV, JPG, JSON và các định dạng khác, tối đa 6 tệp cùng một lúc, tối đa 100MB mỗi tệp.",
+    "addImage": "Thêm một hình ảnh",
+    "uploadTip": {
+      "formatTitle": "Hỗ trợ:",
+      "limitTitle": "Giới hạn:",
+      "format": "Trang web, PDF, DOC, XLSX, CSV, JPG, JSON, MP3, WAV, M4A, MPGA, và nhiều hơn nữa",
+      "limit": "Tối đa 6 tệp, mỗi tệp 100MB"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "Viết một bài sonnet theo phong cách Shakespeare về điện thoại thông minh"
+      },
+      {
+        "title": "",
+        "ques": "Gợi ý 10 trang phục Halloween sáng tạo cho trẻ em"
+      },
+      {
+        "title": "",
+        "ques": "Phác thảo lộ trình cho người mới bắt đầu học về tài chính cá nhân"
+      },
+      {
+        "title": "",
+        "ques": "Giải thích cho một đứa trẻ 10 tuổi tại sao bầu trời có màu xanh"
+      }
+    ],
+    "textSelectedTip": "Văn bản từ lựa chọn của bạn",
+    "ocrTextTip": "{{name}} Kết quả",
+    "translateTip": "Dịch kết quả",
+    "textSelectedSystemMsg": "Bạn muốn làm gì với văn bản?",
+    "welcomeSystemMsg": "Xin chào! Làm thế nào tôi có thể hỗ trợ bạn ngày hôm nay?",
+    "welcomeMsg": "Hôm nay tôi có thể giúp gì cho bạn?",
+    "chatActionTranslate": "Dịch sang {{lang}}",
+    "search": "Tìm kiếm",
+    "continueInChat": "Tiếp tục trò chuyện",
+    "chatWithVideo": "Trò chuyện bằng video",
+    "userStopTip": "Người dùng đã hủy yêu cầu.",
+    "noChatHistory": "Chưa có lịch sử.",
+    "noSearchHistory": "Không tìm thấy kết quả nào",
+    "webAccessModalTitle": "{{APP_NAME}} cho phép cả ChatGPT-3.5 và GPT-4 truy cập web!",
+    "webAccessModalContent": "Dữ liệu của ChatGPT không phải là thời gian thực. {{APP_NAME}} kết hợp trí thông minh của ChatGPT với thông tin web theo thời gian thực, cho phép GPT xử lý các câu hỏi liên quan đến thông tin theo thời gian thực hiệu quả hơn. Hãy nâng cấp để có được tính năng này và không còn phải lo lắng về thông tin lỗi thời!",
+    "readDoc": "Đọc tài liệu",
+    "readDocFail": "Đọc tài liệu thất bại"
+  },
+  "sidebarComposePanel": {
+    "compose": "Soạn, biên soạn",
+    "reply": "Hồi đáp",
+    "write": "Viết",
+    "writePlaceholder": "Nhập chủ đề bạn muốn viết về",
+    "replyPlaceholder1": "Nhập văn bản gốc bạn muốn trả lời",
+    "replyPlaceholder2": "Mô tả ý tưởng chung của phản hồi của bạn",
+    "submitShortcut": "Nhấn {{shortcut}} để tạo bản nháp",
+    "generate": "Tạo bản nháp",
+    "format": "Định dạng",
+    "email": "E-mail",
+    "idea": "Ý tưởng",
+    "outline": "Đề cương",
+    "essay": "Tiểu luận",
+    "paragraph": "Đoạn văn",
+    "blog": "Bài viết trên blog",
+    "ads": "Quảng cáo tiếp thị",
+    "twitter": "Twitter",
+    "comment": "Bình luận",
+    "message": "Tin nhắn",
+    "tone": "Tấn",
+    "basic": "cơ bản",
+    "style": "Kiểu dáng",
+    "professional": "Chuyên nghiệp",
+    "formal": "Chính thức",
+    "casual": "Bình thường",
+    "enthusiastic": "Nhiệt tình",
+    "informational": "thông tin",
+    "funny": "Buồn cười",
+    "length": "Chiều dài",
+    "short": "Ngắn",
+    "medium": "Trung bình",
+    "long": "Dài",
+    "regenerate": "tái tạo",
+    "addToSite": "Thêm vào trang web",
+    "addToSiteTip": "Đặt con trỏ chuột vào hộp nhập mong muốn và nhấp vào '{{name}}' để chèn",
+    "insertToSite": "Chèn kết quả vào ô nhập liệu trên trang web",
+    "history": "Lịch sử",
+    "formatExists": "Định dạng đã tồn tại",
+    "AIWriter": "Trình viết AI",
+    "continueOptimizeTips": "Tiếp tục tinh chỉnh và cải thiện song song với AI",
+    "alsoWriteTips": "Viết cùng với Al"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "Chấp nhận",
+    "checkFailed": "Kiểm tra thất bại",
+    "checkNoError": "Không có lỗi",
+    "checking": "Kiểm tra",
+    "fixError": "Sửa Tất Cả ({{errorCount}})",
+    "ignore": "Phớt lờ",
+    "improve": "Cải thiện",
+    "inputPlaceholder": "Chỉ hỗ trợ tiếng Anh. Dán hoặc nhập văn bản để kiểm tra.",
+    "reasonForChanges": "Lý do cho các thay đổi"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Tự động phát hiện",
+    "placeholde": "Gõ hoặc dán văn bản vào đây...",
+    "errWrongTargetLang": "Ngôn ngữ nguồn và đích giống nhau. Kiểm tra lựa chọn của bạn.",
+    "errTooManyChar": "{{num}}/{{total}}: Nhập liệu vượt quá giới hạn ký tự.",
+    "upgradeForLongChar": "Nâng cấp ngay để mở khóa đầu vào dài hơn ({{num}} ký tự).",
+    "extraTransTips": "Bạn cũng có thể dịch:",
+    "currentPage": "Trang hiện tại",
+    "customization": {
+      "defaultPreferences": "Tùy chọn mặc định",
+      "title": "Tùy chọn dịch",
+      "Length": "Chiều dài",
+      "LengthOpt": {
+        "Brief": "Ngắn gọn",
+        "Concise": "Ngắn gọn",
+        "Standard": "Tiêu chuẩn",
+        "Expanded": "Đã mở rộng"
+      },
+      "Tone": "Tấn",
+      "ToneOpt": {
+        "Casual": "Bình thường",
+        "Neutral": "Trung lập",
+        "Formal": "Chính thức",
+        "Authoritative": "có thẩm quyền",
+        "Empathetic": "Đồng cảm"
+      },
+      "Style": "Phong cách",
+      "StyleOpt": {
+        "Literal": "nghĩa đen",
+        "DynamicEquivalence": "Tương đương động",
+        "CreativeAdaptation": "Thích ứng sáng tạo"
+      },
+      "Complexity": "Độ phức tạp",
+      "ComplexityOpt": {
+        "Layman": "giáo dân",
+        "Standard": "Tiêu chuẩn",
+        "Expert": "Chuyên gia"
+      }
+    },
+    "inputTranslateAdText": "Dịch văn bản ngay lập tức trong ô nhập liệu trên bất kỳ trang web nào!",
+    "inputTranslateAdBtn": "Thiết lập ngay bây giờ",
+    "seeDict": "Xem từ điển"
+  },
+  "sidebarSearchPanel": {
+    "history": "Lịch sử",
+    "searchProgress": {
+      "searching": "Đang tìm kiếm",
+      "analyzing": "Đang phân tích",
+      "organizing": "Đang tổ chức",
+      "generatingAnswer": "Đang tạo câu trả lời",
+      "competed": "Hoàn thành",
+      "searchInWeb": "Tìm kiếm trên web",
+      "analyzeSearchResult": "Phân tích kết quả tìm kiếm",
+      "generateAnswer": "Tạo câu trả lời",
+      "searchCompleted": "Tìm kiếm hoàn thành",
+      "searchCancelled": "Tìm kiếm đã hủy"
+    },
+    "relatedSearches": "Tìm kiếm liên quan",
+    "searchFrom": "Tìm kiếm từ",
+    "searchHistory": "Lịch sử tìm kiếm",
+    "answer": "Câu trả lời",
+    "currentVisit": "Lượt truy cập hiện tại",
+    "feedback": {
+      "stepAnswer": "Tạo câu trả lời",
+      "stepSearch": "Thực hiện tìm kiếm",
+      "stepUnderstand": "Hiểu câu hỏi",
+      "tipTotal": "Tổng cộng {{count}} tín dụng"
+    },
+    "stoppedSearch": "Bạn đã dừng tìm kiếm này.",
+    "newSearch": "Tìm kiếm mới",
+    "searching": "Tìm kiếm",
+    "searchFromAll": "Tìm kiếm từ toàn bộ Internet",
+    "searchAll": "Tìm kiếm từ tất cả",
+    "searchRange": "Phạm vi tìm kiếm",
+    "searchFromSite": "Tìm kiếm từ trang {{domain}}",
+    "sources": "Nguồn",
+    "suggestions": "Gợi ý",
+    "title": "Tìm kiếm",
+    "viewAll": "Xem tất cả",
+    "defaultSearchSuggesiton": "Khi nào là thời điểm tốt nhất để thăm Paris?",
+    "followUpQuestion": "Câu hỏi tiếp theo...",
+    "searchPlaceholder": "Nhập thông tin bạn muốn tìm kiếm"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "AI OCR có thể mắc lỗi",
+    "dragImgTips": "Nhấp để tải lên hoặc thả hình ảnh vào đây để trích xuất văn bản",
+    "noText": "Không có văn bản nào được nhận dạng",
+    "ocrCost": "Mỗi {{name}} sẽ tốn {{num}} tín dụng cơ bản",
+    "ocrTips": "Trích xuất văn bản, số và phương trình từ hình ảnh"
+  },
+  "pageTranslation": {
+    "title": "Dịch trang",
+    "demoText": "ChatGPT được vận hành bởi Transformer, một mô hình học sâu được thiết kế cho xử lý ngôn ngữ tự nhiên, với các mạng nơ-ron tự chú ý và truyền thẳng.",
+    "free": "Miễn phí",
+    "aiTranslator2": "Trình dịch AI",
+    "aiTranslatorFunTitle1": "Hiểu ngữ cảnh",
+    "aiTranslatorFunDesc1": "Nắm bắt cả ý định và giọng điệu, đi sâu hơn so với dịch từng từ",
+    "aiTranslatorFunTitle2": "Dịch chính xác",
+    "aiTranslatorFunDesc2": "Dịch rõ ràng và chính xác, đảm bảo không bỏ sót chi tiết nào",
+    "newAITranslationTip": "Dịch Trang AI hiện đã hoạt động! Nhấp vào đây để thiết lập.",
+    "translateService": "Dịch vụ dịch thuật",
+    "translateServiceTip": "Dịch AI tiêu tốn tín dụng cơ bản dựa trên độ dài nội dung.",
+    "pageTranslation": "Dịch trang này",
+    "showOriginal": "Hiển thị văn bản gốc",
+    "transSettings": "Cài đặt dịch",
+    "source": "Ngôn ngữ nguồn",
+    "target": "Ngôn ngữ đích",
+    "autoDetect": "Tự động phát hiện",
+    "displayMode": "Chế độ hiển thị",
+    "displayModes": [
+      "Song ngữ",
+      "Chỉ dịch"
+    ],
+    "displayStyle": "Phong cách hiển thị",
+    "displayStyles": [
+      "Không",
+      "Gạch chân",
+      "Làm mờ"
+    ],
+    "displayStyleDesc": "Chỉ dành cho dịch trong chế độ so sánh song ngữ",
+    "autoTrans": "Tự động dịch",
+    "autoTrans2": "Tự động dịch các trang web",
+    "autoTrans2Desc": "Khi tắt, nhấn nút dịch hoặc sử dụng phím tắt",
+    "neverTransSite": "Không bao giờ dịch trang web này",
+    "neverTransSites": "Không bao giờ dịch các trang web này",
+    "transAgain": "Dịch lại"
+  },
+  "inputTranslation": {
+    "title": "Dịch đầu vào",
+    "mainSwitchTitle": "Dịch văn bản nhập liệu với phím kích hoạt",
+    "mainSwitchDesc": "Dịch và thay thế văn bản trong ô nhập liệu trên bất kỳ trang web nào",
+    "triggerKeyTitle": "Phím kích hoạt",
+    "triggerKeyDesc": "Nhấn phím kích hoạt 3 lần nhanh chóng để dịch, hoàn tác với {{key}}",
+    "spaceKey": "Phím cách",
+    "model": "Mô hình dịch",
+    "neverTransSites": "Không bao giờ dịch trên những trang web này"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "Chế độ Suy nghĩ",
+      "desc": "Chế độ Suy nghĩ sử dụng lý luận Chuỗi Suy nghĩ để phân tích các vấn đề phức tạp thông qua suy luận nhiều bước, cung cấp các phản hồi toàn diện và sâu sắc hơn.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Suy nghĩ về: 9.11 hay 9.8, cái nào lớn hơn"
+        },
+        {
+          "title": "",
+          "value": "Suy nghĩ và viết một hàm để mô hình hóa lý thuyết 'Sáu Bậc Tách Biệt'. Cho một mạng xã hội dưới dạng đồ thị, tìm đường đi ngắn nhất giữa hai người bất kỳ."
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "Artifacts",
+      "desc": "Dễ dàng tạo và trình bày nội dung, như trang web hoặc sơ đồ luồng, trong một cửa sổ mới. Tăng cường năng suất với các tương tác thời gian thực và không gian làm việc tập trung.",
+      "demos": [
+        {
+          "title": "Tạo một Xylophone Ảo",
+          "value": "Tạo một xylophone dựa trên HTML với các phím đầy màu sắc trong một {{ARTIFACT}}. Cung cấp phản hồi hình ảnh cho các phím bị gõ, và tạo ra âm thanh đơn giản, thực tế bằng cách sử dụng Web Audio API dựa trên các tham số tần số. Bao gồm hướng dẫn cơ bản."
+        },
+        {
+          "title": "Tạo một trò chơi Emoji Ăn Thức Ăn",
+          "value": "Tạo một trò chơi đơn giản dựa trên HTML, tương tự như Catch the Candy, trong một {{ARTIFACT}}. Người chơi điều khiển một emoji ở dưới cùng của màn hình, di chuyển nhanh sang trái và phải để bắt và ăn các món ăn (ví dụ: 🍓, 🍔, 🍎) rơi từ trên xuống trong khi tránh bom (💣). Mỗi lần người chơi bắt được một emoji thức ăn, emoji của họ sẽ thay đổi thành một biểu cảm tích cực phóng đại hơn (ví dụ: 🤩, 😆, 😋) để chỉ ra thành công. Nếu người chơi vô tình bắt được một quả bom, emoji sẽ đầu tiên hiển thị một vụ nổ (💥) và sau đó thay đổi thành một biểu cảm choáng váng (😵‍💫)."
+        },
+        {
+          "title": "Tạo Biểu Đồ Giao Hàng Smartphone",
+          "value": "Sử dụng React để tạo một biểu đồ đường đẹp mắt trong một {{ARTIFACT}} dựa trên bảng sau.\n------\n\nGiao hàng Smartphone của các thương hiệu lớn trong thập kỷ qua (tính bằng tỷ)"
+        }
+      ]
+    },
+    "search": {
+      "name": "Truy cập Web",
+      "desc": "Nhận thông tin chi tiết thời gian thực vượt ra ngoài dữ liệu đã được đào tạo trước, đảm bảo phản hồi chính xác và kịp thời cho các sự kiện hiện tại, tin tức nóng hổi và các chủ đề đang phát triển.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Những bộ phim nào đang được đánh giá cao nhất hiện nay tại các rạp chiếu phim ở Mỹ?"
+        },
+        {
+          "title": "",
+          "value": "Cổ phiếu nào đã có sự tăng trưởng đáng chú ý hôm nay?"
+        },
+        {
+          "title": "",
+          "value": "Sản phẩm điện tử mới nào đáng chú ý nhất được phát hành hôm nay?"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "Tạo hình ảnh",
+      "desc": "Chỉ cần mô tả những gì bạn nghĩ, và tạo ra hình ảnh chất lượng cao ngay lập tức. Không cần kỹ năng thiết kế - chỉ cần trí tưởng tượng của bạn.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Thiết kế một chiếc xe bay tương lai."
+        },
+        {
+          "title": "",
+          "value": "Phác thảo một chú chó golden retriever đang chạy trên cỏ."
+        },
+        {
+          "title": "",
+          "value": "Miêu tả một người phụ nữ lớn tuổi đang uống cà phê một cách thoải mái."
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "Phân Tích Dữ Liệu",
+      "desc": "Chạy mã Python trong thời gian thực cho toán học nâng cao, thống kê, học máy và xử lý dữ liệu, đơn giản hóa các tác vụ trên nhiều định dạng khác nhau.",
+      "demos": [
+        {
+          "title": "Đọc dữ liệu từ tệp và tạo biểu đồ tròn hiển thị tỷ lệ các ngân sách chi tiêu khác nhau.",
+          "value": "Đọc dữ liệu từ tệp và tạo biểu đồ tròn hiển thị tỷ lệ các ngân sách chi tiêu khác nhau."
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Yêu thích tiện ích mở rộng của chúng tôi?</b> Vui lòng đánh giá chúng tôi năm sao trên cửa hàng trực tuyến để giúp chúng tôi phát triển",
+    "newInVersion": "Có gì mới trong phiên bản {{versionId}}",
+    "learnToUse": "Học cách sử dụng",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, Trình dịch AI",
+      "4_36_0": "Thu thập Kiến thức với Wisebase",
+      "4_35_0": "Xem Trước Liên Kết: Duyệt Web Thông Minh Hơn",
+      "4_34_0": "Gmail Al Reply, Artifacts và Cải tiến Dịch thuật",
+      "4_33_0": "Nâng cấp Tóm tắt Video & O1",
+      "4_32_0": "Hỗ trợ tệp âm thanh trong Chat",
+      "4_31_0": "Công cụ Nav, Dịch đầu vào, Sao chép nhanh",
+      "4_30_0": "Cập nhật GPT-4o, Dịch Trang và Phụ đề YouTube",
+      "4_29_0": "Trải nghiệm trò chuyện nâng cao",
+      "4_28_0": "Claude 3.5 Haiku & Tùy chọn Nâng cao",
+      "4_27_0": "Cải thiện Menu ngữ cảnh và Artifacts",
+      "4_26_0": "Giới thiệu Chế độ Suy nghĩ (Thử nghiệm)",
+      "4_25_0": "Giao diện mới cho trải nghiệm tốt hơn",
+      "4_24_0": "Các mẫu Gemini vừa trở nên thông minh hơn và nhanh hơn!",
+      "4_23_0": "OpenAI o1-preview & o1-mini hiện đã có sẵn!",
+      "4_22_0": "Quỷ vs Thiên thần: X-quang Tính cách X của bạn",
+      "4_20_0": "Nâng cấp tính năng dịch",
+      "4_19_0": "{{ARTIFACTS}}: Khối Nội Dung Tương Tác Thời Gian Thực",
+      "4_18_0": "Chia sẻ cuộc trò chuyện đã hoạt động!",
+      "4_17_0": "Giới thiệu Tính năng Nổi bật cho YouTube",
+      "4_16_0": "Giới thiệu GPT-4o mini",
+      "4_13_0": "Giới thiệu AI Đọc To: Trợ lý âm thanh cá nhân của bạn",
+      "4_12_0": "",
+      "4_11_0": "Đọc sâu để nâng cao kỹ năng đọc phản biện của bạn!",
+      "4_10_0": "OpenAI's GPT-4o đã sẵn sàng!",
+      "4_9_0": "Llama 3 đã sẵn sàng! Thế hệ tiếp theo của LLM mã nguồn mở tiên tiến của Meta.",
+      "4_8_0": "Gemini 1.5 Pro - Đã Có Mặt!",
+      "4_7_0": "Tóm tắt Video trong Chat, Trích xuất phụ đề, Claude 3 Haiku! 🚀",
+      "4_6_0": "Hỗ trợ gia đình Claude 3 ngay bây giờ!",
+      "4_5_0": "",
+      "4_4_0": "Tất cả Công cụ trong Chat & GPT-4 Trình đơn Ngữ cảnh",
+      "4_3_0": "Tận hưởng trải nghiệm tối đa với chế độ toàn màn hình!",
+      "4_2_0": "Truy cập giao diện người dùng &; thanh bên GPT hiệu quả hơn",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "Sider đã sẵn sàng để chế giễu & khoe khoang các bài đăng công khai trên X (Twitter) của bạn! Tham gia để cười, không giữ lại dữ liệu. Bắt đầu trò chơi và chia sẻ niềm vui với bạn bè của bạn!"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>: Đạt hiệu suất tương đương với OpenAI-o1"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>: Xuất sắc trong lý luận phức tạp, toán học và các nhiệm vụ mã hóa"
+          ]
+        },
+        {
+          "features": [
+            "<b>Trình dịch AI cho Trang Web</b>: Cung cấp bản dịch tự nhiên và chính xác"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>Lưu Trang Web và Đánh dấu</b>: Lưu nội dung web quý giá vào Wisebase (kho kiến thức Al) chỉ với một cú nhấp chuột"
+          ]
+        },
+        {
+          "features": [
+            "<b>Hộp thư Al</b>: Để Al tự động phân loại nội dung của bạn"
+          ]
+        },
+        {
+          "features": [
+            "<b>Trò chuyện với Nhiều Tệp</b>: Nhận câu trả lời tức thì từ các tệp đã thu thập của bạn"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>Xem Trước Tức Thì</b>: Kéo liên kết để xem nội dung mà không cần mở tab mới"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tóm Tắt Thông Minh</b>: Nắm bắt thông tin chính từ trang chỉ trong nháy mắt"
+          ]
+        },
+        {
+          "features": [
+            "<b>Duyệt Web Hiệu Quả</b>: Tập trung hơn với ít lần nhấp chuột và ít phiền nhiễu hơn"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Al Reply trong Gmail</b>: Hỗ trợ dịch thuật và lựa chọn mô hình Al để giao tiếp tốt hơn"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artifacts</b>: Xuất sơ đồ dưới dạng hình ảnh để dễ dàng chia sẻ"
+          ]
+        },
+        {
+          "features": [
+            "<b>Dịch thuật</b>: Từ điển Al cho các bản dịch chính xác của từ và cụm từ"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>: Nhanh hơn ‘o1-preview’, xuất sắc trong các nhiệm vụ phức tạp nhiều bước với độ chính xác cao"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tóm tắt Video Không Cần Phụ Đề</b>: Nhận bản chép và tóm tắt cho video YouTube không có phụ đề"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tóm tắt Nội dung Web</b>: Cải thiện cho các nền tảng như Reddit và Twitter"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>Âm thanh thành Văn bản</b>: Tải lên tệp MP3, WAV, M4A, hoặc MPGA để tạo bản ghi"
+          ]
+        },
+        {
+          "features": [
+            "<b>Xem & Nghe</b>: Đọc bản ghi trong khi nghe âm thanh"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tóm tắt dễ dàng</b>: Tạo tóm tắt nhanh với một cú nhấp chuột"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>Công cụ Nav</b>: Truy cập công cụ AI cho hình ảnh, PDF và video từ thanh điều hướng"
+          ]
+        },
+        {
+          "features": [
+            "<b>Dịch đầu vào</b>: Nhấn ba lần phím cách để dịch văn bản đầu vào (kích hoạt trong Tùy chọn)"
+          ]
+        },
+        {
+          "features": [
+            "<b>Sao chép nhanh</b>: Sao chép văn bản ngay lập tức với menu ngữ cảnh"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>: Tăng cường khả năng viết tự nhiên và cải thiện xử lý tệp"
+          ]
+        },
+        {
+          "features": [
+            "<b>Chỉ hiển thị bản dịch</b>: Dịch trang hiện hỗ trợ chỉ xem nội dung đã dịch"
+          ]
+        },
+        {
+          "features": [
+            "<b>Phụ đề YouTube tốt hơn</b>: Thưởng thức bản dịch phụ đề song ngữ chất lượng cao hơn"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>Chỉnh sửa tin nhắn</b>: Dễ dàng chỉnh sửa tin nhắn đã gửi và gửi lại để nhận câu trả lời mới"
+          ]
+        },
+        {
+          "features": [
+            "<b>So sánh song song</b>: Xem phản hồi từ nhiều mô hình trên toàn trang"
+          ]
+        },
+        {
+          "features": [
+            "<b>Biểu tượng cho Lời nhắc Tùy chỉnh</b>: Gán biểu tượng cho các lời nhắc tùy chỉnh để tổ chức rõ ràng hơn"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Haiku</b>: Cung cấp hiệu suất vượt trội so với Claude 3 Opus, xuất sắc trong mã hóa, sử dụng công cụ và lập luận"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tùy chỉnh kích thước phông chữ</b>: Bạn có thể thay đổi kích thước phông chữ của tin nhắn"
+          ]
+        },
+        {
+          "features": [
+            "<b>Giao diện người dùng tinh gọn</b>: Giao diện Tùy chọn sạch hơn, trực quan hơn để dễ dàng cá nhân hóa"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>Giao diện người dùng được tối ưu hóa</b>: Giao diện sạch sẽ, trực quan hơn để mang lại trải nghiệm mượt mà hơn"
+          ]
+        },
+        {
+          "features": [
+            "<b>Dịch thuật nâng cao</b>: Cung cấp ý nghĩa từ liên quan với độ chính xác theo ngữ cảnh"
+          ]
+        },
+        {
+          "features": [
+            "<b>Xuất bản & Chia sẻ Artifacts</b>: Dễ dàng chia sẻ Artifacts của bạn công khai qua liên kết"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>Lý luận Chuỗi Suy nghĩ</b>: Phân tích các nhiệm vụ phức tạp từng bước để giải quyết vấn đề thông minh hơn"
+          ]
+        },
+        {
+          "features": [
+            "<b>Những hiểu biết sâu sắc hơn</b>: Cung cấp câu trả lời sâu sắc để giải quyết các câu hỏi khó"
+          ]
+        },
+        {
+          "features": [
+            "<b>Hoạt động với Tất cả Các Mô hình</b>: Có sẵn một cách liền mạch trên mọi mô hình"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>Thiết kế tinh tế</b>: Hình ảnh hiện đại, bố cục gọn gàng để dễ sử dụng và tập trung"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ghim lời nhắc</b>: Ghim các lời nhắc thường dùng để truy cập nhanh"
+          ]
+        },
+        {
+          "features": [
+            "<b>Bảng mở rộng</b>: Xem dữ liệu lớn trong cửa sổ mới để đọc dễ dàng hơn"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>: Lý luận siêu tốc với kỹ năng toán học và hình ảnh nâng cao."
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>: Nhanh gấp 2 lần, độ trễ thấp hơn 3 lần, tốt hơn về hình ảnh và lập trình."
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>: Xử lý các nhiệm vụ phức tạp và giải quyết các vấn đề khó hơn so với các mô hình trước đây trong khoa học, lập trình và toán học. Chi phí 15 tín dụng nâng cao cho mỗi tin nhắn."
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>: Một mô hình nhanh hơn, đặc biệt hiệu quả trong lập trình. Lý tưởng cho việc suy luận tập trung mà không cần kiến thức rộng. Chi phí 3 tín dụng nâng cao cho mỗi tin nhắn."
+          ]
+        },
+        {
+          "features": [
+            "<b>Lưu ý</b>: Có giới hạn tốc độ."
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>Dịch đa mô hình</b>: Sử dụng nhiều mô hình cùng lúc để có bản dịch chính xác hơn."
+          ]
+        },
+        {
+          "features": [
+            "<b>Viết lại bản dịch đa dạng</b>: Viết lại bản dịch cho các tình huống khác nhau."
+          ]
+        },
+        {
+          "features": [
+            "<b>Phụ đề song ngữ</b>: Xem phụ đề YouTube bằng cả hai ngôn ngữ cùng lúc."
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>Xem Trước Trực Tiếp:</b> Xem trước và tương tác với các trang web, tài liệu và biểu đồ được tạo bởi AI trong thời gian thực."
+          ]
+        },
+        {
+          "features": [
+            "<b>Lặp Lại Liên Tục:</b> Lặp lại các hiện vật được tạo thông qua trò chuyện."
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>Nhiều định dạng</b>: Chia sẻ cuộc trò chuyện của bạn dưới dạng liên kết hoặc hình ảnh."
+          ]
+        },
+        {
+          "features": [
+            "<b>Lựa chọn linh hoạt</b>: Chọn và chia sẻ toàn bộ cuộc trò chuyện hoặc chỉ một phần."
+          ]
+        },
+        {
+          "features": [
+            "<b>Dễ dàng kiểm soát</b>: Thu hồi các liên kết đã chia sẻ bất cứ lúc nào."
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>Điểm Nổi bật của Video</b>: Tường thuật do AI tạo ra giúp bạn tiết kiệm thời gian bằng cách nhanh chóng làm nổi bật các điểm chính của video."
+          ]
+        },
+        {
+          "features": [
+            "<b>Tường thuật Tự nhiên</b>: Giọng nói AI chân thực nâng cao trải nghiệm xem của bạn."
+          ]
+        },
+        {
+          "features": [
+            "<b>Hỗ trợ Đa ngôn ngữ</b>: Dễ dàng hiểu video qua các rào cản ngôn ngữ."
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>Hiệu suất nhanh hơn, vượt trội:</b> Làm cho các nhiệm vụ hàng ngày mượt mà và hiệu quả hơn."
+          ]
+        },
+        {
+          "features": [
+            "<b>Toán học và mã hóa nâng cao:</b> Đảm bảo hiệu suất chính xác cho các nhiệm vụ kỹ thuật."
+          ]
+        },
+        {
+          "features": [
+            "<b>Nâng cấp từ GPT-3.5:</b> GPT-4o mini thay thế GPT-3.5 với hiệu suất tốt hơn."
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>Giọng nói AI tự nhiên</b>: Thưởng thức 9 giọng nói AI tự nhiên bằng nhiều ngôn ngữ."
+          ]
+        },
+        {
+          "features": [
+            "<b>Nghe ở bất cứ đâu</b>: Chọn bất kỳ văn bản nào trên trang web để nghe đọc to."
+          ]
+        },
+        {
+          "features": [
+            "<b>Hỗ trợ thanh bên</b>: Dễ dàng nghe nội dung do AI tạo ra từ các tiện ích thanh bên."
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>Hỗ trợ cho Claude 3.5 Sonnet:</b> Mô hình mới nhất của Anthropic, với tốc độ gấp 2 lần Claude 3 Opus và trí thông minh cao hơn, cải thiện đáng kể khả năng lập luận, kiến thức, mã hóa và các nhiệm vụ hình ảnh."
+          ]
+        },
+        {
+          "features": [
+            "<b>Ngừng sử dụng Claude 3 Opus:</b> được thay thế bởi Claude 3.5 Sonnet tiên tiến."
+          ]
+        },
+        {
+          "features": [
+            "<b>Mời & Kiếm:</b> Mời bạn bè của bạn để kiếm lượt truy vấn miễn phí và thử mô hình mới nhất ngay hôm nay!"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>Nhiều trang web:</b> Đọc nhiều trang web hoặc tài liệu cùng một lúc"
+          ]
+        },
+        {
+          "features": [
+            "<b>Công cụ đọc phản biện:</b> Làm rõ các khái niệm chính, Xác định giả định, Đánh dấu đoạn trích, Tìm hiểu về tác giả, và nhiều hơn nữa."
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}:</b> Tự động chọn mô hình nhanh nhất (GPT-3.5, Claude 3 Haiku, Gemini 1.5 Flash, hoặc Llama 3) phù hợp nhất cho nhiệm vụ cụ thể của bạn."
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Tốc độ Tăng:</b> Nhận phản hồi nhanh gấp 2 lần so với GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Khả năng Nhìn nhận Tăng cường:</b> Hiểu hình ảnh được cải thiện đáng kể"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ngôn ngữ Mở rộng:</b> Nhiều ngôn ngữ hơn, chất lượng tốt hơn và hiệu suất nhanh hơn"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Mô hình Mới:</b> Hỗ trợ Llama 3 ngay bây giờ"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Mẫu Mới:</b> Hỗ trợ ngay Gemini 1.5 Pro"
+          ]
+        },
+        {
+          "features": [
+            "<b>Công Cụ Hình Ảnh AI Mới:</b> Truy cập các tính năng AI bằng cách di chuột qua bất kỳ hình ảnh nào"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "Tóm tắt trong Chat: Nhận điểm chính của video YouTube với 'Đọc trang này' trong cửa sổ chat."
+          ]
+        },
+        {
+          "features": [
+            "Trích xuất phụ đề dễ dàng: Lấy phụ đề với một cú nhấp chuột trên YouTube để có cái nhìn sâu hơn."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Hiện đã có để làm phong phú trải nghiệm chat của bạn."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Tự xưng có khả năng \"gần như con người\" và có thể đánh bại GPT-4."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Cân bằng thông minh và tốc độ, lý tưởng cho việc truy xuất thông tin hoặc tự động hóa bán hàng."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Widget Tìm kiếm Đại lý:</b> Trải nghiệm tương lai của tìm kiếm với tự động hóa AI"
+          ]
+        },
+        {
+          "features": [
+            "<b>Dịch trang web:</b> Các kiểu hiển thị dịch thuận tiện hơn cho người đọc"
+          ]
+        },
+        {
+          "features": [
+            "<b>Cài đặt mới:</b> Tự động tiếp tục cuộc trò chuyện cuối cùng khi mở thanh bên"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Công cụ Phân tích Dữ liệu Nâng cao Mới:</b> Trình thông dịch mã để xử lý dữ liệu hiệu quả và tính toán phức tạp"
+          ]
+        },
+        {
+          "features": [
+            "<b>Công cụ Vẽ Mới:</b> Tạo hình ảnh ngay lập tức trong chat"
+          ]
+        },
+        {
+          "features": [
+            "<b>Trình đơn Ngữ cảnh Nâng cao:</b> Sử dụng GPT-4 trong trình đơn ngữ cảnh."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Mở rộng tầm nhìn với chế độ xem toàn màn hình"
+          ]
+        },
+        {
+          "features": [
+            "Tận hưởng tất cả các tính năng thanh bên, giờ đây trong chế độ toàn màn hình"
+          ]
+        },
+        {
+          "features": [
+            "Chuyển đổi mượt mà giữa các chế độ để có những trải nghiệm tốt nhất từ cả hai thế giới"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Giao diện được làm mới:</b> Sạch hơn và dễ điều hướng hơn"
+          ]
+        },
+        {
+          "features": [
+            "<b>Thanh điều hướng có thể thu gọn:</b> Đảm bảo trải nghiệm trò chuyện tập trung trong khi vẫn giữ các tính năng thiết yếu trong tầm tay dễ dàng"
+          ]
+        },
+        {
+          "features": [
+            "<b>Truy cập GPT thanh bên:</b> Đối với người dùng ChatGPT Plus, quyền truy cập trực tiếp vào GPT hiện có sẵn trong thanh bên ở chế độ ứng dụng web"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "Bản xem trước GPT-4V(ision)! & Trả lời AI cho Gmail",
+          "features": [
+            "{{SIDERVISION}} được cung cấp bởi GPT-4V",
+            "Hiểu rõ hơn về hình ảnh",
+            "Nhanh chóng nắm bắt ý định email",
+            "Chọn từ các tông màu và cá tính đa dạng",
+            "Dễ dàng chọn đề xuất trả lời"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "Trang web Trò chuyện và GPT-4 Turbo!",
+          "features": [
+            "Hỗ trợ GPT-4 Turbo và GPT-3.5 Turbo",
+            "Dịch toàn bộ trang web",
+            "Trang web trò chuyện trong Thanh bên",
+            "Trò chuyện PDF trong thanh bên"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Tiện ích dịch",
+          "features": [
+            "Tùy chỉnh bản dịch của bạn trong tiện ích Dịch chuyên dụng",
+            "Cải thiện câu trả lời của ChatGPT trên Google, Bing, Baidu, v.v."
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} trở nên thông minh hơn",
+          "features": [
+            "{{4+VISION}}",
+            "1 cú nhấp chuột để trả lời cùng một câu hỏi với các bot khác nhau"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Tiện ích ngữ pháp Sider",
+          "features": [
+            "Kiểm tra lỗi ngữ pháp",
+            "Sửa lỗi ngữ pháp",
+            "Cải thiện bài viết ngoài ngữ pháp"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Thanh bên ChatGPT có Tầm nhìn",
+          "features": [
+            "Trích xuất văn bản từ một hình ảnh",
+            "Đặt bất kỳ câu hỏi nào về hình ảnh",
+            "3 cách gửi hình ảnh tới {{SIDERVISION}} <div><ol><li>Chụp ảnh màn hình</li><li>Kéo và thả hình ảnh vào cửa sổ Trò chuyện</li><li>Tải hình ảnh lên </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Trích xuất văn bản từ một hình ảnh"
+          ]
+        },
+        {
+          "features": [
+            "Trích xuất văn bản từ một hình ảnh"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Gói giá mới với 5 lần tín dụng GPT-4 nhiều hơn",
+          "features": [
+            "Tin tuyệt vời! Giá cập nhật của chúng tôi hiện cung cấp cho bạn nhiều tín dụng GPT-4 và Claude 2 hơn.",
+            "Nếu bạn đã là người dùng cao cấp, bạn sẽ được nâng cấp tự động. Ngoài ra, chúng tôi còn có gói 'Không giới hạn' mới dành cho tất cả những người dùng thành thạo của bạn!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Thêm bot!",
+          "features": [
+            "Ngoài ChatGPT và Claude, Sider hiện còn hỗ trợ Bard!"
+          ]
+        },
+        {
+          "title": "OCR: Trích xuất văn bản từ bất kỳ hình ảnh nào và gửi đến ChatGPT",
+          "features": [
+            "Nhận biết hơn 10 ngôn ngữ chính",
+            "Nhận biết chữ viết tay bằng tiếng Anh",
+            "Nhận biết <b>phương trình toán học</b> trong văn bản"
+          ]
+        },
+        {
+          "title": "Cải thiện họa sĩ",
+          "features": [
+            "Thay thế toàn bộ nền",
+            "Xóa vùng đã chọn"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Thêm Chatbots</b>: Hiện đang hỗ trợ Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Trò chuyện nhóm</b>: So sánh câu trả lời giữa các Chatbot!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Đề cập</b>: Sử dụng '@' để dễ dàng đề cập và tương tác với bất kỳ chatbot nào trong cuộc trò chuyện!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nhắc nhanh</b>: Chỉ cần gõ '/' và bắt đầu!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Thiết kế đơn giản</b>: Làm cho thiết kế trở nên đơn giản và dễ điều hướng"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Trình quản lý lời nhắc nâng cao cho",
+          "features": [
+            "Menu ngữ cảnh đọc",
+            "Viết menu ngữ cảnh"
+          ]
+        },
+        {
+          "title": "Trình chỉnh sửa hình ảnh AI",
+          "features": [
+            "Xóa nền khỏi bất kỳ hình ảnh nào",
+            "Xóa văn bản khỏi bất kỳ hình ảnh nào"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Trợ lý đọc: Sử dụng AI để hiểu nhanh khi đọc các trang web",
+        "Trợ lý viết: Tạo nhanh nội dung bằng AI trong hộp nhập liệu trên web"
+      ],
+      "2_7_0": [
+        "Vẽ hình từ văn bản",
+        "Vẽ hình ảnh từ một hình ảnh tham khảo"
+      ],
+      "2_6_0": [
+        "Sider Hỗ trợ thanh bên cố định - Bạn có thể trò chuyện giữa tất cả các tab mà không chồng chéo bất kỳ nội dung nào <br /> (có sẵn trong Chrome 114 trở lên)"
+      ],
+      "2_5_0": [
+        "Tóm tắt YouTube! Xem 1 giờ video YouTube trong 1 phút",
+        "So sánh câu trả lời do con người và AI cung cấp trên các trang hỏi đáp như Quora, StackOverflow và Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Truy cập web thông minh</b>: Dựa trên truy vấn của bạn, Al sẽ quyết định xem nó có cần truy cập web hay không.",
+        "cải thiện độ ổn định"
+      ],
+      "2_3_0": [
+        "Hỗ trợ Trình duyệt và Plugin cho người dùng Plus!",
+        "ChatGPT với truy cập internet cho tất cả mọi người!"
+      ],
+      "2_2_0": [
+        "Soạn tin nhắn bất kỳ",
+        "Trả lời email, tweet, bình luận, v.v."
+      ],
+      "2_1_0": [
+        "Phím tắt tra cứu nhanh",
+        "Thay đổi kích thước cửa sổ Tra cứu nhanh",
+        "Sửa lỗi và cải tiến UX khác"
+      ],
+      "2_0_0": [
+        "Hỗ trợ <b>GPT-4 </b>cho tất cả người dùng!",
+        "Mời bạn bè và nhận tín dụng <b>GPT-4</b> cho cả hai bạn!",
+        "Sửa lỗi và cải tiến UX khác"
+      ],
+      "1_1_0": [
+        "Trò chuyện đầy đủ trong <b>tab mới</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> cùng nhau!",
+        "Sửa lỗi"
+      ],
+      "1_0_13": [
+        "Tiếp tục trò chuyện sau khi đặt câu hỏi",
+        "Chuyển đổi giữa GPT-4 và GPT-3.5 cho người dùng Plus",
+        "Dễ dàng truy cập và tìm kiếm lịch sử trò chuyện"
+      ],
+      "1_0_12": [
+        "Đồng bộ hóa cài đặt tiện ích mở rộng trên các máy tính",
+        "Truy cập lời nhắc của bạn từ các máy tính xách tay khác nhau",
+        "Lưu các cuộc trò chuyện để sử dụng trong tương lai",
+        "Chia sẻ cuộc trò chuyện qua liên kết"
+      ],
+      "1_0_11": [
+        "Truy cập nhanh các thao tác thông qua cửa sổ bật lên mà không cần mở thanh bên.",
+        "Thêm hỗ trợ cho các ngôn ngữ bổ sung.",
+        "Giữ lại tùy chọn ngôn ngữ của người dùng khi sử dụng tính năng dịch.",
+        "Giải quyết xung đột phím tắt trên các nền tảng như GitHub và các nền tảng khác."
+      ],
+      "1_0_10": [
+        "Hỗ trợ hơn 50 ngôn ngữ ngay bây giờ!"
+      ],
+      "1_0_8": [
+        "Hỗ trợ GPT-4 cho người dùng Plus! Kiểm tra trang cài đặt!"
+      ],
+      "1_0_7": [
+        "Ghi lời nhắc được sử dụng lần trước",
+        "Tối ưu hóa vị trí bảng chatGPT trên trang tìm kiếm",
+        "Thêm một tùy chọn để đặt biểu tượng thanh bên trong trang ở bên trái",
+        "Tối ưu hóa kích thước gói",
+        "Thêm chế độ tối",
+        "Hỗ trợ proxy url API của bạn"
+      ],
+      "1_0_6": [
+        "Cải thiện tính năng tóm tắt trong trang Youtube"
+      ],
+      "1_0_5": [
+        "Ghi nhớ vị trí của biểu tượng thanh bên",
+        "Cải thiện các phím tắt",
+        "Lưu trực tiếp các mẫu lời nhắc từ thanh bên"
+      ],
+      "1_0_4": [
+        "Sắp xếp lại các mục nhắc nhở trong danh sách thả xuống",
+        "Lưu trữ các mục nhắc bạn sẽ không sử dụng",
+        "Hỗ trợ phản hồi bằng hơn 50 ngôn ngữ"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter để thực hiện nhanh “Gửi”",
+        "Tùy chọn ẩn bảng điều khiển trong trang kết quả tìm kiếm",
+        "Hỗ trợ ESC để ẩn thanh bên",
+        "Hỗ trợ tóm tắt bài viết dài"
+      ],
+      "1_0_2": [
+        "Thêm nút dừng để ngừng tạo phản hồi",
+        "Thay đổi vị trí của nút thu gọn"
+      ],
+      "1_0_1": [
+        "Cải thiện tính năng tóm tắt trong trang Youtube",
+        "Sửa một số lỗi liên quan đến sao chép/dán và in"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Kích hoạt các công cụ trò chuyện để mở khả năng mạnh mẽ.",
+    "content2": [
+      "Khám phá thế giới rộng lớn một cách mượt mà.",
+      "Biến ý tưởng của bạn thành hình ảnh tuyệt đẹp.",
+      "Đắm chìm vào dữ liệu với phân tích chuyên gia."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Bình chọn cho Săn sản phẩm",
+    "sidebar2Banner1": "Bình chọn cho chúng tôi trên <b>Product Hunt</b> NGAY BÂY GIỜ để quảng bá rộng rãi.",
+    "sidebar2ModalTitle": "✨ Tổng hợp Sidebar 2.0",
+    "sidebar2ModalDesc": "• Thẻ trò chuyện\n  • Tra cứu nhanh các truy vấn nhanh\n  • Tài khoản để đồng bộ lời nhắc\n  • Lưu và chia sẻ cuộc trò chuyện\n  • Hỗ trợ nhiều ngôn ngữ hơn\n  • Hỗ trợ GPT-4",
+    "ios1Banner1": "Bình chọn cho ChitChat - ứng dụng ChatGPT iOS 🎉",
+    "ios1Banner2": "Hãy bắt đầu mọi thứ với một tiếng nổ! 😄",
+    "ios1ModalTitle": "✨ Tính năng mới trên ứng dụng ChitChat iOS",
+    "ios1ModalDesc": "• Nhận câu trả lời từ ChatGPT 3.5 & 4\n• Nhóm hỗ trợ gồm các bot hỗ trợ bạn ở một nơi\n  • Biến PDF của bạn thành một chatbot"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}} dành cho Mac",
+    "macContent": "Chúng tôi vui mừng thông báo rằng Sider hiện đã có sẵn cho người dùng Mac! Tận hưởng trải nghiệm liền mạch và hiệu quả được thiết kế riêng cho Mac, cùng với tất cả các tính năng mạnh mẽ mà bạn yêu thích từ phiên bản web của chúng tôi.",
+    "macContent2": "{{APP_NAME}} hiện có sẵn cho Mac!",
+    "macDownload": "Tải ngay!",
+    "phTitle": "Thích sử dụng tiện ích mở rộng của chúng tôi?",
+    "phContent": "Dành một chút thời gian để ủng hộ chúng tôi bằng một lượt bình chọn trên <i>Product Hunt</i>—rất nhanh, dễ dàng và giúp chúng tôi rất nhiều!",
+    "phContent2": "Hãy bình chọn cho chúng tôi về <b>Tìm kiếm sản phẩm</b>",
+    "phVote": "Bình chọn bây giờ!",
+    "phTitle2": "Chúng tôi đã ra mắt phiên bản Sider 3.X trên <i>Product Hunt</i>.",
+    "phFeatures1": "<b>Tiện ích ChatGPT</b>: Viết, trích xuất văn bản từ hình ảnh, kiểm tra ngữ pháp và dịch, tất cả ở cùng một nơi.",
+    "phFeatures2": "<b>Sider Vision</b>: Trò chuyện về hình ảnh với GPT-4 Vision, đưa cuộc trò chuyện AI lên một tầm cao mới.",
+    "phFeatures3": "<b>Trò chuyện AI nhóm</b>: Tương tác với ChatGPT, GPT-4, Claude và Bard trong một cuộc trò chuyện nhóm mang tính đột phá.",
+    "phFeatures4": "<b>Chúng tôi đều là đôi tai</b>: Phản hồi của bạn định hình Sider - hãy chia sẻ suy nghĩ của bạn, chúng tôi đang lắng nghe!",
+    "phVote2": "Bình chọn cho <i>Săn sản phẩm</i>",
+    "phVoteTips": "<b>Cuộc bình chọn hôm nay rất quan trọng</b> - Hãy hỗ trợ chúng tôi ngay!",
+    "halloweenCountdown": "Ưu đãi Ma Quái: <b>Còn {{time}}</b>",
+    "halloweenCountdown2": "Giảm {{price}}: <b>Còn {{time}}</b>",
+    "halloweenCardTitle": "Giảm Giá Halloween",
+    "halloweenCardDesc": "Mở Khóa Tiết Kiệm Ma Quái",
+    "halloweenCardTitle2": "Nhận Quà Halloween",
+    "halloweenCardDesc2": "Tận hưởng Giảm {{price}}",
+    "blackFridayCountdown": "Black Friday: <b>Còn lại {{time}}</b>",
+    "xmasCountdown": "Khuyến mãi cuối năm: <b>Còn lại {{time}}</b>"
+  },
+  "timeUnit": {
+    "day": "Ngày",
+    "day_one": "Ngày",
+    "day_other": "Ngày",
+    "hour": "Giờ",
+    "hour_one": "Giờ",
+    "hour_other": "Giờ",
+    "minute": "Phút",
+    "minute_one": "Phút",
+    "minute_other": "Phút",
+    "second": "Giây",
+    "second_one": "Giây",
+    "second_other": "Giây"
+  },
+  "searchTool": {
+    "questionMark": "Kích hoạt ChatGPT bằng cách thêm dấu chấm hỏi sau truy vấn của bạn",
+    "fiveStart": "Thưởng thức phần mở rộng này? Hãy xếp hạng 5 sao cho chúng tôi tại {{store}}",
+    "loginAndCloudflareCheck": "Vui lòng đăng nhập và vượt qua kiểm tra Cloudflare tại {{web}}",
+    "braveTrouble": "Vẫn không làm việc? Theo dõi {{url}}",
+    "cloudflareCheck": "OpenAI thỉnh thoảng yêu cầu vượt qua kiểm tra bảo mật. Nếu điều này vẫn tiếp tục xảy ra, hãy thay đổi nhà cung cấp AI thành OpenAI API trong <i>tùy chọn tiện ích mở rộng</i>.",
+    "failedResponse": "Không thể tải phản hồi từ ChatGPT:",
+    "whenToAskTips": "Mỗi lần tìm kiếm tiêu tốn một tín dụng cơ bản. Nhấp vào đây để đặt khi nào hỏi ChatGPT.",
+    "waitResponse": "Đang đợi phản hồi ChatGPT..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> Đánh giá 5 sao",
+    "AIContentWarning": "Nội dung do AI tạo ra có thể không phải lúc nào cũng xác thực",
+    "activeUsers": "<num>5M+</num> Người dùng hoạt động",
+    "copyIamge": "Sao chép hình ảnh",
+    "copyLink": "Sao Chép Liên Kết",
+    "downloadImage": "Tải hình ảnh",
+    "generateImage": "Tạo hình ảnh",
+    "generateLink": "Tạo liên kết",
+    "linkCopied": "Liên Kết Đã Được Sao Chép",
+    "linkGenerated": "Liên kết đã được tạo",
+    "qrcodeTip": "Quét để tải {{APP_NAME}}!",
+    "selectAll": "Chọn tất cả",
+    "shareOn": "Chia sẻ trên",
+    "slogan": "Trợ lý AI của bạn",
+    "socialMediaImageCopiedTip": "Hình ảnh đã được sao chép và sẵn sàng để dán."
+  },
+  "sidepanel": {
+    "title": "Sider Hỗ trợ Sidebar cố định",
+    "tip": "Mẹo: Điều chỉnh độ rộng của bảng điều khiển bên một cách thích hợp để có trải nghiệm tốt hơn.",
+    "benefit1": "Thanh bên Sider của bạn sẽ <b>không bao giờ biến mất</b> nếu bạn điều hướng đến một trang mới.",
+    "benefit2": "Bạn có thể trò chuyện giữa tất cả các tab mà không <b>chồng chéo bất kỳ nội dung nào</b>.",
+    "benefit3": "Chỉ khả dụng trong <b>Google Chrome 114 trở lên</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Chi phí 1 tín dụng cơ bản và 1 truy vấn đọc",
+    "smartPlayCost": "Tốn 1 truy vấn văn bản nhanh và 1 truy vấn người đọc, đọc giọng nói được tính phí theo mức sử dụng",
+    "smartPlayOnlyCost": "đọc giọng nói được tính phí theo mức sử dụng",
+    "videoSummaryBtn": "Tổng Hợp Video",
+    "videoSummaryMakeFullBtn": "Tạo bản tóm tắt đầy đủ",
+    "keyMomentsCollapse": "Thu gọn",
+    "keyMomentsClickExpand": "Nhấp để mở rộng",
+    "originalSubtitles": "Phụ đề gốc",
+    "transcribing": "Chép lời",
+    "expandAll": "Mở rộng tất cả",
+    "loginToAsk": "Đăng nhập để hỏi",
+    "videoSummaryText": "Tóm tắt video",
+    "summary": "Tóm tắt",
+    "smartPlay": "视频速览",
+    "createShortenVideo": "Tạo Video Ngắn",
+    "smartPlayBtnTips": "Xem một video ngắn giúp bạn nhanh chóng nắm bắt những điểm nổi bật và tiết kiệm thời gian.",
+    "shortenVideoTips": "Chuyển đổi video này thành một video tóm tắt ngắn gọn nắm bắt các điểm chính!",
+    "smartPlaySwtichVoiceTitle": "Thông báo Khấu trừ Tín dụng",
+    "smartPlaySwitchVoiceContent": "Chuyển sang giọng nói khác sẽ khấu trừ tín dụng lại dựa trên độ dài kịch bản video đầy đủ. Video sẽ tiếp tục phát từ vị trí hiện tại. Bạn có muốn tiếp tục không?",
+    "smartPlaySwitchVoiceBtn": "Có, Chuyển Giọng",
+    "smartPlaySwitchVoiceCancel": "Không, Hủy",
+    "smartPlayReturnToCurrentProgress": "Quay lại tiến trình hiện tại",
+    "smartPlayPlaybackEnded": "Phát lại điểm nổi bật đã kết thúc",
+    "showHighlights": "Hiển thị nổi bật",
+    "hideHighlights": "Ẩn nổi bật",
+    "previousHighlight": "Nổi bật trước",
+    "nextHighlight": "Nổi bật tiếp theo",
+    "showSubtitles": "Hiển thị phụ đề",
+    "hideSubtitles": "Ẩn phụ đề",
+    "fullScreen": "Toàn màn hình",
+    "playbackSpeed": "Tốc độ phát lại",
+    "subtitle": "Phụ đề",
+    "subtitles": "Phụ đề",
+    "responseLanguage": "Ngôn ngữ phản hồi",
+    "bilingual": "Song ngữ",
+    "subtitleFailed": "Không thể tải phụ đề",
+    "videoTooLang": "Để tóm tắt, video phải có thời lượng dưới 10 giờ.",
+    "displayTranslation": "Hiển thị bản dịch",
+    "noSubtitleTips": "Tóm tắt chỉ có sẵn cho video có phụ đề vào thời điểm này.",
+    "shareToComment": "Chia sẻ để bình luận",
+    "generatedBy": "Được tạo bởi {{name}}",
+    "shownotes": "Điểm nổi bật",
+    "freeLimitTips": "Bản dùng thử miễn phí của bạn đã hết, hãy nâng cấp ngay bây giờ để tiếp tục sử dụng tính năng tóm tắt video.",
+    "askQuestionBtn": "Trả lời",
+    "noQuestionTip": "{{APP_NAME}} không thể giải quyết vấn đề trên trang.",
+    "targetLanguage": "Ngôn ngữ đích",
+    "whisperCostText": "Video này thiếu phụ đề bên ngoài và cần được chép lại để tóm tắt. (1 Tín chỉ Nâng cao/10 phút hoặc ít hơn)"
+  },
+  "quickActions": {
+    "requireSignin": "Yêu cầu đăng nhập",
+    "siginHint": "Hãy đăng nhập để truy cập tính năng này.",
+    "askAI": "Hỏi {{name}}",
+    "defaultPlaceholder": "Hỏi {{APP_NAME}} bất cứ điều gì",
+    "defaultPlaceholder2": "Hỏi {{APP_NAME}} với nội dung trên",
+    "managePrompts": "Quản lý lời nhắc",
+    "pressToClose": "Nhấn {{name}} để đóng",
+    "disableOnce": "Ẩn cho đến lần truy cập tiếp theo",
+    "disableSite": "Vô hiệu hóa trên trang web này",
+    "disableGlobal": "Vô hiệu hóa trên tất cả các trang web",
+    "continueImproving": "Tiếp tục cải thiện",
+    "dictExample": "Ví dụ:"
+  },
+  "wisebase": {
+    "inbox": "Hộp thư AI",
+    "myWisebase": "{{name}} của tôi",
+    "highlight": "Đánh dấu",
+    "unhighlight": "Bỏ đánh dấu",
+    "HighlightInvalid": "Thiếu các đánh dấu",
+    "HighlightInvalidDesc": "Do thay đổi trên trang web này, các đánh dấu của bạn không còn hiển thị. Bạn vẫn có thể truy cập chúng trong <a>{{name}}</a>.",
+    "viewInSite": "Xem trên trang",
+    "addCollection": "Thêm một {{name}}",
+    "savePage": "Lưu trang",
+    "editSavedPage": "Chỉnh sửa trang đã lưu",
+    "failedToSave": "Lưu thất bại",
+    "failedToDelete": "Xóa thất bại",
+    "pageRemoved": "Trang đã bị xóa",
+    "removePage": "Xóa trang?",
+    "removePageDesc": "Điều này sẽ xóa trang cùng với các đánh dấu của nó.",
+    "saving": "Đang lưu",
+    "pageSaved": "Trang đã được lưu",
+    "vistMyWisebase": "Mở {{name}}",
+    "errNameExists": "Tên đã tồn tại"
+  },
+  "msg": {
+    "searchNotFound": "Không tìm thấy kết quả",
+    "iosDownload": "Tải ứng dụng iOS / Android",
+    "notSupportFile": "Định dạng tệp không được hỗ trợ",
+    "supportedFileFormat": "Các định dạng tệp được hỗ trợ là {{formats}}",
+    "maxFileSize": "Kích thước tệp tối đa là {{size}}",
+    "maxSize": "Kích thước tối đa: {{num}}",
+    "fetchFailed": "Không thể truy xuất hình ảnh. Bạn có thể tải xuống và tải lên thủ công.",
+    "enterAPIKey": "Vui lòng nhập khóa API OpenAI của bạn",
+    "selectModel": "Vui lòng chọn một mô hình hợp lệ",
+    "changeSaved": "Đã lưu các thay đổi",
+    "fiveStart": "Cho chúng tôi 5 sao",
+    "inviteTitle": "Mời & Phần thưởng",
+    "inviteEarn": "Kiếm <mx>{{num}} tín dụng</mx> cho bạn và bạn bè của bạn. <b>Càng giới thiệu nhiều, càng kiếm được nhiều</b>.",
+    "inviteStep1": "Giới thiệu bạn bè của bạn với liên kết Lời mời",
+    "inviteStep2": "Bạn bè của bạn đăng ký",
+    "inviteStep3": "Họ cài đặt tiện ích mở rộng và đăng nhập. Phần thưởng kiếm được!",
+    "checkInvitation": "Kiểm tra bản ghi lời mời",
+    "invitedRewardObtained": "Phần thưởng thu được!",
+    "invitedWelcome": "Chào mừng! Tín dụng GPT đã được thêm vào tài khoản của bạn!",
+    "inviteFriendJoin_one": "{{count}} bạn đã tham gia",
+    "inviteFriendJoin_other": "{{count}} bạn đã tham gia",
+    "getMoreGPT4": "Nhận thêm tín dụng nâng cao",
+    "ttsChooseVoice": "Chọn một giọng",
+    "ttsChooseVoiceLater": "Bạn có thể thay đổi điều này sau.",
+    "ttsCharacterLimit": "Đã đạt giới hạn ký tự",
+    "ttsCharacterLimitDesc": "AI Đọc to có giới hạn {{count}} ký tự. Vui lòng chọn văn bản ngắn hơn hoặc sử dụng giọng miễn phí.",
+    "ttsCharacterLimitDesc2": "Tin nhắn này quá dài để các giọng AI có thể đọc. Bạn có thể sử dụng giọng miễn phí thay thế.",
+    "ttsCreditLimit": "Không đủ tín dụng cơ bản",
+    "ttsCreditLimitDesc": "Bạn không có đủ Tín dụng Cơ bản cho giọng này. Vui lòng nâng cấp gói của bạn hoặc sử dụng giọng miễn phí.",
+    "ttsChangeVoiceTip": "Thông báo khấu trừ tín dụng",
+    "ttsChangeVoiceTipDesc": "Chuyển sang giọng khác sẽ khấu trừ tín dụng lại. Bạn có chắc chắn muốn tiếp tục?",
+    "dontRemindAgain": "Đừng hỏi tôi lần nữa",
+    "failToPlay": "Không thể phát",
+    "onlyOneRequest": "Yêu cầu đang hoạt động",
+    "onlyOneRequestDesc": "Tài khoản của bạn có một yêu cầu đang hoạt động - chỉ một yêu cầu tại một thời điểm. Vui lòng thử lại sau.",
+    "basicCreditLimit": "Hết tín dụng cơ bản",
+    "basicCreditLimitDesc": "Bạn đã sử dụng hết tín dụng cơ bản. Nâng cấp gói của bạn hoặc mời bạn bè để nhận thêm tín dụng.",
+    "errSiderLoginExpired": "Phiên đăng nhập của bạn đã hết hạn, vui lòng đăng nhập lại",
+    "errSiderAdminKickout": "Bạn đã bị đẩy ra, vui lòng đăng nhập lại",
+    "errSiderUserBanned": "Tài khoản của bạn đã bị tạm ngưng do phát hiện hoạt động bất thường (ví dụ: vi phạm quy tắc hoặc chia sẻ tài khoản). Nếu bạn có bất kỳ câu hỏi nào, vui lòng gửi email cho chúng tôi tại care@sider.ai kèm theo thông tin chi tiết về tài khoản của bạn.",
+    "errSiderDeviceLimitLogout": "Bạn đã bị đăng xuất do đạt giới hạn thiết bị. Bạn có thể đăng nhập lại và điều này sẽ đăng xuất thiết bị hoạt động sớm nhất trên tài khoản của bạn.",
+    "errSiderApiTrialFeatLimit": "Bạn đã đạt đến giới hạn dùng thử cho tính năng cao cấp. Nâng cấp để mở khóa tất cả các tính năng.",
+    "errSiderApiLimitDevice": "Vui lòng đăng nhập để sử dụng.",
+    "errSiderApiLimitLogin": "Bạn đã sử dụng hết tất cả tín dụng miễn phí hôm nay. Nâng cấp hoặc mời bạn bè để nhận thêm, hoặc chờ đến khi tín dụng được đặt lại vào ngày mai.",
+    "errSiderApiLimitPremium": "Tín dụng Cơ bản của bạn cho tháng này đã hết. Chuyển sang Tín dụng Nâng cao, chờ đợi đặt lại vào tháng sau (ngày đăng ký), hoặc nâng cấp để có thêm.",
+    "errSiderApiLimitPremiumDiscount": "Bạn đã sử dụng hết tất cả tín dụng của mình. Nâng cấp ngay để có tín dụng không giới hạn với <b>$1</b> GIẢM GIÁ.",
+    "errSiderTranslateApiLimitPremium": "Tín dụng Cơ bản của bạn cho tháng này đã hết. Vui lòng chờ đợi đặt lại vào tháng sau (ngày đăng ký), hoặc nâng cấp để có thêm.",
+    "errSiderApiImageLimit": "Bạn đã sử dụng hết tất cả tín dụng cơ bản và vui lòng nâng cấp để tiếp tục sử dụng tính năng này.",
+    "errSiderApiSummaryVideoLimit": "Bạn đã sử dụng hết tất cả tín dụng của mình. Vui lòng nâng cấp hoặc mời bạn bè để nhận thêm.",
+    "errSiderApiOcrLimit": "Bạn đã sử dụng hết tất cả tín dụng cơ bản của mình. Vui lòng nâng cấp để tiếp tục truy cập tính năng này.",
+    "errSiderApiImgLimitPremiumUltra": "Bạn đã đạt đến số lượng tín dụng cơ bản tối đa. Vui lòng chờ lần đặt lại tiếp theo để tiếp tục sử dụng.",
+    "errSiderPremiumRequired": "Tính năng này chỉ dành riêng cho người dùng cao cấp. Hãy nâng cấp ngay bây giờ để mở khóa chức năng này.",
+    "errSiderHighTrafficError": "Do lưu lượng truy cập cao, vui lòng thử lại sau hoặc nâng cấp lên tài khoản trả phí để truy cập nhanh hơn.",
+    "errSiderHighTrafficTip": "Vui lòng xem xét <a>nâng cấp lên tài khoản trả phí</a> để truy cập ổn định và hỗ trợ sự phát triển của chúng tôi.",
+    "errSiderDeviceBinded": "Vui lòng đăng nhập để sử dụng.",
+    "errSiderApiHighLoad": "Máy chủ OpenAI hiện đang bận. Vui lòng thử lại sau.",
+    "errSiderGPT4HighLoad": "Máy chủ OpenAI hiện đang bận. Vui lòng thử lại sau.",
+    "errSiderOpenaiFault": "Máy chủ Openai đang bận. Vui lòng chuyển sang {{model}} trong thời gian OpenAI ngừng hoạt động.",
+    "errServiceUnavailable": "Máy chủ Openai đang bận, vui lòng thử lại sau hoặc chuyển sang API Sider và sử dụng {{model}} trong thời gian OpenAI ngừng hoạt động.",
+    "errSiderGPT4LimitDevice": "Vui lòng <b>đăng nhập</b> trước, và <amb>mời bạn bè của bạn</amb> hoặc <ta>nâng cấp lên cao cấp</ta> để nhận thêm tín dụng nâng cao.",
+    "errSiderGPT4LimitLogin": "Nâng cấp hoặc mời bạn bè để mở khóa thêm tín dụng nâng cao cho các câu trả lời sâu sắc hơn.",
+    "errSiderGPT4LimitPremium": "Bạn đã sử dụng hết Tín dụng Nâng cao hàng tháng của mình. Nâng cấp gói của bạn để có hạn mức hàng tháng cao hơn hoặc mua gói tăng cường Tín dụng Nâng cao để sử dụng ngay lập tức!",
+    "errSiderGPT4LimitPremiumDiscount": "Tín dụng nâng cao của bạn cho tháng này đã hết. Nâng cấp ngay để có tín dụng không giới hạn với <b>$1</b> GIẢM GIÁ, hoặc chờ đặt lại vào tháng sau (ngày đăng ký).",
+    "errSiderDataAnalysisCredit": "Câu trả lời này cần Phân Tích Dữ Liệu (1 Tín Dụng Nâng Cao). Bạn đã hết Tín Dụng Nâng Cao, hãy nâng cấp hoặc mời bạn bè để có thêm!",
+    "errSiderNeedLogin": "Vui lòng đăng nhập để sử dụng.",
+    "errGeminiPro": "Lỗi {{GEMINI}}, vui lòng thử lại sau.",
+    "errSiderO1Limit1": "Mô hình OpenAI o1 đang có nhu cầu cao và đã đạt đến giới hạn hạn ngạch. Đừng lo lắng, bạn cũng có thể đặt câu hỏi về OpenAI o1 miễn phí trên trang web Hỏi & Đáp do cộng đồng điều hành của chúng tôi: <a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "Bạn cần thêm Tín dụng Nâng cao. Mỗi 10 phút (hoặc ít hơn) âm thanh tốn 1 Tín dụng Nâng cao. Nâng cấp hoặc mời bạn bè để có thêm!",
+    "goToSignIn": "Đi để đăng nhập",
+    "errSiderTimeout": "Yêu cầu đã hết thời gian chờ. Vui lòng thử lại.",
+    "errSiderProcessing": "Chỉ có một tin nhắn tại một thời điểm. Vui lòng cho phép bất kỳ phản hồi nào khác hoàn tất trước khi gửi một tin nhắn khác hoặc đợi trong giây lát.",
+    "errTrySiderAPI": "Chuyển sang <i>API thanh bên ChatGPT</i> để có quyền truy cập ổn định (dành cho mọi người)",
+    "errTrySiderAPI2": "HOẶC sử dụng khóa API của riêng bạn trong <a>trang cài đặt</a> (dành cho nhà phát triển)",
+    "errChatGPTAuth": "Vui lòng <m>nhấp vào liên kết để đăng nhập </m>vào trang web ChatGPT của bạn và chúng tôi sẽ giúp bạn ghim nó. Sau đó, bạn có thể sử dụng nó trong thanh bên.",
+    "errChatGPTAuthTipTitle": "Nếu nó không hoạt động:",
+    "errChatGPTFailToFetch": "Không nhận được phản hồi từ ChatGPT.",
+    "errOpenaiFailToFetch": "Không nhận được phản hồi từ OpenAI qua khóa API của bạn.",
+    "errSiderCreditUsageLimit": "Đã đạt giới hạn sử dụng",
+    "errSiderCreditFreqLimit": "Bạn đã đạt giới hạn sử dụng hiện tại. Giới hạn này đảm bảo sử dụng công bằng cho tất cả người dùng. Vui lòng thử lại sau {{count}} phút.",
+    "errSiderBasicTextLimit": "Bạn đã đạt đến giới hạn tốc độ cho tín dụng cơ bản. Hiện tại, có giới hạn {{count}} tin nhắn mỗi 60 phút. Ngoài ra, bạn có thể sử dụng tín dụng nâng cao và quay lại sau.",
+    "errSiderAdvancedTextLimit": "Bạn đã đạt đến giới hạn tốc độ cho tín dụng nâng cao. Hiện tại, có giới hạn {{count}} tin nhắn mỗi 60 phút. Ngoài ra, bạn có thể sử dụng tín dụng cơ bản và quay lại sau.",
+    "errSiderUnlimitedLimit": "Bạn đã đạt đến giới hạn tạm thời ({{timesToUse}} lần / {{periodTime}} giờ) cho Advanced Credits. Chúng tôi đang cố gắng để có thêm credits cho bạn. Credits mới sẽ có sẵn vào lúc {{resetTime}}. Cần thêm ngay bây giờ? Thử một gói booster pack!",
+    "errorOutputLimit": "Đã đạt giới hạn độ dài. Nâng cấp để có câu trả lời dài hơn.",
+    "errorFileType": "Định dạng tệp không được hỗ trợ",
+    "error1139_1": "Cảm ơn bạn đã sử dụng các gói không giới hạn! Bạn vẫn có thể tiếp tục sử dụng các mô hình AI tiên tiến. Tuy nhiên, bạn đã đạt đến giới hạn tốc độ tạm thời. <a>Đây là lý do tại sao có giới hạn tốc độ và cách chúng tôi đang cố gắng giúp bạn</a>. Vui lòng <mx>ĐỌC NÓ</mx>.",
+    "error1139_1_2": "Cảm ơn bạn đã sử dụng các gói không giới hạn! Bạn vẫn có thể tiếp tục sử dụng các mô hình AI tiên tiến. Tuy nhiên, bạn đã đạt đến giới hạn tốc độ tạm thời và sử dụng hết tất cả các truy vấn tiên tiến bổ sung. Đây là <a>lý do tại sao có giới hạn tốc độ và cách chúng tôi đang cố gắng giúp bạn</a>. Vui lòng <mx>ĐỌC NÓ</mx>.",
+    "error1139_1_3": "Cảm ơn bạn đã sử dụng các gói không giới hạn! Bạn vẫn có thể tiếp tục sử dụng các mô hình AI tiên tiến. Tuy nhiên, bạn đã đạt đến giới hạn tốc độ tạm thời và sử dụng hết tất cả các truy vấn tiên tiến được tặng. Đây là <a>lý do tại sao có giới hạn tốc độ và cách chúng tôi đang cố gắng giúp bạn</a>. Vui lòng <mx>ĐỌC NÓ</mx>.",
+    "error1139_2": "Để không làm gián đoạn công việc hiện tại của bạn, chúng tôi đã tặng bạn một số truy vấn tiên tiến bổ sung để mở khóa giới hạn tốc độ hiện tại. <b>Sau khi bạn sử dụng hết các truy vấn tiên tiến bổ sung này, bạn sẽ có giới hạn tốc độ</b>.",
+    "error1139_3": "Giới hạn tốc độ hiện tại là ({{timesToUse}} lần / {{periodTime}} giờ) trên các Truy vấn Tiên tiến. Chúng tôi có thể điều chỉnh nó theo khả năng của mình. Cần thêm ngay bây giờ? Hãy thử một gói tăng cường!",
+    "error1139_4": "Chúng tôi đã tặng bạn thêm 50 truy vấn tiên tiến để mở khóa giới hạn tốc độ hiện tại. <b>Sau khi bạn sử dụng hết các tín dụng tiên tiến bổ sung này, bạn sẽ có giới hạn tốc độ.</b>",
+    "loginAndCloudflareCheck": "Chuyển sang <a>API thanh bên</a> để có quyền truy cập ổn định HOẶC đăng nhập và vượt qua kiểm tra Cloudflare tại <i>chat.openai.com</i>",
+    "invalidApiKey": "Khóa API không hợp lệ, vui lòng lấy một khóa khác.",
+    "getApiKeyGuide": "Bạn cần một khóa API OpenAI để làm cho nó hoạt động. Làm theo hướng dẫn của chúng tôi để lấy khóa API.",
+    "thankForFeedback": "Cảm ơn. Biểu mẫu đã được gửi thành công. Chúng tôi sẽ sớm liên lạc lại với bạn.",
+    "writeSomething": "Hãy viết một cái gì đó.",
+    "enterEmail": "Nhập địa chỉ email để nhận thông tin cập nhật về vấn đề này.",
+    "emailRequired": "Email thì cần thiết.",
+    "promptNameRequired": "Tên nhắc là bắt buộc.",
+    "titleRequired": "Tiêu đề là bắt buộc.",
+    "nameYourPrompt": "Đặt tên cho lời nhắc của bạn",
+    "nameYourTitle": "Đặt tên cho cuộc trò chuyện của bạn",
+    "promptTplRequired": "Nội dung nhắc nhở là bắt buộc.",
+    "deletePromptWarn": "Bạn có muốn xóa lời nhắc này không?",
+    "restorePromptWarn": "Bạn có muốn khôi phục mẫu lời nhắc này không?",
+    "notValidEmail": "không phải là một email hợp lệ",
+    "signinTips": "Đăng nhập để đồng bộ hóa lời nhắc và cài đặt của bạn",
+    "signinAward": "Đăng nhập để nhận {{num}} <span>MIỄN PHÍ</span> tín dụng mỗi ngày",
+    "signinAward2": "Tín dụng đã được sử dụng hết cho người dùng chưa đăng nhập. Bạn có thể đăng nhập để nhận <b>{{num}} tín dụng miễn phí mỗi ngày</b>.",
+    "signinAward3": "Đăng nhập để nhận thêm tín dụng mỗi ngày",
+    "signinAward4": "Bắt đầu hành trình AI kỳ diệu với trình duyệt của bạn và nhận {{num}} <span>MIỄN PHÍ</span> tín dụng mỗi ngày",
+    "chatgptTabGuardTips": "Vui lòng giữ tab này mở, bây giờ bạn có thể quay lại {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Đã xảy ra lỗi với ChatGPT. Đang kết nối lại, vui lòng đợi...",
+    "chatgptTabGuardRefreshingTips1": "Đã xảy ra lỗi với ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Đang kết nối lại, vui lòng đợi...",
+    "chatgptTabGuardSetupSuccessTips": "Đã sửa, vui lòng thử lại",
+    "switchToSiderApiToContinue": "Tính năng này hiện chỉ hỗ trợ chế độ API {{APP_NAME}}, vui lòng <a>chuyển sang API {{APP_NAME}}</a> để tiếp tục.",
+    "switchRequired": "Chuyển sang {{APP_NAME}}?",
+    "switchToSiderDesc": "Để sử dụng tính năng này, vui lòng chuyển phương thức truy cập AI của bạn sang {{APP_NAME}}.",
+    "signInRequired": "Yêu cầu đăng nhập",
+    "useUpUpgrade": "Tín dụng của bạn đã được sử dụng hết, vui lòng nâng cấp để nhận thêm tín dụng.",
+    "featureLimit": "Giới hạn tính năng",
+    "featureLimitTip": "Hãy nâng cấp để sử dụng Claude và Bard.",
+    "featureUnavailableOnPage": "Không thể chạy trên trang này",
+    "featureBrowserLimit": "Trang này không hỗ trợ tiện ích mở rộng của trình duyệt. Các trang bị hạn chế thường bao gồm tab mới, cửa hàng web, các tiện ích mở rộng khác và cài đặt (các URL chrome://). Vui lòng thử một trang thông thường khác.",
+    "localFileAccessRequiredTitle": "Yêu cầu quyền truy cập tệp",
+    "localFileAccessRequiredDesc": "Để sử dụng tiện ích mở rộng với các tệp cục bộ, vui lòng vào cài đặt tiện ích và bật \"<b>Cho phép truy cập vào URL tệp</b>\".",
+    "localFileAccessRequiredBtn": "Đi tới cài đặt tiện ích mở rộng",
+    "quotaModelContent": "Giới hạn truy vấn GPT-4/Claude-2 của bạn đã đạt. Nâng cấp lên Gói Cao Cấp để có thêm quyền truy cập, hoặc mời bạn bè để nhận tín dụng bổ sung miễn phí.",
+    "signinFeature": "Vui lòng đăng nhập để truy cập tính năng này",
+    "dragImgTips": "Nhấp để tải lên hoặc thả một hình ảnh vào đây",
+    "dragTips": "Nhấp để tải lên hoặc thả tệp vào đây",
+    "fileSizeTip": "Kích thước tối đa: 100MB mỗi tệp. Tối đa 5 tệp.",
+    "reEnableInSettings": "Bạn có thể bật lại trong <a>Cài đặt</a>",
+    "switchBarTip": "Mở rộng bảng điều khiển bên để ghim thanh điều hướng.",
+    "upgradeSupport": "Nâng cấp lên gói cao cấp để hỗ trợ chúng tôi",
+    "upgradeSupport2": "Nâng cấp để có thêm tính năng",
+    "imageSizeLimit": "Giới hạn hình ảnh",
+    "fileSizeLimit": "Tệp quá lớn",
+    "imageSizeLimitTip": "Vui lòng đảm bảo hình ảnh nhỏ hơn 10 MB và chiều rộng hoặc chiều cao của nó không vượt quá 4096 pixel, sau đó thử lại.",
+    "fileSizeLimitTip": "Tệp vượt quá giới hạn tải lên 100MB. Vui lòng giảm kích thước tệp và thử lại.",
+    "errOpenAIFilter": "Phản hồi đã bị lọc do nhắc nhở kích hoạt chính sách quản lý nội dung của OpenAI. Vui lòng chỉnh sửa nhắc nhở của bạn và thử lại.",
+    "unreadableMsg": "Không thể tìm thấy nội dung chính trên trang này. Hãy thử một trang khác.",
+    "unreadableTitle": "Thiếu nội dung chính",
+    "noSubtitleMsg": "Video không có phụ đề và không thể tóm tắt được.",
+    "noSubtitleTitle": "Yêu cầu Phụ đề để Tóm tắt",
+    "fileLimit": "Để xử lý tệp này, vui lòng bật Công cụ Phân tích Dữ liệu Nâng cao. Chi phí 1 tín dụng nâng cao mỗi lần sử dụng. Bạn có muốn bật nó và tiếp tục không?",
+    "fileLimitFree": "Tệp bạn đã tải lên yêu cầu Phân Tích Dữ Liệu Nâng Cao để xử lý. Nâng cấp ngay để mở khóa tính năng này.",
+    "openLastConversationTitle": "Mở cuộc trò chuyện cuối cùng?",
+    "openLastConversationContent": "Bây giờ chúng ta có thể thiết lập xem thanh bên có khôi phục cuộc trò chuyện cuối cùng mỗi khi khởi động hay không.",
+    "openLastConversationCancel": "Đã hiểu",
+    "openLastConversationOk": "Đi đến Cài đặt",
+    "keepConversationTip": "Mỗi lần bạn mở Sider, một cuộc trò chuyện mới bắt đầu. Để tiếp tục cuộc trò chuyện cuối cùng, hãy điều chỉnh <a>cài đặt</a>.",
+    "uploadFailed": "\"{{FILENAME}}\" tải lên thất bại.",
+    "askOriginalModel": "Nguyên bản {{MODELNAME}}",
+    "videoTooLang": "Video quá dài (tối đa 10 giờ). Vui lòng chọn video ngắn hơn.",
+    "somethingWrong": "Đã xảy ra sự cố. Vui lòng thử lại sau.",
+    "cantBeTranscribed": "Không thể tóm tắt video này do hạn chế về bản quyền. Vui lòng thử video khác.",
+    "notSupportLiveVideo": "Tóm tắt video trực tiếp hiện không được hỗ trợ."
+  },
+  "options": {
+    "title": "Tùy chọn",
+    "shortcut": {
+      "tips": "Nhập một phím tắt"
+    },
+    "theme": {
+      "auto": "tự động",
+      "light": "chế độ sáng",
+      "dark": "chế độ tối"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Luôn luôn",
+        "desc": "Luôn luôn"
+      },
+      "questionMark": {
+        "title": "Dấu chấm hỏi",
+        "desc": "Khi truy vấn kết thúc bằng dấu chấm hỏi"
+      },
+      "manually": {
+        "title": "thủ công",
+        "desc": "Khi nút trả lời được nhấp"
+      }
+    },
+    "sidebarLocation": {
+      "left": "bên trái",
+      "right": "bên phải"
+    },
+    "sidebarMode": {
+      "sidepanel": "Thanh bên cố định",
+      "inpage": "Thanh bên trong trang"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "Khi chuyển đổi tab, Sider sẽ luôn cố định ở phía bên phải của trình duyệt.",
+      "inpage": "Khi chuyển đổi tab, Sider sẽ không hiển thị; bạn phải mở lại Thanh bên trên trang mới."
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "Giải thích",
+        "template": "Giải thích nội dung sau:"
+      },
+      "explain-codes": {
+        "title": "giải thích mã",
+        "template": "Giải thích các mã sau:"
+      },
+      "translate": {
+        "title": "Dịch",
+        "template": "Dịch nội dung sau sang ngôn ngữ {{lang}}:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Gói miễn phí",
+    "basic": "Gói cơ bản",
+    "pro": "Gói chuyên nghiệp",
+    "ultra": "Gói không giới hạn",
+    "starter": "Gói Khởi đầu"
+  },
+  "shortPlanNames": {
+    "free": "Miễn phí",
+    "basic": "Cơ bản",
+    "pro": "Chuyên nghiệp",
+    "ultra": "Không giới hạn",
+    "starter": "Gói Khởi đầu",
+    "pocket": "Pocket"
+  },
+  "queryNames": {
+    "fast": "Cơ bản",
+    "advanced": "Nâng cao",
+    "image": "Hình ảnh",
+    "reader": "Người đọc"
+  },
+  "upgradeModal": {
+    "off": "Giảm giá!",
+    "desc": "Thêm tín dụng và nhiều tính năng hơn",
+    "upgradeToUseXXX": "Nâng cấp để sử dụng <b>bot</b>",
+    "getAllTTSVoices": "Mở khóa tất cả giọng nói",
+    "allVoices": "Tất cả các giọng nói",
+    "getAllTTSVoicesDesc": "Giọng nói này dành riêng cho người dùng cao cấp. Nâng cấp ngay để truy cập tất cả giọng nói.",
+    "getAllTTSVoicesDesc2": "Bạn đã đạt đến giới hạn dùng thử cho các giọng cao cấp. Nâng cấp ngay để truy cập không giới hạn vào 9 giọng AI tự nhiên hoặc sử dụng giọng miễn phí.",
+    "tryAllVoices": "Thoải mái thử tất cả các giọng nói",
+    "getWebAccess": "Nâng cấp để nhận câu trả lời trên web",
+    "videoSummay": "Nâng cấp để sử dụng tóm tắt video",
+    "gpt4Desc": "GPT-4o thông minh hơn đáng kể và có thể giúp bạn có được các câu trả lời logic và chính xác hơn.",
+    "claude3SonnetDesc": "Claude 3 Sonnet là một mô hình ngôn ngữ tinh tế cho giao tiếp chính xác và sắc thái.",
+    "claude35SonnetDesc": "Claude 3.5 Sonnet là mô hình mới nhất của Anthropic, cung cấp tốc độ gấp đôi Claude 3 Opus và trí thông minh cao hơn, cải thiện đáng kể khả năng lập luận, kiến thức, mã hóa và các nhiệm vụ hình ảnh.",
+    "claude3OpusDesc": "Claude 3 Opus là một AI tiên tiến để giải quyết các nhiệm vụ phức tạp với hiệu quả đáng kể.",
+    "webAccessDesc": "Sider lấy câu trả lời cho câu hỏi của bạn từ Google và sử dụng AI để tổ chức và tóm tắt ngắn gọn.",
+    "videoSummaryDesc": "Bạn đã đạt đến giới hạn sử dụng miễn phí. Để tiếp tục truy cập tính năng này, vui lòng xem xét nâng cấp lên tư cách thành viên cao cấp."
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Khám phá vượt quá giới hạn!",
+      "pro": "Đã đạt đến giới hạn hạn ngạch",
+      "ultra": "Đã đạt đến giới hạn hạn ngạch"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Bạn đã đạt đến giới hạn hạn ngạch miễn phí của mình. Nâng cấp để có hạn ngạch cao hơn và mở khóa các tính năng nâng cao.",
+      "pro": "Bạn đã đạt đến giới hạn hạn ngạch của tháng này. Nâng cấp để có thêm hạn ngạch.",
+      "ultra": "Bạn đã đạt đến giới hạn hạn ngạch của tháng này. Vui lòng liên hệ với chúng tôi theo địa chỉ <a>care@sider.ai</a> để đưa ra đề xuất của bạn."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Đánh giá chúng tôi năm sao",
+    "enjoy": "😘 Bạn có thích tiện ích mở rộng này không?",
+    "enjoyNo": "Không, phản hồi",
+    "enjoyYes": "Vâng, đánh giá 5 sao!",
+    "feedbackTip": "🥹 Hãy cho chúng tôi biết lý do bạn không hài lòng.",
+    "feedbackThx": "Cảm ơn phản hồi của bạn."
+  },
+  "sidepanelPinGuide": {
+    "title": "Nhấn \"{{icon}}\"",
+    "desc": "Thêm {{APP_NAME}} vào thanh công cụ của bạn để truy cập nhanh"
+  },
+  "emailEnhance": {
+    "emailAssistant": "Trợ lý email",
+    "emailAssistantDesc": "Khi được bật, Sider có thể giúp bạn trả lời email nhanh chóng.",
+    "hideTranslation": "Ẩn bản dịch",
+    "inputPlaceholder": "Nói cho Sider biết bạn muốn trả lời như thế nào...",
+    "intent": "Ý định của người gửi",
+    "orgLang": "Ngôn ngữ Email",
+    "quickAIReply": "AI Trả lời",
+    "replyInputPlaceholder": "Bạn muốn trả lời gì?",
+    "resultsTitle": "Bản nháp trả lời",
+    "showTranslation": "Hiện bản dịch",
+    "translateEmail": "Dịch email",
+    "tryAgain": "Thử lại",
+    "voice": {
+      "applicant": "Người xin việc",
+      "casual": "Bình thường",
+      "colleague": "Đồng nghiệp",
+      "confident": "tự tin",
+      "customer-service-staff": "Nhân viên dịch vụ khách hàng",
+      "direct": "trực tiếp",
+      "emailLength": "Độ dài email",
+      "empathetic": "đồng cảm",
+      "enthusiastic": "Say đắm",
+      "formal": "Chính thức",
+      "formality": "hình thức",
+      "friendly": "thân thiện",
+      "human-resources": "nguồn nhân lực",
+      "informational": "nhiều thông tin",
+      "leader": "Lãnh đạo",
+      "long": "Dài",
+      "medium": "Trung bình",
+      "neutral": "Trung lập",
+      "personable": "Kính thưa",
+      "project-manager": "Quản lý dự án",
+      "sales-representative": "Đại diện bán hàng",
+      "short": "Ngắn",
+      "subordinate": "cấp dưới",
+      "tone": "Tấn",
+      "witty": "thông minh",
+      "yourRole": "Vai trò của bạn"
+    },
+    "voiceSettings": "Cài đặt âm thanh",
+    "wayToReply": "Ý tưởng trả lời"
+  },
+  "searchEnhance": {
+    "getStarted": "Bắt đầu ngay",
+    "adContent": "Thông minh hơn GPT-4? Claude 3 đã đến! Mời bạn bè và thử nó miễn phí!",
+    "noLoginAdContent": "Mở Khóa Sức Mạnh AI: Tìm kiếm, Đọc, Viết, Dịch Nhanh hơn & Thông minh hơn!",
+    "noLoginBtn": "Tham gia cùng hơn 4 Triệu Người Dùng Hài Lòng!"
+  },
+  "imageToolbar": {
+    "AITools": "Công cụ AI",
+    "chatWithImage": "Trò chuyện với Hình ảnh",
+    "extractText": "Trích xuất Văn bản",
+    "imageTools": "Công cụ Hình ảnh",
+    "inpaint": "Thay thế Khu vực đã Chải",
+    "removeBackground": "Xóa Phông nền",
+    "removeText": "Xóa Văn bản",
+    "replaceBackground": "Thay thế Phông nền",
+    "upscale": "Phóng to",
+    "variation": "Tạo biến thể"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "Nhận câu trả lời tốt hơn",
+      "Kiến thức đa dạng hơn",
+      "Hiểu biết mạnh mẽ hơn"
+    ],
+    "claude3Advantages": [
+      "Mạnh mẽ như GPT-4",
+      "Phản hồi tự nhiên hơn",
+      "Khả năng lập luận mạnh mẽ"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "Mở Khóa Truy Cập Web",
+      "text_to_image": "Mở khóa Tạo hình ảnh",
+      "data_analysis": "Mở Khóa Phân Tích Dữ Liệu",
+      "artifacts": "Mở khóa {{ARTIFACTS}}",
+      "thinking_mode": "Mở khóa Chế độ Suy nghĩ"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "Giải Quyết Vấn Đề Nâng Cao",
+          "desc": "Thành thạo các thách thức phức tạp với lý luận nhiều bước!"
+        },
+        {
+          "title": "Phân Tích Toàn Diện",
+          "desc": "Nhận thông tin chi tiết ngay lập tức cho các quyết định quan trọng."
+        },
+        {
+          "title": "Lặp Lại Thông Minh",
+          "desc": "Tinh chỉnh các giải pháp một cách dễ dàng thông qua tư duy có hướng dẫn."
+        }
+      ],
+      "search": [
+        {
+          "title": "Cập Nhật Thông Tin",
+          "desc": "Truy cập thông tin cập nhật trên web."
+        },
+        {
+          "title": "Nâng Cao Độ Chính Xác",
+          "desc": "Nhận được các phản hồi chính xác và liên quan hơn."
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "Thúc Đẩy Sự Sáng Tạo",
+          "desc": "Chuyển đổi mô tả thành chất lượng cao ngay lập tức."
+        },
+        {
+          "title": "Nâng Cao Nội Dung",
+          "desc": "Nâng cao dự án của bạn với hình ảnh tùy chỉnh."
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "Nhận Được Cái Nhìn Sâu Sắc",
+          "desc": "Dễ dàng phân tích và trực quan hóa dữ liệu để tìm ra cái nhìn rõ ràng."
+        },
+        {
+          "title": "Lập Trình Thông Minh Hơn",
+          "desc": "Tinh chỉnh, giải thích và chạy mã cho việc giải quyết vấn đề hiệu quả."
+        },
+        {
+          "title": "Xuất Sắc trong Toán Học",
+          "desc": "Giải quyết các vấn đề toán học phức tạp một cách dễ dàng và chính xác."
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "Năng suất được nâng cao",
+          "desc": "Biến ý tưởng thành sản phẩm hữu hình, ngay lập tức!"
+        },
+        {
+          "title": "Xem trước theo thời gian thực",
+          "desc": "Hình dung ngay lập tức các trang web, tài liệu và biểu đồ do AI tạo ra."
+        },
+        {
+          "title": "Lặp lại liền mạch",
+          "desc": "Tinh chỉnh tạo tác một cách dễ dàng thông qua cuộc trò chuyện tự nhiên."
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "Trò chuyện với văn bản đã chọn",
+    "highlightSelection": "Đánh dấu văn bản đã chọn",
+    "summarizePage": "Tóm tắt trang",
+    "savePage": "Lưu trang vào {{name}}",
+    "revertSavePage": "Xóa khỏi {{name}}",
+    "translatePage": "Dịch sang {{lang}}",
+    "revertTranslatePage": "Hiển thị văn bản gốc",
+    "imageTools": "Công cụ hình ảnh {{AI}}",
+    "togglePageTranslation": "Dịch trang / Hiển thị văn bản gốc",
+    "openFullPageChat": "Mở trò chuyện toàn trang"
+  },
+  "highlightType": {
+    "key-sentences": "Câu quan trọng",
+    "structural-importance": "Tầm quan trọng cấu trúc",
+    "comprehensive-coverage": "Bao quát toàn diện",
+    "memorable-quotes": "Trích dẫn đáng nhớ"
+  },
+  "freeTrial": {
+    "panelTitle": "Dùng thử miễn phí gói 3 ngày không giới hạn",
+    "panelList": [
+      "Trò chuyện tự do với GPT-4 & Claude 3",
+      "Trò chuyện với bất kỳ PDF, hình ảnh & liên kết nào",
+      "Tóm tắt trang web & video YouTube"
+    ],
+    "panelBtn": "Bắt đầu dùng thử miễn phí",
+    "cancelTip": "Hủy bất cứ lúc nào"
+  }
+}

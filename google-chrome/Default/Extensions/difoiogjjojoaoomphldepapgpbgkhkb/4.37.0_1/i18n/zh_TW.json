@@ -1,0 +1,2571 @@
+{
+  "sidebar": "側邊欄",
+  "shortcut": "快捷鍵",
+  "ask": "問",
+  "save": "儲存",
+  "saved": "已儲存",
+  "delete": "刪除",
+  "deleteAll": "刪除全部",
+  "remove": "移除",
+  "cancel": "取消",
+  "close": "關閉",
+  "minimize": "最小化",
+  "disable": "停用",
+  "retry": "重試",
+  "stop": "停止",
+  "pause": "暫停",
+  "play": "播放",
+  "replay": "重播",
+  "changeSpeed": "更改速度",
+  "ttsDemo": "範例",
+  "icon": "圖示",
+  "select": "選擇",
+  "change": "更改",
+  "insert": "插入",
+  "replace": "替換",
+  "ok": "好的",
+  "Loading": "載入中",
+  "thoughtProgress": "思考過程",
+  "submit": "送出",
+  "attention": "注意",
+  "welcome": "歡迎",
+  "send": "傳送",
+  "copy": "複製",
+  "auto": "自動",
+  "unpublish": "取消發佈",
+  "unpublishArtifact": "取消發佈 Artifact",
+  "aiResCompare": "AI 回應比較",
+  "copied": "已複製",
+  "clear": "清除",
+  "table": "表格",
+  "tryDemo": "試用示範",
+  "translate": "翻譯",
+  "rewrite": "重寫",
+  "next": "下一個",
+  "prev": "上一個",
+  "hi": "嗨，",
+  "experimental": "搶先體驗",
+  "experimentalDesc": "付費用戶可以搶先體驗獨家、尖端的工具和實驗性功能，這些功能對非訂閱者不可用。",
+  "clickToTry": "點擊以嘗試此功能",
+  "detected": "已檢測",
+  "reset": "重置",
+  "upTo6file": "上傳最多 6 個檔案",
+  "quote": "引用",
+  "download": "下載",
+  "downloadTypeFile": "下載{{type}}檔案",
+  "collapse": "收起側邊欄",
+  "done": "完成",
+  "trial": "試用",
+  "manage": "管理",
+  "template": "範本",
+  "edit": "編輯",
+  "exit": "退出",
+  "add": "新增",
+  "feedback": "意見反應",
+  "fullscreenBookmarkTip": "點擊星形圖示以收藏全螢幕聊天，方便下次訪問！",
+  "tweetit": "在{{X}}上關注我們",
+  "joinDiscord": "加入我們的 Discord 社群",
+  "whatsnewInvite": "邀請免費試用",
+  "fullPageChat": "整頁聊天",
+  "whatNew": "新功能",
+  "helpCenter": "幫助中心",
+  "learnMore": "了解更多",
+  "gotIt": "知道了",
+  "you": "你",
+  "settings": "設定",
+  "signin": "登入",
+  "extractingText": "提取文字",
+  "extractingTextFailed": "提取文字失敗",
+  "textExtracted": "文字已提取",
+  "audioExtractedText": "音訊提取文字",
+  "account": "帳戶",
+  "createAccount": "創建帳戶",
+  "createAccountTip": "註冊以每天獲得<a>{{NUM}}免費</a>點數",
+  "free": "免費",
+  "signinNow": "現在登入",
+  "unlimited": "無限",
+  "share": "分享",
+  "toolMoveTip": "聊天工具有了新家！您可以在這裡訪問所有聊天控制。",
+  "myChats": "聊天記錄",
+  "general": "一般設定",
+  "archive": "封存",
+  "unarchive": "取消歸檔",
+  "searchPage": "搜尋頁面",
+  "addons": "附加元件",
+  "webStore": "網上商店",
+  "webApp": "網路應用程式",
+  "webAccess": "網路存取",
+  "upgradeNow": "現在升級",
+  "unlock": "解鎖",
+  "allFeatures": "所有功能",
+  "everyThing": "所有內容",
+  "unlockFeatMsg": "您已達到方案的限制。立即升級以解鎖所有功能！",
+  "upgradeUnlock": "立即升級以解鎖！",
+  "upgrade": "升級",
+  "subscribe": "訂閱",
+  "language": "語言",
+  "theme": "主題",
+  "sendShortcut": "發送快捷方式",
+  "speechVoice": "語音",
+  "buyBooster": "購買補充包",
+  "model": "模型",
+  "version": "版本",
+  "more": "更多的",
+  "clickPreview": "點擊預覽",
+  "clickView": "點擊查看",
+  "sendToChat": "發送至聊天",
+  "listen": "聽",
+  "openAnswerCompare": "並排比較",
+  "skip": "跳過",
+  "basic": "基本",
+  "advanced": "進階",
+  "superAdvanced": "超高級",
+  "switchModel": "切換模型",
+  "switchVoice": "切換語音",
+  "changeVoice": "更改語音",
+  "vote": "投票",
+  "invite": "邀請",
+  "hide": "隱藏",
+  "show": "顯示",
+  "logout": "登出",
+  "pin": "釘住",
+  "unpin": "取消固定",
+  "showMore": "展示更多",
+  "editTitle": "編輯標題",
+  "summarize": "總結",
+  "summary": "摘要",
+  "fact-check": "事實查核",
+  "highlight-excerpts": "突出摘錄",
+  "key-concepts": "闡明關鍵概念",
+  "identify-assumptions": "識別假設",
+  "contrast-analysis": "分析對比",
+  "about-author": "了解作者",
+  "related-news": "尋找相關新聞",
+  "related-academic-research": "查看相關論文",
+  "related-videos": "觀看相關影片",
+  "keypoints": "關鍵點",
+  "quiz": "測驗",
+  "autoToText": "自動轉文字",
+  "textFromSelect": "來自您選擇的文字",
+  "textFromOCR": "來自 OCR 的文字",
+  "textFromTranslate": "翻譯的文字",
+  "textFromWrite": "從寫入的文字",
+  "textFromSearch": "來自搜索代理的文本",
+  "textFromGrammar": "從語法的文字",
+  "quoteText": "引用文字",
+  "summarizing": "總結中",
+  "summarizeFailed": "摘要失敗",
+  "answering": "回答中",
+  "productivity": "生產力",
+  "generating": "產生",
+  "modelUpdateSuccess": "模型更新成功",
+  "modelUpdateFailed": "模型更新失敗",
+  "customPrompt": "自訂提示",
+  "currentTpl": "目前範本：",
+  "current": "目前",
+  "extra": "額外的",
+  "generatingTranscript": "生成文字稿",
+  "transcriptGenerated": "文字稿已生成",
+  "transcriptFailed": "生成文字稿失敗",
+  "transcriptReady": "文字稿已準備好",
+  "audioTranscript": "音訊文字稿",
+  "audio-to-text": "音訊轉文字",
+  "audio-summarize": "摘要",
+  "audio-meeting-minutes": "會議記錄",
+  "publishArtifact": "發佈工件",
+  "uploadLocal": "從您的電腦上傳",
+  "openTabs": "從已開啟的標籤頁選擇",
+  "editTpl": "編輯此範本",
+  "delteTpl": "刪除此範本",
+  "restoreTpl": "還原此範本",
+  "archiveTpl": "封存此範本",
+  "showTpl": "顯示此範本",
+  "prompts": "提示",
+  "selectPrompt": "選擇提示",
+  "imageRetryTip": "發生錯誤。請重試。",
+  "mentionBot": "提及模型",
+  "mentionGPTs": "提及 GPTs",
+  "promptName": "提示名稱",
+  "promptContent": "提示內容",
+  "PromptManage": "提示管理",
+  "contactUs": "聯繫我們",
+  "webAssistant": "網頁助理",
+  "quickAction": "上下文選單",
+  "promptManage": "提示词管理",
+  "morePrompts": "更多提示",
+  "addPrompts": "新增提示",
+  "issueType": "問題類型",
+  "pinExt": "固定擴充功能",
+  "yourEmailAddress": "您的電子郵件地址",
+  "troubleshooting": "故障排除",
+  "openSidebar": "打開側邊欄",
+  "pasteSelection": "貼上選擇",
+  "pasteTextPage": "從頁面貼上文字",
+  "getAnotherKey": "取得另一個金鑰",
+  "showSearchPanel": "顯示搜尋面板",
+  "getItNow": "立即取得",
+  "addTools": "新增工具",
+  "toolsTitle": "工具",
+  "notNow": "現在不要",
+  "alwaysDisplay": "永遠顯示",
+  "credit": "點數",
+  "credits": "點數",
+  "unlimitedCredits": "無限點數",
+  "total": "總計",
+  "getMore": "取得更多",
+  "goPremium": "升級會員",
+  "goPremiumGetMore": "升級會員以獲得更多",
+  "myAccount": "我的帳戶",
+  "clickToAsk": "點擊提問",
+  "searchingFor": "正在搜尋:",
+  "searchedFor": "已搜尋:",
+  "conversationTip": "此聊天是在{{CHATPROVIDER}}模式下創建的。切換模式以繼續，或在當前模式下開始新的聊天。",
+  "using": "正在使用：",
+  "used": "已使用：",
+  "switchAndContinue": "切換模式",
+  "ExtractText": "提取文字",
+  "extracted": "音訊已提取",
+  "describleImage": "描述",
+  "pricePerDay": "少於 {{num}}/天",
+  "readingwriting": "閱讀與寫作",
+  "reading": "閱讀",
+  "writing": "寫作",
+  "compareWith": "與{{NAME}}比較",
+  "smarterWith": "從{{NAME}}獲取更智能的答案",
+  "summarizePage": "總結一下這個頁面",
+  "searched3": "搜尋了3個網站",
+  "browseFiles": "已瀏覽{{NUM}}個檔案",
+  "browseFiles1": "已瀏覽 1 個檔案",
+  "readPage": "閱讀此頁",
+  "moreQueries": "更多點數！",
+  "newPlan": "新套餐",
+  "switchToXXX": "切換到{{model}}",
+  "switchToSider": "切換到{{APP_NAME}}API",
+  "switch": "切換",
+  "settingApiKey": "設定您的 API 金鑰",
+  "all": "全部",
+  "dropMsg": "拖放到這裡以傳送至 Sider",
+  "success": "成功",
+  "usedIn": "適用於",
+  "check": "查看",
+  "example": "例子",
+  "toolsUpgradeTitle": "升級以提升您的聊天體驗！",
+  "ChangeTone": "改變語氣",
+  "screenshot": "螢幕截圖",
+  "takeAScreenshot": "截取螢幕畫面",
+  "back": "返回",
+  "image": "圖片",
+  "uploadImage": "上傳圖片",
+  "hideImage": "隐藏图片",
+  "chatWithPDF": "與 PDF 聊天",
+  "recentFiles": "最近的文件",
+  "orTakeAction": "或採取其他行動：",
+  "NoFiles": "此聊天中沒有最近的文件",
+  "showImage": "显示图片",
+  "fullscreen": "全螢幕",
+  "moreQuery": "更多點數",
+  "moreFeature": "更多功能！",
+  "switchToSidepanel": "切換至側邊欄",
+  "deepReadTools": "深度閱讀工具",
+  "OR": "或者",
+  "enable": "啟用",
+  "refresh": "重新整理",
+  "painterOnBoardingTip": "點擊此處進行AI圖片創建和編輯",
+  "pdfOnBoardingTip": "點擊此處進入ChatPDF",
+  "refreshModel": "刷新模型",
+  "refreshing": "正在刷新",
+  "collapseNav": "折疊導覽列",
+  "expand": "展開",
+  "expandNav": "展開導覽列",
+  "phoneNumber": "電話號碼",
+  "recognizing": "识别中",
+  "useFreeVoice": "使用免費語音",
+  "reselect": "重新選擇",
+  "earnFree": "賺取免費點數",
+  "appearance": "外觀",
+  "result": "結果",
+  "sidepanelTip": "側面板提示",
+  "continue": "繼續",
+  "confirm": "確認",
+  "describeImage": "描述一下這張圖片",
+  "inviteFriendTip": "<a>邀請朋友</a>以獲得額外點數",
+  "resetTime": "於 <a>2023 年 8 月 3 日</a>重置",
+  "imageQuoteTipTitle": "再問一下圖？ 您需要引用圖片",
+  "imageQuoteTipContent": "要再次詢問該圖像，只需引用它即可。",
+  "ocrEmptyMsg": "抱歉，我在該圖片中找不到文字。",
+  "imageInputHint": "詢問有關此圖片的問題",
+  "selectedTextInputHint": "對選定的文本提問",
+  "fileInputHint": "對此檔案提問",
+  "inviteYourFriends": "邀請朋友",
+  "xmasSale": "聖誕節促銷",
+  "bigSale": "特賣",
+  "bigSaleRest": "特賣",
+  "videoTutorial": "查看詳情",
+  "edgePasteBug": "由於 Edge 瀏覽器錯誤，無法使用鍵盤快速鍵進行粘貼。請右鍵按下以粘貼。",
+  "enable&continue": "啟用並繼續",
+  "readAloud": "大聲朗讀",
+  "seeMoreHelp": "在 <a>幫助中心</a> 查看更多",
+  "translateInto": "翻譯成：{{lang}}",
+  "imageTranslateInto": "將圖片中的文字翻譯成{{lang}}",
+  "translateBackInto": "翻譯回：{{lang}}",
+  "explainSection": "你能詳細解釋一下這部分嗎？",
+  "betterAnswer": "使用{{MODEL_NAME}}獲得更好的結果",
+  "genBy": "由{{MODEL_NAME}}生成",
+  "explain": "解釋",
+  "building": "構建中...",
+  "keyboardShortcuts": "鍵盤快捷鍵",
+  "console": "控制台",
+  "enterText": "輸入文本",
+  "publish": "發佈",
+  "publishing": "發布",
+  "published": "已發佈",
+  "artifactPublished": "工件已發佈",
+  "artifactPublishTip1": "一旦您發佈此工件，我們將創建一個公共 URL，以便任何人都可以訪問它。您的聊天將保持私密，您可以隨時停止共享。",
+  "artifactPublishTip2": "此工件對公眾開放。任何人都可以通過共享鏈接訪問它。",
+  "artifactUnpublishedTip": "一旦您取消發佈，其他人將無法通過共享鏈接訪問該工件。",
+  "artifactNarrow": "恢復默認寬度",
+  "artifactWide": "擴展到全寬",
+  "artifactRemixContent": "讓我們探索一些此{{ARTIFACT}}的變化。您能否建議3種重新混合的方法並等待我的回應？",
+  "faceError": "在最新的{{ARTIFACT}}中遇到了這個錯誤，請修復。",
+  "artifactError": {
+    "title": "你可以嘗試以下選項：",
+    "solution1": "<a>刷新預覽</a>",
+    "solution2": "在聊天中發送錯誤訊息以獲得幫助。<a>發送錯誤訊息</a>"
+  },
+  "artifactsBetaTip": "在測試期間免費享受 Artifacts (Pro) — 不要錯過！",
+  "tryArtifact": "嘗試{{ARTIFACTS}}",
+  "tryNow": "嘗試範例",
+  "errorOccurred": "發生錯誤",
+  "artifactDemos": [
+    {
+      "title": "創建虛擬木琴",
+      "value": "在{{ARTIFACT}}中創建一個基於HTML的色彩繽紛的木琴。為敲擊的琴鍵提供視覺反饋，並使用Web Audio API根據頻率參數生成簡單且真實的聲音。包括基本的操作說明。"
+    },
+    {
+      "title": "創建一個吃食物的表情符號遊戲",
+      "value": "在{{ARTIFACT}}中創建一個簡單的基於HTML的遊戲，類似於Catch the Candy。玩家控制屏幕底部的表情符號，快速左右移動以捕捉和吃掉從上方掉落的食物（例如：🍓, 🍔, 🍎），同時避免炸彈（💣）。每次玩家捕捉到食物表情符號時，他們的表情符號會變成更誇張的正面表情（例如：🤩, 😆, 😋）以表示成功。如果玩家不小心捕捉到炸彈，表情符號會先顯示爆炸（💥），然後變成暈眩的表情（😵‍💫）。"
+    },
+    {
+      "title": "創建智能手機出貨圖表",
+      "value": "使用React在{{ARTIFACT}}中根據以下表格創建一個漂亮的折線圖。\n------\n\n過去十年主要品牌的智能手機出貨量（以十億計）\n\n| 年份 | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "預覽",
+  "dataAnalysisTip": "此工具僅在使用時觸發，扣除1個Advanced Credit。",
+  "code": "代碼",
+  "code&preview": "程式碼與預覽",
+  "tryItNow": "立即嘗試",
+  "letsTryItNow": "現在就試試看！",
+  "tryArtifactNow": "立即嘗試{{ARTIFACTS}}",
+  "roast": {
+    "analyzing": "分析中...",
+    "roastX1": "🔥 有人剛剛取笑了你，來看看吧",
+    "roastX2": "嘲笑這個傢伙！",
+    "roast": "😜 嘲笑",
+    "boast": "🥰 自誇"
+  },
+  "historyGroups": {
+    "today": "今天",
+    "thisWeek": "本週",
+    "thisMonth": "本月",
+    "earlier": "更早"
+  },
+  "quotaInfo": {
+    "mobilePlan": "行動方案",
+    "resetsDaily": "每日重置",
+    "resetDate": "重置日期",
+    "tryForFree": "免費試用",
+    "unlockFeats": "解鎖所有高級功能",
+    "unlockToUse": "解鎖無限使用",
+    "unlockAllFeats": "解鎖所有功能",
+    "unlockAllFeatsDesc": "您已達到高級功能的試用限制。升級以解鎖所有功能。",
+    "unlockAllFeats2": "解鎖完整訪問權限",
+    "unlockAllFeatsDesc2": "獲取無限聊天、網頁訪問、數據分析、圖像生成、YouTube 摘要、文件/鏈接聊天、文本提取等功能",
+    "enjoyUnlimitedCredits": "享受無限點數",
+    "enjoyUnlimitedCreditsDesc": "充分利用GPT-4o、Claude 3.5 Sonnet、Gemini 1.5 Pro等。",
+    "webAccess": "網頁訪問",
+    "chatActionTranslate": "翻譯成{{lang}}",
+    "dataAnalysis": "高級數據分析",
+    "shortVideo": "AI 影片縮短器",
+    "chatPDF": "PDF/連結聊天",
+    "chatFileLink": "文件/鏈接聊天",
+    "youtubeSummary": "YouTube 摘要",
+    "readAloud": "AI 朗讀",
+    "tryReadAloudForFree": "免費試用朗讀功能",
+    "extractText": "AI文本提取",
+    "upgradeFor": "升級僅需{{price}}/月",
+    "off": "{{num}}折扣",
+    "allPlans": "查看所有方案",
+    "usedCredits": "已使用{{count}}點數",
+    "usedCredits_one": "已使用{{count}}點數",
+    "usedCredits_other": "已使用{{count}}點數",
+    "premiumTrial": "免費試用高級功能",
+    "premiumTrialTip": "試用版提供有限的高級功能訪問，僅限付費會員。請注意，每次使用仍會消耗點數。",
+    "creditRuleTitle": "點數扣除規則",
+    "creditRuleTip": "我們根據您使用的模型、功能和上下文長度扣除點數。詳情請訪問<a>幫助中心</a>。",
+    "extraCreditTip": "這些是一次性使用的額外點數。",
+    "dailyCreditTip": "重置規則僅適用於方案點數，不適用於額外點數。",
+    "inviteFriends": "<a>邀請朋友</a>以獲得更多點數",
+    "vipInviteFriends": "喜歡{{APP_NAME}}嗎？<a>邀請你的朋友！</a>",
+    "pocketPlanTips": "Pocket 點數僅可在行動裝置上使用。享受一些免費的桌面點數。",
+    "pocketUpgrade": "升級以解鎖更多功能"
+  },
+  "prompt": "提示",
+  "addPrompt": "新增提示",
+  "allSettings": "所有設定",
+  "getAIAnswer": "獲取 AI 答案",
+  "login": {
+    "google": "繼續使用 Google",
+    "apple": "繼續使用 Apple",
+    "microsoft": "繼續使用 Microsoft",
+    "phone": "繼續使用手機"
+  },
+  "loginTip": "還沒有帳戶？<a>創建帳戶</a>",
+  "signupTip": "已經有帳戶了？<a>登入</a>",
+  "guideVideoTitle": {
+    "chat": "聊天",
+    "translation": "翻譯",
+    "summary": "摘要",
+    "chatpdf": "ChatPDF",
+    "write": "寫作",
+    "painter": "繪畫",
+    "ocr": "OCR",
+    "grammar": "語法",
+    "email": "電子郵件回覆"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "多機器人聊天",
+      "web-access": "網頁訪問",
+      "data-analysis": "進階數據分析",
+      "painter": "圖像生成",
+      "prompts": "自定義提示"
+    },
+    "translation": {
+      "widget": "通過側邊欄選擇的文本",
+      "selected": "通過上下文菜單選擇的文本",
+      "input": "頁面上輸入的文本",
+      "page": "完整網頁",
+      "in-chat": "聊天中選擇的文本",
+      "in-chat2": "聊天中輸入的文本"
+    },
+    "summary": {
+      "youtube": "YouTube影片",
+      "doc": "上傳的文件",
+      "page": "通過快速菜單的網頁",
+      "page2": "通過聊天的網頁"
+    },
+    "chatpdf": {
+      "chatpdf": "與PDF聊天"
+    },
+    "write": {
+      "widget": "按需創作",
+      "context": "改善選擇的文本",
+      "input": "重寫輸入"
+    },
+    "painter": {
+      "image": "生成圖像",
+      "bg-remove": "移除背景",
+      "bg-replace": "替換背景",
+      "upscale": "放大圖像",
+      "eraser": "移除被刷過的區域",
+      "text-remove": "移除文字"
+    },
+    "ocr": {
+      "ocr": "提取文字和方程式"
+    },
+    "grammar": {
+      "widget": "通過側邊欄進行語法檢查",
+      "context": "通過上下文菜單進行語法檢查"
+    },
+    "email": {
+      "reply": "生成電子郵件回覆"
+    }
+  },
+  "llmStatus": {
+    "thinking": "思考中..."
+  },
+  "popupPage": {
+    "thank": "感謝您使用 {{APP_NAME}} 擴充功能！",
+    "desc": "目前頁面是唯一頁面，側邊欄功能不可用。 但是，您可以開啟一個完整的頁面來聊天！",
+    "chatNow": "現在聊天"
+  },
+  "setupPage": {
+    "loginSuccess": "登入成功",
+    "welcome": "歡迎使用{{APP_NAME}}！",
+    "startUsing": "開始使用{{APP_NAME}}",
+    "explore": "探索{{FEATURE_NAME}}功能",
+    "favorites": "Chrome 最受歡迎的擴充功能",
+    "fiveStarRate": "5 星評分",
+    "activeUser": "活躍用戶",
+    "userCount": "4M+",
+    "spamMsg": "您的資料將不會外洩，也不會收到垃圾郵件。",
+    "privacy": "繼續即表示您同意<a>隱私政策</a>與<b>使用條款</b>。",
+    "privacyPart1": "繼續即表示您同意",
+    "privacyPart2": "<a>隱私政策</a>與<b>使用條款</b>",
+    "loginWith": "使用{{name}}登入",
+    "pinTips": "<b>固定{{APP_NAME}}</b>，更輕鬆存取！",
+    "pinClickTip": "點選{{icon}}固定{{APP_NAME}}",
+    "pinClickTip2": "釘選{{APP_NAME}}以便快速訪問",
+    "pinClickTip3": "點擊右上角的{{icon}}圖標",
+    "next": "下一步",
+    "tryOut": "立即使用",
+    "endTitle": "{{APP_NAME}}隨時準備幫助您！",
+    "endTip": "您現在可以瀏覽任何網頁或深入我們的幫助中心以了解更多。",
+    "learnMore": "了解更多關於{{APP_NAME}}",
+    "endBottom": "需要協助或有建議？",
+    "endBottom2": "我們重視您的意見！<a>提供反饋</a>以幫助我們改善您的體驗。"
+  },
+  "getKeyPage": {
+    "welcome": "歡迎使用{{APP_NAME}}！ 這是您開始的旅程：",
+    "stepTitle": "如何取得 API 金鑰。",
+    "step1": "第 1 步：取得 API 金鑰",
+    "step1-1": "<i>登入您的 OpenAI 帳戶</i> 如果您沒有帳戶，請在<b>此處</b>註冊",
+    "step1-2": "開啟 OpenAI API 金鑰頁面",
+    "step1-3": "建立一個新的金鑰並按如下方式複製它",
+    "step2": "第 2 步：將 API 金鑰貼上到下面的框中",
+    "step2-tips": "不用擔心。 您的 API 金鑰僅在 ChatGPT 擴充功能中本地使用。 使用 API 比直接使用 ChatGPT 更穩定。",
+    "step3": "第 3 步：在<i>此處</i>查看您的積分"
+  },
+  "optionPage": {
+    "openNewChat": "開始新的對話",
+    "howToAccess": "如何存取 ChatGPT 並在任何地方使用它",
+    "howToAccessTip": "我們為大家提供了最全面的接入ChatGPT 方式，以幫助所有人都可以方便的使用AI。",
+    "recommended": "推薦",
+    "loginFirst": "請先登入。",
+    "loginFirstTip": "登入以開始使用Sider，每天獲得免費點數。",
+    "displayMode": "顯示模式",
+    "displayLanguage": "顯示語言",
+    "fontSizeTitle": "訊息字體大小",
+    "fontSizeTip": "僅適用於訊息文字",
+    "fontSizeOptions": {
+      "regular": "常規",
+      "large": "大"
+    },
+    "fontSizeAutoTip": "根據側邊欄寬度自動調整",
+    "sidepanelPosition": "側面板位置",
+    "sidepanelPositionTip": "適用於Chrome 114或更高版本，只能在瀏覽器設定中更改",
+    "providerPartTitle": "AI 存取",
+    "serviceProvider": "服務提供者",
+    "providerSiderTip": "{{APP_NAME}}提供無縫、快速且穩定的存取，讓您在單一平台上使用頂尖AI模型，如OpenAI o1、Claude 3.5、Gemini、Llama等，全部通過官方API。",
+    "providerWebappTip": "由於OpenAI的限制，訪客和登入用戶的體驗可能有所不同。",
+    "providerSiderDesc": "由領先模型的官方API提供支持，快速且可靠",
+    "providerAPIKeyDesc": "對於擁有API金鑰的人來說是理想選擇：穩定且基於使用量計費",
+    "providerWebappDesc": "由於OpenAI政策變更，可能不穩定",
+    "importantReminders": "重要提醒",
+    "webappReminder1": "保持登入您的帳戶。",
+    "webappReminder2": "由於OpenAI政策變更，此服務可能不穩定。為了快速且穩定的性能，我們建議使用{{APP_NAME}}。",
+    "defaultVoice": "預設語音",
+    "defaultSpeed": "預設速度",
+    "whenSidebarReopens": "當側邊欄重新開啟時",
+    "scrollingBehavior": "長回應的滾動行為",
+    "autoQuoteSelectedText": "自動引用選取的文字到輸入框中",
+    "autoQuoteSelectedTextTip": "開啟時，選取的文字會自動出現在輸入框中以便快速操作",
+    "siderIcon": "{{APP_NAME}}圖示",
+    "siderIconDisplay": "始終在頁面上顯示{{APP_NAME}}圖示",
+    "siderIconDisplayTip": "開啟時，{{APP_NAME}}圖示會出現在右下角並可拖動",
+    "webAsstSearchTitle": "用於搜尋",
+    "webAsstYoutubeTitle": "用於YouTube",
+    "webAsstImageTitle": "用於圖片",
+    "webAsstEmailTitle": "用於電子郵件",
+    "webAsstCodeTitle": "用於程式碼",
+    "webAsstQATitle": "用於問答網站",
+    "webAsstLinkPreviewTitle": "用於連結預覽",
+    "webAsstAISitesTitle": "在ChatGPT上比較模型",
+    "webAsstSearchDesc": "在搜尋結果旁顯示AI答案",
+    "webAsstVideoSummaryDesc": "在YouTube上顯示摘要面板",
+    "webAsstVideoBilingualDesc": "在YouTube上顯示雙語控制",
+    "webAsstImageDesc": "在圖片懸停時顯示AI工具",
+    "webAsstEmailDesc": "在Gmail中顯示AI回覆按鈕",
+    "webAsstCodeDesc": "在程式碼區塊顯示解釋程式碼按鈕",
+    "webAsstQADesc": "在問答網站顯示答案按鈕",
+    "webAsstAISitesDesc": "在{{url}}上顯示「比較」按鈕",
+    "webAsstInputBoxTitle": "輸入框",
+    "webAsstInputBoxDesc": "在輸入框中顯示點圖標以增強寫作",
+    "webAsstLinkPreviewDesc": "拖動連結時顯示連結預覽視窗。",
+    "webAsstLinkpreviewExampleLink": "這是一個安全的連結，試著拖曳它以查看預覽視窗",
+    "sendMessage": "發送訊息",
+    "translatePage": "翻譯頁面",
+    "activateContextMenu": "開啟快速詢問",
+    "invalidShortcutTip": "包含{{key1}}、{{key2}}或{{key3}}",
+    "shortcutInUseTip": "已被使用，請嘗試其他選項",
+    "disabledSites": "在網站上停用",
+    "addASite": "新增網站",
+    "noSiteAdded": "尚未新增網站",
+    "wrongSiteTip": "無效的 URL：請檢查 URL 並重試。",
+    "restoreDefault": "恢復預設",
+    "recommend4all": "（推薦給大家）",
+    "sidebarProvider": "Sidebar 通過接入 ChatGPT 官方提供的<b>付費，穩定版API</b>。無需任何設定，為大家提供<b>無需科學上網，穩定，快速的服務</b>。",
+    "sidebarProviderGoPremium": "我們每天提供{{num}}免費點數，以確保所有人都能使用AI。<a>升級到高級版</a>以增加每日點數限額，並支持我們的使命<b>為每個人提供普及的AI</b>。",
+    "webappGPT4": "（ChatGPT Plus 用戶可以試用）",
+    "webappTip1": "如果您是 ChatGPT Plus 用戶，您現在可以選擇 GPT-4。 但是，OpenAI 可能會限制您每天可以傳送的訊息數量。",
+    "webappTip2": "請<m>固定 ChatGPT 標籤</m>並在 ChatGPT 網站上保持登入狀態。 但是，這可能無法保證穩定性。 如果您遇到任何問題，請訪問 <v>ChatGPT 網站</v>並重新整理頁面。",
+    "GPT4Desc": "您必須保持登錄到網站上的 ChatGPT 帳戶。由於 OpenAI 的限制，Plus 用戶和免費用戶的穩定性可能不一致。",
+    "apiKeyProviderTip": "（推薦軟體開發者使用）",
+    "apiKeyProvider": "OpenAI 給軟體開發者的官方API 金鑰，穩定，需付費給OpenAI。",
+    "apiKeyLocally": "您的 API 金鑰會儲存在您的瀏覽器中，絕不會發送到其他地方。",
+    "ownURL": "使用我自己的網址",
+    "customModelName": "使用自訂模型名稱",
+    "apiKeyTip1": "您的免費 OpenAI API 金鑰可能已過期。 請<a>在此處檢查 API 金鑰過期狀態。</a>",
+    "apiKeyTip2": "如果您使用免費的 OpenAI API 金鑰，在遇到高需求時，對 ChatGPT 的存取可能會不穩定。",
+    "apiFreeGuide": "按照指南取得 API 金鑰。",
+    "apiKeyGpt4Tip": "如果您輸入 GPT-4 API 金鑰，該擴充功能將支援 GPT-4。",
+    "displaySearchRes": "在搜尋結果頁面旁邊顯示 ChatGPT 回應",
+    "whenToAsk": "何時詢問 ChatGPT",
+    "promptTplForSearch": "Google 和其他搜尋引擎的提示範本",
+    "addNewTplForSearch": "新增提示範本",
+    "launchSidebar": "開啟側邊欄",
+    "sidebarLocation": "側邊欄位置",
+    "showSelectedTextTitle": "自動在輸入框顯示選定文本",
+    "showSelectedTextDesc": "在輸入框自動顯示選定文本作為引用，以便於快速操作提示",
+    "sendingMsgBehavior": "發送聊天訊息後的行為",
+    "showSelectedTextTip": "如果您未來不希望自動顯示選定文本，您可以在<a>側邊欄設定</a>中關閉此功能。",
+    "sidepanelLocation": "側邊欄位置",
+    "sidebarLeftOrRight": "將側邊欄放在左側或右側",
+    "linkToSetting": "在瀏覽器設定中更改側邊欄位置",
+    "sidepanelLeftOrRight": "將側邊面板放置在左側或右側。側邊面板僅在 Google Chrome 114 或更新版本中提供。",
+    "sidebarDisplayOption": "側邊欄顯示模式",
+    "sidebarDisplayOptionTip": "選擇邊欄在頁面上的顯示方式",
+    "sidebarDisplayOptions": {
+      "overlay": "覆蓋",
+      "expand": "展開"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "自動滾動到回應結尾",
+      "messageTop": "當回應到達頂部時暫停滾動"
+    },
+    "sidebarOnStartup": "開啟側邊欄時",
+    "sidebarOnStartupTip": "配置打開側邊欄時聊天界面的顯示模式",
+    "sidebarOnStartupOptions": {
+      "new": "總是開始新的聊天",
+      "last": "總是恢復上次的聊天",
+      "auto": "自動恢復或重新開始"
+    },
+    "sidebarOnStartupAutoTip": "如果在10分鐘內重新開啟，聊天將恢復；如果超過10分鐘，將開始新的聊天",
+    "sidebarIcon": "側邊欄圖示",
+    "sidebarIconAccess": "透過位於頁面右下角的圖示進入側邊欄。 您可以拖曳圖示上下移動",
+    "easiestWayUse": "使用{{APP_NAME}}的最簡單方法",
+    "displayWhenSelect": "選擇文字時顯示",
+    "addNewTplForSidebar": "新增提示範本",
+    "editSearchTplTip": "使用 {{keywords}} 來引用您的搜尋關鍵字",
+    "editSearchTplPlaceholder": "提示內容中的{{keywords}}將自動替換為您的搜索關鍵字",
+    "editSidebarTplTip": "在此處貼上或輸入內容",
+    "quickAction": {
+      "mainSwitchTitle": "顯示{{name}}",
+      "mainSwitchDesc": "開啟時，選擇文字後會出現快速操作選單",
+      "displayOnSelect": "當選擇文字時",
+      "displayOnShortcut": "當選擇文字並按下{{key}}時",
+      "displayOnSelectGuide": "偏好更簡潔的視圖？在<a>設定</a>中啟用您選擇的快捷鍵來激活上下文菜單。",
+      "closeTips": "選擇文字的快速操作。如果不需要，請點擊{{icon}}以停用。",
+      "customPromptMenu": "管理{{name}}的提示",
+      "useageScene": "使用場景",
+      "useageSceneRW": "在任何地方選擇文字時顯示{{name}}",
+      "useageSceneR": "在網頁上選擇文字時顯示{{name}}",
+      "useageSceneW": "在輸入框中選擇文字時顯示{{name}}"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "YouTube 助手",
+        "SummaryDesc": "<b>影片摘要</b>：啟用後，{{APP_NAME}}可以幫助你總結 YouTube 影片",
+        "BilingualDesc": "<b>雙語字幕</b>：啟用後，{{APP_NAME}}會在觀看 YouTube 影片時自動顯示"
+      },
+      "qa": {
+        "title": "問答助理",
+        "desc": "開啟後，{{APP_NAME}} 可以回答 Quora、StackOverflow 和其他 QA 網站上的問題"
+      },
+      "code": {
+        "title": "程式碼助手",
+        "desc": "當開啟時，{{APP_NAME}}可以幫助您解釋網頁上的程式碼"
+      },
+      "image": {
+        "title": "圖片助手",
+        "desc": "開啟後，您可以通過將鼠標懸停在任何圖片上快速訪問 AI 圖片工具"
+      },
+      "linkPreview": {
+        "autoSummarize": "自動摘要",
+        "collapse": "摺疊",
+        "guideTipDesc": "拖曳連結以預覽內容而不離開。如不需要，可在<link>設定</link>中停用。",
+        "guideTipTitle": "高效預覽連結",
+        "openInNewTab": "在新分頁中開啟",
+        "pageLoadFailed": "頁面加載失敗",
+        "summarizeNotSupported": "此頁面不支援摘要功能。",
+        "viewSummary": "查看摘要"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "新建提示詞",
+      "editPrompt": "編輯提示詞",
+      "checkPrompt": "查看提示詞",
+      "showInList": "在列表中顯示",
+      "hideFromList": "從列表中隱藏",
+      "noPrompts": "此處無提示",
+      "promptTabChatDesc": "在「列表中顯示」的提示會出現在{{name}}功能中。",
+      "promptTabReadDesc": "在「列表中顯示」的提示會出現在{{name}}的頁面文字中。",
+      "promptTabWriteDesc": "在「列表中顯示」的提示會出現在{{name}}的輸入框中。",
+      "deletePromptWarn": "刪除此提示？",
+      "howToWritePrompt": "如何編寫提示詞",
+      "howToVarTitle": "提示詞中可以包含哪些變量？",
+      "howToVar1": "你可以使用这个变量来表示输入或者选中的内容，如果模板中没有包含该变量，输入或选中的内容会被三引号包围并放在模板的最后面",
+      "howToVar2": "你可以使用這個變量來表示你希望使用設置中的默認語言進行輸出",
+      "howToExample": "請使用以下主題或關鍵字生成包含標題、章節和小節的大綱。\n以 Markdown 格式輸出。 只給我輸出，別無其他。 大綱應採用{{lang}}語言。\n主題或關鍵字：{{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "問題報告",
+        "title": {
+          "label": "問題總結",
+          "tip": "用幾句話告訴我們出了什麼問題。"
+        },
+        "detail": {
+          "label": "問題詳情",
+          "tip": "請詳細描述出了什麼問題、您採取的任何操作以及收到的錯誤訊息。"
+        }
+      },
+      "fr": {
+        "name": "功能要求",
+        "title": {
+          "label": "標題",
+          "tip": "您的要求是什麼？"
+        },
+        "detail": {
+          "label": "描述",
+          "tip": "請提供您想要的新功能的詳細描述。"
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "另存為新提示",
+    "replacePrompt": "更換提示",
+    "inputPlaceholder1": "輸入提示或從選單中選擇",
+    "inputPlaceholder2": "在此處貼上或輸入內容",
+    "startNewLine": "按 {{shortcut}} 開始新的一行",
+    "inputPlaceholderCodes": "在此處貼上或輸入代碼",
+    "inputPlaceholderQA": "在此處貼上或輸入問題",
+    "pressToSubmit": "按{{key}}送出",
+    "stopGenerating": "停止產生",
+    "regenerate": "重新產生回答",
+    "askTabLabel": "提問",
+    "chatTabLabel": "聊天",
+    "moreTabLabel": "更多",
+    "composeTabLabel": "寫作",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "翻譯",
+    "grammarTabLabel": "文法",
+    "searchTabLabel": "搜尋",
+    "toolsTabLabel": "工具",
+    "freePlan": "免費計劃",
+    "premiumPlan": "高級計劃",
+    "extraQuota": "額外額度",
+    "submitOption": "送出選項",
+    "painterLabel": "繪畫大師",
+    "downloadLabel": "下載桌面/手機應用程式",
+    "deleteAllConfirmTitle": "刪除全部"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}}根據情境動態選擇 GPT-4o mini、Claude 3 Haiku、Gemini 1.5 Flash 或 Llama 3 以獲得最佳回應。",
+    "gpt-3.5": "非常快，非常適合大多數日常任務。",
+    "gpt-4": "最有能力的模型，最適合需要高級推理的複雜任務。",
+    "gpt-4o": "OpenAI 最佳模型，適合在保持質量的同時處理複雜任務。",
+    "gpt-4o-mini": "OpenAI 最新模型，在聊天、編碼和推理任務中提供快速、卓越的性能，適合日常使用。",
+    "gpt-5": "OpenAI 最新模型，最適合複雜任務同時保持品質。",
+    "claude-instant": "來自 Anthropic、低延遲、高吞吐量用例的基本模型。",
+    "claude2": "Anthropic 提供的一流產品模型，在需要復雜推理的任務上具有卓越的性能。",
+    "claude-3-haiku": "Anthropic 最緊湊的模型，設計用於近乎即時的響應和無縫的人工智能體驗，模擬人類互動",
+    "claude-3-sonnet": "Anthropic的最平衡的模型，兼具智能和速度，非常適合各種任務。",
+    "claude-3.5-sonnet": "Anthropic 最新的模型，提供比 Claude 3 Opus 快兩倍的速度和更高的智能，顯著提升推理、知識、編碼和視覺任務。",
+    "claude-3-opus": "Anthropic的最強大的模型，在高度複雜的任務上提供最先進的性能，展示流暢度和人類般的理解能力。",
+    "bard": "來自 Google (PaLM 2) 的模型在高級推理任務中表現良好。",
+    "gemini-pro": "Google 最平衡的模型，完美融合了能力與效率。",
+    "gemini-1.5-pro": "Google 在多種任務上通用性能最佳的模型。",
+    "gemini-1.5-flash": "Google 的輕量級模型，為速度和效率而優化。",
+    "llama-3": "Meta 最新模型，最適合複雜任務同時保持品質。"
+  },
+  "modelCountTip": {
+    "gpt-3.5": "花費<m>1基本點數</m>。",
+    "gpt-3.5-n_one": "花費 <m>{{count}}基本點數</m>。",
+    "gpt-3.5-n_other": "花費 <m>{{count}}基本點數</m>。",
+    "gpt-4": "花費<m>1高級點數</m>。",
+    "gpt-4-2": "花費<m>2高級點數</m>。",
+    "gpt-4-n_one": "花費<m>{{count}}高級點數</m>。",
+    "gpt-4-n_other": "花費<m>{{count}}高級點數</m>。"
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "回答來自",
+    "autoCloseBanner": "無操作後自動暫停",
+    "autoCloseTips": "如果您在卡片上沒有點擊任何按鈕，搜尋助手將在30次搜尋後暫停。您可以隨時點擊按鈕重新啟動。",
+    "signinToAsk": "登入詢問{{MODEL_NAME}}",
+    "newChat": "新聊天",
+    "chatHistory": "聊天歷史",
+    "writeHistory": "寫作歷史",
+    "searchHistory": "搜尋歷史",
+    "chatControls": "聊天控制",
+    "inputPlaceholder": "輸入訊息...",
+    "send": "傳送",
+    "feedback": "意見反應",
+    "experimental": "此功能仍在發展中，可能會有所變化，因此請分享您的想法。",
+    "share": "分享",
+    "replyLanguage": "回應語言",
+    "capabilities": "功能",
+    "deleteConfirmTitle": "要刪除此對話嗎？",
+    "deleteConfirmContent": "此操作無法復原。",
+    "compareWeb": "比較網路上的答案",
+    "compareAnsWith": "比較答案",
+    "smarterAnsWith": "獲得更智能的答案",
+    "improveWithXXX": "從<b>機器人</b>獲得更聰明的答案",
+    "improveWithXXX2": "從 <b>Bot</b> 取得全面答案",
+    "compareWithXXX": "詢問<b>機器人</b>",
+    "improveWithSearch": "從 Google 取得網路答案",
+    "improveWithBoth": "使用 GPT-4 組織 Google 答案",
+    "answerWithoutSearching": "詢問原始<b>機器人</b>",
+    "screenshot": "螢幕截圖",
+    "upload": "上傳",
+    "uploadFile": "上傳檔案",
+    "siderUploadFile": "上傳 PDF、DOC、XLSX、CSV、JPG、JSON 等格式的文件，一次最多 6 個文件，每個文件最大 100MB。",
+    "addImage": "新增影像",
+    "uploadTip": {
+      "formatTitle": "支援：",
+      "limitTitle": "限制：",
+      "format": "網頁、PDF、DOC、XLSX、CSV、JPG、JSON、MP3、WAV、M4A、MPGA等",
+      "limit": "最多 6 個文件，每個 100MB"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "寫一首關於智能手機的莎士比亞風格十四行詩"
+      },
+      {
+        "title": "",
+        "ques": "為孩子們建議10個創意萬聖節服裝"
+      },
+      {
+        "title": "",
+        "ques": "概述學習個人理財的初學者路線圖"
+      },
+      {
+        "title": "",
+        "ques": "向一個10歲的孩子解釋為什麼天空是藍色的"
+      }
+    ],
+    "textSelectedTip": "您選擇的文字",
+    "ocrTextTip": "{{name}}結果",
+    "translateTip": "翻譯結果",
+    "textSelectedSystemMsg": "您想用文字做什麼？",
+    "welcomeSystemMsg": "您好！ 今天我能為您提供什麼協助？",
+    "welcomeMsg": "我今天可以如何協助您？",
+    "chatActionTranslate": "翻譯成{{lang}}",
+    "search": "搜尋",
+    "continueInChat": "繼續聊天",
+    "chatWithVideo": "視頻聊天",
+    "userStopTip": "用戶取消了請求。",
+    "noChatHistory": "尚無歷史記錄。",
+    "noSearchHistory": "未找到結果",
+    "webAccessModalTitle": "{{APP_NAME}}讓 ChatGPT3.5/GPT4都能夠存取網路!",
+    "webAccessModalContent": "ChatGPT的數據不是即時的。{{APP_NAME}}將 ChatGPT 的智慧與即時網路資訊結合，GPT能更能處理即時資訊相關的問題。 升級取得此功能，不再為資訊滯後而煩惱！",
+    "readDoc": "閱讀文件",
+    "readDocFail": "閱讀文件失敗"
+  },
+  "sidebarComposePanel": {
+    "compose": "撰寫",
+    "reply": "回覆",
+    "write": "寫",
+    "writePlaceholder": "輸入您想寫的主題",
+    "replyPlaceholder1": "輸入您想回覆的原文",
+    "replyPlaceholder2": "描述您回應的一般想法",
+    "submitShortcut": "按{{shortcut}}產生草稿",
+    "generate": "產生草稿",
+    "format": "格式",
+    "email": "郵件",
+    "idea": "想法",
+    "outline": "大綱",
+    "essay": "文章",
+    "paragraph": "段落",
+    "blog": "部落格文章",
+    "ads": "行銷廣告",
+    "twitter": "推特",
+    "comment": "評論",
+    "message": "訊息",
+    "tone": "語氣",
+    "basic": "基本",
+    "style": "樣式",
+    "professional": "專業的",
+    "formal": "正式的",
+    "casual": "隨意的",
+    "enthusiastic": "熱情的",
+    "informational": "資訊性的",
+    "funny": "有趣的",
+    "length": "長度",
+    "short": "短",
+    "medium": "中等",
+    "long": "長",
+    "regenerate": "重新產生",
+    "addToSite": "新增到網站",
+    "addToSiteTip": "將滑鼠游標放在所需的輸入框中，然後單擊“{{name}}”以插入",
+    "insertToSite": "將結果插入網頁輸入框",
+    "history": "歷史",
+    "formatExists": "格式已存在",
+    "AIWriter": "AI寫作助手",
+    "continueOptimizeTips": "繼續與AI並肩精進和改進",
+    "alsoWriteTips": "與 Al 並肩書寫"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "接受",
+    "checkFailed": "檢查失敗",
+    "checkNoError": "沒有錯誤",
+    "checking": "檢查",
+    "fixError": "修復所有 ({{errorCount}})",
+    "ignore": "忽略",
+    "improve": "改進",
+    "inputPlaceholder": "僅支援英文。請貼上或輸入文字以進行檢查。",
+    "reasonForChanges": "變更原因"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "自動偵測",
+    "placeholde": "在此輸入或貼上文字...",
+    "errWrongTargetLang": "相同的來源語言和目標語言。請檢查你的選擇。",
+    "errTooManyChar": "{{num}}/{{total}}：輸入超過字數限制。",
+    "upgradeForLongChar": "立即升級以解鎖更長的輸入（{{num}}字符）。",
+    "extraTransTips": "您還可以翻譯：",
+    "currentPage": "當前頁面",
+    "customization": {
+      "defaultPreferences": "預設偏好",
+      "title": "翻譯偏好",
+      "Length": "長度",
+      "LengthOpt": {
+        "Brief": "簡短的",
+        "Concise": "簡潔的",
+        "Standard": "標準",
+        "Expanded": "擴充"
+      },
+      "Tone": "語氣",
+      "ToneOpt": {
+        "Casual": "隨意的",
+        "Neutral": "中性的",
+        "Formal": "正式的",
+        "Authoritative": "權威性",
+        "Empathetic": "善解人意"
+      },
+      "Style": "風格",
+      "StyleOpt": {
+        "Literal": "逐字翻譯",
+        "DynamicEquivalence": "意譯",
+        "CreativeAdaptation": "創意改編"
+      },
+      "Complexity": "複雜度",
+      "ComplexityOpt": {
+        "Layman": "通俗易懂",
+        "Standard": "標準",
+        "Expert": "專家級"
+      }
+    },
+    "inputTranslateAdText": "立即翻譯任何網頁輸入框中的文字！",
+    "inputTranslateAdBtn": "立即設置",
+    "seeDict": "查看字典"
+  },
+  "sidebarSearchPanel": {
+    "history": "歷史記錄",
+    "searchProgress": {
+      "searching": "搜索中",
+      "analyzing": "分析中",
+      "organizing": "組織中",
+      "generatingAnswer": "生成答案中",
+      "competed": "已完成",
+      "searchInWeb": "在網路中搜尋",
+      "analyzeSearchResult": "分析搜尋結果",
+      "generateAnswer": "生成答案",
+      "searchCompleted": "搜尋完成",
+      "searchCancelled": "搜尋取消"
+    },
+    "relatedSearches": "相關搜索",
+    "searchFrom": "搜索自",
+    "searchHistory": "搜索歷史",
+    "answer": "答案",
+    "currentVisit": "目前瀏覽",
+    "feedback": {
+      "stepAnswer": "生成答案",
+      "stepSearch": "執行搜尋",
+      "stepUnderstand": "理解問題",
+      "tipTotal": "總共{{count}}點數"
+    },
+    "stoppedSearch": "您已停止此搜索。",
+    "newSearch": "新搜尋",
+    "searching": "搜尋",
+    "searchFromAll": "從整個網路搜尋",
+    "searchAll": "從全部搜尋",
+    "searchRange": "搜尋範圍",
+    "searchFromSite": "從{{domain}}網站搜尋",
+    "sources": "來源",
+    "suggestions": "建議",
+    "title": "搜索",
+    "viewAll": "查看全部",
+    "defaultSearchSuggesiton": "巴黎最佳旅遊時間是什麼時候？",
+    "followUpQuestion": "後續問題...",
+    "searchPlaceholder": "輸入您想搜索的信息"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "AI OCR 可能會出錯",
+    "dragImgTips": "點擊以上傳或拖放圖片到此處以提取文字",
+    "noText": "未识别到文字",
+    "ocrCost": "每個{{name}}將花費{{num}}基本點數",
+    "ocrTips": "從圖像中提取文字、數字和方程"
+  },
+  "pageTranslation": {
+    "title": "頁面翻譯",
+    "demoText": "ChatGPT由Transformer驅動，這是一種為自然語言處理設計的深度學習模型，具有自注意力和前饋神經網絡的特點。",
+    "free": "免費",
+    "aiTranslator2": "AI 翻譯器",
+    "aiTranslatorFunTitle1": "上下文理解",
+    "aiTranslatorFunDesc1": "捕捉意圖和語氣，深入理解而不僅僅是逐字翻譯",
+    "aiTranslatorFunTitle2": "精確翻譯",
+    "aiTranslatorFunDesc2": "以清晰和精確的方式翻譯，確保沒有細節遺漏",
+    "newAITranslationTip": "AI頁面翻譯現已上線！點擊此處進行設置。",
+    "translateService": "翻譯服務",
+    "translateServiceTip": "AI 翻譯根據內容長度消耗基本點數。",
+    "pageTranslation": "翻譯此頁面",
+    "showOriginal": "顯示原始文字",
+    "transSettings": "翻譯設定",
+    "source": "來源語言",
+    "target": "目標語言",
+    "autoDetect": "自動偵測",
+    "displayMode": "顯示模式",
+    "displayModes": [
+      "雙語",
+      "僅翻譯"
+    ],
+    "displayStyle": "顯示風格",
+    "displayStyles": [
+      "無",
+      "底線",
+      "淡化"
+    ],
+    "displayStyleDesc": "僅適用於雙語對比模式的翻譯",
+    "autoTrans": "自動翻譯",
+    "autoTrans2": "自動翻譯網頁",
+    "autoTrans2Desc": "關閉時，點擊翻譯按鈕或使用快捷鍵",
+    "neverTransSite": "永不翻譯此網站",
+    "neverTransSites": "永不翻譯這些網站",
+    "transAgain": "重新翻譯"
+  },
+  "inputTranslation": {
+    "title": "輸入翻譯",
+    "mainSwitchTitle": "使用觸發鍵翻譯輸入文字",
+    "mainSwitchDesc": "在任何網頁的輸入框中翻譯並替換文字",
+    "triggerKeyTitle": "觸發鍵",
+    "triggerKeyDesc": "快速按下觸發鍵三次以翻譯，使用{{key}}撤銷",
+    "spaceKey": "空白鍵",
+    "model": "翻譯模型",
+    "neverTransSites": "永不翻譯這些網站"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "思考模式",
+      "desc": "思考模式利用連鎖思維推理通過多步推斷分析複雜問題，提供更全面和深入的回應。",
+      "demos": [
+        {
+          "title": "",
+          "value": "想一想：9.11 或 9.8，哪個更大"
+        },
+        {
+          "title": "",
+          "value": "思考並撰寫一個函數來模擬「六度分隔理論」。給定一個社交網絡作為圖形，找出任意兩人之間的最短路徑。"
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "Artifacts",
+      "desc": "輕鬆在新窗口中創建和展示內容，如網頁或流程圖。通過實時互動和專注的工作空間提升生產力。",
+      "demos": [
+        {
+          "title": "創建虛擬木琴",
+          "value": "在{{ARTIFACT}}中創建一個基於 HTML 的木琴，具有多彩的琴鍵。為被擊打的琴鍵提供視覺反饋，並根據頻率參數使用 Web Audio API 生成簡單、真實的聲音。包含基本說明。"
+        },
+        {
+          "title": "創建食物吃 emoji 遊戲",
+          "value": "在{{ARTIFACT}}中創建一個簡單的基於 HTML 的遊戲，類似於「抓糖果」。玩家控制屏幕底部的 emoji，快速左右移動以捕捉和吃掉從上方掉下來的食物（例如：🍓、🍔、🍎），同時避免炸彈（💣）。每次玩家捕捉到食物 emoji 時，他們的 emoji 將變成更誇張的正面表情（例如：🤩、😆、😋）以表示成功。如果玩家不小心捕捉到炸彈，emoji 首先會顯示爆炸（💥），然後變成暈眩的表情（😵‍💫）。"
+        },
+        {
+          "title": "創建智能手機出貨圖表",
+          "value": "使用 React 在{{ARTIFACT}}中創建一個美觀的折線圖，基於以下表格。\n------\n\n過去十年主要品牌的智能手機出貨量（以十億計）\n\n| 年份 | 三星 | 蘋果 | 華為 | 小米 | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+        }
+      ]
+    },
+    "search": {
+      "name": "網路存取",
+      "desc": "獲取超越預訓練數據的實時見解，確保對當前事件、突發新聞和不斷發展的主題提供準確和及時的回應。",
+      "demos": [
+        {
+          "title": "",
+          "value": "目前在美國影院中評價最高的電影是什麼？"
+        },
+        {
+          "title": "",
+          "value": "今天哪些股票經歷了顯著的增長？"
+        },
+        {
+          "title": "",
+          "value": "今天發布的最值得注意的新電子產品是什麼？"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "生成圖片",
+      "desc": "只需描述您的想法，即可立即生成高品質圖像。無需設計技能——只需您的想像力。",
+      "demos": [
+        {
+          "title": "",
+          "value": "設計一款未來主義的飛行汽車。"
+        },
+        {
+          "title": "",
+          "value": "素描一隻在草地上奔跑的金毛尋回犬。"
+        },
+        {
+          "title": "",
+          "value": "描繪一位老年女性悠閒地喝咖啡。"
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "數據分析",
+      "desc": "實時運行 Python 代碼以進行高級數學、統計、機器學習和數據處理，簡化各種格式的任務。",
+      "demos": [
+        {
+          "title": "讀取文件數據並創建一個圓餅圖，顯示各種支出預算的比例。",
+          "value": "讀取文件數據並創建一個圓餅圖，顯示各種支出預算的比例。"
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>喜歡我們的擴充功能嗎？</b>請在網上商店給我們五顆星評價，以幫助我們成長",
+    "newInVersion": "版本{{versionId}}的新功能",
+    "learnToUse": "了解如何使用",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, AI 翻譯器",
+      "4_36_0": "使用Wisebase收集知識",
+      "4_35_0": "預覽連結：更聰明地瀏覽",
+      "4_34_0": "Gmail Al 回覆、Artifacts 和翻譯增強功能",
+      "4_33_0": "O1 和影片摘要升級",
+      "4_32_0": "聊天中支援音訊檔案",
+      "4_31_0": "工具導航, 輸入翻譯, 快速複製",
+      "4_30_0": "更新的 GPT-4o、頁面翻譯和 YouTube 字幕",
+      "4_29_0": "增強的聊天體驗",
+      "4_28_0": "Claude 3.5 Haiku & 增強選項",
+      "4_27_0": "改進的上下文選單和工件",
+      "4_26_0": "介紹思考模式（實驗性）",
+      "4_25_0": "全新外觀，帶來更佳體驗",
+      "4_24_0": "Gemini 模型變得更智能、更快速了！",
+      "4_23_0": "OpenAI o1-preview 和 o1-mini 現已推出！",
+      "4_22_0": "惡魔對天使：透視你的X個性",
+      "4_20_0": "翻譯功能升級",
+      "4_19_0": "{{ARTIFACTS}}：即時、互動的內容區塊",
+      "4_18_0": "聊天分享現已上線！",
+      "4_17_0": "介紹 YouTube 的精選影片",
+      "4_16_0": "介紹 GPT-4o mini",
+      "4_13_0": "介紹 AI 朗讀：您的個人音頻助手",
+      "4_12_0": "",
+      "4_11_0": "深度閱讀器，提升你的批判性閱讀技能！",
+      "4_10_0": "OpenAI 的 GPT-4o 現已推出！",
+      "4_9_0": "Llama 3 現已推出！Meta 最新一代的先進開源LLM。",
+      "4_8_0": "Gemini 1.5 Pro - 現已上市！",
+      "4_7_0": "In-Chat 影片摘要、字幕擷取、Claude 3 Haiku! 🚀",
+      "4_6_0": "現在支援Claude 3系列！",
+      "4_5_0": "",
+      "4_4_0": "聊天工具和 GPT-4 上下文選單中的所有工具",
+      "4_3_0": "以全螢幕模式極致體驗！",
+      "4_2_0": "更高效的UI和側邊欄 GPT 訪問",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "Sider 準備好要嘲諷並誇耀你的公開X（Twitter）帖子！選擇參與以獲得歡笑，不會保留任何數據。開始遊戲並與朋友分享快樂！"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>：匹配 OpenAI-o1 的性能"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>：在複雜推理、數學和編碼任務中表現出色"
+          ]
+        },
+        {
+          "features": [
+            "<b>網頁 AI 翻譯器</b>：提供自然且精確的翻譯"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>保存網頁和重點</b>：一鍵將有價值的網頁內容保存到Wisebase（Al知識庫）"
+          ]
+        },
+        {
+          "features": [
+            "<b>AI收件箱</b>：讓AI自動分類您的內容"
+          ]
+        },
+        {
+          "features": [
+            "<b>與多個文件對話</b>：從您收集的文件中獲得即時答案"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>即時預覽</b>：拖曳連結以查看內容，無需開啟新分頁"
+          ]
+        },
+        {
+          "features": [
+            "<b>智慧摘要</b>：一目了然地獲取頁面關鍵資訊"
+          ]
+        },
+        {
+          "features": [
+            "<b>高效瀏覽</b>：減少點擊次數和干擾，保持專注"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Gmail 中的 Al 回覆</b>： 支援翻譯和 Al 模型選擇，以提升溝通效果"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artifacts</b>：將流程圖匯出為圖片，方便分享"
+          ]
+        },
+        {
+          "features": [
+            "<b>翻譯</b>：Al 字典提供精確的單詞和短語翻譯"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>：比「o1-preview」更快，擅長處理複雜的多步驟任務，具有先進的準確性"
+          ]
+        },
+        {
+          "features": [
+            "<b>無字幕影片摘要</b>：獲取沒有字幕的 YouTube 影片的文字記錄和摘要"
+          ]
+        },
+        {
+          "features": [
+            "<b>網頁內容摘要</b>：在 Reddit 和 Twitter 等平台上得到改進"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>音訊轉文字</b>：上傳MP3、WAV、M4A或MPGA檔案以生成文字稿"
+          ]
+        },
+        {
+          "features": [
+            "<b>查看與聆聽</b>：在聆聽音訊的同時閱讀文字稿"
+          ]
+        },
+        {
+          "features": [
+            "<b>輕鬆摘要</b>：一鍵快速創建摘要"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>工具導航</b>: 從導航欄訪問圖像、PDF和視頻的AI工具"
+          ]
+        },
+        {
+          "features": [
+            "<b>輸入翻譯</b>: 三次空格以翻譯輸入文本（在選項中啟用）"
+          ]
+        },
+        {
+          "features": [
+            "<b>快速複製</b>: 使用上下文菜單立即複製文本"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>：增強的自然寫作能力和改進的檔案處理"
+          ]
+        },
+        {
+          "features": [
+            "<b>僅顯示翻譯</b>：頁面翻譯現在支持僅查看翻譯內容"
+          ]
+        },
+        {
+          "features": [
+            "<b>更好的 YouTube 字幕</b>：享受更高質量的雙語字幕翻譯"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>訊息編輯</b>：輕鬆編輯已發送的訊息並重新發送以獲得新答案"
+          ]
+        },
+        {
+          "features": [
+            "<b>並排比較</b>：在全頁面中查看多個模型的回應"
+          ]
+        },
+        {
+          "features": [
+            "<b>自訂提示的圖示</b>：為自訂提示分配圖示以便更清晰的組織"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Haiku</b>：提供超越 Claude 3 Opus 的性能，尤其在編碼、工具使用和推理方面表現出色"
+          ]
+        },
+        {
+          "features": [
+            "<b>自訂字體大小</b>：您現在可以更改訊息的字體大小"
+          ]
+        },
+        {
+          "features": [
+            "<b>簡化的使用者介面</b>：更乾淨、更直觀的選項使用者介面，便於個性化設置"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>精簡的用戶界面</b>：更清晰、更直觀的界面，提供更流暢的體驗"
+          ]
+        },
+        {
+          "features": [
+            "<b>增強的翻譯</b>：提供相關詞義，並具有上下文準確性"
+          ]
+        },
+        {
+          "features": [
+            "<b>發布和分享工件</b>：通過鏈接輕鬆公開分享您的工件"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>連鎖思維推理</b>：逐步分解複雜任務以更智能地解決問題"
+          ]
+        },
+        {
+          "features": [
+            "<b>更深入的見解</b>：提供深思熟慮的答案以應對棘手問題"
+          ]
+        },
+        {
+          "features": [
+            "<b>適用於所有模型</b>：無縫適用於每個模型"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>精緻設計</b>：現代視覺效果，更清晰的佈局，便於使用和專注"
+          ]
+        },
+        {
+          "features": [
+            "<b>快速固定</b>：固定常用提示，以便快速訪問"
+          ]
+        },
+        {
+          "features": [
+            "<b>可擴展表格</b>：在新窗口中查看大量數據，以提高可讀性"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>：增強的數學和視覺技能，超強推理能力。"
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>：速度提升兩倍，延遲降低三倍，視覺和編碼能力更佳。"
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>：在科學、編程和數學方面處理複雜任務並解決比以前模型更難的問題。每條消息花費 15 個高級積分。"
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>：一個特別有效的快速編程模型。適合專注推理而不需要廣泛知識的情況。每條消息花費 3 個高級積分。"
+          ]
+        },
+        {
+          "features": [
+            "<b>注意</b>：有速率限制。"
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>多模型翻譯</b>：同時使用多個模型以獲得更準確的翻譯。"
+          ]
+        },
+        {
+          "features": [
+            "<b>多樣化翻譯重寫</b>：為不同場景重寫翻譯。"
+          ]
+        },
+        {
+          "features": [
+            "<b>雙語字幕</b>：同時查看 YouTube 的雙語字幕。"
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>即時預覽：</b>即時預覽和互動由AI生成的網頁、文件和圖表。"
+          ]
+        },
+        {
+          "features": [
+            "<b>無縫迭代：</b>通過聊天對生成的成果進行迭代。"
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>多種格式</b>：可以將您的聊天內容分享為連結或圖片。"
+          ]
+        },
+        {
+          "features": [
+            "<b>靈活選擇</b>：可以選擇分享整個對話或其中的一部分。"
+          ]
+        },
+        {
+          "features": [
+            "<b>輕鬆控制</b>：隨時撤銷已分享的連結。"
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>影片精選</b>：AI 生成的旁白通過快速突出影片重點來節省您的時間。"
+          ]
+        },
+        {
+          "features": [
+            "<b>自然旁白</b>：逼真的 AI 聲音增強您的觀看體驗。"
+          ]
+        },
+        {
+          "features": [
+            "<b>多語言支持</b>：輕鬆理解跨語言的影片。"
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>更快、更卓越的性能：</b>使日常任務更順暢、更高效。"
+          ]
+        },
+        {
+          "features": [
+            "<b>增強的數學和編碼能力：</b>確保技術任務的準確性。"
+          ]
+        },
+        {
+          "features": [
+            "<b>從 GPT-3.5 升級：</b>GPT-4o mini 取代 GPT-3.5，性能更佳。"
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>自然 AI 聲音</b>：享受多語言的 9 種自然 AI 聲音。"
+          ]
+        },
+        {
+          "features": [
+            "<b>隨時聆聽</b>：選擇網頁上的任何文字，即可聆聽朗讀。"
+          ]
+        },
+        {
+          "features": [
+            "<b>側邊欄支援</b>：輕鬆從側邊欄小工具聆聽 AI 生成的內容。"
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>支援 Claude 3.5 Sonnet：</b>Anthropic 最新的模型，速度是 Claude 3 Opus 的兩倍，並且具有更高的智能，顯著提升了推理、知識、編碼和視覺任務的能力。"
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Opus 退役：</b>由更先進的 Claude 3.5 Sonnet 取代。"
+          ]
+        },
+        {
+          "features": [
+            "<b>邀請並賺取：</b> 邀請你的朋友來賺取免費查詢次數，並立即試用最新的模型！"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>多個網頁：</b> 同時閱讀多個網頁或文件"
+          ]
+        },
+        {
+          "features": [
+            "<b>批判性閱讀工具：</b> 澄清關鍵概念，識別假設，突出摘錄，了解作者等。"
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}：</b> 動態選擇最適合您特定任務的快速模型（GPT-3.5、Claude 3 Haiku、Gemini 1.5 Flash 或 Llama 3）。"
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>速度提升：</b>比GPT-4快2倍的回應速度"
+          ]
+        },
+        {
+          "features": [
+            "<b>視覺增強：</b>大幅改善的圖像理解能力"
+          ]
+        },
+        {
+          "features": [
+            "<b>語言擴展：</b>更多語言，更好的質量，以及更快的性能"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>新模型：</b>現在支援 Llama 3"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>新模型：</b>現支援 Gemini 1.5 Pro"
+          ]
+        },
+        {
+          "features": [
+            "<b>新AI圖像工具：</b>將滑鼠懸停在任何圖像上即可訪問AI功能"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "In-Chat 摘要：在聊天視窗中使用「閱讀此頁」獲取 YouTube 影片的要點。"
+          ]
+        },
+        {
+          "features": [
+            "簡易字幕擷取：在 YouTube 上點擊一下即可獲取字幕，深入了解影片內容。"
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku：現在可以豐富您的聊天體驗。"
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> 宣稱具有「接近人類」的能力，可以擊敗GPT-4。"
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> 平衡智能和速度，非常適合檢索信息或自動化銷售。"
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>搜尋代理小工具：</b>體驗具有人工智慧自動化的搜尋未來"
+          ]
+        },
+        {
+          "features": [
+            "<b>網頁翻譯：</b>更友善讀者的翻譯顯示風格"
+          ]
+        },
+        {
+          "features": [
+            "<b>新設定：</b>在開啟側邊欄時自動恢復上次的聊天"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>新進階資料分析工具：</b>代碼解譯器，用於高效處理資料和複雜計算"
+          ]
+        },
+        {
+          "features": [
+            "<b>新繪圖工具：</b>在聊天中即時創建圖像"
+          ]
+        },
+        {
+          "features": [
+            "<b>增強的上下文選單：</b>在上下文選單中使用 GPT-4。"
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "沉浸式全螢幕視圖"
+          ]
+        },
+        {
+          "features": [
+            "享受全螢幕下的所有側邊欄功能"
+          ]
+        },
+        {
+          "features": [
+            "無縫切換模式，兼顧兩全"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>更新的介面：</b>更乾淨、更易於導航"
+          ]
+        },
+        {
+          "features": [
+            "<b>可摺疊導航欄：</b>確保專注的聊天體驗，同時使基本功能觸手可及"
+          ]
+        },
+        {
+          "features": [
+            "<b>側邊欄 GPT 訪問：</b>對於 ChatGPT Plus 使用者，現在可以在網路應用模式下的側邊欄中直接訪問 GPT"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "GPT-4V(ision) 預覽！ & Gmail 的 AI 回复",
+          "features": [
+            "{{SIDERVISION}} 由 GPT-4V 驅動",
+            "更好地理解圖像",
+            "快速掌握郵件意圖",
+            "從不同的語氣和角色中進行選擇",
+            "輕鬆選擇回覆建議"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "GPT-4 Turbo 和聊天網頁！",
+          "features": [
+            "支援GPT-4 Turbo和GPT-3.5 Turbo",
+            "翻譯整個網頁",
+            "側邊欄中的聊天網頁",
+            "在側邊欄中聊天 PDF"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "翻譯小工具",
+          "features": [
+            "在專用翻譯小工具中自訂您的翻譯",
+            "改進 Google、Bing、百度等中的 ChatGPT 回答"
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}}變得更聰明",
+          "features": [
+            "{{4+VISION}}",
+            "一鍵用不同的機器人回答相同的問題"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Side Grammar 小工具",
+          "features": [
+            "檢查語法錯誤",
+            "修復語法錯誤",
+            "提高文法以外的寫作水平"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}}— 附 Vision 的 ChatGPT 側邊欄",
+          "features": [
+            "從圖像中提取文本",
+            "有任何關於圖片的問題都可以提問",
+            "將影像傳送至{{SIDERVISION}}的 3 種方式<div><ol><li>截取螢幕截圖</li><li>將映像拖曳到聊天視窗</li><li>上傳影像</li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "從圖像中提取文本"
+          ]
+        },
+        {
+          "features": [
+            "從圖像中提取文本"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "新的定價方案提供5倍的GPT-4點數",
+          "features": [
+            "好消息！我們更新的定價現在讓您可以獲得更多的GPT-4和Claude 2點數。",
+            "如果您已經是高級用戶，您將自動升級。 另外，我們也為所有高級用戶提供了新的「無限」方案！"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "更多機器人！",
+          "features": [
+            "除了 ChatGPT 和 Claude 之外，Sider 現在還支援 Bard！"
+          ]
+        },
+        {
+          "title": "OCR：從任何圖像中提取文字並將其發送到 ChatGPT",
+          "features": [
+            "識別 10 多種主要語言",
+            "辨識手寫英文",
+            "辨識文中的<b>數學方程式</b>"
+          ]
+        },
+        {
+          "title": "增强绘画大师",
+          "features": [
+            "替換整個背景",
+            "刪除選定區域"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>更多聊天機器人</b>：現在支持 Claude-instant、Claude 2！"
+          ]
+        },
+        {
+          "features": [
+            "<b>群聊</b>：比較聊天機器人的答案！"
+          ]
+        },
+        {
+          "features": [
+            "<b>提及</b>：使用“@”輕鬆提及對話中的任何聊天機器人並與之互動！"
+          ]
+        },
+        {
+          "features": [
+            "<b>快速提示</b>：只需輸入“/”即可開始！"
+          ]
+        },
+        {
+          "features": [
+            "<b>簡單設計</b>：使設計簡單且易於導航"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "增强的提示词管理",
+          "features": [
+            "閱讀智能菜單",
+            "寫作智能菜單"
+          ]
+        },
+        {
+          "title": "AI图像编辑器",
+          "features": [
+            "從任何圖像中刪除背景",
+            "從任何圖像中刪除文本"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "閱讀助手：利用AI，閱讀網頁時快速理解",
+        "寫作助手：在網頁輸入框中用AI快速生成內容"
+      ],
+      "2_7_0": [
+        "從文本中繪製圖片",
+        "根據參考圖片繪製圖片"
+      ],
+      "2_6_0": [
+        "Sider 支持固定邊欄 - 您可以在所有選項卡之間聊天而不會重疊任何內容<br />（在 Chrome 114 或更高版本中可用）"
+      ],
+      "2_5_0": [
+        "YouTube 總結！ 在 1 分鐘內觀看 1 小時的 YouTube 影片",
+        "在 Quora、StackOverflow 和知乎等問答網站上比較人類和 AI 提供的答案"
+      ],
+      "2_4_0": [
+        "<b>智慧網路存取</b>：根據您的查詢，Al 將決定是否需要存取網路。",
+        "穩定性提升"
+      ],
+      "2_3_0": [
+        "支援 Plus 用戶的瀏覽和外掛程式！",
+        "每個人都可以存取網際網路的 ChatGPT！"
+      ],
+      "2_2_0": [
+        "撰寫任何訊息",
+        "回覆電子郵件、推文、評論等"
+      ],
+      "2_1_0": [
+        "快速查詢的快速鍵",
+        "調整快速查詢視窗的大小",
+        "錯誤修復和其他用戶體驗改進"
+      ],
+      "2_0_0": [
+        "為所有用戶支援 <b>GPT-4</b>！",
+        "邀請朋友並獲得<b>GPT-4</b>點數，雙方都能受益！",
+        "錯誤修復和其他用戶體驗改進"
+      ],
+      "1_1_0": [
+        "在<b>新標籤</b>中進行完整聊天！",
+        "ChatGPT、<b>Bing</b>、<b>Bard</b> 在一起！",
+        "Bug修復"
+      ],
+      "1_0_13": [
+        "提問後繼續聊天",
+        "Plus 用戶在 GPT-4 和 GPT-3.5 之間切換",
+        "輕鬆存取和搜尋聊天記錄"
+      ],
+      "1_0_12": [
+        "跨電腦同步擴充功能設定",
+        "從不同的筆記型電腦存取您的提示",
+        "儲存聊天以備將來使用",
+        "透過連結分享聊天記錄"
+      ],
+      "1_0_11": [
+        "無需打開側邊欄即可透過快顯視窗快速進入操作。",
+        "新增對其他語言的支援。",
+        "使用翻譯功能時保留用戶的語言偏好。",
+        "解決 GitHub 等平台上的快速鍵衝突。"
+      ],
+      "1_0_10": [
+        "現在支援 50 多種語言！"
+      ],
+      "1_0_8": [
+        "為 Plus 用戶支援 GPT-4！ 檢查設定頁面！"
+      ],
+      "1_0_7": [
+        "記住上次使用的提示",
+        "優化chatGPT面板在搜尋頁面的位置",
+        "新增一個選項，將側邊欄頁內圖示放在左側",
+        "優化包大小",
+        "新增深色模式",
+        "支援您的 API url 代理"
+      ],
+      "1_0_6": [
+        "改進 Youtube 頁面中的摘要功能"
+      ],
+      "1_0_5": [
+        "記住側邊欄圖示的位置",
+        "改進快速鍵",
+        "直接從側邊欄儲存提示範本"
+      ],
+      "1_0_4": [
+        "重新排序下拉列表中的提示項",
+        "歸檔您不會使用的提示項",
+        "支援 50 多種語言的回覆"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter 快速“送出”",
+        "在搜尋結果頁面中隱藏面板的選項",
+        "支援ESC隱藏側邊欄",
+        "支援總結長文"
+      ],
+      "1_0_2": [
+        "新增停止按鈕以停止產生回應",
+        "更改折疊按鈕的位置"
+      ],
+      "1_0_1": [
+        "改進 Youtube 頁面中的摘要功能",
+        "修復一些與複製/貼上和列印相關的錯誤"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "啟用聊天工具以解鎖強大的功能。",
+    "content2": [
+      "無縫地探索全球網絡。",
+      "將您的想法轉化為令人驚艷的視覺效果。",
+      "通過專業分析深入研究數據。"
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "對 Product Hunt 投票",
+    "sidebar2Banner1": "立即在 <b>Product Hunt</b> 上為我們投票以推薦給大家。",
+    "sidebar2ModalTitle": "✨ Sidebar 2.0 總結",
+    "sidebar2ModalDesc": "• 聊天標籤\n  • 快速查詢\n  • 同步提示的帳戶\n  • 儲存和分享聊天記錄\n  • 支援更多語言\n  • 支援 GPT-4",
+    "ios1Banner1": "為 ChitChat - ChatGPT iOS 應用投票 🎉",
+    "ios1Banner2": "讓我們轟轟烈烈地開始吧！ 😄",
+    "ios1ModalTitle": "✨ ChitChat iOS 應用程序的新功能",
+    "ios1ModalDesc": "• 從 ChatGPT 3.5 和 4 獲得答案\n• 機器人支援團隊在一處為您提供協助\n  • 將您的 PDF 變成聊天機器人"
+  },
+  "promotePreset": {
+    "macTitle": "Mac 版{{APP_NAME}}",
+    "macContent": "我們很高興地宣布 Sider 現已可供 Mac 用戶使用！ 享受專為 Mac 量身定制的無縫高效體驗，以及我們網路版本中您喜愛的所有強大功能。",
+    "macContent2": "{{APP_NAME}}現已推出 Mac 版！",
+    "macDownload": "現在下載！",
+    "phTitle": "喜歡使用我們的擴充功能嗎？",
+    "phContent": "請花點時間在 <i>Product Hunt</i> 上為我們投票——這既快速又簡單，對我們幫助很大！",
+    "phContent2": "在<b>產品搜尋</b>上為我們投票",
+    "phVote": "立即投票！",
+    "phTitle2": "我們在 <i>Product Hunt</i> 上推出了 Sider 3.X 版本。",
+    "phFeatures1": "<b>ChatGPT 小工具</b>：寫作、從圖像中提取文字、檢查語法和翻譯，全部在一個地方完成。",
+    "phFeatures2": "<b>Sider Vision</b>：使用 GPT-4 Vision 討論影像，將 AI 對話提升到新的水平。",
+    "phFeatures3": "<b>AI 群組聊天</b>：在一次開創性的群組聊天中與 ChatGPT、GPT-4、Claude 和 Bard 互動。",
+    "phFeatures4": "<b>我們洗耳恭聽</b>：您的回饋塑造了 Sider - 分享您的想法，我們正在傾聽！",
+    "phVote2": "對<i>產品搜尋</i>進行投票",
+    "phVoteTips": "<b>今天的投票是關鍵</b> - 立即支持我們！",
+    "halloweenCountdown": "驚悚優惠：<b>剩餘{{time}}</b>",
+    "halloweenCountdown2": "{{price}}折扣：<b>剩餘{{time}}</b>",
+    "halloweenCardTitle": "萬聖節折扣",
+    "halloweenCardDesc": "解鎖驚悚優惠",
+    "halloweenCardTitle2": "領取萬聖節好禮",
+    "halloweenCardDesc2": "享受{{price}}折扣",
+    "blackFridayCountdown": "黑色星期五：<b>剩餘{{time}}</b>",
+    "xmasCountdown": "年終特賣：<b>剩餘{{time}}</b>"
+  },
+  "timeUnit": {
+    "day": "天",
+    "day_one": "天",
+    "day_other": "天",
+    "hour": "小時",
+    "hour_one": "小時",
+    "hour_other": "小時",
+    "minute": "分鐘",
+    "minute_one": "分鐘",
+    "minute_other": "分鐘",
+    "second": "秒",
+    "second_one": "秒",
+    "second_other": "秒"
+  },
+  "searchTool": {
+    "questionMark": "透過在查詢後附加問號來觸發 ChatGPT",
+    "fiveStart": "喜歡這個擴充功能嗎？ 在{{store}}給我們一個 5 星評分",
+    "loginAndCloudflareCheck": "請在 {{web}} 登入並通過 Cloudflare 檢查",
+    "braveTrouble": "還是行不通？ 關注{{url}}",
+    "cloudflareCheck": "OpenAI 需要每隔一段時間通過一次安全檢查。 如果這種情況持續發生，請在<i>擴充功能選項</i>中將 AI 提供程序更改為 OpenAI API。",
+    "failedResponse": "無法從 ChatGPT 載入回應：",
+    "whenToAskTips": "每次搜索消耗一個基本點數。點擊這裡設置何時詢問ChatGPT。",
+    "waitResponse": "等待 ChatGPT 回應..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> 5星評價",
+    "AIContentWarning": "AI 生成的內容可能並不總是真實的",
+    "activeUsers": "<num>5M+</num> 活躍用戶",
+    "copyIamge": "複製圖片",
+    "copyLink": "複製連結",
+    "downloadImage": "下載圖片",
+    "generateImage": "生成圖片",
+    "generateLink": "生成連結",
+    "linkCopied": "連結已複製",
+    "linkGenerated": "連結已生成",
+    "qrcodeTip": "掃描以獲取{{APP_NAME}}！",
+    "selectAll": "全選",
+    "shareOn": "分享至",
+    "slogan": "您的 AI 助手",
+    "socialMediaImageCopiedTip": "圖片已複製，可以貼上。"
+  },
+  "sidepanel": {
+    "title": "Sider 支持固定側邊欄",
+    "tip": "提示：適當調整側面板的寬度以獲得更好的體驗。",
+    "benefit1": "如果您導航到新頁面，您的 Sider 邊欄將<b>永遠不會消失</b>。",
+    "benefit2": "您可以在所有選項卡之間聊天，而不會<b>重疊任何內容</b>。",
+    "benefit3": "僅適用於 <b>Google Chrome 114 或更高版本</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "花費1個基本點數和1個讀者查詢",
+    "smartPlayCost": "花費 1 次快速文本查詢和 1 次閱讀查詢，語音閱讀按使用量計費",
+    "smartPlayOnlyCost": "語音閱讀按使用量計費",
+    "videoSummaryBtn": "總結影片",
+    "videoSummaryMakeFullBtn": "製作完整摘要",
+    "keyMomentsCollapse": "收合",
+    "keyMomentsClickExpand": "點擊展開",
+    "originalSubtitles": "原始字幕",
+    "transcribing": "文字轉錄",
+    "expandAll": "全部展開",
+    "loginToAsk": "登入提問",
+    "videoSummaryText": "視頻摘要",
+    "summary": "摘要",
+    "smartPlay": "視頻速覽",
+    "createShortenVideo": "創建短視頻",
+    "smartPlayBtnTips": "觀看一段短片，幫助你快速了解重點並節省時間。",
+    "shortenVideoTips": "將此視頻轉換為捕捉關鍵點的簡明摘要視頻！",
+    "smartPlaySwtichVoiceTitle": "點數扣除通知",
+    "smartPlaySwitchVoiceContent": "切換到不同的語音將根據完整視頻腳本長度再次扣除點數。視頻將從當前位置繼續播放。您要繼續嗎？",
+    "smartPlaySwitchVoiceBtn": "是，切換語音",
+    "smartPlaySwitchVoiceCancel": "否，取消",
+    "smartPlayReturnToCurrentProgress": "返回當前進度",
+    "smartPlayPlaybackEnded": "精彩回放結束",
+    "showHighlights": "顯示重點",
+    "hideHighlights": "隱藏重點",
+    "previousHighlight": "上一個重點",
+    "nextHighlight": "下一個重點",
+    "showSubtitles": "顯示字幕",
+    "hideSubtitles": "隱藏字幕",
+    "fullScreen": "全螢幕",
+    "playbackSpeed": "播放速度",
+    "subtitle": "字幕",
+    "subtitles": "字幕",
+    "responseLanguage": "回應語言",
+    "bilingual": "雙語",
+    "subtitleFailed": "字幕載入失敗",
+    "videoTooLang": "總結時，影片必須少於10小時。",
+    "displayTranslation": "顯示翻譯",
+    "noSubtitleTips": "目前僅支援有字幕的影片進行總結。",
+    "shareToComment": "分享評論",
+    "generatedBy": "由{{name}}生成",
+    "shownotes": "亮點",
+    "freeLimitTips": "您的免費試用期已用完，立即升級以繼續使用影片摘要功能。",
+    "askQuestionBtn": "回答",
+    "noQuestionTip": "{{APP_NAME}} 無法取得頁面上的問題。",
+    "targetLanguage": "目標語言",
+    "whisperCostText": "此影片缺少外部字幕，需要轉錄以進行摘要。（1 高級積分/10 分鐘或更少）"
+  },
+  "quickActions": {
+    "requireSignin": "要求登入",
+    "siginHint": "請登入才能使用此功能。",
+    "askAI": "向{{name}}提問",
+    "defaultPlaceholder": "向{{APP_NAME}}詢問任何問題",
+    "defaultPlaceholder2": "向{{APP_NAME}}詢問上述內容",
+    "managePrompts": "管理提示",
+    "pressToClose": "按{{name}}關閉",
+    "disableOnce": "隱藏直到下次訪問",
+    "disableSite": "在此網站停用",
+    "disableGlobal": "在所有網站停用",
+    "continueImproving": "繼續優化",
+    "dictExample": "示例："
+  },
+  "wisebase": {
+    "inbox": "AI 收件箱",
+    "myWisebase": "我的{{name}}",
+    "highlight": "突出顯示",
+    "unhighlight": "取消突出顯示",
+    "HighlightInvalid": "缺少重點",
+    "HighlightInvalidDesc": "由於此網頁的變更，您的重點不再可見。您仍然可以在您的<a>{{name}}</a>中訪問它們。",
+    "viewInSite": "在網站上查看",
+    "addCollection": "添加一個{{name}}",
+    "savePage": "保存頁面",
+    "editSavedPage": "編輯已保存的頁面",
+    "failedToSave": "保存失敗",
+    "failedToDelete": "刪除失敗",
+    "pageRemoved": "頁面已刪除",
+    "removePage": "刪除頁面？",
+    "removePageDesc": "這將刪除頁面及其重點。",
+    "saving": "正在保存",
+    "pageSaved": "頁面已保存",
+    "vistMyWisebase": "打開{{name}}",
+    "errNameExists": "名稱已存在"
+  },
+  "msg": {
+    "searchNotFound": "未找到結果",
+    "iosDownload": "下載 iOS / Android 應用程式",
+    "notSupportFile": "不支援的文件格式",
+    "supportedFileFormat": "支援的文件格式為{{formats}}",
+    "maxFileSize": "最大檔案大小為{{size}}",
+    "maxSize": "最大尺寸：{{num}}",
+    "fetchFailed": "無法檢索圖像。您可以下載並手動上傳。",
+    "enterAPIKey": "請輸入您的 OpenAI API 金鑰",
+    "selectModel": "請選擇有效型號",
+    "changeSaved": "變更已儲存",
+    "fiveStart": "給我們一個5星",
+    "inviteTitle": "邀請有獎",
+    "inviteEarn": "為您和您的朋友賺取<mx>{{num}}點數</mx>。<b>邀請越多，賺取越多</b>。",
+    "inviteStep1": "複製下方邀請連結傳送給好友",
+    "inviteStep2": "好友註冊帳號",
+    "inviteStep3": "下載並登入擴充功能，獎勵到帳！",
+    "checkInvitation": "查看邀請記錄",
+    "invitedRewardObtained": "獎勵已領取！",
+    "invitedWelcome": "歡迎！GPT點數已添加到您的帳戶！",
+    "inviteFriendJoin_one": "{{count}}位朋友加入",
+    "inviteFriendJoin_other": "{{count}}位朋友加入",
+    "getMoreGPT4": "獲取更多高級點數",
+    "ttsChooseVoice": "選擇語音",
+    "ttsChooseVoiceLater": "您可以稍後更改此設置。",
+    "ttsCharacterLimit": "已達字數限制",
+    "ttsCharacterLimitDesc": "AI 朗讀有{{count}}字符限制。請選擇較短的文本或使用免費語音。",
+    "ttsCharacterLimitDesc2": "此消息太長，AI 語音無法朗讀。您可以改用免費語音。",
+    "ttsCreditLimit": "基本點數不足",
+    "ttsCreditLimitDesc": "您的基本點數不足以使用此語音。請升級您的計劃或使用免費語音。",
+    "ttsChangeVoiceTip": "點數扣除通知",
+    "ttsChangeVoiceTipDesc": "切換到不同的語音將再次扣除點數。您確定要繼續嗎？",
+    "dontRemindAgain": "不要再詢問我",
+    "failToPlay": "播放失敗",
+    "onlyOneRequest": "有進行中的請求",
+    "onlyOneRequestDesc": "您的帳戶有一個進行中的請求 - 一次只能有一個請求。請稍後再試。",
+    "basicCreditLimit": "基本點數不足",
+    "basicCreditLimitDesc": "您已用完所有基本點數。升級您的計劃或邀請朋友以獲得更多點數。",
+    "errSiderLoginExpired": "您的登入已過期，請重新登入",
+    "errSiderAdminKickout": "您已被踢出，請重新登入",
+    "errSiderUserBanned": "由於檢測到異常活動（例如違反規則或帳戶共享），您的帳戶已被暫停。如果您有任何疑問，請通過電子郵件將您的帳戶詳情發送至 care@sider.ai 聯繫我們。",
+    "errSiderDeviceLimitLogout": "由於達到設備限制，您已被登出。您可以重新登入，這將登出您帳戶上最早的活躍設備。",
+    "errSiderApiTrialFeatLimit": "您已達到高級功能的試用限制。升級以解鎖所有功能。",
+    "errSiderApiLimitDevice": "請登入使用。",
+    "errSiderApiLimitLogin": "您今天已使用所有免費點數。升級或邀請朋友獲得更多，或等待明天的點數重置。",
+    "errSiderApiLimitPremium": "您本月的基本點數已用完。請切換到高級點數，等待下個月重置（訂閱日期），或升級以獲得更多。",
+    "errSiderApiLimitPremiumDiscount": "您的點數已用完。立即升級以獲得無限點數，<b>立減$1</b>。",
+    "errSiderTranslateApiLimitPremium": "您本月的基本點數已用完。請等待下個月重置（訂閱日期），或升級以獲得更多。",
+    "errSiderApiImageLimit": "您已用完所有基本點數，請升級以繼續使用此功能。",
+    "errSiderApiSummaryVideoLimit": "您的點數已用完。請升級或邀請朋友以獲得更多。",
+    "errSiderApiOcrLimit": "您的基本點數已用完。請升級以繼續訪問此功能。",
+    "errSiderApiImgLimitPremiumUltra": "您已達到基本點數的最大數量。請等待下一次重置以繼續使用。",
+    "errSiderPremiumRequired": "此功能僅適用於付費用戶，請升級使用此功能。",
+    "errSiderHighTrafficError": "目前流量使用高峰期，免費線路已出現擁擠。 請考慮重試或考慮升級，為您切換會員專屬線路，以獲得穩定、快速的體驗。",
+    "errSiderHighTrafficTip": "請考慮<a>升級到高級帳戶</a>以獲得穩定的存取權限並支持我們的開發。",
+    "errSiderDeviceBinded": "請登入使用。",
+    "errSiderApiHighLoad": "OpenAI伺服器繁忙，請稍後重試。",
+    "errSiderGPT4HighLoad": "OpenAI伺服器繁忙，請稍後重試。",
+    "errSiderOpenaiFault": "Openai 伺服器正忙。 OpenAI 中斷期間請切換到{{model}}。",
+    "errServiceUnavailable": "Openai 伺服器繁忙，請稍後再試，或在 OpenAI 中斷期間切換到 Sider API 並使用{{model}}。",
+    "errSiderGPT4LimitDevice": "請先<b>登入</b>，然後<amb>邀請您的朋友</amb>或<ta>升級到高級版</ta>以獲得更多高級點數。",
+    "errSiderGPT4LimitLogin": "升級或邀請朋友以解鎖更多高級點數，獲得更深入的答案。",
+    "errSiderGPT4LimitPremium": "您已使用完所有每月的進階點數。升級您的方案以獲得更高的每月配額，或購買進階點數增強包以立即使用！",
+    "errSiderGPT4LimitPremiumDiscount": "本月的高級點數已用完。立即升級以獲得無限點數，<b>立減$1</b>，或等待下個月重置（訂閱日期）。",
+    "errSiderDataAnalysisCredit": "此答案需要數據分析（1個高級點數）。您的高級點數已用完，請升級或邀請朋友以獲得更多！",
+    "errSiderNeedLogin": "請登入使用。",
+    "errGeminiPro": "{{GEMINI}}錯誤，請稍後再試。",
+    "errSiderO1Limit1": "OpenAI o1 模型需求量很高，已達到配額限制。別擔心，您也可以在我們社區驅動的問答網站上免費提問 OpenAI o1 問題：<a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "您需要更多高級點數。每10分鐘（或更少）的音訊需要1個高級點數。升級或邀請朋友以獲得更多！",
+    "goToSignIn": "前往登入",
+    "errSiderTimeout": "請求逾時。 請再試一次。",
+    "errSiderProcessing": "一次只有一條訊息。 在傳送另一條訊息之前，請等待任何其他回應完成，或者稍等片刻。",
+    "errTrySiderAPI": "切換到 <i>ChatGPT Sidebar API</i> 以獲得穩定的存取（適用於所有人）",
+    "errTrySiderAPI2": "或者在<a>設定頁面</a>中使用您自己的 API 金鑰（針對開發人員）",
+    "errChatGPTAuth": "請<m>點擊連結登入</m>您的 ChatGPT 網頁，我們將協助您固定它。 然後您就可以在側邊欄中使用它。",
+    "errChatGPTAuthTipTitle": "如果它不起作用：",
+    "errChatGPTFailToFetch": "無法從 ChatGPT 獲得回應。",
+    "errOpenaiFailToFetch": "無法通過您的 API 金鑰從 OpenAI 獲得回應。",
+    "errSiderCreditUsageLimit": "已達使用限制",
+    "errSiderCreditFreqLimit": "您已達到當前的使用限制。此限制確保所有用戶的公平使用。請在{{count}}分鐘後再試。",
+    "errSiderBasicTextLimit": "您已達到基本額度的速率限制。目前，每60分鐘限制發送{{count}}條消息。或者，您可以使用高級額度並稍後再試。",
+    "errSiderAdvancedTextLimit": "您已達到高級額度的速率限制。目前，每60分鐘限制發送{{count}}條消息。或者，您可以使用基本額度並稍後再試。",
+    "errSiderUnlimitedLimit": "您已達到進階點數的臨時限制（{{timesToUse}}次 /{{periodTime}}小時）。我們正在為您獲取更多點數。新點數將在{{resetTime}}可用。現在需要更多嗎？試試加速包吧！",
+    "errorOutputLimit": "已達到長度限制。升級以獲得更長的答案。",
+    "errorFileType": "不支援的檔案格式",
+    "error1139_1": "感謝您使用無限計劃！您仍然可以繼續使用高級AI模型。然而，您已達到臨時速度限制。<a>這裡是為什麼有速度限制以及我們如何嘗試幫助您</a>。請<mx>閱讀它</mx>。",
+    "error1139_1_2": "感謝您使用無限計劃！您仍然可以繼續使用高級AI模型。然而，您已達到臨時速度限制並用完所有額外的高級查詢。這裡是<a>為什麼有速度限制以及我們如何嘗試幫助您</a>。請<mx>閱讀它</mx>。",
+    "error1139_1_3": "感謝您使用無限計劃！您仍然可以繼續使用高級AI模型。然而，您已達到臨時速度限制並用完所有贈送的高級查詢。這裡是<a>為什麼有速度限制以及我們如何嘗試幫助您</a>。請<mx>閱讀它</mx>。",
+    "error1139_2": "為了不打斷您的當前工作，我們贈送了一些額外的高級查詢以解除當前的速度限制。<b>在您用完這些額外的高級查詢後，您將有速度限制</b>。",
+    "error1139_3": "當前的速度限制是（{{timesToUse}}次 /{{periodTime}}小時）在高級查詢上。我們可能會根據我們的容量進行調整。現在需要更多嗎？試試加速包！",
+    "error1139_4": "我們贈送了額外的50個高級查詢以解除當前的速度限制。<b>在您用完這些額外的高級額度後，您將有速度限制。</b>",
+    "loginAndCloudflareCheck": "切換到 <a>Sidebar API</a> 以獲得穩定存取或登入 <i>chat.openai.com</i> 並透過 Cloudflare 檢查",
+    "invalidApiKey": "API 金鑰無效，請重新取得。",
+    "getApiKeyGuide": "您需要一個 OpenAI API 金鑰才能使其工作。 按照我們的指南取得 API 金鑰。",
+    "thankForFeedback": "謝謝。 表單已成功送出。 我們將盡快與您聯繫。",
+    "writeSomething": "請寫點什麼。",
+    "enterEmail": "輸入電子郵件地址以接收有關該問題的更新。",
+    "emailRequired": "電子郵件是必需的。",
+    "promptNameRequired": "提示名稱是必需的。",
+    "titleRequired": "標題是必需的。",
+    "nameYourPrompt": "為您的提示命名",
+    "nameYourTitle": "為您的對話命名",
+    "promptTplRequired": "需要提示內容。",
+    "deletePromptWarn": "您想刪除該提示嗎？",
+    "restorePromptWarn": "是否要恢復此提示範本？",
+    "notValidEmail": "不是有效的電子郵件",
+    "signinTips": "登入以同步您的提示和設置",
+    "signinAward": "登入以獲得每天{{num}}個<span>免費</span>點數",
+    "signinAward2": "未登入用戶的點數已用完。您可以登入以獲得<b>每天{{num}}個免費點數</b>。",
+    "signinAward3": "登入以獲得更多每日點數",
+    "signinAward4": "使用您的瀏覽器展開一段神奇的AI旅程，每天獲得{{num}}個<span>免費</span>點數",
+    "chatgptTabGuardTips": "請保持此標籤開啟，現在您可以返回{{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "ChatGPT 出了點問題。 正在重新連接，請稍候...",
+    "chatgptTabGuardRefreshingTips1": "ChatGPT 出了點問題。",
+    "chatgptTabGuardRefreshingTips2": "正在重新連接，請稍候...",
+    "chatgptTabGuardSetupSuccessTips": "已修復，請重試",
+    "switchToSiderApiToContinue": "此功能目前僅支援 {{APP_NAME}} API 模式，請<a>切換到 {{APP_NAME}} API</a> 以繼續。",
+    "switchRequired": "切換到{{APP_NAME}}？",
+    "switchToSiderDesc": "要使用此功能，請將您的AI訪問方式切換到{{APP_NAME}}。",
+    "signInRequired": "要求登入",
+    "useUpUpgrade": "您的點數已用完，請升級以獲得更多點數。",
+    "featureLimit": "功能限制",
+    "featureLimitTip": "請升級以使用克勞德和巴德。",
+    "featureUnavailableOnPage": "無法在此頁面運行",
+    "featureBrowserLimit": "此頁面不支援瀏覽器擴充功能。受限制的頁面通常包括新分頁、網路商店、其他擴充功能和設定（chrome:// URLs）。請嘗試使用一般頁面。",
+    "localFileAccessRequiredTitle": "需要檔案存取權限",
+    "localFileAccessRequiredDesc": "若要在本機檔案中使用擴充功能，請前往擴充功能設定並開啟「<b>允許存取檔案 URLs</b>」。",
+    "localFileAccessRequiredBtn": "前往擴充功能設定",
+    "quotaModelContent": "您的GPT-4/Claude-2查詢限額已達到。升級到高級方案以獲得更多訪問權限，或邀請朋友獲得免費額外點數。",
+    "signinFeature": "請登入以存取此功能",
+    "dragImgTips": "點擊上傳或將圖片拖放至此處",
+    "dragTips": "點擊上傳或拖放檔案至此處",
+    "fileSizeTip": "每個檔案最大尺寸：100MB。最多5個檔案。",
+    "reEnableInSettings": "您可以在<a>設置</a>中重新啟用",
+    "switchBarTip": "加寬側面板以固定導覽列。",
+    "upgradeSupport": "升級至高級計劃以支援我們",
+    "upgradeSupport2": "升級以獲得更多功能",
+    "imageSizeLimit": "影像限制",
+    "fileSizeLimit": "檔案太大",
+    "imageSizeLimitTip": "請確保圖片小於10MB且寬度或高度不超過4096像素，然後重試。",
+    "fileSizeLimitTip": "檔案超過 100MB 上傳限制。請減小檔案大小後再試一次。",
+    "errOpenAIFilter": "由於提示觸發了 OpenAI 的內容管理政策，回應被過濾。請修改您的提示並重試。",
+    "unreadableMsg": "找不到該頁面的主要內容。 請嘗試另一個頁面。",
+    "unreadableTitle": "主要內容缺失",
+    "noSubtitleMsg": "此影片沒有字幕，無法進行摘要。",
+    "noSubtitleTitle": "需要字幕才能進行摘要",
+    "fileLimit": "要處理此文件，請啟用高級數據分析工具。每次使用花費1個高級點數。您是否希望啟用並繼續？",
+    "fileLimitFree": "您上傳的文件需要進階數據分析才能處理。立即升級以解鎖此功能。",
+    "openLastConversationTitle": "開啟上一個對話？",
+    "openLastConversationContent": "現在我們可以設定側邊欄是否在每次啟動時恢復上一個對話。",
+    "openLastConversationCancel": "了解",
+    "openLastConversationOk": "前往設定",
+    "keepConversationTip": "每次打開 Sider 都會開始新的聊天。要繼續上次的聊天，請調整<a>設置</a>。",
+    "uploadFailed": "\"{{FILENAME}}\" 上傳失敗。",
+    "askOriginalModel": "原始{{MODELNAME}}",
+    "videoTooLang": "影片過長（最長 10 小時）。請選擇較短的影片。",
+    "somethingWrong": "發生錯誤。請稍後再試。",
+    "cantBeTranscribed": "由於版權限制，無法總結此影片。請嘗試其他影片。",
+    "notSupportLiveVideo": "目前不支援即時影片摘要功能。"
+  },
+  "options": {
+    "title": "選項",
+    "shortcut": {
+      "tips": "輸入快捷鍵"
+    },
+    "theme": {
+      "auto": "自動",
+      "light": "明亮模式",
+      "dark": "黑暗模式"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "總是",
+        "desc": "總是"
+      },
+      "questionMark": {
+        "title": "問號",
+        "desc": "當查詢以問號結尾時"
+      },
+      "manually": {
+        "title": "手動",
+        "desc": "當點擊回答按鈕時"
+      }
+    },
+    "sidebarLocation": {
+      "left": "左邊",
+      "right": "右邊"
+    },
+    "sidebarMode": {
+      "sidepanel": "固定側邊欄",
+      "inpage": "頁內側邊欄"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "切換選項卡時，Sider 將始終固定在瀏覽器的右側。",
+      "inpage": "切換選項卡時，Sider 不會保持顯示狀態;您必須在新頁面上重新打開側邊欄。"
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "解釋",
+        "template": "解釋以下內容："
+      },
+      "explain-codes": {
+        "title": "解釋代碼",
+        "template": "解釋以下代碼："
+      },
+      "translate": {
+        "title": "翻譯",
+        "template": "將以下內容翻譯成{{lang}}語言："
+      }
+    }
+  },
+  "planNames": {
+    "free": "免費方案",
+    "basic": "基礎版",
+    "pro": "高級版",
+    "ultra": "無限方案",
+    "starter": "入門方案"
+  },
+  "shortPlanNames": {
+    "free": "免費",
+    "basic": "基本",
+    "pro": "專業",
+    "ultra": "無限",
+    "starter": "入門版",
+    "pocket": "Pocket"
+  },
+  "queryNames": {
+    "fast": "基本",
+    "advanced": "高級",
+    "image": "影像",
+    "reader": "讀者"
+  },
+  "upgradeModal": {
+    "off": "折扣！",
+    "desc": "更多點數和更多功能",
+    "upgradeToUseXXX": "升級以使用<b>機器人</b>",
+    "getAllTTSVoices": "解鎖所有聲音",
+    "allVoices": "所有語音",
+    "getAllTTSVoicesDesc": "此聲音為高級用戶專屬。立即升級以訪問所有聲音。",
+    "getAllTTSVoicesDesc2": "您已達到高級語音的試用限制。立即升級以無限訪問 9 種自然語音或使用免費語音。",
+    "tryAllVoices": "歡迎嘗試所有語音",
+    "getWebAccess": "升級以獲得網路答案",
+    "videoSummay": "升級以使用視頻摘要",
+    "gpt4Desc": "GPT-4o顯著更智能，可以幫助您獲得更合邏輯和準確的答案。",
+    "claude3SonnetDesc": "Claude 3 Sonnet 是一個精緻的語言模型，用於精確、細膩的交流。",
+    "claude35SonnetDesc": "Claude 3.5 Sonnet 是 Anthropic 最新的模型，提供比 Claude 3 Opus 快兩倍的速度和更高的智能，顯著提升推理、知識、編碼和視覺任務。",
+    "claude3OpusDesc": "Claude 3 Opus 是一種先進的 AI，用於以顯著的效率處理複雜任務。",
+    "webAccessDesc": "Sider 從 Google 檢索您問題的答案，並利用人工智慧進行簡潔的組織和總結。",
+    "videoSummaryDesc": "您已達到免費使用限額。 若要繼續存取此功能，請考慮升級至高級會員。"
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "探索無限可能！",
+      "pro": "已達配額限制",
+      "ultra": "已達配額限制"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "您已達到免費配額限制。 升級以獲得更高配額並解鎖高級功能。",
+      "pro": "您已達到本月的配額限制。 升級以獲得額外配額。",
+      "ultra": "您已達到本月的配額限制。 請透過 <a>care@sider.ai</a> 聯絡我們以提供您的建議。"
+    }
+  },
+  "fiveStarRate": {
+    "rate": "評價我們五顆星",
+    "enjoy": "😘 你喜歡這個擴充嗎？",
+    "enjoyNo": "不，吐槽",
+    "enjoyYes": "是的，5星評價！",
+    "feedbackTip": "🥹 請告訴我們您不滿意的原因。",
+    "feedbackThx": "感謝您的回饋意見。"
+  },
+  "sidepanelPinGuide": {
+    "title": "點擊\"{{icon}}\"",
+    "desc": "將{{APP_NAME}}添加到工具欄以便快速訪問"
+  },
+  "emailEnhance": {
+    "emailAssistant": "郵件助理",
+    "emailAssistantDesc": "開啟後，Sider 可以幫助您快速回覆電子郵件。",
+    "hideTranslation": "隱藏翻譯",
+    "inputPlaceholder": "告訴 sider 你想如何回覆...",
+    "intent": "發件人的意圖",
+    "orgLang": "電子郵件語言",
+    "quickAIReply": "AI 回覆",
+    "replyInputPlaceholder": "您想要回覆什麼？",
+    "resultsTitle": "回覆草稿",
+    "showTranslation": "顯示翻譯",
+    "translateEmail": "翻譯電子郵件",
+    "tryAgain": "再試一次",
+    "voice": {
+      "applicant": "申請人",
+      "casual": "隨意的",
+      "colleague": "同事",
+      "confident": "自信的",
+      "customer-service-staff": "客服人員",
+      "direct": "直接的",
+      "emailLength": "電子郵件長度",
+      "empathetic": "有同理心的",
+      "enthusiastic": "熱情的",
+      "formal": "正式的",
+      "formality": "形式",
+      "friendly": "友善的",
+      "human-resources": "人力資源",
+      "informational": "提供資訊的",
+      "leader": "領導者",
+      "long": "長",
+      "medium": "中等",
+      "neutral": "中性的",
+      "personable": "親切的",
+      "project-manager": "專案經理",
+      "sales-representative": "銷售代表",
+      "short": "短",
+      "subordinate": "下屬",
+      "tone": "語氣",
+      "witty": "機智的",
+      "yourRole": "你的角色"
+    },
+    "voiceSettings": "語氣設定",
+    "wayToReply": "回覆建議"
+  },
+  "searchEnhance": {
+    "getStarted": "立即開始",
+    "adContent": "比 GPT-4 更聰明？Claude 3 已經來了！邀請朋友並免費試用！",
+    "noLoginAdContent": "解鎖AI能力：更快、更聰明地搜索、閱讀、寫作、翻譯！",
+    "noLoginBtn": "加入超過400萬滿意用戶！"
+  },
+  "imageToolbar": {
+    "AITools": "AI 工具",
+    "chatWithImage": "含圖片聊天",
+    "extractText": "提取文字",
+    "imageTools": "圖片工具",
+    "inpaint": "替換刷過的區域",
+    "removeBackground": "移除背景",
+    "removeText": "移除文字",
+    "replaceBackground": "替換背景",
+    "upscale": "放大",
+    "variation": "創建變體"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "獲取更好的答案",
+      "更多元的知識",
+      "更強的理解力"
+    ],
+    "claude3Advantages": [
+      "與 GPT-4 同樣強大",
+      "更自然的回應",
+      "強大的推理能力"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "解鎖網絡訪問",
+      "text_to_image": "解鎖生成圖片",
+      "data_analysis": "解鎖數據分析",
+      "artifacts": "解鎖{{ARTIFACTS}}",
+      "thinking_mode": "解鎖思考模式"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "增強問題解決能力",
+          "desc": "通過多步推理掌握複雜挑戰！"
+        },
+        {
+          "title": "全面分析",
+          "desc": "立即獲得關鍵決策的深入見解。"
+        },
+        {
+          "title": "智能迭代",
+          "desc": "通過引導思考輕鬆完善解決方案。"
+        }
+      ],
+      "search": [
+        {
+          "title": "保持更新",
+          "desc": "訪問網絡上最新的資訊。"
+        },
+        {
+          "title": "提高準確性",
+          "desc": "獲得更準確、更相關的回應。"
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "激發創造力",
+          "desc": "立即將描述轉化為高品質。"
+        },
+        {
+          "title": "增強內容",
+          "desc": "用自定義視覺效果增強您的項目。"
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "獲取洞察",
+          "desc": "輕鬆分析和可視化數據以找到清晰。"
+        },
+        {
+          "title": "更智能地編碼",
+          "desc": "精煉、解釋並運行代碼以有效解決問題。"
+        },
+        {
+          "title": "在數學上出類拔萃",
+          "desc": "輕鬆準確地解決複雜的數學問題。"
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "提升生產力",
+          "desc": "將想法瞬間轉化為具體成果！"
+        },
+        {
+          "title": "即時預覽",
+          "desc": "即時可視化 AI 生成的網頁、文件和圖表。"
+        },
+        {
+          "title": "無縫迭代",
+          "desc": "通過自然對話輕鬆完善工件。"
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "與選定文本聊天",
+    "highlightSelection": "突出顯示選定文本",
+    "summarizePage": "總結頁面",
+    "savePage": "將頁面保存到{{name}}",
+    "revertSavePage": "從{{name}}中移除",
+    "translatePage": "翻譯為{{lang}}",
+    "revertTranslatePage": "顯示原文",
+    "imageTools": "{{AI}}圖像工具",
+    "togglePageTranslation": "翻譯此頁 / 顯示原文",
+    "openFullPageChat": "打開全頁聊天"
+  },
+  "highlightType": {
+    "key-sentences": "關鍵句子",
+    "structural-importance": "結構重要性",
+    "comprehensive-coverage": "全面覆蓋",
+    "memorable-quotes": "難忘的名言"
+  },
+  "freeTrial": {
+    "panelTitle": "3天無限計劃免費試用",
+    "panelList": [
+      "自由與 GPT-4 和 Claude 3 聊天",
+      "與任何 PDF、圖片和連結聊天",
+      "總結網頁和 YouTube 影片"
+    ],
+    "panelBtn": "開始免費試用",
+    "cancelTip": "隨時取消"
+  }
+}

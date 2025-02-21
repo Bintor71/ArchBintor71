@@ -1,0 +1,107 @@
+#!/usr/bin/env bash
+#   █████╗ ██████╗ ██████╗ ███████╗    ██╗      █████╗ ██╗   ██╗███╗   ██╗ ██████╗██╗  ██╗███████╗██████╗
+#  ██╔══██╗██╔══██╗██╔══██╗██╔════╝    ██║     ██╔══██╗██║   ██║████╗  ██║██╔════╝██║  ██║██╔════╝██╔══██╗
+#  ███████║██████╔╝██████╔╝███████╗    ██║     ███████║██║   ██║██╔██╗ ██║██║     ███████║█████╗  ██████╔╝
+#  ██╔══██║██╔═══╝ ██╔═══╝ ╚════██║    ██║     ██╔══██║██║   ██║██║╚██╗██║██║     ██╔══██║██╔══╝  ██╔══██╗
+#  ██║  ██║██║     ██║     ███████║    ███████╗██║  ██║╚██████╔╝██║ ╚████║╚██████╗██║  ██║███████╗██║  ██║
+#  ╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝    ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+#	Script to control prefered apps to launch for all themes
+#	Author: z0mbi3
+#	url:    https://github.com/gh0stzk/dotfiles
+
+WIDGET_DIR="$HOME/.config/bspwm/eww"
+
+case "$1" in
+    --menu)
+        rofi -show drun -theme "$HOME"/.config/bspwm/src/rofi-themes/Launcher.rasi
+        ;;
+    --rice)
+        RiceSelector
+        ;;
+    --terminal)
+        alacritty
+        ;;
+    --floating)
+        alacritty --class FloaTerm,FloaTerm
+        ;;
+    --update)
+        alacritty --hold --class FloaTerm,FloaTerm -e Updates --update-system
+        ;;
+    --checkupdates)
+        alacritty --hold --class Updating,Updating -e Updates --print-updates
+        ;;
+    --netmanager)
+		NetManagerDM
+		;;
+	--bluetooth)
+		rofi-bluetooth
+		;;
+	--clipboard)
+		rofi -modi "clipboard:greenclip print" -theme "$HOME"/.config/bspwm/src/rofi-themes/Clipboard.rasi -show clipboard -run-command '{cmd}'
+		;;
+	--screenshot)
+		ScreenShoTer
+		;;
+	--powermenu)
+        PowerMenu
+        ;;
+    --android)
+		AndroidMount
+		;;
+	--keyboard)
+		KeyBoardL
+		;;
+    --yazi)
+        alacritty --class FloaTerm,YaziTerm -e yazi
+        ;;
+    --nvim)
+        alacritty -e nvim
+        ;;
+    --music)
+        alacritty --class FloaTerm,MusicTerm -e ncmpcpp
+        ;;
+    --fetch)
+        alacritty --class FloaTerm,FetchTerm -e ~/.local/bin/sysfetch
+        ;;
+    --scratch)
+		tdrop -ma -w 70% -h 35% -y 0 -x 15% -n 0 --class scratch alacritty --class=Scratch
+		;;
+	--yaziscratch)
+		tdrop -ma -w 80% -h 35% -y 0 -x 10% -n 1 --class scratch alacritty --class=Scratch -e yazi
+		;;
+        # Apps
+    --filemanager)
+        thunar
+        ;;
+    --browser)
+        firefox
+        ;;
+    --editor)
+        geany
+        ;;
+    --telegram)
+        telegram-desktop
+        ;;
+    --whats)
+        whats-upp
+        ;;
+    --soundcontrol)
+        pavucontrol
+        ;;
+        # Eww Widgets
+    --KeyHelp)
+		eww -c "$WIDGET_DIR" open --toggle csheet
+		;;
+    --usercard)
+        eww -c "$WIDGET_DIR" open --toggle launchermenu
+        ;;
+    --player)
+        eww -c "$WIDGET_DIR" open --toggle music
+        ;;
+    --calendar)
+        eww -c "$WIDGET_DIR" open --toggle date
+        ;;
+    *)
+        echo "Invalid Option"
+        ;;
+esac

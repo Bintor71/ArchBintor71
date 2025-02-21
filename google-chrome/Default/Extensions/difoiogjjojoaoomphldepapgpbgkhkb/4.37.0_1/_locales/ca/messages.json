@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "Barra lateral de ChatGPT: Utilitza ChatGPT, GPT-4o, Claude3, & Gemini per a cerques avançades amb IA, llegir i escriure."
+   },
+   "appDescEdge": {
+      "message": "Barra lateral de ChatGPT: Utilitza ChatGPT, GPT-4o, Claude3, & Gemini per a cerques avançades amb IA, llegir i escriure."
+   },
+   "appName": {
+      "message": "Sider: Barra lateral de ChatGPT + GPT-4o, Claude 3 & Gemini AI"
+   },
+   "appNameEdge": {
+      "message": "Sider: Barra lateral de ChatGPT"
+   }
+}

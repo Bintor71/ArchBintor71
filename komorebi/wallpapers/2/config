@@ -1,0 +1,23 @@
+[Info]
+WallpaperType=video
+VideoFileName=26097-357512275_small.mp4
+
+[DateTime]
+Visible=false
+Parallax=true
+MarginTop=0
+MarginRight=0
+MarginLeft=0
+MarginBottom=0
+RotationX=0
+RotationY=0
+RotationZ=0
+Position=center
+Alignment=start
+AlwaysOnTop=true
+Color=#dd22dd22dd22
+Alpha=253
+ShadowColor=#dd22dd22dd22
+ShadowAlpha=253
+TimeFont=Lato Light 30
+DateFont=Lato Light 20

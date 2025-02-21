@@ -1,0 +1,2571 @@
+{
+  "sidebar": "사이드바",
+  "shortcut": "단축키",
+  "ask": "묻다",
+  "save": "저장해",
+  "saved": "저장됨",
+  "delete": "삭제",
+  "deleteAll": "모두 삭제",
+  "remove": "제거하다",
+  "cancel": "취소",
+  "close": "닫기",
+  "minimize": "최소화",
+  "disable": "비활성화",
+  "retry": "다시 시도",
+  "stop": "멈추다",
+  "pause": "일시 정지",
+  "play": "재생",
+  "replay": "다시 보기",
+  "changeSpeed": "속도 변경",
+  "ttsDemo": "샘플",
+  "icon": "아이콘",
+  "select": "선택",
+  "change": "변경",
+  "insert": "끼워 넣다",
+  "replace": "바꾸다",
+  "ok": "좋아요",
+  "Loading": "로딩 중",
+  "thoughtProgress": "사고 과정",
+  "submit": "제출하다",
+  "attention": "알아채다",
+  "welcome": "환영합니다",
+  "send": "보내다",
+  "copy": "복사",
+  "auto": "자동",
+  "unpublish": "게시 취소",
+  "unpublishArtifact": "아티팩트 게시 취소",
+  "aiResCompare": "AI 응답 비교",
+  "copied": "복사됨",
+  "clear": "분명한",
+  "table": "테이블",
+  "tryDemo": "데모 사용해보기",
+  "translate": "번역",
+  "rewrite": "다시 쓰기",
+  "next": "다음",
+  "prev": "이전",
+  "hi": "안녕하세요,",
+  "experimental": "얼리 액세스",
+  "experimentalDesc": "유료 사용자는 비구독자에게 제공되지 않는 독점적이고 최첨단 도구 및 실험적 기능에 얼리 액세스할 수 있습니다.",
+  "clickToTry": "이 기능을 시도하려면 클릭하세요",
+  "detected": "감지됨",
+  "reset": "재설정",
+  "upTo6file": "최대 6개의 파일을 업로드하세요",
+  "quote": "인용하다",
+  "download": "다운로드",
+  "downloadTypeFile": "{{type}}파일 다운로드",
+  "collapse": "사이드바 접기",
+  "done": "완료",
+  "trial": "체험",
+  "manage": "관리하다",
+  "template": "주형",
+  "edit": "편집하다",
+  "exit": "종료",
+  "add": "추가하다",
+  "feedback": "피드백",
+  "fullscreenBookmarkTip": "다음 번에 쉽게 접근할 수 있도록 전체 화면 채팅을 북마크하려면 별 아이콘을 클릭하세요!",
+  "tweetit": "{{X}}에서 우리를 팔로우하세요",
+  "joinDiscord": "우리 Discord 커뮤니티에 참여하세요",
+  "whatsnewInvite": "무료 체험 초대",
+  "fullPageChat": "전체 페이지 채팅",
+  "whatNew": "새로운 기능",
+  "helpCenter": "도움말 센터",
+  "learnMore": "자세히 알아보기",
+  "gotIt": "알았어요",
+  "you": "당신",
+  "settings": "설정",
+  "signin": "로그인",
+  "extractingText": "텍스트 추출 중",
+  "extractingTextFailed": "텍스트 추출 실패",
+  "textExtracted": "텍스트 추출 완료",
+  "audioExtractedText": "오디오에서 텍스트 추출됨",
+  "account": "계정",
+  "createAccount": "계정 생성",
+  "createAccountTip": "가입하고 매일 <a>{{NUM}}무료</a> 크레딧을 받으세요",
+  "free": "무료",
+  "signinNow": "지금 로그인",
+  "unlimited": "제한 없는",
+  "share": "공유하다",
+  "toolMoveTip": "채팅 도구가 새로운 위치에 있습니다! 여기에서 모든 채팅 제어에 접근할 수 있습니다.",
+  "myChats": "내 채팅",
+  "general": "일반 구성",
+  "archive": "보관소",
+  "unarchive": "보관 취소",
+  "searchPage": "검색 페이지",
+  "addons": "부가 기능",
+  "webStore": "웹 스토어",
+  "webApp": "웹 앱",
+  "webAccess": "웹 액세스",
+  "upgradeNow": "지금 업그레이드",
+  "unlock": "잠금 해제",
+  "allFeatures": "모든 기능",
+  "everyThing": "모두",
+  "unlockFeatMsg": "계획의 한도에 도달했습니다. 모든 기능을 사용하려면 지금 업그레이드하세요!",
+  "upgradeUnlock": "지금 업그레이드하여 잠금 해제하세요!",
+  "upgrade": "업그레이드",
+  "subscribe": "구독하기",
+  "language": "언어",
+  "theme": "주제",
+  "sendShortcut": "바로가기 보내기",
+  "speechVoice": "음성",
+  "buyBooster": "부스터 팩 구매",
+  "model": "모델",
+  "version": "버전",
+  "more": "더",
+  "clickPreview": "미리보기를 클릭하세요",
+  "clickView": "보려면 클릭하세요",
+  "sendToChat": "채팅으로 보내기",
+  "listen": "듣다",
+  "openAnswerCompare": "나란히 비교",
+  "skip": "건너뛰다",
+  "basic": "기본",
+  "advanced": "고급",
+  "superAdvanced": "슈퍼 고급",
+  "switchModel": "모델 전환",
+  "switchVoice": "음성 전환",
+  "changeVoice": "음성 변경",
+  "vote": "투표",
+  "invite": "초대하다",
+  "hide": "숨기기",
+  "show": "보이기",
+  "logout": "로그아웃",
+  "pin": "핀업",
+  "unpin": "고정 해제",
+  "showMore": "자세히보기",
+  "editTitle": "제목 수정",
+  "summarize": "요약하다",
+  "summary": "요약",
+  "fact-check": "사실 확인",
+  "highlight-excerpts": "중요한 내용 강조",
+  "key-concepts": "핵심 개념 명확히 하기",
+  "identify-assumptions": "가정 식별",
+  "contrast-analysis": "대조 분석하기",
+  "about-author": "저자에 대해 알아보기",
+  "related-news": "관련 뉴스 찾기",
+  "related-academic-research": "관련 논문 보기",
+  "related-videos": "관련 동영상 시청하기",
+  "keypoints": "키 포인트",
+  "quiz": "퀴즈",
+  "autoToText": "자동 텍스트 변환",
+  "textFromSelect": "선택한 텍스트",
+  "textFromOCR": "OCR에서 가져온 텍스트",
+  "textFromTranslate": "번역된 텍스트",
+  "textFromWrite": "작성된 텍스트",
+  "textFromSearch": "검색 에이전트의 텍스트",
+  "textFromGrammar": "문법의 텍스트",
+  "quoteText": "인용문",
+  "summarizing": "요약",
+  "summarizeFailed": "요약에 실패했습니다",
+  "answering": "응답",
+  "productivity": "생산력",
+  "generating": "생성 중",
+  "modelUpdateSuccess": "모델이 성공적으로 업데이트되었습니다.",
+  "modelUpdateFailed": "모델 업데이트 실패",
+  "customPrompt": "맞춤 프롬프트",
+  "currentTpl": "현재 템플릿:",
+  "current": "현재의",
+  "extra": "추가의",
+  "generatingTranscript": "기록 생성 중",
+  "transcriptGenerated": "기록 생성 완료",
+  "transcriptFailed": "기록 생성 실패",
+  "transcriptReady": "기록 준비 완료",
+  "audioTranscript": "오디오 기록",
+  "audio-to-text": "오디오에서 텍스트로",
+  "audio-summarize": "요약",
+  "audio-meeting-minutes": "회의록",
+  "publishArtifact": "아티팩트 게시",
+  "uploadLocal": "컴퓨터에서 업로드",
+  "openTabs": "열린 탭에서 선택",
+  "editTpl": "이 템플릿 편집",
+  "delteTpl": "이 템플릿 삭제",
+  "restoreTpl": "이 템플릿 복원",
+  "archiveTpl": "이 템플릿 보관",
+  "showTpl": "이 템플릿 보기",
+  "prompts": "프롬프트",
+  "selectPrompt": "프롬프트 선택",
+  "imageRetryTip": "오류가 발생했습니다. 다시 시도해 주세요.",
+  "mentionBot": "모델 언급",
+  "mentionGPTs": "GPT를 언급하다",
+  "promptName": "프롬프트 이름",
+  "promptContent": "신속한 콘텐츠",
+  "PromptManage": "프롬프트 관리",
+  "contactUs": "문의하기",
+  "webAssistant": "웹 어시스턴트",
+  "quickAction": "컨텍스트 메뉴",
+  "promptManage": "프롬프트 관리자",
+  "morePrompts": "더 많은 프롬프트",
+  "addPrompts": "프롬프트 추가",
+  "issueType": "문제 유형",
+  "pinExt": "핀 확장",
+  "yourEmailAddress": "귀하의 이메일 주소",
+  "troubleshooting": "문제 해결",
+  "openSidebar": "사이드바 열기",
+  "pasteSelection": "선택 붙여넣기",
+  "pasteTextPage": "페이지에서 텍스트 붙여넣기",
+  "getAnotherKey": "다른 키 얻기",
+  "showSearchPanel": "검색 패널 표시",
+  "getItNow": "지금 사세요",
+  "addTools": "도구 추가",
+  "toolsTitle": "도구",
+  "notNow": "지금은 아님",
+  "alwaysDisplay": "항상 표시",
+  "credit": "크레딧",
+  "credits": "크레딧",
+  "unlimitedCredits": "무제한 크레딧",
+  "total": "총",
+  "getMore": "더 많은 것을 얻으십시오",
+  "goPremium": "프리미엄으로 업그레이드",
+  "goPremiumGetMore": "더 많은 것을 얻으려면 프리미엄으로 업그레이드하십시오",
+  "myAccount": "내 계정",
+  "clickToAsk": "질문하려면 클릭하세요",
+  "searchingFor": "검색 중:",
+  "searchedFor": "검색:",
+  "conversationTip": "이 채팅은{{CHATPROVIDER}}모드에서 생성되었습니다. 계속하려면 모드를 전환하거나 현재 모드에서 새 채팅을 시작하세요.",
+  "using": "사용",
+  "used": "사용된",
+  "switchAndContinue": "모드 전환",
+  "ExtractText": "텍스트 추출하기",
+  "extracted": "오디오 추출 완료",
+  "describleImage": "설명하기",
+  "pricePerDay": "{{num}}/일 미만",
+  "readingwriting": "읽기 및 쓰기",
+  "reading": "읽기",
+  "writing": "쓰기",
+  "compareWith": "{{NAME}}과(와) 비교하기",
+  "smarterWith": "{{NAME}}에서 더 스마트한 답변 받기",
+  "summarizePage": "이 페이지를 요약하세요",
+  "searched3": "3개 사이트 검색됨",
+  "browseFiles": "{{NUM}}개의 파일을 탐색함",
+  "browseFiles1": "1개의 파일을 탐색함",
+  "readPage": "이 페이지 읽기",
+  "moreQueries": "더 많은 크레딧!",
+  "newPlan": "새로운 계획",
+  "switchToXXX": "{{model}}로 전환",
+  "switchToSider": "{{APP_NAME}} API로 전환",
+  "switch": "전환",
+  "settingApiKey": "API 키 설정",
+  "all": "모두",
+  "dropMsg": "Sider로 보내려면 여기에 드롭하세요",
+  "success": "성공",
+  "usedIn": "에서 사용",
+  "check": "확인하다",
+  "example": "예",
+  "toolsUpgradeTitle": "채팅 경험을 업그레이드하세요!",
+  "ChangeTone": "톤 변경",
+  "screenshot": "스크린샷",
+  "takeAScreenshot": "스크린샷 찍기",
+  "back": "뒤로",
+  "image": "이미지",
+  "uploadImage": "이미지 업로드",
+  "hideImage": "이미지 숨기기",
+  "chatWithPDF": "PDF로 채팅",
+  "recentFiles": "최근 파일",
+  "orTakeAction": "또는 다른 조치를 취하십시오.",
+  "NoFiles": "이 채팅에는 최근 파일이 없습니다.",
+  "showImage": "이미지 표시",
+  "fullscreen": "전체 화면",
+  "moreQuery": "더 많은 크레딧",
+  "moreFeature": "더 많은 기능!",
+  "switchToSidepanel": "사이드바로 전환",
+  "deepReadTools": "심층 독서 도구",
+  "OR": "또는",
+  "enable": "활성화",
+  "refresh": "새로 고치다",
+  "painterOnBoardingTip": "AI 이미지 생성 및 편집을 위해 여기를 클릭하세요",
+  "pdfOnBoardingTip": "ChatPDF를 위해 여기를 클릭하세요",
+  "refreshModel": "모델 새로고침",
+  "refreshing": "새로고침 중",
+  "collapseNav": "네비게이션 바 축소",
+  "expand": "확장",
+  "expandNav": "네비게이션 바 확장",
+  "phoneNumber": "전화 번호",
+  "recognizing": "인식",
+  "useFreeVoice": "무료 음성 사용",
+  "reselect": "다시 선택",
+  "earnFree": "무료 크레딧 얻기",
+  "appearance": "외관",
+  "result": "결과",
+  "sidepanelTip": "사이드패널 팁",
+  "continue": "계속하다",
+  "confirm": "확인하다",
+  "describeImage": "이 이미지에 대해 설명하세요.",
+  "inviteFriendTip": "<a>친구 초대</a>로 추가 크레딧 받기",
+  "resetTime": "<a>2023년 8월 3일</a>에 재설정",
+  "imageQuoteTipTitle": "이미지를 다시 질문하시겠습니까? 이미지를 인용해야 합니다.",
+  "imageQuoteTipContent": "이미지에 대해 다시 질문하려면 인용하면 됩니다.",
+  "ocrEmptyMsg": "죄송합니다. 이 이미지에서는 텍스트를 찾을 수 없습니다.",
+  "imageInputHint": "이 이미지에 대해 질문하기",
+  "selectedTextInputHint": "선택한 텍스트에 대해 질문하기",
+  "fileInputHint": "이 파일에 대해 질문하기",
+  "inviteYourFriends": "친구를 초대",
+  "xmasSale": "크리스마스 세일",
+  "bigSale": "세일",
+  "bigSaleRest": "세일",
+  "videoTutorial": "자세히 보기",
+  "edgePasteBug": "Edge 브라우저 버그로 인해 키보드 단축키를 사용하여 붙여넣을 수 없습니다. 마우스 오른쪽 버튼을 클릭하여 붙여 넣으십시오.",
+  "enable&continue": "활성화 및 계속",
+  "readAloud": "소리 내어 읽기",
+  "seeMoreHelp": "<a>도움말 센터</a>에서 더 보기",
+  "translateInto": "번역 대상:{{lang}}",
+  "imageTranslateInto": "이미지의 텍스트를{{lang}}로 번역하세요",
+  "translateBackInto": "{{lang}}로 다시 번역",
+  "explainSection": "이 섹션을 더 자세히 설명해 주시겠어요?",
+  "betterAnswer": "{{MODEL_NAME}}로 더 나은 결과를 얻으세요",
+  "genBy": "{{MODEL_NAME}}에 의해 생성됨",
+  "explain": "설명",
+  "building": "빌드 중...",
+  "keyboardShortcuts": "키보드 단축키",
+  "console": "콘솔",
+  "enterText": "텍스트 입력",
+  "publish": "게시",
+  "publishing": "게시",
+  "published": "게시됨",
+  "artifactPublished": "아티팩트 게시 완료",
+  "artifactPublishTip1": "이 아티팩트를 게시하면 누구나 접근할 수 있는 공개 URL이 생성됩니다. 채팅은 비공개로 유지되며, 언제든지 공유를 중단할 수 있습니다.",
+  "artifactPublishTip2": "이 아티팩트는 공개되어 있습니다. 공유된 링크를 통해 누구나 접근할 수 있습니다.",
+  "artifactUnpublishedTip": "게시 취소를 하면, 다른 사람들은 더 이상 공유된 링크를 통해 아티팩트에 접근할 수 없습니다.",
+  "artifactNarrow": "기본 너비로 복원",
+  "artifactWide": "전체 너비로 확장",
+  "artifactRemixContent": "이{{ARTIFACT}}의 다양한 변형을 탐색해 봅시다. 리믹스할 수 있는 3가지 방법을 제안하고 제 응답을 기다려 주세요.",
+  "faceError": "최신{{ARTIFACT}}에서 이 오류가 발생했습니다. 수정해 주세요.",
+  "artifactError": {
+    "title": "다음 옵션을 시도해 보세요:",
+    "solution1": "<a>미리보기 새로고침</a>",
+    "solution2": "도움을 받기 위해 채팅에 오류 메시지를 보내세요. <a>오류 메시지 보내기</a>"
+  },
+  "artifactsBetaTip": "베타 기간 동안 무료로 Artifacts (Pro)를 즐기세요—놓치지 마세요!",
+  "tryArtifact": "{{ARTIFACTS}}시도해보기",
+  "tryNow": "예제 시도해보기",
+  "errorOccurred": "오류가 발생했습니다",
+  "artifactDemos": [
+    {
+      "title": "가상 실로폰 만들기",
+      "value": "HTML 기반의 다채로운 키를 가진 실로폰을{{ARTIFACT}}내에 만드세요. 타격된 키에 대한 시각적 피드백을 제공하고, 주파수 매개변수를 기반으로 Web Audio API를 사용하여 간단하고 현실적인 소리를 생성하세요. 기본 지침을 포함하세요."
+    },
+    {
+      "title": "음식 먹기 이모지 게임 만들기",
+      "value": "Catch the Candy와 유사한 간단한 HTML 기반 게임을{{ARTIFACT}}내에 만드세요. 플레이어는 화면 하단의 이모지를 제어하여 빠르게 좌우로 이동시키며 위에서 떨어지는 음식 아이템(예: 🍓, 🍔, 🍎)을 잡아 먹고 폭탄(💣)을 피해야 합니다. 플레이어가 음식 이모지를 잡을 때마다 이모지는 성공을 나타내기 위해 더 과장된 긍정적인 표정(예: 🤩, 😆, 😋)으로 변합니다. 플레이어가 실수로 폭탄을 잡으면 이모지는 먼저 폭발(💥)을 표시한 후 어지러운 표정(😵‍💫)으로 변합니다."
+    },
+    {
+      "title": "스마트폰 출하량 차트 만들기",
+      "value": "다음 표를 기반으로{{ARTIFACT}}내에 React를 사용하여 아름다운 선 그래프를 만드세요.\n------\n\n지난 10년간 주요 브랜드별 스마트폰 출하량 (단위: 억 대)\n\n| 연도 | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60 | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "미리보기",
+  "dataAnalysisTip": "이 도구는 사용될 때만 작동하며, 1개의 Advanced Credit이 차감됩니다.",
+  "code": "코드",
+  "code&preview": "코드 및 미리보기",
+  "tryItNow": "지금 시도해보세요",
+  "letsTryItNow": "지금 시도해보세요!",
+  "tryArtifactNow": "{{ARTIFACTS}}을(를) 지금 시도해 보세요",
+  "roast": {
+    "analyzing": "분석 중...",
+    "roastX1": "🔥 누군가 당신을 놀렸습니다, 확인해보세요",
+    "roastX2": "이 사람을 놀려보세요!",
+    "roast": "😜 구운 음식",
+    "boast": "🥰 자랑"
+  },
+  "historyGroups": {
+    "today": "오늘",
+    "thisWeek": "이번 주",
+    "thisMonth": "이번 달",
+    "earlier": "이전"
+  },
+  "quotaInfo": {
+    "mobilePlan": "모바일 요금제",
+    "resetsDaily": "매일 초기화",
+    "resetDate": "초기화 날짜",
+    "tryForFree": "무료로 시도하기",
+    "unlockFeats": "모든 프리미엄 기능 잠금 해제",
+    "unlockToUse": "무제한 사용 잠금 해제",
+    "unlockAllFeats": "모든 기능 잠금 해제",
+    "unlockAllFeatsDesc": "프리미엄 기능의 체험 한도에 도달했습니다. 모든 기능을 잠금 해제하려면 업그레이드하세요.",
+    "unlockAllFeats2": "전체 액세스 잠금 해제",
+    "unlockAllFeatsDesc2": "무제한 채팅, 웹 액세스, 데이터 분석, 이미지 생성, YouTube 요약, 파일/링크 채팅, 텍스트 추출 등을 이용하세요",
+    "enjoyUnlimitedCredits": "무제한 크레딧을 즐기세요",
+    "enjoyUnlimitedCreditsDesc": "GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro 등을 최대한 활용하세요.",
+    "webAccess": "웹 액세스",
+    "chatActionTranslate": "{{lang}}로 번역",
+    "dataAnalysis": "고급 데이터 분석",
+    "shortVideo": "AI 비디오 단축기",
+    "chatPDF": "PDF/링크 채팅",
+    "chatFileLink": "파일/링크 채팅",
+    "youtubeSummary": "YouTube 요약",
+    "readAloud": "AI 소리 내어 읽기",
+    "tryReadAloudForFree": "무료로 읽어주기 시도",
+    "extractText": "AI 텍스트 추출",
+    "upgradeFor": "단{{price}}/월에 업그레이드",
+    "off": "{{num}}할인",
+    "allPlans": "모든 플랜 보기",
+    "usedCredits": "{{count}}크레딧 사용됨",
+    "usedCredits_one": "{{count}}크레딧 사용됨",
+    "usedCredits_other": "{{count}}크레딧 사용됨",
+    "premiumTrial": "프리미엄 기능 무료 체험",
+    "premiumTrialTip": "체험판은 유료 회원 전용 프리미엄 기능에 제한된 접근을 제공합니다. 각 사용 시 여전히 크레딧이 차감됩니다.",
+    "creditRuleTitle": "크레딧 차감 규칙",
+    "creditRuleTip": "모델, 기능 및 사용한 컨텍스트 길이에 따라 크레딧을 차감합니다. 자세한 내용은 <a>도움말 센터</a>를 방문하세요.",
+    "extraCreditTip": "이것은 일회용 추가 크레딧입니다.",
+    "dailyCreditTip": "초기화 규칙은 플랜 크레딧에만 적용되며 추가 크레딧에는 적용되지 않습니다.",
+    "inviteFriends": "<a>친구 초대</a>로 더 많은 크레딧 받기",
+    "vipInviteFriends": "{{APP_NAME}}을 즐기고 계신가요? <a>친구를 초대하세요!</a>",
+    "pocketPlanTips": "포켓 크레딧은 모바일에서만 사용할 수 있습니다. 데스크탑 크레딧을 무료로 즐기세요.",
+    "pocketUpgrade": "더 많은 기능을 잠금 해제하려면 업그레이드하세요"
+  },
+  "prompt": "프롬프트",
+  "addPrompt": "프롬프트 추가",
+  "allSettings": "모든 설정",
+  "getAIAnswer": "AI 답변 받기",
+  "login": {
+    "google": "Google로 계속하기",
+    "apple": "Apple로 계속하기",
+    "microsoft": "Microsoft로 계속하기",
+    "phone": "전화번호로 계속하기"
+  },
+  "loginTip": "계정이 없으신가요? <a>계정 생성</a>",
+  "signupTip": "이미 계정이 있으신가요? <a>로그인</a>",
+  "guideVideoTitle": {
+    "chat": "채팅",
+    "translation": "번역",
+    "summary": "요약",
+    "chatpdf": "ChatPDF",
+    "write": "작성",
+    "painter": "그림판",
+    "ocr": "OCR",
+    "grammar": "문법",
+    "email": "이메일 답장"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "멀티봇 채팅",
+      "web-access": "웹 접근",
+      "data-analysis": "고급 데이터 분석",
+      "painter": "이미지 생성",
+      "prompts": "사용자 지정 프롬프트"
+    },
+    "translation": {
+      "widget": "사이드바를 통한 선택된 텍스트",
+      "selected": "컨텍스트 메뉴를 통한 선택된 텍스트",
+      "input": "페이지에 입력된 텍스트",
+      "page": "전체 웹페이지",
+      "in-chat": "채팅에서 선택된 텍스트",
+      "in-chat2": "채팅에서 입력된 텍스트"
+    },
+    "summary": {
+      "youtube": "YouTube 동영상",
+      "doc": "업로드된 문서",
+      "page": "빠른 메뉴를 통한 웹페이지",
+      "page2": "채팅을 통한 웹페이지"
+    },
+    "chatpdf": {
+      "chatpdf": "PDF와 채팅"
+    },
+    "write": {
+      "widget": "요청에 따른 작성",
+      "context": "선택된 텍스트 개선",
+      "input": "입력 다시 쓰기"
+    },
+    "painter": {
+      "image": "이미지 생성",
+      "bg-remove": "배경 제거",
+      "bg-replace": "배경 교체",
+      "upscale": "이미지 업스케일",
+      "eraser": "지워진 영역 제거",
+      "text-remove": "텍스트 제거"
+    },
+    "ocr": {
+      "ocr": "텍스트 및 방정식 추출"
+    },
+    "grammar": {
+      "widget": "사이드바를 통한 문법 검사",
+      "context": "컨텍스트 메뉴를 통한 문법 검사"
+    },
+    "email": {
+      "reply": "이메일 답장 생성"
+    }
+  },
+  "llmStatus": {
+    "thinking": "생각 중..."
+  },
+  "popupPage": {
+    "thank": "{{APP_NAME}} 확장 프로그램을 사용해 주셔서 감사합니다!",
+    "desc": "현재 페이지는 고유한 페이지이며 사이드바 기능을 사용할 수 없습니다. 그러나 채팅을 위해 전체 페이지를 열 수 있습니다!",
+    "chatNow": "지금 채팅"
+  },
+  "setupPage": {
+    "loginSuccess": "성공적 로그인",
+    "welcome": "{{APP_NAME}}에 오신 것을 환영합니다!",
+    "startUsing": "{{APP_NAME}}사용 시작",
+    "explore": "{{FEATURE_NAME}}기능 탐색하기",
+    "favorites": "크롬에서 가장 인기 있는 확장 프로그램",
+    "fiveStarRate": "5성 평점",
+    "activeUser": "활성 사용자",
+    "userCount": "4M+",
+    "spamMsg": "귀하의 데이터는 유출되지 않으며 스팸 메일도 없습니다.",
+    "privacy": "계속하면 <a>개인정보 처리방침</a> 및 <b>이용 약관</b>에 동의하는 것입니다.",
+    "privacyPart1": "계속하면 동의하는 것입니다",
+    "privacyPart2": "<a>개인정보 처리방침</a> 및 <b>이용 약관</b>",
+    "loginWith": "{{name}}으로 로그인",
+    "pinTips": "<b>{{APP_NAME}}</b>을(를) 고정하면 더 쉽게 액세스할 수 있습니다!",
+    "pinClickTip": "{{icon}}을(를) 고정하려면 {{APP_NAME}}을(를) 클릭하세요.",
+    "pinClickTip2": "{{APP_NAME}}을(를) 빠른 접근을 위해 고정하기",
+    "pinClickTip3": "오른쪽 상단의{{icon}}아이콘 클릭",
+    "next": "다음",
+    "tryOut": "그것을 밖으로 시도",
+    "endTitle": "{{APP_NAME}}가 여러분을 돕기 위해 준비되었습니다!",
+    "endTip": "이제 웹페이지를 탐색하거나 도움말 센터를 자세히 알아볼 수 있습니다.",
+    "learnMore": "{{APP_NAME}}에 대해 더 알아보기",
+    "endBottom": "도움이 필요하시거나 제안이 있으신가요?",
+    "endBottom2": "여러분의 의견을 소중히 생각합니다! <a>피드백 제공하기</a>를 통해 경험을 개선할 수 있도록 도와주세요."
+  },
+  "getKeyPage": {
+    "welcome": "{{APP_NAME}}에 오신 것을 환영합니다! 시작할 여정은 다음과 같습니다.",
+    "stepTitle": "API 키를 얻는 방법.",
+    "step1": "1단계: API 키 받기",
+    "step1-1": "<i>OpenAI 계정에 로그인</i> 계정이 없으면 <b>여기</b>에서 가입하세요.",
+    "step1-2": "OpenAI API 키 페이지 방문",
+    "step1-3": "새 비밀 키를 생성하고 다음과 같이 복사합니다.",
+    "step2": "2단계: 아래 상자에 API 키 붙여넣기",
+    "step2-tips": "괜찮아요. API 키는 ChatGPT 확장 프로그램 내에서만 로컬로 사용됩니다. API를 사용하는 것이 ChatGPT를 직접 사용하는 것보다 안정적입니다.",
+    "step3": "3단계: <i>여기</i>에서 크레딧 확인"
+  },
+  "optionPage": {
+    "openNewChat": "새로운 채팅 시작",
+    "howToAccess": "ChatGPT에 액세스하고 어디서나 사용하는 방법",
+    "howToAccessTip": "모든 사람이 AI에 액세스할 수 있도록 하기 위해 ChatGPT에 액세스하고 어디서나 사용할 수 있는 3가지 방법을 제공합니다.",
+    "recommended": "추천",
+    "loginFirst": "먼저 로그인하세요.",
+    "loginFirstTip": "Sider를 사용하기 시작하고 매일 무료 크레딧을 받으려면 로그인하세요.",
+    "displayMode": "표시 모드",
+    "displayLanguage": "디스플레이 언어",
+    "fontSizeTitle": "메시지 글꼴 크기",
+    "fontSizeTip": "메시지 텍스트에만 적용",
+    "fontSizeOptions": {
+      "regular": "보통",
+      "large": "크게"
+    },
+    "fontSizeAutoTip": "사이드바 너비에 따라 자동 조정",
+    "sidepanelPosition": "사이드 패널 위치",
+    "sidepanelPositionTip": "Chrome 114 이상에서는 브라우저 설정에서만 변경 가능합니다",
+    "providerPartTitle": "AI 접근",
+    "serviceProvider": "서비스 제공자",
+    "providerSiderTip": "{{APP_NAME}}는 OpenAI o1, Claude 3.5, Gemini, Llama 등 최고의 AI 모델에 원활하고 빠르며 안정적인 접근을 제공합니다. 모든 것이 공식 API를 통해 하나의 플랫폼에서 가능합니다.",
+    "providerWebappTip": "OpenAI의 제한으로 인해 방문자와 로그인 사용자의 경험이 다를 수 있습니다.",
+    "providerSiderDesc": "선도적인 모델의 공식 API로 구동되어 빠르고 신뢰할 수 있음",
+    "providerAPIKeyDesc": "API 키를 가진 사용자에게 이상적: 안정적이고 사용량 기반 가격",
+    "providerWebappDesc": "OpenAI 정책 변경으로 인해 불안정할 수 있음",
+    "importantReminders": "중요한 알림",
+    "webappReminder1": "계정에 로그인 상태를 유지하세요.",
+    "webappReminder2": "이 서비스는 OpenAI 정책 변경으로 인해 불안정할 수 있습니다. 빠르고 안정적인 성능을 위해{{APP_NAME}}사용을 권장합니다.",
+    "defaultVoice": "기본 음성",
+    "defaultSpeed": "기본 속도",
+    "whenSidebarReopens": "사이드바가 다시 열릴 때",
+    "scrollingBehavior": "긴 응답에 대한 스크롤 동작",
+    "autoQuoteSelectedText": "선택한 텍스트를 입력 상자에 자동 인용",
+    "autoQuoteSelectedTextTip": "켜져 있으면 선택한 텍스트가 빠른 작업을 위해 입력 상자에 자동으로 나타납니다",
+    "siderIcon": "{{APP_NAME}}아이콘",
+    "siderIconDisplay": "페이지에 항상{{APP_NAME}}아이콘 표시",
+    "siderIconDisplayTip": "켜져 있으면{{APP_NAME}}아이콘이 오른쪽 하단에 나타나며 드래그할 수 있습니다",
+    "webAsstSearchTitle": "검색용",
+    "webAsstYoutubeTitle": "YouTube용",
+    "webAsstImageTitle": "이미지용",
+    "webAsstEmailTitle": "이메일용",
+    "webAsstCodeTitle": "코드용",
+    "webAsstQATitle": "Q&A 사이트용",
+    "webAsstLinkPreviewTitle": "링크 미리보기를 위한",
+    "webAsstAISitesTitle": "ChatGPT에서 모델 비교하기",
+    "webAsstSearchDesc": "검색 결과와 함께 AI 답변 표시",
+    "webAsstVideoSummaryDesc": "YouTube에서 요약 패널 표시",
+    "webAsstVideoBilingualDesc": "YouTube에서 이중 언어 제어 표시",
+    "webAsstImageDesc": "이미지 호버 시 AI 도구 표시",
+    "webAsstEmailDesc": "Gmail에서 AI 답장 버튼 표시",
+    "webAsstCodeDesc": "코드 블록에서 코드 설명 버튼 표시",
+    "webAsstQADesc": "Q&A 사이트에서 답변 버튼 표시",
+    "webAsstAISitesDesc": "{{url}}에서 \"비교하기\" 버튼 표시",
+    "webAsstInputBoxTitle": "입력 상자",
+    "webAsstInputBoxDesc": "입력 상자에 점 아이콘을 표시하여 글쓰기를 향상시킵니다",
+    "webAsstLinkPreviewDesc": "링크를 드래그할 때 링크 미리보기 창을 표시합니다.",
+    "webAsstLinkpreviewExampleLink": "이것은 안전한 링크입니다. 미리보기 창을 보려면 드래그해 보세요.",
+    "sendMessage": "메시지 보내기",
+    "translatePage": "페이지 번역",
+    "activateContextMenu": "빠른 질문 열기",
+    "invalidShortcutTip": "{{key1}},{{key2}}, 또는{{key3}}포함",
+    "shortcutInUseTip": "이미 사용 중입니다. 다른 것을 시도해 보세요.",
+    "disabledSites": "사이트에서 비활성화됨",
+    "addASite": "사이트 추가",
+    "noSiteAdded": "추가된 사이트 없음",
+    "wrongSiteTip": "잘못된 URL: URL을 확인하고 다시 시도하세요.",
+    "restoreDefault": "기본값 복원",
+    "recommend4all": "(모두에게 권장)",
+    "sidebarProvider": "사이드바는 ChatGPT Premium API를 사용하여 안정적인 액세스를 보장합니다.",
+    "sidebarProviderGoPremium": "모든 사람이 AI에 접근할 수 있도록 매일{{num}}개의 무료 크레딧을 제공합니다. <a>프리미엄으로 업그레이드</a>하여 일일 크레딧 한도를 늘리고 <b>모두를 위한 보편적 AI 제공</b>이라는 우리의 목표를 지원하세요.",
+    "webappGPT4": "(ChatGPT Plus 사용자는 사용해 볼 수 있습니다)",
+    "webappTip1": "ChatGPT Plus 사용자라면 이제 GPT-4를 선택할 수 있습니다. 그러나 OpenAI는 하루에 보낼 수 있는 메시지 수를 제한할 수 있습니다.",
+    "webappTip2": "<m>ChatGPT 탭을 고정</m>하고 ChatGPT 웹사이트에 로그인된 상태를 유지하세요. 그러나 이것은 안정성을 보장하지 않을 수 있습니다. 문제가 발생하면 <v>ChatGPT 웹사이트</v>를 방문하여 페이지를 새로 고치십시오.",
+    "GPT4Desc": "웹사이트에서 ChatGPT 계정에 로그인 상태를 유지해야 합니다. OpenAI의 제한으로 인해 Plus 사용자와 무료 사용자 모두 안정성이 일관되지 않을 수 있습니다.",
+    "apiKeyProviderTip": "(API 키를 보유한 개발자용)",
+    "apiKeyProvider": "공식 OpenAI API는 더 안정적이며 사용량에 따라 요금이 부과됩니다.",
+    "apiKeyLocally": "귀하의 API 키는 브라우저에 로컬로 저장되며 다른 곳으로 전송되지 않습니다.",
+    "ownURL": "내 URL 사용",
+    "customModelName": "사용자 정의 모델 이름 사용",
+    "apiKeyTip1": "무료 OpenAI API 키가 만료되었을 수 있습니다. <a>여기에서 API 키 만료 상태를 확인</a>하세요.",
+    "apiKeyTip2": "무료 OpenAI API 키를 사용하는 경우 수요가 많을 때 ChatGPT에 대한 액세스가 안정적이지 않을 수 있습니다.",
+    "apiFreeGuide": "가이드를 따라 API 키를 받으세요.",
+    "apiKeyGpt4Tip": "확장 프로그램은 GPT-4 API 키를 입력하면 GPT-4를 지원합니다.",
+    "displaySearchRes": "검색 결과 페이지와 함께 ChatGPT 응답 표시",
+    "whenToAsk": "ChatGPT를 요청할 때",
+    "promptTplForSearch": "Google 및 기타 검색 엔진용 프롬프트 템플릿",
+    "addNewTplForSearch": "새 프롬프트 템플릿 추가",
+    "launchSidebar": "사이드바 열기",
+    "sidebarLocation": "사이드바 위치",
+    "showSelectedTextTitle": "입력 상자에 선택한 텍스트 자동 표시",
+    "showSelectedTextDesc": "선택한 텍스트를 입력 상자에 인용문으로 자동 표시하여 프롬프트와 함께 빠른 작업을 할 수 있습니다",
+    "sendingMsgBehavior": "채팅에서 메시지 전송 후 동작",
+    "showSelectedTextTip": "앞으로 선택한 텍스트가 자동으로 표시되는 것을 선호하지 않는 경우, <a>사이드바 설정</a>에서 끌 수 있습니다.",
+    "sidepanelLocation": "사이드바 위치",
+    "sidebarLeftOrRight": "사이드바를 왼쪽 또는 오른쪽에 배치",
+    "linkToSetting": "브라우저 설정에서 사이드바 위치 변경",
+    "sidepanelLeftOrRight": "사이드 패널을 왼쪽 또는 오른쪽에 배치하세요. 사이드 패널은 Google Chrome 114 이상에서만 사용할 수 있습니다.",
+    "sidebarDisplayOption": "사이드바 표시 모드",
+    "sidebarDisplayOptionTip": "사이드바가 페이지에 표시되는 방식 선택",
+    "sidebarDisplayOptions": {
+      "overlay": "씌우다",
+      "expand": "확장"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "응답 끝까지 자동 스크롤",
+      "messageTop": "응답이 상단에 도달하면 스크롤 일시 중지"
+    },
+    "sidebarOnStartup": "사이드바를 열 때",
+    "sidebarOnStartupTip": "사이드바를 열 때 채팅 인터페이스의 표시 모드를 구성합니다",
+    "sidebarOnStartupOptions": {
+      "new": "항상 새로운 채팅 시작",
+      "last": "항상 마지막 채팅 재개",
+      "auto": "자동 재개 또는 재시작"
+    },
+    "sidebarOnStartupAutoTip": "10분 이내에 다시 열면 채팅이 재개되고, 10분 후에 열면 새로운 채팅이 시작됩니다",
+    "sidebarIcon": "사이드바 아이콘",
+    "sidebarIconAccess": "페이지 오른쪽 하단 모서리에 있는 아이콘을 통해 사이드바에 액세스합니다. 드래그하여 위아래로 이동할 수 있습니다.",
+    "easiestWayUse": "{{APP_NAME}}을(를) 사용하는 가장 쉬운 방법",
+    "displayWhenSelect": "텍스트 선택 시 표시",
+    "addNewTplForSidebar": "새 프롬프트 템플릿 추가",
+    "editSearchTplTip": "{{keywords}}를 사용하여 검색 키워드 참조",
+    "editSearchTplPlaceholder": "프롬프트 내용의{{keywords}}가 자동으로 검색 키워드로 대체됩니다",
+    "editSidebarTplTip": "여기에 콘텐츠를 붙여넣거나 입력하세요.",
+    "quickAction": {
+      "mainSwitchTitle": "{{name}}표시",
+      "mainSwitchDesc": "켜져 있으면, 텍스트 선택 시 빠른 작업 메뉴가 나타납니다",
+      "displayOnSelect": "텍스트가 선택되었을 때",
+      "displayOnShortcut": "텍스트가 선택되고{{key}}가 눌렸을 때",
+      "displayOnSelectGuide": "더 깔끔한 뷰를 선호하나요? <a>설정</a>에서 당신의 선택에 따른 단축키로 컨텍스트 메뉴를 활성화하세요.",
+      "closeTips": "선택한 텍스트에 대한 빠른 작업. 필요하지 않으면{{icon}}을 클릭하여 비활성화하세요.",
+      "customPromptMenu": "{{name}}에 대한 프롬프트 관리",
+      "useageScene": "사용 시나리오",
+      "useageSceneRW": "어디서든 텍스트를 선택할 때{{name}}표시",
+      "useageSceneR": "웹페이지에서 텍스트 선택 시{{name}}표시",
+      "useageSceneW": "입력 상자에서 텍스트 선택 시{{name}}표시"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "YouTube 어시스턴트",
+        "SummaryDesc": "<b>비디오 요약</b>: 활성화되면,{{APP_NAME}}가 YouTube 비디오를 요약하는 데 도움을 줄 수 있습니다",
+        "BilingualDesc": "<b>이중 언어 자막</b>: 활성화되면,{{APP_NAME}}가 YouTube 비디오를 시청하는 동안 자동으로 표시됩니다"
+      },
+      "qa": {
+        "title": "Q&A 어시스턴트",
+        "desc": "사용하도록 설정하면 {{APP_NAME}}에서 Quora, StackOverflow 및 기타 QA 사이트의 질문에 답변할 수 있습니다."
+      },
+      "code": {
+        "title": "코드 어시스턴트",
+        "desc": "{{APP_NAME}}을(를) 켜면, 웹페이지의 코드를 설명하는 데 도움을 줄 수 있습니다."
+      },
+      "image": {
+        "title": "이미지 도우미",
+        "desc": "활성화되면, 이미지 위로 마우스를 올리는 것만으로 AI 이미지 도구에 빠르게 접근할 수 있습니다"
+      },
+      "linkPreview": {
+        "autoSummarize": "자동 요약",
+        "collapse": "접기",
+        "guideTipDesc": "링크를 드래그하여 나가지 않고 미리보기. 필요하지 않으면 <link>설정</link>에서 비활성화하세요.",
+        "guideTipTitle": "효율적으로 링크 미리보기",
+        "openInNewTab": "새 탭에서 열기",
+        "pageLoadFailed": "페이지 로드 실패",
+        "summarizeNotSupported": "이 페이지는 요약을 지원하지 않습니다.",
+        "viewSummary": "요약 보기"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "새 프롬프트",
+      "editPrompt": "프롬프트 편집",
+      "checkPrompt": "프롬프트 확인",
+      "showInList": "목록에 표시",
+      "hideFromList": "목록에서 숨기기",
+      "noPrompts": "여기에 프롬프트가 없습니다",
+      "promptTabChatDesc": "'목록에 표시'의 프롬프트는{{name}}기능에 나타납니다.",
+      "promptTabReadDesc": "'목록에 표시'의 프롬프트는 페이지 텍스트의{{name}}에 나타납니다.",
+      "promptTabWriteDesc": "'목록에 표시'의 프롬프트는 입력 상자의{{name}}에 나타납니다.",
+      "deletePromptWarn": "이 프롬프트를 삭제하시겠습니까?",
+      "howToWritePrompt": "프롬프트 작성 방법",
+      "howToVarTitle": "프롬프트에는 어떤 변수가 포함될 수 있나요?",
+      "howToVar1": "이 변수를 사용하여 입력 또는 선택한 콘텐츠를 나타낼 수 있습니다. 프롬프트에 이 변수가 포함되어 있지 않으면 입력 또는 선택한 내용이 삼중따옴표로 묶이고 프롬프트 맨 끝에 배치됩니다.",
+      "howToVar2": "이 변수를 사용하면 설정에 설정된 기본 언어에 따라 출력에 사용하려는 언어를 나타낼 수 있습니다.",
+      "howToExample": "제목, 장, 하위 섹션을 포함하는 개요를 생성하려면 다음 주제나 키워드를 사용하십시오.\nMarkdown 형식으로 출력합니다. 나에게 출력만 제공하고 다른 것은 제공하지 마십시오. 개요는 {{lang}} 언어로 작성되어야 합니다.\n주제 또는 키워드: {{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "문제 보고서",
+        "title": {
+          "label": "문제 요약",
+          "tip": "몇 마디로 무엇이 잘못되었는지 알려주세요."
+        },
+        "detail": {
+          "label": "문제 세부 정보",
+          "tip": "무엇이 잘못되었는지, 취한 조치 및 받은 오류 메시지를 자세히 설명하십시오."
+        }
+      },
+      "fr": {
+        "name": "기능 요청",
+        "title": {
+          "label": "제목",
+          "tip": "무엇에 대한 요청입니까?"
+        },
+        "detail": {
+          "label": "설명",
+          "tip": "원하는 새 기능에 대한 자세한 설명을 제공하십시오."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "새 프롬프트로 저장",
+    "replacePrompt": "프롬프트 바꾸기",
+    "inputPlaceholder1": "입력 프롬프트 또는 메뉴에서 선택",
+    "inputPlaceholder2": "여기에 콘텐츠를 붙여넣거나 입력하세요.",
+    "startNewLine": "새 줄을 시작하려면 {{shortcut}}를 누르세요.",
+    "inputPlaceholderCodes": "여기에 코드를 붙여넣거나 입력하세요.",
+    "inputPlaceholderQA": "여기에 질문을 붙여넣거나 입력하세요.",
+    "pressToSubmit": "제출하려면 {{key}}를 누르세요.",
+    "stopGenerating": "생성 중지",
+    "regenerate": "응답 재생성",
+    "askTabLabel": "묻다",
+    "chatTabLabel": "채팅",
+    "moreTabLabel": "더보기",
+    "composeTabLabel": "쓰다",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "번역하다",
+    "grammarTabLabel": "문법",
+    "searchTabLabel": "검색",
+    "toolsTabLabel": "도구",
+    "freePlan": "무료 플랜",
+    "premiumPlan": "프리미엄 플랜",
+    "extraQuota": "추가 할당량",
+    "submitOption": "제출 옵션",
+    "painterLabel": "화가",
+    "downloadLabel": "데스크톱/모바일 앱 다운로드",
+    "deleteAllConfirmTitle": "모두 삭제"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}}는 시나리오에 따라 최적의 응답을 위해 GPT-4o mini, Claude 3 Haiku, Gemini 1.5 Flash 또는 Llama 3을 동적으로 선택합니다.",
+    "gpt-3.5": "매우 빠르고 대부분의 일상 작업에 적합합니다.",
+    "gpt-4": "가장 유능한 모델로, 고급 추론이 필요한 복잡한 작업에 가장 적합합니다.",
+    "gpt-4o": "OpenAI의 최고의 모델로, 복잡한 작업을 품질을 유지하면서 처리하는 데 적합합니다.",
+    "gpt-4o-mini": "OpenAI의 최신 모델로, 일상적인 사용을 위한 채팅, 코딩 및 추론 작업에서 빠르고 우수한 성능을 제공합니다.",
+    "gpt-5": "OpenAI의 최신 모델로, 복잡한 작업을 수행하면서도 품질을 유지하는 데 최적입니다.",
+    "claude-instant": "Anthropic, 낮은 대기 시간, 높은 처리량 사용 사례의 기본 모델입니다.",
+    "claude2": "복잡한 추론이 필요한 작업에 대한 뛰어난 성능을 제공하는 Anthropic의 동급 최고 제공 모델입니다.",
+    "claude-3-haiku": "Anthropic의 가장 작고 빠른 모델로, 거의 즉각적인 응답과 인간의 상호작용을 모방하는 원활한 AI 경험을 제공합니다",
+    "claude-3-sonnet": "Anthropic의 지능과 속도 사이에서 가장 균형 잡힌 모델로, 다양한 작업에 이상적입니다.",
+    "claude-3.5-sonnet": "Anthropic의 최신 모델로, Claude 3 Opus보다 두 배 빠르고 더 높은 지능을 제공하여 추론, 지식, 코딩 및 시각 작업을 크게 향상시킵니다.",
+    "claude-3-opus": "Anthropic의 가장 강력한 모델로, 매우 복잡한 작업에서 최첨단 성능을 제공하며 유창함과 인간과 같은 이해력을 보여줍니다.",
+    "bard": "Google의 모델(PaLM 2)은 고급 추론 작업에서 잘 작동합니다.",
+    "gemini-pro": "Google의 가장 균형 잡힌 모델로, 능력과 효율성을 완벽하게 조화시켰습니다.",
+    "gemini-1.5-pro": "다양한 작업에서 일반적인 성능이 가장 우수한 Google의 모델입니다.",
+    "gemini-1.5-flash": "속도와 효율성을 최적화한 Google의 경량 모델입니다.",
+    "llama-3": "복잡한 작업을 수행하면서도 품질을 유지하는 데 최적인 Meta의 최신 모델입니다."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "비용 <m>1 기본 크레딧</m>.",
+    "gpt-3.5-n_one": "비용 <m>{{count}}기본 크레딧</m>.",
+    "gpt-3.5-n_other": "비용 <m>{{count}}기본 크레딧</m>.",
+    "gpt-4": "비용 <m>1 고급 크레딧</m>.",
+    "gpt-4-2": "비용 <m>2 고급 크레딧</m>.",
+    "gpt-4-n_one": "비용 <m>{{count}}고급 크레딧</m>.",
+    "gpt-4-n_other": "비용 <m>{{count}}고급 크레딧</m>."
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "답변 제공",
+    "autoCloseBanner": "비활성 상태 후 자동으로 일시 정지",
+    "autoCloseTips": "검색 도우미는 카드에서 30번 검색 내에 버튼을 클릭하지 않으면 일시 정지됩니다. 버튼을 클릭하여 언제든지 다시 활성화할 수 있습니다.",
+    "signinToAsk": "{{MODEL_NAME}}에 질문하려면 로그인하세요",
+    "newChat": "새 채팅",
+    "chatHistory": "채팅 기록",
+    "writeHistory": "작성 기록",
+    "searchHistory": "검색 기록",
+    "chatControls": "채팅 제어",
+    "inputPlaceholder": "메시지를 입력하세요...",
+    "send": "보내다",
+    "feedback": "피드백",
+    "experimental": "이 기능은 아직 발전 중이며 변경될 수 있으니, 의견을 공유해 주세요.",
+    "share": "공유하다",
+    "replyLanguage": "응답 언어",
+    "capabilities": "기능",
+    "deleteConfirmTitle": "이 대화를 삭제하시겠습니까?",
+    "deleteConfirmContent": "이 작업은 취소할 수 없습니다.",
+    "compareWeb": "웹의 답변 비교",
+    "compareAnsWith": "답변 비교",
+    "smarterAnsWith": "더 똑똑한 답변 받기",
+    "improveWithXXX": "<b>Bot</b>에서 더 스마트한 답변 받기",
+    "improveWithXXX2": "<b>Bot</b>에서 포괄적인 답변을 얻으세요.",
+    "compareWithXXX": "<b>봇</b>에게 질문하기",
+    "improveWithSearch": "Google로부터 웹 답변 받기",
+    "improveWithBoth": "GPT-4로 Google 답변 정리",
+    "answerWithoutSearching": "원래 <b>봇</b>에게 물어보기",
+    "screenshot": "스크린샷",
+    "upload": "업로드",
+    "uploadFile": "파일 업로드",
+    "siderUploadFile": "PDF, DOC, XLSX, CSV, JPG, JSON 및 기타 형식의 파일을 업로드하세요. 한 번에 최대 6개의 파일, 파일당 최대 100MB까지 가능합니다.",
+    "addImage": "이미지 추가",
+    "uploadTip": {
+      "formatTitle": "지원:",
+      "limitTitle": "제한:",
+      "format": "웹페이지, PDF, DOC, XLSX, CSV, JPG, JSON, MP3, WAV, M4A, MPGA 등",
+      "limit": "최대 6개의 파일, 각 파일당 100MB"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "스마트폰에 관한 셰익스피어 스타일의 소네트를 작성하세요."
+      },
+      {
+        "title": "",
+        "ques": "아이들을 위한 창의적인 할로윈 의상 10가지를 제안하세요."
+      },
+      {
+        "title": "",
+        "ques": "개인 금융 학습을 위한 초보자 로드맵을 개요로 작성하세요."
+      },
+      {
+        "title": "",
+        "ques": "10살짜리 아이에게 왜 하늘이 파란지 설명하세요."
+      }
+    ],
+    "textSelectedTip": "선택한 텍스트",
+    "ocrTextTip": "{{name}} 결과",
+    "translateTip": "결과 번역",
+    "textSelectedSystemMsg": "텍스트로 무엇을 하시겠습니까?",
+    "welcomeSystemMsg": "안녕하세요! 오늘 무엇을 도와드릴까요?",
+    "welcomeMsg": "오늘 어떻게 도와드릴까요?",
+    "chatActionTranslate": "{{lang}}로 번역",
+    "search": "찾다",
+    "continueInChat": "채팅 계속하기",
+    "chatWithVideo": "비디오와 채팅",
+    "userStopTip": "사용자가 요청을 취소했습니다.",
+    "noChatHistory": "아직 기록이 없습니다.",
+    "noSearchHistory": "결과를 찾을 수 없습니다",
+    "webAccessModalTitle": "{{APP_NAME}}을 사용하면 ChatGPT-3.5와 GPT-4를 모두 사용하여 웹에 액세스할 수 있습니다!",
+    "webAccessModalContent": "ChatGPT의 데이터는 실시간이 아닙니다. {{APP_NAME}}은 ChatGPT의 지능과 실시간 웹 정보를 결합하여 GPT가 실시간 정보 관련 질문을 보다 효과적으로 처리할 수 있도록 합니다. 이 기능을 얻으려면 업그레이드하세요. 오래된 정보에 대해 더 이상 걱정하지 마세요!",
+    "readDoc": "문서 읽기",
+    "readDocFail": "문서 읽기 실패"
+  },
+  "sidebarComposePanel": {
+    "compose": "구성하다",
+    "reply": "회신하다",
+    "write": "작성",
+    "writePlaceholder": "작성할 주제를 입력하세요",
+    "replyPlaceholder1": "답장할 원문을 입력하세요",
+    "replyPlaceholder2": "응답의 일반적인 아이디어를 설명하세요",
+    "submitShortcut": "초안을 생성하려면 {{shortcut}}를 누르세요.",
+    "generate": "초안 생성",
+    "format": "체재",
+    "email": "이메일",
+    "idea": "아이디어",
+    "outline": "개요",
+    "essay": "수필",
+    "paragraph": "절",
+    "blog": "블로그 게시물",
+    "ads": "마케팅 광고",
+    "twitter": "트위터",
+    "comment": "논평",
+    "message": "메시지",
+    "tone": "음정",
+    "basic": "기본",
+    "style": "스타일",
+    "professional": "전문적인",
+    "formal": "공식적인",
+    "casual": "평상복",
+    "enthusiastic": "열렬한",
+    "informational": "정보 제공",
+    "funny": "재미있는",
+    "length": "길이",
+    "short": "짧은",
+    "medium": "중간",
+    "long": "긴",
+    "regenerate": "재생하다",
+    "addToSite": "사이트에 추가",
+    "addToSiteTip": "원하는 입력란에 마우스 커서를 놓고 '{{name}}'을 클릭하여 삽입합니다.",
+    "insertToSite": "결과를 웹페이지 입력 상자에 삽입",
+    "history": "기록",
+    "formatExists": "형식이 이미 존재합니다",
+    "AIWriter": "AI 작가",
+    "continueOptimizeTips": "AI와 함께 계속해서 개선하고 발전시키세요",
+    "alsoWriteTips": "Al과 나란히 글쓰기"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "수용하다",
+    "checkFailed": "확인 실패",
+    "checkNoError": "오류 없음",
+    "checking": "확인 중",
+    "fixError": "모두 수정 ({{errorCount}})",
+    "ignore": "무시하다",
+    "improve": "개선",
+    "inputPlaceholder": "영어만 지원됩니다. 확인하려면 텍스트를 붙여넣거나 입력하세요.",
+    "reasonForChanges": "변경 이유"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "자동 감지",
+    "placeholde": "여기에 텍스트를 입력하거나 붙여넣기...",
+    "errWrongTargetLang": "출처 언어와 대상 언어가 동일합니다. 선택을 확인하세요.",
+    "errTooManyChar": "{{num}}/{{total}}: 입력이 문자 제한을 초과했습니다.",
+    "upgradeForLongChar": "지금 업그레이드하여 더 긴 입력 ({{num}}문자)을 잠금 해제하세요.",
+    "extraTransTips": "다음도 번역할 수 있습니다:",
+    "currentPage": "현재 페이지",
+    "customization": {
+      "defaultPreferences": "기본 설정",
+      "title": "번역 설정",
+      "Length": "길이",
+      "LengthOpt": {
+        "Brief": "짧은",
+        "Concise": "간결한",
+        "Standard": "기준",
+        "Expanded": "퍼지는"
+      },
+      "Tone": "음정",
+      "ToneOpt": {
+        "Casual": "평상복",
+        "Neutral": "중립적",
+        "Formal": "공식적인",
+        "Authoritative": "권위 있는",
+        "Empathetic": "감정적 인"
+      },
+      "Style": "스타일",
+      "StyleOpt": {
+        "Literal": "오자",
+        "DynamicEquivalence": "동적 동등성",
+        "CreativeAdaptation": "창의적 적응"
+      },
+      "Complexity": "복잡도",
+      "ComplexityOpt": {
+        "Layman": "일반인",
+        "Standard": "기준",
+        "Expert": "전문가"
+      }
+    },
+    "inputTranslateAdText": "웹 페이지의 입력 상자에서 텍스트를 즉시 번역하세요!",
+    "inputTranslateAdBtn": "지금 설정하세요",
+    "seeDict": "사전 보기"
+  },
+  "sidebarSearchPanel": {
+    "history": "기록",
+    "searchProgress": {
+      "searching": "검색 중",
+      "analyzing": "분석 중",
+      "organizing": "정리 중",
+      "generatingAnswer": "답변 생성 중",
+      "competed": "완료됨",
+      "searchInWeb": "웹에서 검색",
+      "analyzeSearchResult": "검색 결과 분석",
+      "generateAnswer": "답변 생성",
+      "searchCompleted": "검색 완료",
+      "searchCancelled": "검색 취소됨"
+    },
+    "relatedSearches": "관련 검색",
+    "searchFrom": "검색 출처",
+    "searchHistory": "검색 기록",
+    "answer": "답변",
+    "currentVisit": "현재 방문",
+    "feedback": {
+      "stepAnswer": "답변 생성",
+      "stepSearch": "검색 수행",
+      "stepUnderstand": "질문 이해",
+      "tipTotal": "총{{count}}크레딧"
+    },
+    "stoppedSearch": "이 검색을 중지했습니다.",
+    "newSearch": "새로운 검색",
+    "searching": "검색 중",
+    "searchFromAll": "전체 인터넷에서 검색",
+    "searchAll": "모두에서 검색",
+    "searchRange": "검색 범위",
+    "searchFromSite": "{{domain}}사이트에서 검색",
+    "sources": "소스",
+    "suggestions": "제안",
+    "title": "검색",
+    "viewAll": "모두 보기",
+    "defaultSearchSuggesiton": "파리를 방문하기에 가장 좋은 시기는 언제인가요?",
+    "followUpQuestion": "후속 질문...",
+    "searchPlaceholder": "검색할 정보를 입력하세요"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "AI OCR은 실수를 할 수 있습니다",
+    "dragImgTips": "텍스트를 추출하려면 이미지를 업로드하거나 여기에 드롭하세요",
+    "noText": "인식된 텍스트가 없습니다.",
+    "ocrCost": "각{{name}}은{{num}}기본 크레딧이 필요합니다",
+    "ocrTips": "이미지에서 텍스트, 숫자, 방정식 추출"
+  },
+  "pageTranslation": {
+    "title": "페이지 번역",
+    "demoText": "ChatGPT는 자연어 처리를 위해 설계된 심층 학습 모델인 Transformer에 의해 구동되며, 자기 주의 및 피드포워드 신경망을 특징으로 합니다.",
+    "free": "무료",
+    "aiTranslator2": "AI 번역기",
+    "aiTranslatorFunTitle1": "맥락 이해",
+    "aiTranslatorFunDesc1": "단어 대 단어 번역을 넘어 의도와 어조를 모두 포착합니다",
+    "aiTranslatorFunTitle2": "정확한 번역",
+    "aiTranslatorFunDesc2": "명확하고 정밀하게 번역하여 세부 사항이 누락되지 않도록 합니다",
+    "newAITranslationTip": "AI 페이지 번역이 이제 활성화되었습니다! 설정하려면 여기를 클릭하세요.",
+    "translateService": "번역 서비스",
+    "translateServiceTip": "AI 번역은 콘텐츠 길이에 따라 기본 크레딧이 소모됩니다.",
+    "pageTranslation": "이 페이지를 번역하세요",
+    "showOriginal": "원본 텍스트 보기",
+    "transSettings": "번역 설정",
+    "source": "원본 언어",
+    "target": "대상 언어",
+    "autoDetect": "자동 감지",
+    "displayMode": "디스플레이 모드",
+    "displayModes": [
+      "이중 언어",
+      "번역만"
+    ],
+    "displayStyle": "표시 스타일",
+    "displayStyles": [
+      "없음",
+      "밑줄",
+      "약화"
+    ],
+    "displayStyleDesc": "이중 언어 비교 모드에서만 번역에 사용",
+    "autoTrans": "자동 번역",
+    "autoTrans2": "웹 페이지 자동 번역",
+    "autoTrans2Desc": "꺼져 있을 때는 번역 버튼을 클릭하거나 단축키를 사용하세요",
+    "neverTransSite": "이 사이트는 번역하지 않음",
+    "neverTransSites": "이 사이트들은 번역하지 않음",
+    "transAgain": "다시 번역"
+  },
+  "inputTranslation": {
+    "title": "입력 번역",
+    "mainSwitchTitle": "트리거 키로 입력 텍스트 번역",
+    "mainSwitchDesc": "웹 페이지의 입력 상자에서 텍스트를 번역하고 교체하세요",
+    "triggerKeyTitle": "트리거 키",
+    "triggerKeyDesc": "번역하려면 트리거 키를 3번 빠르게 누르고,{{key}}로 실행 취소",
+    "spaceKey": "스페이스 키",
+    "model": "번역 모델",
+    "neverTransSites": "이 사이트에서는 절대 번역하지 않음"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "생각 모드",
+      "desc": "생각 모드는 다단계 추론을 통해 복잡한 문제를 분석하여 더 포괄적이고 통찰력 있는 응답을 제공하는 Chain of Thought 추론을 활용합니다.",
+      "demos": [
+        {
+          "title": "",
+          "value": "생각해보세요: 9.11과 9.8 중 어느 것이 더 큰가요"
+        },
+        {
+          "title": "",
+          "value": "'여섯 다리의 이론'을 모델링하는 함수를 생각하고 작성하세요. 소셜 네트워크를 그래프로 주어졌을 때, 두 사람 사이의 최단 경로를 찾으세요."
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "아티팩트",
+      "desc": "웹 페이지나 플로우차트와 같은 콘텐츠를 새 창에서 쉽게 만들고 발표하세요. 실시간 상호작용과 집중된 작업 공간으로 생산성을 높이세요.",
+      "demos": [
+        {
+          "title": "가상 실로폰 만들기",
+          "value": "{{ARTIFACT}}내에서 다채로운 키를 가진 HTML 기반의 실로폰을 만듭니다. 타격된 키에 대한 시각적 피드백을 제공하고, 주파수 매개변수를 기반으로 Web Audio API를 사용하여 간단하고 사실적인 소리를 생성합니다. 기본 지침을 포함합니다."
+        },
+        {
+          "title": "음식 먹기 이모지 게임 만들기",
+          "value": "{{ARTIFACT}}내에서 Catch the Candy와 유사한 간단한 HTML 기반 게임을 만듭니다. 플레이어는 화면 하단의 이모지를 조작하여 빠르게 좌우로 움직이며 위에서 떨어지는 음식 아이템(예: 🍓, 🍔, 🍎)을 잡아먹고 폭탄(💣)을 피해야 합니다. 플레이어가 음식 이모지를 잡을 때마다 이모지는 성공을 나타내기 위해 더 과장된 긍정적인 표정(예: 🤩, 😆, 😋)으로 변합니다. 플레이어가 실수로 폭탄을 잡으면 이모지는 먼저 폭발(💥)을 표시한 후 어지러운 표정(😵‍💫)으로 변합니다."
+        },
+        {
+          "title": "스마트폰 출하량 차트 만들기",
+          "value": "다음 표를 기반으로{{ARTIFACT}}내에서 React를 사용하여 아름다운 선 차트를 만듭니다.\n------\n\n지난 10년간 주요 브랜드별 스마트폰 출하량 (단위: 억대)\n\n| 연도 | 삼성 | 애플 | 화웨이 | 샤오미 | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+        }
+      ]
+    },
+    "search": {
+      "name": "웹 접근",
+      "desc": "사전 학습된 데이터 이상의 실시간 통찰력을 얻어 현재 사건, 속보 및 발전하는 주제에 대한 정확하고 시기적절한 응답을 보장합니다.",
+      "demos": [
+        {
+          "title": "",
+          "value": "현재 미국 극장에서 상영 중인 최고 평점 영화는 무엇인가요?"
+        },
+        {
+          "title": "",
+          "value": "오늘 주가가 눈에 띄게 상승한 주식은 무엇인가요?"
+        },
+        {
+          "title": "",
+          "value": "오늘 출시된 가장 주목할 만한 새로운 전자 제품은 무엇인가요?"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "이미지 생성",
+      "desc": "마음속에 있는 것을 간단히 설명하고 고품질 이미지를 즉시 생성하세요. 디자인 기술이 필요하지 않습니다 - 상상력만 있으면 됩니다.",
+      "demos": [
+        {
+          "title": "",
+          "value": "미래형 비행 자동차 디자인을 구상합니다."
+        },
+        {
+          "title": "",
+          "value": "잔디 위에서 뛰고 있는 골든 리트리버를 스케치합니다."
+        },
+        {
+          "title": "",
+          "value": "커피를 편안하게 마시는 노인 여성을 묘사합니다."
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "데이터 분석",
+      "desc": "고급 수학, 통계, 기계 학습 및 데이터 처리에 대한 실시간 Python 코드 실행으로 다양한 형식의 작업을 간소화합니다.",
+      "demos": [
+        {
+          "title": "파일 데이터를 읽고 다양한 지출 예산의 비율을 보여주는 파이 차트를 만드세요.",
+          "value": "파일 데이터를 읽고 다양한 지출 예산의 비율을 보여주는 파이 차트를 만드세요."
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>저희 확장 프로그램이 마음에 드시나요?</b> 저희가 성장할 수 있도록 웹 스토어에서 별 다섯 개를 평가해 주세요.",
+    "newInVersion": "버전{{versionId}}의 새로운 기능",
+    "learnToUse": "사용 방법 알아보기",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, AI 번역기",
+      "4_36_0": "Wisebase로 지식을 수집하세요",
+      "4_35_0": "링크 미리보기: 더 스마트하게 탐색하기",
+      "4_34_0": "Gmail Al 답장, 아티팩트 및 번역 향상",
+      "4_33_0": "O1 및 비디오 요약 업그레이드",
+      "4_32_0": "채팅에서 오디오 파일 지원",
+      "4_31_0": "도구 탐색, 입력 번역, 빠른 복사",
+      "4_30_0": "업데이트된 GPT-4o, 페이지 번역 및 YouTube 자막",
+      "4_29_0": "향상된 채팅 경험",
+      "4_28_0": "Claude 3.5 하이쿠 및 향상된 옵션",
+      "4_27_0": "개선된 컨텍스트 메뉴 및 아티팩트",
+      "4_26_0": "생각 모드 소개 (실험적)",
+      "4_25_0": "더 나은 경험을 위한 새로운 모습",
+      "4_24_0": "Gemini 모델이 더 똑똑하고 빨라졌습니다!",
+      "4_23_0": "OpenAI o1-preview & o1-mini가 이제 사용 가능합니다!",
+      "4_22_0": "악마 대 천사: 당신의 X-성격을 엑스레이",
+      "4_20_0": "번역 기능 업그레이드",
+      "4_19_0": "{{ARTIFACTS}}: 실시간, 인터랙티브 콘텐츠 블록",
+      "4_18_0": "채팅 공유가 이제 활성화되었습니다!",
+      "4_17_0": "YouTube 하이라이트 소개",
+      "4_16_0": "GPT-4o mini 소개",
+      "4_13_0": "AI 소리 내어 읽기 소개: 당신의 개인 오디오 어시스턴트",
+      "4_12_0": "",
+      "4_11_0": "비판적 읽기 능력을 향상시키는 심층 독서기!",
+      "4_10_0": "OpenAI의 GPT-4o가 이제 출시되었습니다!",
+      "4_9_0": "Llama 3 출시! Meta의 최신 오픈 소스 LLM의 다음 세대입니다.",
+      "4_8_0": "Gemini 1.5 Pro - 지금 사용 가능!",
+      "4_7_0": "채팅 내 비디오 요약, 자막 추출, Claude 3 하이쿠! 🚀",
+      "4_6_0": "지금 Claude 3 패밀리를 지원하세요!",
+      "4_5_0": "",
+      "4_4_0": "채팅 및 GPT-4 컨텍스트 메뉴의 모든 도구",
+      "4_3_0": "전체 화면 모드로 최대한의 경험을 누리세요!",
+      "4_2_0": "보다 효율적인 UI 및 사이드바 GPT 액세스",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "Sider가 당신의 공개 X (Twitter) 게시물을 놀리고 자랑할 준비가 되었습니다! 웃음을 위해 참여하세요, 데이터는 저장되지 않습니다. 게임을 시작하고 친구들과 기쁨을 나누세요!"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>: OpenAI-o1의 성능과 일치합니다"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>: 복잡한 추론, 수학 및 코딩 작업에 뛰어납니다"
+          ]
+        },
+        {
+          "features": [
+            "<b>웹 페이지용 AI 번역기</b>: 자연스럽고 정확한 번역을 제공합니다"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>웹 페이지 및 하이라이트 저장</b>: 한 번의 클릭으로 귀중한 웹 콘텐츠를 Wisebase(Al 지식 베이스)에 저장하세요"
+          ]
+        },
+        {
+          "features": [
+            "<b>AI 인박스</b>: AI가 콘텐츠를 자동으로 분류합니다"
+          ]
+        },
+        {
+          "features": [
+            "<b>여러 파일과 채팅</b>: 수집된 파일에서 즉각적인 답변을 얻으세요"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>즉시 미리보기</b>: 링크를 드래그하여 새 탭을 열지 않고 콘텐츠 보기"
+          ]
+        },
+        {
+          "features": [
+            "<b>스마트 요약</b>: 페이지에서 핵심 인사이트를 한눈에 얻기"
+          ]
+        },
+        {
+          "features": [
+            "<b>효율적인 탐색</b>: 클릭 수를 줄이고 방해 요소를 최소화하여 집중 유지"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Gmail의 Al 답장</b>: 더 나은 소통을 위한 번역 지원 및 Al 모델 선택"
+          ]
+        },
+        {
+          "features": [
+            "<b>아티팩트</b>: 쉽게 공유할 수 있도록 이미지로 흐름도 내보내기"
+          ]
+        },
+        {
+          "features": [
+            "<b>번역</b>: 단어와 구의 정확한 번역을 위한 Al 사전"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>: 'o1-preview'보다 빠르고, 복잡한 다단계 작업에서 뛰어난 정확성을 자랑합니다"
+          ]
+        },
+        {
+          "features": [
+            "<b>자막 없는 비디오 요약</b>: 자막이 없는 YouTube 비디오에 대한 전사 및 요약을 제공합니다"
+          ]
+        },
+        {
+          "features": [
+            "<b>웹 콘텐츠 요약</b>: Reddit 및 Twitter와 같은 플랫폼에 대한 개선된 기능"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>오디오에서 텍스트로</b>: MP3, WAV, M4A 또는 MPGA 파일을 업로드하여 기록 생성"
+          ]
+        },
+        {
+          "features": [
+            "<b>보기 및 듣기</b>: 오디오를 들으면서 기록 읽기"
+          ]
+        },
+        {
+          "features": [
+            "<b>간편한 요약</b>: 한 번의 클릭으로 빠른 요약 생성"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>도구 탐색</b>: 네비게이션 바에서 이미지, PDF 및 비디오용 AI 도구에 접근"
+          ]
+        },
+        {
+          "features": [
+            "<b>입력 번역</b>: 입력 텍스트를 번역하려면 세 번 띄어쓰기 (옵션에서 활성화)"
+          ]
+        },
+        {
+          "features": [
+            "<b>빠른 복사</b>: 컨텍스트 메뉴로 즉시 텍스트 복사"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>: 자연스러운 글쓰기 기능 향상 및 파일 처리 개선"
+          ]
+        },
+        {
+          "features": [
+            "<b>번역 전용 표시</b>: 페이지 번역은 이제 번역된 콘텐츠만 보기 지원"
+          ]
+        },
+        {
+          "features": [
+            "<b>더 나은 YouTube 자막</b>: 더 높은 품질의 이중 언어 자막 번역을 즐기세요"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>메시지 편집</b>: 보낸 메시지를 쉽게 편집하고 새로운 답변을 위해 다시 전송"
+          ]
+        },
+        {
+          "features": [
+            "<b>나란히 비교</b>: 여러 모델의 응답을 전체 페이지에서 보기"
+          ]
+        },
+        {
+          "features": [
+            "<b>사용자 지정 프롬프트 아이콘</b>: 사용자 지정 프롬프트에 아이콘을 할당하여 더 명확하게 정리하세요"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 하이쿠</b>: Claude 3 Opus를 능가하는 성능을 제공하며, 코딩, 도구 사용 및 추론에서 뛰어납니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>글꼴 크기 사용자 지정</b>: 이제 메시지 글꼴 크기를 변경할 수 있습니다"
+          ]
+        },
+        {
+          "features": [
+            "<b>간소화된 UI</b>: 손쉬운 개인화를 위한 더 깔끔하고 직관적인 옵션 UI"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>간소화된 UI</b>: 더 깔끔하고 직관적인 인터페이스로 매끄러운 경험 제공"
+          ]
+        },
+        {
+          "features": [
+            "<b>향상된 번역</b>: 문맥적 정확성을 갖춘 관련 단어 의미 제공"
+          ]
+        },
+        {
+          "features": [
+            "<b>아티팩트 게시 및 공유</b>: 링크를 통해 아티팩트를 쉽게 공개적으로 공유"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>Chain of Thought Reasoning</b>: 더 스마트한 문제 해결을 위해 복잡한 작업을 단계별로 분해"
+          ]
+        },
+        {
+          "features": [
+            "<b>더 깊은 통찰력</b>: 어려운 질문에 대한 심도 있는 답변 제공"
+          ]
+        },
+        {
+          "features": [
+            "<b>모든 모델과 호환</b>: 모든 모델에서 원활하게 사용 가능"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>세련된 디자인</b>: 현대적인 시각적 요소와 사용 편의성을 위한 깔끔한 레이아웃"
+          ]
+        },
+        {
+          "features": [
+            "<b>프롬프트 고정</b>: 자주 사용하는 프롬프트를 빠르게 접근할 수 있도록 고정"
+          ]
+        },
+        {
+          "features": [
+            "<b>확장 가능한 테이블</b>: 가독성을 높이기 위해 큰 데이터를 새 창에서 보기"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>: 향상된 수학 및 시각적 기술을 갖춘 슈퍼차지드 추론."
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>: 2배 더 빠르고, 3배 낮은 지연 시간, 시각적 및 코딩 능력 향상."
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>: 과학, 코딩, 수학에서 이전 모델보다 더 복잡한 작업을 처리하고 더 어려운 문제를 해결합니다. 메시지당 15 고급 크레딧이 소모됩니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>: 코딩에 특히 효과적인 더 빠른 모델입니다. 광범위한 지식 없이 집중된 추론에 이상적입니다. 메시지당 3 고급 크레딧이 소모됩니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>참고</b>: 사용 제한이 있습니다."
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>다중 모델 번역</b>: 더 정확한 번역을 위해 여러 모델을 동시에 사용하세요."
+          ]
+        },
+        {
+          "features": [
+            "<b>다양한 번역 다시 쓰기</b>: 다양한 시나리오에 맞게 번역을 다시 작성하세요."
+          ]
+        },
+        {
+          "features": [
+            "<b>이중 언어 자막</b>: YouTube 자막을 두 언어로 동시에 보세요."
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>라이브 미리보기:</b> 실시간으로 AI가 생성한 웹페이지, 문서 및 차트를 미리보고 상호작용하세요."
+          ]
+        },
+        {
+          "features": [
+            "<b>원활한 반복:</b> 채팅을 통해 생성된 아티팩트를 반복하세요."
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>다양한 형식</b>: 채팅을 링크나 이미지로 공유하세요."
+          ]
+        },
+        {
+          "features": [
+            "<b>유연한 선택</b>: 전체 대화나 일부만 선택하여 공유하세요."
+          ]
+        },
+        {
+          "features": [
+            "<b>간편한 제어</b>: 언제든지 공유된 링크를 취소할 수 있습니다."
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>비디오 하이라이트</b>: AI 생성 내레이션이 주요 비디오 포인트를 빠르게 강조하여 시간을 절약해 줍니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>자연스러운 내레이션</b>: 현실적인 AI 음성이 시청 경험을 향상시킵니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>다국어 지원</b>: 언어 장벽을 넘어 비디오를 쉽게 이해할 수 있습니다."
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>더 빠르고 우수한 성능:</b> 일상적인 작업을 더 원활하고 효율적으로 만듭니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>향상된 수학 및 코딩:</b> 기술 작업에서 정확한 성능을 보장합니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>GPT-3.5에서 업그레이드:</b> GPT-4o mini는 GPT-3.5를 대체하여 더 나은 성능을 제공합니다."
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>자연스러운 AI 음성</b>: 여러 언어로 9개의 자연스러운 AI 음성을 즐기세요."
+          ]
+        },
+        {
+          "features": [
+            "<b>어디서나 듣기</b>: 웹페이지의 텍스트를 선택하여 소리 내어 읽어보세요."
+          ]
+        },
+        {
+          "features": [
+            "<b>사이드바 지원</b>: 사이드바 위젯에서 AI 생성 콘텐츠를 쉽게 들을 수 있습니다."
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Sonnet 지원:</b> Anthropic의 최신 모델로, Claude 3 Opus보다 2배 빠르고 더 높은 지능을 갖추어 추론, 지식, 코딩 및 시각 작업을 크게 향상시킵니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Opus의 퇴역:</b> 더 발전된 Claude 3.5 Sonnet으로 대체되었습니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>초대 및 획득:</b> 친구를 초대하여 무료 쿼리를 획득하고 최신 모델을 오늘 체험해 보세요!"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>다중 웹페이지:</b> 여러 웹페이지나 문서를 동시에 읽기"
+          ]
+        },
+        {
+          "features": [
+            "<b>비판적 읽기 도구:</b> 주요 개념 명확화, 가정 식별, 발췌문 강조, 저자에 대한 정보 학습 등"
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}:</b> 특정 작업에 대해 가장 적합한 빠른 모델(GPT-3.5, Claude 3 Haiku, Gemini 1.5 Flash 또는 Llama 3)을 동적으로 선택합니다."
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>속도 향상:</b> GPT-4보다 2배 빠른 응답을 받으세요"
+          ]
+        },
+        {
+          "features": [
+            "<b>향상된 비전:</b> 크게 개선된 이미지 이해"
+          ]
+        },
+        {
+          "features": [
+            "<b>확장된 언어:</b> 더 많은 언어, 더 나은 품질, 그리고 더 빠른 성능"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>새로운 모델:</b> 이제 Llama 3 지원"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>새 모델:</b> 지금 Gemini 1.5 Pro를 지원합니다"
+          ]
+        },
+        {
+          "features": [
+            "<b>새 AI 이미지 도구:</b> 이미지 위에 마우스를 올리면 AI 기능에 접근할 수 있습니다"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "채팅 요약: 채팅 창에서 '이 페이지 읽기'로 YouTube 비디오의 주요 포인트를 얻으세요."
+          ]
+        },
+        {
+          "features": [
+            "간편한 자막 추출: YouTube에서 한 번의 클릭으로 자막을 얻어 깊은 통찰력을 얻으세요."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 하이쿠: 이제 채팅 경험을 풍부하게 만들어 드립니다."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> \"인간과 유사한\" 능력을 갖추고 GPT-4를 이길 수 있다고 주장합니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> 지능과 속도를 균형잡아 정보 검색이나 영업 자동화에 이상적입니다."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>검색 에이전트 위젯:</b> AI 자동화로 미래의 검색을 경험해보세요"
+          ]
+        },
+        {
+          "features": [
+            "<b>웹페이지 번역:</b> 더 독자 친화적인 번역 디스플레이 스타일"
+          ]
+        },
+        {
+          "features": [
+            "<b>새로운 설정:</b> 사이드바를 열 때 마지막 채팅을 자동으로 재개합니다"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>새로운 고급 데이터 분석 도구:</b> 효율적인 데이터 처리 및 복잡한 계산을 위한 코드 인터프리터"
+          ]
+        },
+        {
+          "features": [
+            "<b>새로운 그림 그리기 도구:</b> 채팅에서 즉시 이미지를 생성하세요"
+          ]
+        },
+        {
+          "features": [
+            "<b>향상된 컨텍스트 메뉴:</b> 컨텍스트 메뉴에서 GPT-4를 사용하세요"
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "몰입감 있는 전체 화면으로 빠져들어보세요"
+          ]
+        },
+        {
+          "features": [
+            "전체 화면에서도 모든 사이드바 기능을 즐기세요"
+          ]
+        },
+        {
+          "features": [
+            "최상의 경험을 위해 모드를 자유롭게 전환하세요"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>새로워진 인터페이스:</b> 더 깨끗하고 탐색하기 쉬움"
+          ]
+        },
+        {
+          "features": [
+            "<b>접을 수 있는 탐색 모음:</b> 집중된 채팅 경험을 보장하는 동시에 필수 기능을 쉽게 사용할 수 있는 곳에 유지합니다."
+          ]
+        },
+        {
+          "features": [
+            "<b>사이드바 GPT 액세스:</b> ChatGPT Plus 사용자의 경우 이제 웹 앱 모드의 사이드바에서 GPT에 직접 액세스할 수 있습니다"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "GPT-4V(ision) 미리보기! & Gmail용 AI 답장",
+          "features": [
+            "{{SIDERVISION}}은(는) GPT-4V로 구동됩니다.",
+            "이미지에 대한 이해도 향상",
+            "이메일 의도를 빠르게 파악",
+            "다양한 톤과 페르소나 중에서 선택하세요",
+            "답장 제안을 쉽게 선택하세요."
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "GPT-4 Turbo 및 채팅 웹페이지!",
+          "features": [
+            "GPT-4 터보 및 GPT-3.5 터보 지원",
+            "전체 웹페이지 번역",
+            "사이드바의 채팅 웹 페이지",
+            "사이드바의 채팅 PDF"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "번역 위젯",
+          "features": [
+            "전용 번역 위젯에서 번역을 맞춤설정하세요",
+            "Google, Bing, Baidu 등에서 ChatGPT 답변 개선"
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}}이 더 똑똑해졌습니다",
+          "features": [
+            "{{4+VISION}}",
+            "1-클릭으로 다른 봇으로 동일한 질문에 답변"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "사이더 문법 위젯",
+          "features": [
+            "문법 오류 확인",
+            "문법 오류 수정",
+            "문법을 넘어서 글쓰기를 향상시키세요"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Vision이 포함된 ChatGPT 사이드바",
+          "features": [
+            "이미지에서 텍스트 추출",
+            "이미지에 관해 무엇이든 물어보세요",
+            "{{SIDERVISION}}에 이미지를 보내는 3가지 방법 <div><ol><li>스크린샷 찍기</li><li>채팅 창에 이미지 드래그 앤 드롭</li><li>이미지 업로드 </li> 리></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "이미지에서 텍스트 추출"
+          ]
+        },
+        {
+          "features": [
+            "이미지에서 텍스트 추출"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "GPT-4 크레딧이 5배 더 많은 새로운 가격 플랜",
+          "features": [
+            "좋은 소식입니다! 업데이트된 가격으로 GPT-4 및 Claude 2 크레딧에 더 많이 접근할 수 있습니다.",
+            "이미 프리미엄 사용자인 경우 자동으로 업그레이드됩니다. 또한, 모든 파워 유저를 위한 새로운 '무제한' 플랜도 준비되어 있습니다!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "더 많은 봇!",
+          "features": [
+            "ChatGPT 및 Claude 외에도 Sider는 이제 Bard를 지원합니다!"
+          ]
+        },
+        {
+          "title": "OCR: 이미지에서 텍스트를 추출하여 ChatGPT로 보냅니다.",
+          "features": [
+            "10개 이상의 주요 언어 인식",
+            "영어로 필기 인식",
+            "텍스트에서 <b>수학 방정식</b>을 인식하세요."
+          ]
+        },
+        {
+          "title": "화가 향상",
+          "features": [
+            "전체 배경 바꾸기",
+            "선택한 영역 제거"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>더 많은 챗봇</b>: 이제 Claude-instant, Claude 2를 지원합니다!"
+          ]
+        },
+        {
+          "features": [
+            "<b>그룹 채팅</b>: 여러 챗봇의 답변을 비교해보세요!"
+          ]
+        },
+        {
+          "features": [
+            "<b>멘션</b>: '@'을 사용하여 대화에서 챗봇을 쉽게 언급하고 상호 작용할 수 있습니다!"
+          ]
+        },
+        {
+          "features": [
+            "<b>빠른 프롬프트</b>: '/'를 입력하고 이동하세요!"
+          ]
+        },
+        {
+          "features": [
+            "<b>심플한 디자인</b>: 디자인을 간단하고 탐색하기 쉽게 만듭니다."
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "향상된 프롬프트 관리자",
+          "features": [
+            "컨텍스트 메뉴 읽기",
+            "컨텍스트 메뉴 작성"
+          ]
+        },
+        {
+          "title": "AI 이미지 편집기",
+          "features": [
+            "모든 이미지에서 배경 제거",
+            "모든 이미지에서 텍스트 제거"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "읽기 도우미: AI를 사용하여 웹 페이지를 읽는 동안 빠른 이해",
+        "Writing Assistant: 웹 입력 상자에서 AI로 빠르게 콘텐츠 생성"
+      ],
+      "2_7_0": [
+        "텍스트에서 그림 그리기",
+        "참조 그림에서 그림 그리기"
+      ],
+      "2_6_0": [
+        "Sider는 고정 사이드바를 지원합니다 - 콘텐츠를 겹치지 않고 모든 탭 간에 채팅할 수 있습니다. <br />(Chrome 114 이상에서 사용 가능)"
+      ],
+      "2_5_0": [
+        "유튜브 요약! 1분 안에 YouTube 동영상 1시간 시청",
+        "Quora, StackOverflow 및 Zhihu와 같은 Q&A 사이트에서 인간과 AI가 제공하는 답변을 비교하십시오."
+      ],
+      "2_4_0": [
+        "<b>스마트 웹 액세스</b>: 쿼리에 따라 Al은 웹에 액세스해야 하는지 여부를 결정합니다.",
+        "안정성 향상"
+      ],
+      "2_3_0": [
+        "Plus 사용자를 위한 브라우징 및 플러그인 지원!",
+        "모두를 위한 인터넷 접속이 가능한 ChatGPT!"
+      ],
+      "2_2_0": [
+        "메시지 작성",
+        "회신 이메일, 트윗, 댓글 등"
+      ],
+      "2_1_0": [
+        "빠른 조회 바로가기",
+        "빠른 조회 창 크기 조정",
+        "버그 수정 및 기타 UX 개선"
+      ],
+      "2_0_0": [
+        "모든 사용자를 위한 <b>GPT-4 </b> 지원!",
+        "친구를 초대하고 <b>GPT-4</b> 크레딧을 함께 얻으세요!",
+        "버그 수정 및 기타 UX 개선"
+      ],
+      "1_1_0": [
+        "<b>새 탭</b>의 전체 채팅!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> 함께!",
+        "버그 수정"
+      ],
+      "1_0_13": [
+        "질문 후 채팅 계속하기",
+        "Plus 사용자의 경우 GPT-4와 GPT-3.5 간 전환",
+        "채팅 기록에 쉽게 액세스 및 검색"
+      ],
+      "1_0_12": [
+        "컴퓨터 간에 확장 설정 동기화",
+        "다른 노트북에서 프롬프트에 액세스",
+        "나중에 사용할 수 있도록 채팅 저장",
+        "링크를 통해 채팅 공유"
+      ],
+      "1_0_11": [
+        "사이드바를 열지 않고도 팝업 창을 통해 작업에 빠르게 액세스할 수 있습니다.",
+        "추가 언어에 대한 지원을 추가합니다.",
+        "번역 기능을 사용할 때 사용자의 언어 기본 설정을 유지합니다.",
+        "GitHub 및 기타 플랫폼과 같은 플랫폼에서 바로 가기 충돌을 해결합니다."
+      ],
+      "1_0_10": [
+        "지금 50개 이상의 언어를 지원하세요!"
+      ],
+      "1_0_8": [
+        "플러스 사용자를 위한 GPT-4 지원! 설정 페이지를 확인하세요!"
+      ],
+      "1_0_7": [
+        "마지막으로 사용한 프롬프트 기억",
+        "검색 페이지에서 chatGPT 패널의 위치 최적화",
+        "사이드바 인페이지 아이콘을 왼쪽에 배치하는 옵션 추가",
+        "패키지 크기 최적화",
+        "다크 모드 추가",
+        "API URL 프록시 지원"
+      ],
+      "1_0_6": [
+        "Youtube 페이지의 요약 기능 개선"
+      ],
+      "1_0_5": [
+        "사이드바 아이콘 위치 기억",
+        "단축키 개선",
+        "사이드바에서 직접 프롬프트 템플릿 저장"
+      ],
+      "1_0_4": [
+        "드롭다운 목록에서 프롬프트 항목 재정렬",
+        "사용하지 않을 프롬프트 항목 보관",
+        "50개 이상의 언어로 응답 지원"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter를 눌러 빠른 \"제출\"",
+        "검색 결과 페이지에서 패널을 숨기는 옵션",
+        "사이드바 숨기기 ESC 지원",
+        "지원 요약 긴 기사"
+      ],
+      "1_0_2": [
+        "응답 생성을 중지하는 중지 버튼 추가",
+        "축소 버튼 위치 변경"
+      ],
+      "1_0_1": [
+        "Youtube 페이지의 요약 기능 개선",
+        "복사/붙여넣기 및 인쇄와 관련된 일부 버그 수정"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "강력한 기능을 해제하려면 채팅 도구를 활성화하세요.",
+    "content2": [
+      "세계적인 웹을 원활하게 탐색하세요.",
+      "아이디어를 멋진 시각화물로 변환하세요.",
+      "전문가 분석으로 데이터에 깊이 파고들어보세요."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "제품 찾기에 투표",
+    "sidebar2Banner1": "지금 <b>제품 찾기</b>에서 우리에게 투표하여 입소문을 내십시오.",
+    "sidebar2ModalTitle": "✨ 사이드바 2.0 요약",
+    "sidebar2ModalDesc": "• 채팅 탭\n  • 빠른 쿼리를 위한 빠른 조회\n  • 메시지 동기화를 위한 계정\n  • 채팅 저장 및 공유\n  • 더 많은 언어 지원\n  • GPT-4 지원",
+    "ios1Banner1": "ChitChat - ChatGPT iOS 앱에 투표하세요 🎉",
+    "ios1Banner2": "강타로 일을 시작하자! 😄",
+    "ios1ModalTitle": "✨ ChitChat iOS 앱의 새로운 기능",
+    "ios1ModalDesc": "• ChatGPT 3.5 및 4에서 답변 받기\n• 봇 지원팀이 한 곳에서 지원\n  • PDF를 챗봇으로 전환"
+  },
+  "promotePreset": {
+    "macTitle": "Mac용 {{APP_NAME}}",
+    "macContent": "이제 Mac 사용자도 Sider를 사용할 수 있게 되었음을 알려드리게 되어 기쁩니다! 웹 버전에서 즐겨 사용하는 모든 강력한 기능과 함께 Mac 전용으로 맞춤화된 원활하고 효율적인 경험을 즐겨보세요.",
+    "macContent2": "이제 Mac에서 {{APP_NAME}}을(를) 사용할 수 있습니다!",
+    "macDownload": "지금 다운로드하세요!",
+    "phTitle": "우리의 확장 기능을 사용하는 것이 마음에 드시나요?",
+    "phContent": "<i>Product Hunt</i>에서 업보트로 저희를 지원해 주세요—빠르고 쉽고 저희에게 큰 도움이 됩니다!",
+    "phContent2": "<b>제품 찾기</b>에 투표해주세요",
+    "phVote": "지금 투표하세요!",
+    "phTitle2": "<i>Product Hunt</i>에서 Sider 3.X 버전을 출시했습니다.",
+    "phFeatures1": "<b>ChatGPT 위젯</b>: 쓰기, 이미지에서 텍스트 추출, 문법 확인, 번역 등을 모두 한 곳에서 수행할 수 있습니다.",
+    "phFeatures2": "<b>Sider Vision</b>: GPT-4 Vision을 사용하여 이미지에 대해 채팅하여 AI 대화를 한 단계 끌어올립니다.",
+    "phFeatures3": "<b>그룹 AI 채팅</b>: 하나의 획기적인 그룹 채팅에서 ChatGPT, GPT-4, Claude 및 Bard와 소통하세요.",
+    "phFeatures4": "<b>우리는 모두 귀를 기울입니다</b>: 여러분의 피드백이 Sider를 형성합니다. 여러분의 생각을 공유하세요. 우리는 듣고 있습니다!",
+    "phVote2": "<i>제품 찾기</i>에 투표하세요",
+    "phVoteTips": "<b>오늘의 투표가 핵심입니다</b> - 지금 지원해 주세요!",
+    "halloweenCountdown": "할로윈 특가: <b>{{time}}남음</b>",
+    "halloweenCountdown2": "{{price}}할인: <b>{{time}}남음</b>",
+    "halloweenCardTitle": "할로윈 할인",
+    "halloweenCardDesc": "할로윈 절약 혜택 열기",
+    "halloweenCardTitle2": "할로윈 선물 받기",
+    "halloweenCardDesc2": "{{price}}할인 즐기기",
+    "blackFridayCountdown": "블랙 프라이데이: <b>{{time}}남음</b>",
+    "xmasCountdown": "연말 세일: <b>{{time}}남음</b>"
+  },
+  "timeUnit": {
+    "day": "일",
+    "day_one": "일",
+    "day_other": "일",
+    "hour": "시간",
+    "hour_one": "시간",
+    "hour_other": "시간",
+    "minute": "분",
+    "minute_one": "분",
+    "minute_other": "분",
+    "second": "초",
+    "second_one": "초",
+    "second_other": "초"
+  },
+  "searchTool": {
+    "questionMark": "쿼리 뒤에 물음표를 추가하여 ChatGPT를 트리거합니다.",
+    "fiveStart": "이 확장 프로그램이 마음에 드십니까? {{store}}에서 별점 5점을 주세요.",
+    "loginAndCloudflareCheck": "{{web}}에서 로그인하고 Cloudflare 검사를 통과하세요.",
+    "braveTrouble": "그래도 작동이 안되는? {{url}} 팔로우",
+    "cloudflareCheck": "OpenAI는 때때로 보안 검사를 통과해야 합니다. 이 문제가 계속 발생하면 <i>확장 옵션</i>에서 AI 공급자를 OpenAI API로 변경하세요.",
+    "failedResponse": "ChatGPT에서 응답 로드 실패:",
+    "whenToAskTips": "각 검색은 기본 크레딧 하나를 소모합니다. ChatGPT에게 물어볼 때를 설정하려면 여기를 클릭하세요.",
+    "waitResponse": "ChatGPT 응답을 기다리는 중..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> 5-스타 평가",
+    "AIContentWarning": "AI 생성 콘텐츠는 항상 진본이 아닐 수 있습니다",
+    "activeUsers": "<num>5M+</num> 활성 사용자",
+    "copyIamge": "이미지 복사",
+    "copyLink": "링크 복사",
+    "downloadImage": "이미지 다운로드",
+    "generateImage": "이미지 생성",
+    "generateLink": "링크 생성",
+    "linkCopied": "링크가 복사되었습니다",
+    "linkGenerated": "링크가 생성되었습니다",
+    "qrcodeTip": "{{APP_NAME}}을(를) 받으려면 스캔하세요!",
+    "selectAll": "전체 선택",
+    "shareOn": "공유하기",
+    "slogan": "당신의 AI 비서",
+    "socialMediaImageCopiedTip": "이미지가 복사되어 붙여넣을 준비가 되었습니다."
+  },
+  "sidepanel": {
+    "title": "Sider는 고정 사이드바를 지원합니다.",
+    "tip": "팁: 더 나은 경험을 위해 측면 패널의 너비를 적절하게 조정하십시오.",
+    "benefit1": "새 페이지로 이동해도 Sider 사이드바는 <b>절대 사라지지 않습니다</b>.",
+    "benefit2": "<b>콘텐츠를 겹치지 않고</b> 모든 탭 간에 채팅할 수 있습니다.",
+    "benefit3": "<b>Google 크롬 114 이상</b>에서만 사용 가능"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "비용 1 기본 크레딧 및 1 리더 쿼리",
+    "smartPlayCost": "비용: 빠른 텍스트 쿼리 1개와 리더 쿼리 1개, 음성 읽기는 사용량에 따라 청구됩니다",
+    "smartPlayOnlyCost": "음성 읽기는 사용량에 따라 청구됩니다",
+    "videoSummaryBtn": "비디오 요약",
+    "videoSummaryMakeFullBtn": "전체 요약 만들기",
+    "keyMomentsCollapse": "접기",
+    "keyMomentsClickExpand": "확장을 위해 클릭하세요",
+    "originalSubtitles": "원본 자막",
+    "transcribing": "전사 중",
+    "expandAll": "모두 확장",
+    "loginToAsk": "질문하려면 로그인하세요",
+    "videoSummaryText": "비디오 요약",
+    "summary": "요약",
+    "smartPlay": "비디오 요약",
+    "createShortenVideo": "짧은 동영상 만들기",
+    "smartPlayBtnTips": "하이라이트를 빠르게 파악하고 시간을 절약할 수 있도록 도와주는 짧은 동영상을 시청하세요.",
+    "shortenVideoTips": "이 동영상을 주요 포인트를 담은 간결한 요약 동영상으로 변환하세요!",
+    "smartPlaySwtichVoiceTitle": "크레딧 차감 알림",
+    "smartPlaySwitchVoiceContent": "다른 음성으로 전환하면 전체 비디오 스크립트 길이에 따라 크레딧이 다시 차감됩니다. 비디오는 현재 위치에서 계속 재생됩니다. 계속하시겠습니까?",
+    "smartPlaySwitchVoiceBtn": "예, 음성 전환",
+    "smartPlaySwitchVoiceCancel": "아니요, 취소",
+    "smartPlayReturnToCurrentProgress": "현재 진행 상황으로 돌아가기",
+    "smartPlayPlaybackEnded": "하이라이트 재생 종료",
+    "showHighlights": "하이라이트 보기",
+    "hideHighlights": "하이라이트 숨기기",
+    "previousHighlight": "이전 하이라이트",
+    "nextHighlight": "다음 하이라이트",
+    "showSubtitles": "자막 보기",
+    "hideSubtitles": "자막 숨기기",
+    "fullScreen": "전체 화면",
+    "playbackSpeed": "재생 속도",
+    "subtitle": "자막",
+    "subtitles": "자막",
+    "responseLanguage": "응답 언어",
+    "bilingual": "이중 언어",
+    "subtitleFailed": "자막을 불러오지 못했습니다",
+    "videoTooLang": "요약을 위해서는 비디오의 길이가 10시간 이하여야 합니다.",
+    "displayTranslation": "번역 표시",
+    "noSubtitleTips": "현재 자막이 있는 비디오에 대해서만 요약이 가능합니다.",
+    "shareToComment": "댓글로 공유하기",
+    "generatedBy": "{{name}}에 의해 생성됨",
+    "shownotes": "하이라이트",
+    "freeLimitTips": "무료 평가판을 모두 사용했습니다. 동영상 요약 기능을 계속 사용하려면 지금 업그레이드하세요.",
+    "askQuestionBtn": "답변",
+    "noQuestionTip": "{{APP_NAME}}에서 페이지의 문제를 파악할 수 없습니다.",
+    "targetLanguage": "대상 언어",
+    "whisperCostText": "이 비디오는 외부 자막이 없으며 요약을 위해 필사가 필요합니다. (1 Advanced Credit/10분 이하)"
+  },
+  "quickActions": {
+    "requireSignin": "로그인이 필요합니다",
+    "siginHint": "이 기능에 액세스하려면 로그인하세요.",
+    "askAI": "{{name}}에게 물어보세요",
+    "defaultPlaceholder": "{{APP_NAME}}에 무엇이든 물어보세요",
+    "defaultPlaceholder2": "위 콘텐츠로 {{APP_NAME}}에 문의하세요.",
+    "managePrompts": "프롬프트 관리",
+    "pressToClose": "닫으려면 {{name}}을(를) 누르세요.",
+    "disableOnce": "다음 방문 때까지 숨기기",
+    "disableSite": "이 사이트에서 비활성화",
+    "disableGlobal": "모든 사이트에서 비활성화",
+    "continueImproving": "지속적인 개선",
+    "dictExample": "예시:"
+  },
+  "wisebase": {
+    "inbox": "AI 받은 편지함",
+    "myWisebase": "내{{name}}",
+    "highlight": "하이라이트",
+    "unhighlight": "하이라이트 해제",
+    "HighlightInvalid": "하이라이트가 없습니다",
+    "HighlightInvalidDesc": "이 웹페이지의 변경으로 인해 하이라이트가 더 이상 보이지 않습니다. 여전히 <a>{{name}}</a>에서 접근할 수 있습니다.",
+    "viewInSite": "사이트에서 보기",
+    "addCollection": "{{name}}추가",
+    "savePage": "페이지 저장",
+    "editSavedPage": "저장된 페이지 편집",
+    "failedToSave": "저장 실패",
+    "failedToDelete": "삭제 실패",
+    "pageRemoved": "페이지 삭제됨",
+    "removePage": "페이지를 삭제하시겠습니까?",
+    "removePageDesc": "이 작업은 페이지와 그 하이라이트를 함께 삭제합니다.",
+    "saving": "저장 중",
+    "pageSaved": "페이지가 저장되었습니다",
+    "vistMyWisebase": "{{name}}열기",
+    "errNameExists": "이름이 이미 존재합니다"
+  },
+  "msg": {
+    "searchNotFound": "결과를 찾을 수 없습니다",
+    "iosDownload": "iOS / Android 앱 다운로드",
+    "notSupportFile": "지원되지 않는 파일 형식",
+    "supportedFileFormat": "지원되는 파일 형식은 {{formats}}입니다.",
+    "maxFileSize": "최대 파일 크기는 {{size}}입니다.",
+    "maxSize": "최대 크기:{{num}}",
+    "fetchFailed": "이미지를 가져올 수 없습니다. 수동으로 다운로드하여 업로드할 수 있습니다.",
+    "enterAPIKey": "OpenAI API 키를 입력하세요.",
+    "selectModel": "유효한 모델을 선택하십시오",
+    "changeSaved": "변경사항이 저장됨",
+    "fiveStart": "별점 5개 주세요",
+    "inviteTitle": "초대 및 보상",
+    "inviteEarn": "당신과 친구들을 위해 <mx>{{num}}크레딧</mx>을 얻으세요. <b>더 많이 추천할수록 더 많이 얻습니다</b>.",
+    "inviteStep1": "초대 링크로 친구 추천하기",
+    "inviteStep2": "친구 가입",
+    "inviteStep3": "그들은 확장 및 로그인을 설치합니다. 보상 획득!",
+    "checkInvitation": "초청 기록 확인",
+    "invitedRewardObtained": "보상 획득!",
+    "invitedWelcome": "환영합니다! GPT 크레딧이 계정에 추가되었습니다!",
+    "inviteFriendJoin_one": "{{count}}명의 친구가 참여했습니다",
+    "inviteFriendJoin_other": "{{count}}명의 친구가 참여했습니다",
+    "getMoreGPT4": "더 많은 고급 크레딧 얻기",
+    "ttsChooseVoice": "음성 선택",
+    "ttsChooseVoiceLater": "나중에 변경할 수 있습니다.",
+    "ttsCharacterLimit": "문자 수 한도 도달",
+    "ttsCharacterLimitDesc": "AI 읽어주기는{{count}}자 제한이 있습니다. 더 짧은 텍스트를 선택하거나 무료 음성을 사용하세요.",
+    "ttsCharacterLimitDesc2": "이 메시지는 AI 음성이 읽기에는 너무 깁니다. 대신 무료 음성을 사용할 수 있습니다.",
+    "ttsCreditLimit": "기본 크레딧 부족",
+    "ttsCreditLimitDesc": "이 음성을 사용하기에 기본 크레딧이 부족합니다. 플랜을 업그레이드하거나 무료 음성을 사용하세요.",
+    "ttsChangeVoiceTip": "크레딧 차감 알림",
+    "ttsChangeVoiceTipDesc": "다른 음성으로 전환하면 크레딧이 다시 차감됩니다. 계속 진행하시겠습니까?",
+    "dontRemindAgain": "다시 묻지 않기",
+    "failToPlay": "재생 실패",
+    "onlyOneRequest": "활성 요청 진행 중",
+    "onlyOneRequestDesc": "계정에 활성 요청이 있습니다 - 한 번에 하나의 요청만 가능합니다. 나중에 다시 시도해 주세요.",
+    "basicCreditLimit": "기본 크레딧 소진",
+    "basicCreditLimitDesc": "모든 기본 크레딧을 사용했습니다. 플랜을 업그레이드하거나 친구를 초대하여 더 많은 크레딧을 얻으세요.",
+    "errSiderLoginExpired": "로그인이 만료되었습니다. 다시 로그인해 주세요.",
+    "errSiderAdminKickout": "강제 로그아웃되었습니다. 다시 로그인해 주세요.",
+    "errSiderUserBanned": "귀하의 계정은 감지된 비정상적인 활동(예: 규칙 위반 또는 계정 공유)으로 인해 정지되었습니다. 궁금한 점이 있으시면 계정 정보를 포함하여 care@sider.ai로 이메일을 보내주시기 바랍니다.",
+    "errSiderDeviceLimitLogout": "기기 한도에 도달하여 로그아웃되었습니다. 다시 로그인하면 계정의 가장 오래된 활성 기기가 로그아웃됩니다.",
+    "errSiderApiTrialFeatLimit": "프리미엄 기능의 체험 한도에 도달했습니다. 모든 기능을 잠금 해제하려면 업그레이드하세요.",
+    "errSiderApiLimitDevice": "이용하시려면 로그인해주세요.",
+    "errSiderApiLimitLogin": "오늘 무료 크레딧을 모두 사용했습니다. 더 많은 크레딧을 위해 업그레이드하거나 친구를 초대하거나 내일 크레딧 초기화를 기다리세요.",
+    "errSiderApiLimitPremium": "이번 달의 기본 크레딧이 모두 소진되었습니다. 고급 크레딧으로 전환하거나, 다음 달(구독 날짜)까지 기다리거나, 더 많은 크레딧을 위해 업그레이드하세요.",
+    "errSiderApiLimitPremiumDiscount": "모든 크레딧을 사용했습니다. 지금 업그레이드하여 무제한 크레딧을 <b>$1</b> 할인받으세요.",
+    "errSiderTranslateApiLimitPremium": "이번 달의 기본 크레딧이 모두 소진되었습니다. 다음 달(구독 날짜)까지 기다리거나, 더 많은 크레딧을 위해 업그레이드하세요.",
+    "errSiderApiImageLimit": "모든 기본 크레딧을 사용하셨습니다. 이 기능을 계속 사용하려면 업그레이드하세요.",
+    "errSiderApiSummaryVideoLimit": "모든 크레딧을 사용했습니다. 더 많은 크레딧을 얻으려면 업그레이드하거나 친구를 초대하세요.",
+    "errSiderApiOcrLimit": "모든 기본 크레딧을 사용했습니다. 이 기능에 계속 접근하려면 업그레이드하세요.",
+    "errSiderApiImgLimitPremiumUltra": "기본 크레딧의 최대 한도에 도달했습니다. 계속 사용하려면 다음 초기화를 기다리세요.",
+    "errSiderPremiumRequired": "이 기능은 프리미엄 사용자에게만 제공됩니다. 이 기능을 잠금 해제하려면 지금 업그레이드하세요.",
+    "errSiderHighTrafficError": "트래픽이 많기 때문에 나중에 다시 시도하거나 더 빠른 액세스를 위해 프리미엄 계정으로 업그레이드하십시오.",
+    "errSiderHighTrafficTip": "안정적인 액세스와 개발 지원을 위해 <a>프리미엄 계정으로 업그레이드</a>하는 것을 고려하십시오.",
+    "errSiderDeviceBinded": "이용하시려면 로그인해주세요.",
+    "errSiderApiHighLoad": "OpenAI 서버가 현재 사용 중입니다. 나중에 다시 시도 해주십시오.",
+    "errSiderGPT4HighLoad": "OpenAI 서버가 현재 사용 중입니다. 나중에 다시 시도 해주십시오.",
+    "errSiderOpenaiFault": "Openai 서버가 사용량이 많습니다. OpenAI 중단 중에 {{model}}로 전환하세요.",
+    "errServiceUnavailable": "Openai 서버가 사용 중입니다. 나중에 다시 시도하거나 Sider API로 전환하고 OpenAI 중단 중에 {{model}}을(를) 사용하세요.",
+    "errSiderGPT4LimitDevice": "먼저 <b>로그인</b>하고 <amb>친구를 초대</amb>하거나 <ta>프리미엄으로 업그레이드</ta>하여 더 많은 고급 크레딧을 받으세요.",
+    "errSiderGPT4LimitLogin": "더 많은 고급 크레딧을 잠금 해제하여 더 통찰력 있는 답변을 얻으려면 업그레이드하거나 친구를 초대하세요.",
+    "errSiderGPT4LimitPremium": "이번 달의 고급 크레딧을 모두 사용하셨습니다. 더 높은 월 할당량을 위해 요금제를 업그레이드하거나 즉시 사용 가능한 고급 크레딧 부스터 팩을 구매하세요!",
+    "errSiderGPT4LimitPremiumDiscount": "이번 달 고급 크레딧을 모두 사용했습니다. 지금 업그레이드하여 무제한 크레딧을 <b>$1</b> 할인받거나 다음 달(구독 날짜) 초기화를 기다리세요.",
+    "errSiderDataAnalysisCredit": "이 답변에는 데이터 분석(1 고급 크레딧)이 필요합니다. 고급 크레딧이 부족하니 업그레이드하거나 친구를 초대하세요!",
+    "errSiderNeedLogin": "이용하시려면 로그인해주세요.",
+    "errGeminiPro": "{{GEMINI}}오류, 나중에 다시 시도해주세요.",
+    "errSiderO1Limit1": "OpenAI o1 모델은 수요가 많아 할당량 한도에 도달했습니다. 걱정하지 마세요, 커뮤니티 주도 Q&A 웹사이트에서 OpenAI o1에 대한 질문을 무료로 할 수 있습니다: <a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "더 많은 고급 크레딧이 필요합니다. 오디오 10분(또는 그 이하)마다 1 고급 크레딧이 필요합니다. 업그레이드하거나 친구를 초대하여 더 많은 크레딧을 받으세요!",
+    "goToSignIn": "로그인하러 가기",
+    "errSiderTimeout": "요청 시간이 초과되었습니다. 다시 시도해 주세요.",
+    "errSiderProcessing": "한 번에 하나의 메시지만. 다른 메시지를 보내기 전에 다른 응답이 완료될 때까지 기다리거나 잠시 기다리십시오.",
+    "errTrySiderAPI": "안정적인 액세스를 위해 <i>ChatGPT 사이드바 API</i>로 전환하세요(모든 사용자용).",
+    "errTrySiderAPI2": "또는 <a>설정 페이지</a>에서 자신의 API 키를 사용하세요(개발자용).",
+    "errChatGPTAuth": "ChatGPT 웹페이지에 <m>로그인하려면 해당 링크를 클릭</m>하세요. 그러면 해당 링크를 고정할 수 있도록 도와드리겠습니다. 그런 다음 사이드바에서 사용할 수 있습니다.",
+    "errChatGPTAuthTipTitle": "작동하지 않는 경우:",
+    "errChatGPTFailToFetch": "ChatGPT에서 응답을 받지 못했습니다.",
+    "errOpenaiFailToFetch": "API 키를 통해 OpenAI에서 응답을 받지 못했습니다.",
+    "errSiderCreditUsageLimit": "사용 한도 도달",
+    "errSiderCreditFreqLimit": "현재 사용 한도에 도달했습니다. 이 한도는 모든 사용자의 공정한 사용을 보장합니다.{{count}}분 후에 다시 시도해 주세요.",
+    "errSiderBasicTextLimit": "기본 크레딧의 사용 한도에 도달했습니다. 현재 60분마다{{count}}개의 메시지 제한이 있습니다. 또는 고급 크레딧을 사용하고 나중에 다시 시도하세요.",
+    "errSiderAdvancedTextLimit": "고급 크레딧의 사용 한도에 도달했습니다. 현재 60분마다{{count}}개의 메시지 제한이 있습니다. 또는 기본 크레딧을 사용하고 나중에 다시 시도하세요.",
+    "errSiderUnlimitedLimit": "고급 크레딧 사용에 대한 임시 제한에 도달했습니다 ({{timesToUse}}회 /{{periodTime}}시간). 더 많은 크레딧을 확보하기 위해 노력 중입니다. 새로운 크레딧은{{resetTime}}에 이용 가능합니다. 지금 더 필요하신가요? 부스터 팩을 시도해 보세요!",
+    "errorOutputLimit": "길이 제한에 도달했습니다. 더 긴 답변을 받으려면 업그레이드하세요.",
+    "errorFileType": "지원되지 않는 파일 형식",
+    "error1139_1": "무제한 요금제를 사용해 주셔서 감사합니다! 고급 AI 모델을 계속 사용할 수 있습니다. 그러나, 일시적인 속도 제한에 도달했습니다. <a>속도 제한이 있는 이유와 우리가 어떻게 도와드릴 수 있는지</a>를 확인하세요. 꼭 <mx>읽어보세요</mx>.",
+    "error1139_1_2": "무제한 요금제를 사용해 주셔서 감사합니다! 고급 AI 모델을 계속 사용할 수 있습니다. 그러나, 일시적인 속도 제한에 도달했고 모든 추가 고급 쿼리를 사용했습니다. <a>속도 제한이 있는 이유와 우리가 어떻게 도와드릴 수 있는지</a>를 확인하세요. 꼭 <mx>읽어보세요</mx>.",
+    "error1139_1_3": "무제한 요금제를 사용해 주셔서 감사합니다! 고급 AI 모델을 계속 사용할 수 있습니다. 그러나, 일시적인 속도 제한에 도달했고 모든 선물 고급 쿼리를 사용했습니다. <a>속도 제한이 있는 이유와 우리가 어떻게 도와드릴 수 있는지</a>를 확인하세요. 꼭 <mx>읽어보세요</mx>.",
+    "error1139_2": "현재 작업을 방해하지 않기 위해, 현재 속도 제한을 해제할 수 있도록 몇 가지 추가 고급 쿼리를 선물로 드렸습니다. <b>이 추가 고급 쿼리를 모두 사용한 후에는 속도 제한이 적용됩니다</b>.",
+    "error1139_3": "현재 속도 제한은 고급 쿼리에 대해 ({{timesToUse}}회 /{{periodTime}}시간)입니다. 우리의 용량에 따라 조정될 수 있습니다. 지금 더 필요하신가요? 부스터 팩을 시도해 보세요!",
+    "error1139_4": "현재 속도 제한을 해제할 수 있도록 50개의 추가 고급 쿼리를 선물로 드렸습니다. <b>이 추가 고급 크레딧을 모두 사용한 후에는 속도 제한이 적용됩니다.</b>",
+    "loginAndCloudflareCheck": "<a>Sidebar API</a>로 안정적인 액세스를 얻거나 <i>chat.openai.com</i>에서 로그인하고 Cloudflare 확인을 통과하세요.",
+    "invalidApiKey": "API 키가 유효하지 않습니다. 다른 키를 받으십시오.",
+    "getApiKeyGuide": "작동하려면 OpenAI API 키가 필요합니다. 가이드를 따라 API 키를 받으세요.",
+    "thankForFeedback": "감사합니다. 양식이 성공적으로 제출되었습니다. 곧 연락드리겠습니다.",
+    "writeSomething": "무언가를 써주세요.",
+    "enterEmail": "문제에 대한 업데이트를 받을 이메일 주소를 입력하세요.",
+    "emailRequired": "이메일이 필요합니다.",
+    "promptNameRequired": "프롬프트 이름이 필요합니다.",
+    "titleRequired": "제목이 필요합니다.",
+    "nameYourPrompt": "프롬프트 이름 지정",
+    "nameYourTitle": "대화 이름 지정",
+    "promptTplRequired": "프롬프트 콘텐츠가 필요합니다.",
+    "deletePromptWarn": "이 메시지를 삭제하시겠습니까?",
+    "restorePromptWarn": "이 프롬프트 템플릿을 복원하시겠습니까?",
+    "notValidEmail": "유효한 이메일이 아닙니다",
+    "signinTips": "프롬프트 및 설정을 동기화하려면 로그인하세요",
+    "signinAward": "로그인하여 매일{{num}}<span>무료</span> 크레딧 받기",
+    "signinAward2": "로그인하지 않은 사용자의 크레딧이 모두 사용되었습니다. 로그인하여 <b>매일{{num}}무료 크레딧</b>을 받으세요.",
+    "signinAward3": "로그인하여 매일 더 많은 크레딧 받기",
+    "signinAward4": "브라우저와 함께 마법 같은 AI 여정을 시작하고 매일{{num}}<span>무료</span> 크레딧 받기",
+    "chatgptTabGuardTips": "이 탭을 열어 두세요. 이제 {{APP_NAME}}(으)로 돌아갈 수 있습니다.",
+    "chatgptTabGuardRefreshingTips": "ChatGPT에 문제가 발생했습니다. 다시 연결 중입니다. 잠시만 기다려 주세요...",
+    "chatgptTabGuardRefreshingTips1": "ChatGPT에 문제가 발생했습니다.",
+    "chatgptTabGuardRefreshingTips2": "다시 연결 중입니다. 잠시만 기다려 주세요...",
+    "chatgptTabGuardSetupSuccessTips": "수정 완료, 다시 시도해 주세요",
+    "switchToSiderApiToContinue": "이 기능은 현재 {{APP_NAME}} API 모드만 지원합니다. 계속하려면 <a>{{APP_NAME}} API로 전환</a>하세요.",
+    "switchRequired": "{{APP_NAME}}로 전환하시겠습니까?",
+    "switchToSiderDesc": "이 기능을 사용하려면 AI 접근 방식을{{APP_NAME}}로 전환하세요.",
+    "signInRequired": "로그인이 필요합니다",
+    "useUpUpgrade": "크레딧이 모두 사용되었습니다. 더 많은 크레딧을 얻으려면 업그레이드하세요.",
+    "featureLimit": "기능 제한",
+    "featureLimitTip": "클로드와 바드를 사용하려면 업그레이드하세요.",
+    "featureUnavailableOnPage": "이 페이지에서 실행할 수 없습니다",
+    "featureBrowserLimit": "이 페이지는 브라우저 확장 프로그램을 지원하지 않습니다. 제한된 페이지에는 일반적으로 새 탭, 웹 스토어, 다른 확장 프로그램 및 설정(chrome:// URL)이 포함됩니다. 대신 일반 페이지를 시도해 주세요.",
+    "localFileAccessRequiredTitle": "파일 액세스 필요",
+    "localFileAccessRequiredDesc": "로컬 파일과 함께 확장 프로그램을 사용하려면 확장 프로그램 설정으로 이동하여 \"<b>파일 URL에 대한 액세스 허용</b>\"을 켜십시오.",
+    "localFileAccessRequiredBtn": "확장 프로그램 설정으로 이동",
+    "quotaModelContent": "GPT-4/Claude-2 쿼리 한도에 도달했습니다. 더 많은 접근을 위해 프리미엄 플랜으로 업그레이드하거나 무료 추가 크레딧을 위해 친구를 초대하세요.",
+    "signinFeature": "이 기능에 접근하려면 로그인하세요",
+    "dragImgTips": "클릭하여 업로드하거나 여기에 이미지를 드롭하세요",
+    "dragTips": "클릭하여 업로드하거나 파일을 여기에 놓으세요",
+    "fileSizeTip": "최대 크기: 각 100MB. 최대 5개 파일.",
+    "reEnableInSettings": "<a>설정</a>에서 다시 활성화할 수 있습니다.",
+    "switchBarTip": "측면 패널을 넓혀 탐색 표시줄을 고정합니다.",
+    "upgradeSupport": "우리를 지원하려면 프리미엄 플랜으로 업그레이드하세요",
+    "upgradeSupport2": "더 많은 기능을 위한 업그레이드",
+    "imageSizeLimit": "이미지 제한",
+    "fileSizeLimit": "파일이 너무 큽니다",
+    "imageSizeLimitTip": "이미지 크기가 10MB 미만이고 너비나 높이가 4096픽셀을 초과하지 않는지 확인한 후 다시 시도하세요.",
+    "fileSizeLimitTip": "파일이 100MB 업로드 제한을 초과했습니다. 파일 크기를 줄이고 다시 시도해 주세요.",
+    "errOpenAIFilter": "프롬프트가 OpenAI의 콘텐츠 관리 정책을 트리거하여 응답이 필터링되었습니다. 프롬프트를 수정하고 다시 시도해 주세요.",
+    "unreadableMsg": "이 페이지에서 주요 내용을 찾을 수 없습니다. 다른 페이지를 시도해 보세요.",
+    "unreadableTitle": "주요 콘텐츠가 누락되었습니다.",
+    "noSubtitleMsg": "해당 비디오에는 자막이 없으며 요약할 수 없습니다.",
+    "noSubtitleTitle": "요약을 위한 자막 필요",
+    "fileLimit": "이 파일을 처리하려면 고급 데이터 분석 도구를 활성화하세요. 사용당 1 고급 크레딧이 필요합니다. 활성화하고 계속하시겠습니까?",
+    "fileLimitFree": "업로드된 파일은 고급 데이터 분석 처리가 필요합니다. 이 기능을 사용하려면 업그레이드하세요.",
+    "openLastConversationTitle": "마지막 대화 열기?",
+    "openLastConversationContent": "이제 사이드바가 시작할 때마다 마지막 대화를 복원할지 설정할 수 있습니다.",
+    "openLastConversationCancel": "알겠습니다",
+    "openLastConversationOk": "설정으로 이동",
+    "keepConversationTip": "Sider를 열 때마다 새로운 채팅이 시작됩니다. 마지막 채팅을 계속하려면 <a>설정</a>을 조정하세요.",
+    "uploadFailed": "\"{{FILENAME}}\" 업로드에 실패했습니다.",
+    "askOriginalModel": "원본{{MODELNAME}}",
+    "videoTooLang": "비디오가 너무 깁니다(최대 10시간). 더 짧은 비디오를 선택하세요.",
+    "somethingWrong": "문제가 발생했습니다. 나중에 다시 시도해 주세요.",
+    "cantBeTranscribed": "저작권 제한으로 인해 이 비디오를 요약할 수 없습니다. 다른 비디오를 시도해 주세요.",
+    "notSupportLiveVideo": "라이브 비디오 요약은 현재 지원되지 않습니다."
+  },
+  "options": {
+    "title": "옵션",
+    "shortcut": {
+      "tips": "바로 가기를 입력하세요"
+    },
+    "theme": {
+      "auto": "자동적 인",
+      "light": "밝은 모드",
+      "dark": "다크 모드"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "언제나",
+        "desc": "항상"
+      },
+      "questionMark": {
+        "title": "물음표",
+        "desc": "질문 부호로 끝날 때"
+      },
+      "manually": {
+        "title": "수동으로",
+        "desc": "답변 버튼이 클릭될 때"
+      }
+    },
+    "sidebarLocation": {
+      "left": "왼쪽",
+      "right": "오른쪽"
+    },
+    "sidebarMode": {
+      "sidepanel": "고정 사이드바",
+      "inpage": "인페이지 사이드바"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "탭을 전환 할 때 Sider는 항상 브라우저의 오른쪽에 고정되어 있습니다.",
+      "inpage": "탭을 전환할 때 사이더는 디스플레이에 남아 있지 않습니다. 새 페이지에서 사이드바를 다시 열어야 합니다."
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "설명하다",
+        "template": "다음 내용을 설명하십시오."
+      },
+      "explain-codes": {
+        "title": "코드 설명",
+        "template": "다음 코드를 설명하십시오."
+      },
+      "translate": {
+        "title": "번역하다",
+        "template": "다음 콘텐츠를 {{lang}} 언어로 번역:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "무료 요금제",
+    "basic": "기본 계획",
+    "pro": "프로 플랜",
+    "ultra": "무제한 요금제",
+    "starter": "스타터 플랜"
+  },
+  "shortPlanNames": {
+    "free": "무료",
+    "basic": "기본",
+    "pro": "프로",
+    "ultra": "무제한",
+    "starter": "스타터",
+    "pocket": "포켓"
+  },
+  "queryNames": {
+    "fast": "기본",
+    "advanced": "고급",
+    "image": "영상",
+    "reader": "리더"
+  },
+  "upgradeModal": {
+    "off": "할인!",
+    "desc": "더 많은 크레딧과 더 많은 기능",
+    "upgradeToUseXXX": "<b>봇</b>을 사용하려면 업그레이드하세요.",
+    "getAllTTSVoices": "모든 음성 잠금 해제",
+    "allVoices": "모든 음성",
+    "getAllTTSVoicesDesc": "이 음성은 프리미엄 사용자 전용입니다. 지금 업그레이드하여 모든 음성에 액세스하세요.",
+    "getAllTTSVoicesDesc2": "프리미엄 음성의 체험 한도에 도달했습니다. 지금 업그레이드하여 9개의 자연스러운 AI 음성에 무제한으로 접근하거나 무료 음성을 사용하세요.",
+    "tryAllVoices": "모든 음성을 자유롭게 시도해 보세요",
+    "getWebAccess": "웹 답변을 받으려면 업그레이드하세요.",
+    "videoSummay": "비디오 요약을 사용하려면 업그레이드하세요",
+    "gpt4Desc": "GPT-4o는 훨씬 더 똑똑하며 더 논리적이고 정확한 답변을 얻는 데 도움을 줄 수 있습니다.",
+    "claude3SonnetDesc": "Claude 3 Sonnet은 정교하고 미묘한 소통을 위한 정제된 언어 모델입니다.",
+    "claude35SonnetDesc": "Claude 3.5 Sonnet은 Anthropic의 최신 모델로, Claude 3 Opus보다 두 배 빠르고 더 높은 지능을 제공하여 추론, 지식, 코딩 및 시각 작업을 크게 향상시킵니다.",
+    "claude3OpusDesc": "클로드 3 오퍼스는 복잡한 작업을 놀라운 효율로 해결하는 고급 AI입니다.",
+    "webAccessDesc": "Sider는 Google에서 질문에 대한 답변을 검색하고 간결한 구성 및 요약을 위해 AI를 사용합니다.",
+    "videoSummaryDesc": "무료 사용량 한도에 도달했습니다. 이 기능을 계속 이용하려면 프리미엄 멤버십으로 업그레이드하는 것을 고려해 보세요."
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "한계 너머를 탐험해보세요!",
+      "pro": "할당량 한도에 도달했습니다.",
+      "ultra": "할당량 한도에 도달했습니다."
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "무료 할당량 한도에 도달했습니다. 더 높은 할당량을 위해 업그레이드하고 고급 기능을 잠금 해제하세요.",
+      "pro": "이번 달 할당량 한도에 도달했습니다. 추가 할당량을 위해 업그레이드하세요.",
+      "ultra": "이번 달 할당량 한도에 도달했습니다. 제안 사항이 있으면 <a>care@sider.ai</a>로 문의해 주세요."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "별점 5개로 평가해 주세요",
+    "enjoy": "😘 이 확장 프로그램이 마음에 드시나요?",
+    "enjoyNo": "의견은 안 받아요",
+    "enjoyYes": "네, 5성 평가!",
+    "feedbackTip": "🥹 불만족스러운 이유를 알려주세요.",
+    "feedbackThx": "피드백을 보내주셔서 감사합니다."
+  },
+  "sidepanelPinGuide": {
+    "title": "\"{{icon}}\" 클릭",
+    "desc": "빠른 접근을 위해{{APP_NAME}}을 툴바에 추가하세요"
+  },
+  "emailEnhance": {
+    "emailAssistant": "이메일 도우미",
+    "emailAssistantDesc": "Sider를 켜면 이메일에 빠르게 답장할 수 있습니다.",
+    "hideTranslation": "번역 숨기기",
+    "inputPlaceholder": "답장 방법을 사이더에게 알려주십시오...",
+    "intent": "발신자의 의도",
+    "orgLang": "이메일 언어",
+    "quickAIReply": "AI 답변",
+    "replyInputPlaceholder": "어떤 답장을 보내시겠습니까?",
+    "resultsTitle": "답장 초안",
+    "showTranslation": "번역 보기",
+    "translateEmail": "이메일 번역",
+    "tryAgain": "다시 시도하십시오",
+    "voice": {
+      "applicant": "응모자",
+      "casual": "평상복",
+      "colleague": "동료",
+      "confident": "자신감",
+      "customer-service-staff": "고객 서비스 직원",
+      "direct": "직접",
+      "emailLength": "이메일 길이",
+      "empathetic": "감정적 인",
+      "enthusiastic": "열렬한",
+      "formal": "공식적인",
+      "formality": "형식",
+      "friendly": "친숙한",
+      "human-resources": "인적 자원",
+      "informational": "유익한",
+      "leader": "지도자",
+      "long": "긴",
+      "medium": "중간",
+      "neutral": "중립적",
+      "personable": "~에게",
+      "project-manager": "프로젝트 매니저",
+      "sales-representative": "영업 담당자",
+      "short": "짧은",
+      "subordinate": "부하",
+      "tone": "음정",
+      "witty": "영리한",
+      "yourRole": "너의 역할"
+    },
+    "voiceSettings": "톤 설정",
+    "wayToReply": "답장 아이디어"
+  },
+  "searchEnhance": {
+    "getStarted": "지금 시작하세요",
+    "adContent": "GPT-4보다 똑똑한가요? Claude 3가 여기 있어요! 친구를 초대하고 무료로 시도해보세요!",
+    "noLoginAdContent": "AI 파워 잠금 해제: 검색, 읽기, 쓰기, 번역을 더 빠르고 똑똑하게!",
+    "noLoginBtn": "400만명 이상의 만족 사용자와 함께하세요!"
+  },
+  "imageToolbar": {
+    "AITools": "AI 도구",
+    "chatWithImage": "이미지와 채팅하기",
+    "extractText": "텍스트 추출",
+    "imageTools": "이미지 도구",
+    "inpaint": "브러쉬 처리된 영역 교체",
+    "removeBackground": "배경 제거",
+    "removeText": "텍스트 제거",
+    "replaceBackground": "배경 교체",
+    "upscale": "확대",
+    "variation": "변형 생성"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "더 나은 답변 받기",
+      "더 다양한 지식",
+      "더 강한 이해력"
+    ],
+    "claude3Advantages": [
+      "GPT-4와 동등한 성능",
+      "더 자연스러운 응답",
+      "강력한 추론 능력"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "웹 접근 잠금 해제",
+      "text_to_image": "이미지 생성 잠금 해제",
+      "data_analysis": "데이터 분석 잠금 해제",
+      "artifacts": "{{ARTIFACTS}}잠금 해제",
+      "thinking_mode": "생각 모드 잠금 해제"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "향상된 문제 해결",
+          "desc": "다단계 추론으로 복잡한 문제를 해결하세요!"
+        },
+        {
+          "title": "종합 분석",
+          "desc": "중요한 결정을 위한 심층 통찰력을 즉시 얻습니다."
+        },
+        {
+          "title": "지능형 반복",
+          "desc": "유도된 사고를 통해 솔루션을 손쉽게 개선합니다."
+        }
+      ],
+      "search": [
+        {
+          "title": "업데이트 유지",
+          "desc": "웹에서 최신 정보에 접근하세요."
+        },
+        {
+          "title": "정확도 향상",
+          "desc": "더 정확하고 관련성 높은 응답을 얻으세요."
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "창의력 촉진",
+          "desc": "설명을 고품질로 즉시 전환하세요."
+        },
+        {
+          "title": "콘텐츠 향상",
+          "desc": "맞춤형 시각 자료로 프로젝트를 향상시키세요."
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "인사이트 얻기",
+          "desc": "쉽게 데이터를 분석하고 시각화하여 명확한 결과를 찾으세요."
+        },
+        {
+          "title": "더 스마트하게 코드 작성",
+          "desc": "문제 해결을 위해 코드를 정제하고, 해석하고, 실행하세요."
+        },
+        {
+          "title": "수학에서 뛰어나기",
+          "desc": "복잡한 수학 문제를 쉽고 정확하게 해결하세요."
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "생산성 향상",
+          "desc": "아이디어를 즉시 실체화된 결과물로 변환하세요!"
+        },
+        {
+          "title": "실시간 미리보기",
+          "desc": "AI가 생성한 웹페이지, 문서, 차트를 즉시 시각화하세요."
+        },
+        {
+          "title": "원활한 반복",
+          "desc": "자연스러운 대화를 통해 유물을 손쉽게 다듬으세요."
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "선택한 텍스트와 채팅",
+    "highlightSelection": "선택한 텍스트 하이라이트",
+    "summarizePage": "페이지 요약",
+    "savePage": "페이지를{{name}}에 저장",
+    "revertSavePage": "{{name}}에서 제거",
+    "translatePage": "{{lang}}로 번역",
+    "revertTranslatePage": "원본 텍스트 보기",
+    "imageTools": "{{AI}}이미지 도구",
+    "togglePageTranslation": "페이지 번역 / 원본 텍스트 보기",
+    "openFullPageChat": "전체 페이지 채팅 열기"
+  },
+  "highlightType": {
+    "key-sentences": "핵심 문장",
+    "structural-importance": "구조적 중요성",
+    "comprehensive-coverage": "포괄적 범위",
+    "memorable-quotes": "기억에 남는 인용문"
+  },
+  "freeTrial": {
+    "panelTitle": "3일 무제한 플랜 무료 체험",
+    "panelList": [
+      "GPT-4 및 Claude 3와 자유롭게 채팅",
+      "모든 PDF, 이미지 및 링크와 채팅",
+      "웹페이지 및 YouTube 동영상 요약"
+    ],
+    "panelBtn": "무료 체험 시작",
+    "cancelTip": "언제든지 취소 가능"
+  }
+}

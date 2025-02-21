@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT-sivupalkki: Käytä ChatGPT:tä, GPT-4o:ää, Claude3:a & Geminia edistyneeseen AI-hakuun, lukemiseen ja kirjoittamiseen."
+   },
+   "appDescEdge": {
+      "message": "ChatGPT-sivupalkki: Käytä ChatGPT:tä, GPT-4o:ää, Claude3:a & Geminia edistyneeseen AI-hakuun, lukemiseen ja kirjoittamiseen."
+   },
+   "appName": {
+      "message": "Sider: ChatGPT-sivupalkki + GPT-4o, Claude 3 & Gemini AI"
+   },
+   "appNameEdge": {
+      "message": "Sivupalkki: ChatGPT Sivupalkki"
+   }
+}

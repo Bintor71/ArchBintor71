@@ -1,0 +1,7 @@
+2/14/2025, 3:03:59 PM GMT 0: 
+
+----------------------------------------------
+2/14/2025, 3:04:00 PM GMT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.85"}, modulepath: /home/bintor/.config/discord/0.0.85/modules
+2/14/2025, 3:04:00 PM GMT 2: ✅ webContents.created web1 ""
+2/14/2025, 3:04:00 PM GMT 3: ✅ window.created win1 "discord"
+2/14/2025, 3:04:00 PM GMT 4: ✅ webContents.did-finish-load web1

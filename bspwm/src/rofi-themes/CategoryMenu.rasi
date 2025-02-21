@@ -1,0 +1,28 @@
+configuration {
+    font: "JetBrainsMono NF Bold 10";
+}
+
+window {
+    location: center;
+    width: 30%; /* Ширина окна */
+    border-radius: 8px;
+    background-color: @background;
+}
+
+listview {
+    spacing: 10px;
+    fixed-height: true;
+    lines: 5; /* Количество строк */
+}
+
+element {
+    border-radius: 6px;
+    background-color: @background-alt;
+    text-color: @foreground;
+    padding: 8px;
+}
+
+element selected.normal {
+    background-color: @selected;
+    text-color: @background;
+}

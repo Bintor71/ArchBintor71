@@ -1,0 +1,2571 @@
+{
+  "sidebar": "Sidefelt",
+  "shortcut": "Hurtigtast",
+  "ask": "Spørre",
+  "save": "Lagre det",
+  "saved": "Lagret",
+  "delete": "Slett",
+  "deleteAll": "Slett alt",
+  "remove": "Fjerne",
+  "cancel": "Avbryt",
+  "close": "Lukk",
+  "minimize": "Minimer",
+  "disable": "Deaktiver",
+  "retry": "Prøv igjen",
+  "stop": "Stoppe",
+  "pause": "Pause",
+  "play": "Spill",
+  "replay": "Spill på nytt",
+  "changeSpeed": "Endre hastighet",
+  "ttsDemo": "Eksempel",
+  "icon": "Ikon",
+  "select": "Velg",
+  "change": "Endre",
+  "insert": "Sett inn",
+  "replace": "Erstatte",
+  "ok": "OK",
+  "Loading": "Laster",
+  "thoughtProgress": "Tankeprosess",
+  "submit": "Sende inn",
+  "attention": "Legge merke til",
+  "welcome": "Velkommen",
+  "send": "Sende",
+  "copy": "Kopiere",
+  "auto": "Auto",
+  "unpublish": "Avpubliser",
+  "unpublishArtifact": "Avpubliser Artefakt",
+  "aiResCompare": "Sammenligning av AI-svar",
+  "copied": "Kopiert",
+  "clear": "Klar",
+  "table": "Tabell",
+  "tryDemo": "Prøv en demo",
+  "translate": "Oversett",
+  "rewrite": "Omskriv",
+  "next": "Neste",
+  "prev": "Forrige",
+  "hi": "Hei,",
+  "experimental": "Tidlig tilgang",
+  "experimentalDesc": "Betalende brukere får tidlig tilgang til eksklusive, banebrytende verktøy og eksperimentelle funksjoner som ikke er tilgjengelige for ikke-abonnenter.",
+  "clickToTry": "Klikk for å prøve denne funksjonen",
+  "detected": "Oppdaget",
+  "reset": "Tilbakestill",
+  "upTo6file": "Last opp opptil 6 filer",
+  "quote": "Sitat",
+  "download": "Last ned",
+  "downloadTypeFile": "Last ned {{type}}-fil",
+  "collapse": "Skjul sidefeltet",
+  "done": "Ferdig",
+  "trial": "Prøve",
+  "manage": "Få til",
+  "template": "mal",
+  "edit": "Redigere",
+  "exit": "Avslutt",
+  "add": "Legg til",
+  "feedback": "Tilbakemelding",
+  "fullscreenBookmarkTip": "Klikk på stjerneikonet for å bokmerke fullskjermchat for enkel tilgang neste gang!",
+  "tweetit": "Følg oss på {{X}}",
+  "joinDiscord": "Bli med i vårt Discord-fellesskap",
+  "whatsnewInvite": "Inviter til å prøve gratis",
+  "fullPageChat": "Helsidechat",
+  "whatNew": "Nyheter",
+  "helpCenter": "Hjelpesenter",
+  "learnMore": "Lær mer",
+  "gotIt": "Har det",
+  "you": "Du",
+  "settings": "Innstillinger",
+  "signin": "Logg Inn",
+  "extractingText": "Utdrag av tekst",
+  "extractingTextFailed": "Utdrag av tekst mislyktes",
+  "textExtracted": "Tekst utdratt",
+  "audioExtractedText": "Lyd utdratt tekst",
+  "account": "Konto",
+  "createAccount": "Opprett en konto",
+  "createAccountTip": "Registrer deg for å få <a>{{NUM}} gratis</a> kreditter hver dag",
+  "free": "Gratis",
+  "signinNow": "Logg inn nå",
+  "unlimited": "Ubegrenset",
+  "share": "Dele",
+  "toolMoveTip": "Chat-verktøyet har et nytt hjem! Du kan få tilgang til alle chat-kontrollene her.",
+  "myChats": "Mine chatter",
+  "general": "Generell konfigurasjon",
+  "archive": "arkiv",
+  "unarchive": "avarkiver",
+  "searchPage": "Søkeside",
+  "addons": "Tillegg",
+  "webStore": "Nettbutikk",
+  "webApp": "Web App",
+  "webAccess": "Netttilgang",
+  "upgradeNow": "Oppgrader nå",
+  "unlock": "Lås opp",
+  "allFeatures": "Alle funksjoner",
+  "everyThing": "Alt",
+  "unlockFeatMsg": "Du har nådd grensen for planen din. Oppgrader nå for å låse opp alle funksjoner!",
+  "upgradeUnlock": "Oppgrader for å låse opp nå!",
+  "upgrade": "Oppgradering",
+  "subscribe": "Abonner",
+  "language": "Språk",
+  "theme": "Tema",
+  "sendShortcut": "Send snarvei",
+  "speechVoice": "Tale Stemme",
+  "buyBooster": "Kjøp boosterpakke ",
+  "model": "Modell",
+  "version": "Versjon",
+  "more": "Mer",
+  "clickPreview": "Klikk for å forhåndsvise",
+  "clickView": "Klikk for å se",
+  "sendToChat": "Send til chat",
+  "listen": "Lytte",
+  "openAnswerCompare": "Side-ved-side sammenligning",
+  "skip": "Hopp over",
+  "basic": "Grunnleggende",
+  "advanced": "Avansert",
+  "superAdvanced": "Super avansert",
+  "switchModel": "Bytt modell",
+  "switchVoice": "Bytt stemme",
+  "changeVoice": "Endre en stemme",
+  "vote": "Stemme",
+  "invite": "Invitere",
+  "hide": "Skjul",
+  "show": "Vis",
+  "logout": "Logg ut",
+  "pin": "pin opp",
+  "unpin": "løsne",
+  "showMore": "Vis mer",
+  "editTitle": "Rediger tittel",
+  "summarize": "Oppsummer",
+  "summary": "Sammendrag",
+  "fact-check": "Fakta sjekk",
+  "highlight-excerpts": "Uthev utdrag",
+  "key-concepts": "Klarlegg nøkkelkonsepter",
+  "identify-assumptions": "Identifiser antagelser",
+  "contrast-analysis": "Analyser kontraster",
+  "about-author": "Lær om forfatter",
+  "related-news": "Finn relaterte nyheter",
+  "related-academic-research": "Vis relaterte artikler",
+  "related-videos": "Se relaterte videoer",
+  "keypoints": "Viktige punkter",
+  "quiz": "Quiz",
+  "autoToText": "Auto til tekst",
+  "textFromSelect": "Tekst fra ditt utvalg",
+  "textFromOCR": "Tekst fra OCR",
+  "textFromTranslate": "Tekst fra oversettelse",
+  "textFromWrite": "Tekst fra skriving",
+  "textFromSearch": "Tekst fra søkeagent",
+  "textFromGrammar": "Tekst fra grammatikk",
+  "quoteText": "Sitattekst",
+  "summarizing": "Oppsummering",
+  "summarizeFailed": "Sammendrag mislyktes",
+  "answering": "Svarer",
+  "productivity": "Produktivitet",
+  "generating": "Genererer",
+  "modelUpdateSuccess": "Modellen er oppdatert",
+  "modelUpdateFailed": "Oppdatering av modellen mislyktes",
+  "customPrompt": "Egendefinert ledetekst",
+  "currentTpl": "Gjeldende mal:",
+  "current": "Nåværende",
+  "extra": "ekstra",
+  "generatingTranscript": "Genererer transkripsjon",
+  "transcriptGenerated": "Transkripsjon generert",
+  "transcriptFailed": "Generering av transkripsjon mislyktes",
+  "transcriptReady": "Transkripsjon klar",
+  "audioTranscript": "Lydtranskripsjon",
+  "audio-to-text": "Lyd til tekst",
+  "audio-summarize": "Oppsummer",
+  "audio-meeting-minutes": "Møtereferat",
+  "publishArtifact": "Publiser Artefakt",
+  "uploadLocal": "Last opp fra datamaskinen din",
+  "openTabs": "Velg fra åpne faner",
+  "editTpl": "Rediger denne malen",
+  "delteTpl": "Slett denne malen",
+  "restoreTpl": "Gjenopprett denne malen",
+  "archiveTpl": "Arkiver denne malen",
+  "showTpl": "Vis denne malen",
+  "prompts": "Forslag",
+  "selectPrompt": "Velg spørsmål",
+  "imageRetryTip": "En feil oppstod. Vennligst prøv igjen.",
+  "mentionBot": "Nevn modell",
+  "mentionGPTs": "Mentioner GPT-er",
+  "promptName": "Spørre navn",
+  "promptContent": "Spørre innhold",
+  "PromptManage": "Behandle prompt",
+  "contactUs": "Kontakt oss",
+  "webAssistant": "Nettassistent",
+  "quickAction": "Kontekstmeny",
+  "promptManage": "Spør manager",
+  "morePrompts": "Flere forslag",
+  "addPrompts": "Legg til forslag",
+  "issueType": "Problemtype",
+  "pinExt": "Pinneforlengelse",
+  "yourEmailAddress": "Din epostadresse",
+  "troubleshooting": "Feilsøking",
+  "openSidebar": "Åpne sidefeltet",
+  "pasteSelection": "Lim inn utvalg",
+  "pasteTextPage": "Lim inn tekst fra siden",
+  "getAnotherKey": "Få en annen nøkkel",
+  "showSearchPanel": "Vis søkepanel",
+  "getItNow": "Få det nå",
+  "addTools": "Legg til verktøy",
+  "toolsTitle": "Verktøy",
+  "notNow": "Ikke nå",
+  "alwaysDisplay": "Vis alltid",
+  "credit": "Kreditt",
+  "credits": "Kreditter",
+  "unlimitedCredits": "Ubegrensede kreditter",
+  "total": "Total",
+  "getMore": "få mer",
+  "goPremium": "oppgradere til premium",
+  "goPremiumGetMore": "oppgrader til premium for å få mer",
+  "myAccount": "Min konto",
+  "clickToAsk": "Klikk for å spørre",
+  "searchingFor": "Leter etter:",
+  "searchedFor": "Søkte etter:",
+  "conversationTip": "Denne chatten ble opprettet i {{CHATPROVIDER}}-modus. Bytt modus for å fortsette, eller start en ny chat i gjeldende modus.",
+  "using": "Ved hjelp av",
+  "used": "Brukt",
+  "switchAndContinue": "Bytt modus",
+  "ExtractText": "Ekstraher tekst",
+  "extracted": "Lyd utdratt",
+  "describleImage": "Beskriv",
+  "pricePerDay": "Mindre enn {{num}}/dag",
+  "readingwriting": "Lesing og skriving",
+  "reading": "Lesing",
+  "writing": "Skriving",
+  "compareWith": "Sammenlign med {{NAME}}",
+  "smarterWith": "Få smartere svar fra {{NAME}}",
+  "summarizePage": "Oppsummer denne siden",
+  "searched3": "Søkte på 3 nettsteder",
+  "browseFiles": "Bla gjennom {{NUM}} filer",
+  "browseFiles1": "Bla gjennom 1 fil",
+  "readPage": "Les denne siden",
+  "moreQueries": "Flere kreditter!",
+  "newPlan": "Ny plan",
+  "switchToXXX": "Bytt til {{model}}",
+  "switchToSider": "Bytt til {{APP_NAME}} API",
+  "switch": "Bytt",
+  "settingApiKey": "Angi API-nøkkelen din",
+  "all": "Alle",
+  "dropMsg": "Slipp her for å sende til Sider",
+  "success": "Suksess",
+  "usedIn": "Brukt i",
+  "check": "Kryss av",
+  "example": "Eksempel",
+  "toolsUpgradeTitle": "Oppgrader for å forbedre chatteopplevelsen din!",
+  "ChangeTone": "Endre tone",
+  "screenshot": "Skjermdump",
+  "takeAScreenshot": "Ta et skjermbilde",
+  "back": "Tilbake",
+  "image": "Bilde",
+  "uploadImage": "Last opp et bilde",
+  "hideImage": "Skjul bildet",
+  "chatWithPDF": "Chat med PDF",
+  "recentFiles": "Nylige filer",
+  "orTakeAction": "Eller gjør andre handlinger:",
+  "NoFiles": "Ingen nylige filer i denne chatten",
+  "showImage": "Vis bilde",
+  "fullscreen": "Full skjerm",
+  "moreQuery": "Flere kreditter",
+  "moreFeature": "Flere funksjoner!",
+  "switchToSidepanel": "Bytt til sidepanelet",
+  "deepReadTools": "Verktøy for grundig lesing",
+  "OR": "ELLER",
+  "enable": "Aktiver",
+  "refresh": "Forfriske",
+  "painterOnBoardingTip": "Klikk her for AI-bildeoppretting og redigering",
+  "pdfOnBoardingTip": "Klikk her for ChatPDF",
+  "refreshModel": "Oppdater modeller",
+  "refreshing": "Oppdaterer",
+  "collapseNav": "Kollaps navigasjonsfelt",
+  "expand": "Utvid",
+  "expandNav": "Utvid navigasjonsfelt",
+  "phoneNumber": "Telefonnummer",
+  "recognizing": "Gjenkjenner",
+  "useFreeVoice": "Bruk gratis stemme",
+  "reselect": "Velg på nytt",
+  "earnFree": "Tjen gratis kreditter",
+  "appearance": "Utseende",
+  "result": "Resultat",
+  "sidepanelTip": "Tips til sidepanelet",
+  "continue": "Fortsette",
+  "confirm": "Bekrefte",
+  "describeImage": "Beskriv dette bildet",
+  "inviteFriendTip": "<a>Inviter venner</a> for å få ekstra kreditter",
+  "resetTime": "Tilbakestill <a>3. august 2023</a>",
+  "imageQuoteTipTitle": "Spør bildet igjen? Du må sitere bildet",
+  "imageQuoteTipContent": "For å spørre om bildet igjen, bare siter det.",
+  "ocrEmptyMsg": "Beklager, jeg finner ikke tekst i dette bildet.",
+  "imageInputHint": "Still spørsmål om dette bildet",
+  "selectedTextInputHint": "Still spørsmål om den valgte teksten",
+  "fileInputHint": "Still spørsmål om denne filen",
+  "inviteYourFriends": "Invitere venner",
+  "xmasSale": "Julesalg",
+  "bigSale": "Salg",
+  "bigSaleRest": "Salg",
+  "videoTutorial": "Vis detaljer",
+  "edgePasteBug": "Kan ikke lime inn ved hjelp av hurtigtaster på grunn av en Edge-nettleserfeil. Høyreklikk for å lime inn.",
+  "enable&continue": "Aktiver og fortsett",
+  "readAloud": "Les høyt",
+  "seeMoreHelp": "Se mer i <a>Hjelpesenteret</a>",
+  "translateInto": "Oversett til: {{lang}}",
+  "imageTranslateInto": "Oversett teksten i bildet til {{lang}}",
+  "translateBackInto": "Oversett tilbake til: {{lang}}",
+  "explainSection": "Kan du forklare denne delen for meg i mer detalj?",
+  "betterAnswer": "Få bedre resultater med {{MODEL_NAME}}",
+  "genBy": "Generert av {{MODEL_NAME}}",
+  "explain": "Forklar",
+  "building": "Bygger...",
+  "keyboardShortcuts": "Tastatursnarveier",
+  "console": "Konsoll",
+  "enterText": "Skriv inn tekst",
+  "publish": "Publiser",
+  "publishing": "Publisering",
+  "published": "Publisert",
+  "artifactPublished": "Artefakt Publisert",
+  "artifactPublishTip1": "Når du publiserer denne artefakten, vil vi opprette en offentlig URL slik at alle kan få tilgang til den. Chatten din vil forbli privat, og du kan stoppe delingen når som helst.",
+  "artifactPublishTip2": "Denne artefakten er tilgjengelig for offentligheten. Alle kan få tilgang til den med den delte lenken.",
+  "artifactUnpublishedTip": "Når du avpubliserer, vil andre ikke lenger kunne få tilgang til artefakten gjennom den delte lenken.",
+  "artifactNarrow": "Gjenopprett standard bredde",
+  "artifactWide": "Utvid til full bredde",
+  "artifactRemixContent": "La oss utforske noen variasjoner av denne {{ARTIFACT}}. Kan du foreslå 3 måter å remikse den på og vente på mitt svar?",
+  "faceError": "Møtte på denne feilen i den nyeste {{ARTIFACT}}, vennligst fiks det.",
+  "artifactError": {
+    "title": "Du kan prøve følgende alternativer:",
+    "solution1": "<a>Oppdater forhåndsvisningen</a>",
+    "solution2": "Send feilmeldingen i chatten for hjelp. <a>Send feilmelding</a>"
+  },
+  "artifactsBetaTip": "Nyt Artifacts (Pro) gratis under beta—ikke gå glipp av det!",
+  "tryArtifact": "Prøv {{ARTIFACTS}}",
+  "tryNow": "Prøv eksempler",
+  "errorOccurred": "En feil oppstod",
+  "artifactDemos": [
+    {
+      "title": "Lag et virtuelt xylofon",
+      "value": "Lag et HTML-basert xylofon med fargerike tangenter innenfor en {{ARTIFACT}}. Gi visuell tilbakemelding for tangenter som blir slått, og generer enkle, realistiske lyder ved hjelp av Web Audio API basert på frekvensparametere. Inkluder grunnleggende instruksjoner."
+    },
+    {
+      "title": "Lag et matspisende emoji-spill",
+      "value": "Lag et enkelt HTML-basert spill, likt Catch the Candy, innenfor en {{ARTIFACT}}. Spilleren kontrollerer en emoji nederst på skjermen, som beveger seg raskt til venstre og høyre for å fange og spise matvarer (f.eks. 🍓, 🍔, 🍎) som faller ovenfra, mens de unngår bomber (💣). Hver gang spilleren fanger en mat-emoji, vil deres emoji endre seg til et mer overdrevet positivt uttrykk (f.eks. 🤩, 😆, 😋) for å indikere suksess. Hvis spilleren ved et uhell fanger en bombe, vil emojien først vise en eksplosjon (💥) og deretter endre seg til et svimmel uttrykk (😵‍💫)."
+    },
+    {
+      "title": "Lag et diagram over smarttelefonforsendelser",
+      "value": "Bruk React til å lage et vakkert linjediagram innenfor en {{ARTIFACT}} basert på følgende tabell.\n------\n\nSmarttelefonleveranser fra store merker det siste tiåret (i milliarder)\n\n| År | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "Forhåndsvisning",
+  "dataAnalysisTip": "Dette verktøyet utløses kun når det brukes, og trekker 1 Advanced Credit.",
+  "code": "Kode",
+  "code&preview": "Kode og forhåndsvisning",
+  "tryItNow": "Prøv det nå",
+  "letsTryItNow": "La oss prøve det nå!",
+  "tryArtifactNow": "Prøv {{ARTIFACTS}} nå",
+  "roast": {
+    "analyzing": "Analyserer...",
+    "roastX1": "🔥 Noen har nettopp ertet deg, ta en titt",
+    "roastX2": "Stek denne fyren!",
+    "roast": "😜 Stek",
+    "boast": "🥰 Skryt"
+  },
+  "historyGroups": {
+    "today": "I dag",
+    "thisWeek": "Denne uken",
+    "thisMonth": "Denne måneden",
+    "earlier": "Tidligere"
+  },
+  "quotaInfo": {
+    "mobilePlan": "Mobilabonnement",
+    "resetsDaily": "Tilbakestilles daglig",
+    "resetDate": "Tilbakestillingsdato",
+    "tryForFree": "Prøv gratis",
+    "unlockFeats": "Lås opp alle premiumfunksjoner",
+    "unlockToUse": "Lås opp ubegrenset bruk",
+    "unlockAllFeats": "Lås opp alle funksjoner",
+    "unlockAllFeatsDesc": "Du har nådd prøvegrensen for premium-funksjoner. Oppgrader for å låse opp alle funksjoner.",
+    "unlockAllFeats2": "Lås opp full tilgang",
+    "unlockAllFeatsDesc2": "Få ubegrensede samtaler, nettilgang, dataanalyse, bildegenerering, YouTube-oppsummeringer, fil/lenke-chat, tekstekstraksjon og mer",
+    "enjoyUnlimitedCredits": "Nyt ubegrensede kreditter",
+    "enjoyUnlimitedCreditsDesc": "Få mest mulig ut av GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, og mer.",
+    "webAccess": "Nettilgang",
+    "chatActionTranslate": "Oversett til {{lang}}",
+    "dataAnalysis": "Avansert dataanalyse",
+    "shortVideo": "AI Videoforkorter",
+    "chatPDF": "PDF/Link Chat",
+    "chatFileLink": "Fil/Lenke Chat",
+    "youtubeSummary": "YouTube-sammendrag",
+    "readAloud": "AI Opplesning",
+    "tryReadAloudForFree": "Prøv Les Høyt gratis",
+    "extractText": "AI Tekstekstraksjon",
+    "upgradeFor": "Oppgrader for bare {{price}}/mnd",
+    "off": "{{num}} Rabatt",
+    "allPlans": "Se alle planer",
+    "usedCredits": "{{count}} kreditter brukt",
+    "usedCredits_one": "{{count}} kreditt brukt",
+    "usedCredits_other": "{{count}} kreditter brukt",
+    "premiumTrial": "Prøv premiumfunksjoner gratis",
+    "premiumTrialTip": "Prøven gir deg begrenset tilgang til premiumfunksjoner eksklusive for betalende medlemmer. Vær oppmerksom på at hver bruk fortsatt vil koste kreditter.",
+    "creditRuleTitle": "Regler for kredittfradrag",
+    "creditRuleTip": "Vi trekker kreditter basert på modellen, funksjonene og lengden på konteksten du bruker. For fullstendige detaljer, besøk <a>Hjelpesenteret</a>.",
+    "extraCreditTip": "Dette er ekstra kreditter for engangsbruk.",
+    "dailyCreditTip": "Tilbakestillingsregelen gjelder kun for plankeditter, ikke ekstra kreditter.",
+    "inviteFriends": "<a>Inviter venner</a> for å få flere kreditter",
+    "vipInviteFriends": "Liker du {{APP_NAME}}? <a>Inviter vennene dine!</a>",
+    "pocketPlanTips": "Pocket-kreditter kan kun brukes på mobil. Nyt noen gratis skrivebordskreditter.",
+    "pocketUpgrade": "Oppgrader for å låse opp mer"
+  },
+  "prompt": "Spørsmål",
+  "addPrompt": "Legg til spørsmål",
+  "allSettings": "Alle innstillinger",
+  "getAIAnswer": "Få AI-svar",
+  "login": {
+    "google": "Fortsett med Google",
+    "apple": "Fortsett med Apple",
+    "microsoft": "Fortsett med Microsoft",
+    "phone": "Fortsett med Telefon"
+  },
+  "loginTip": "Har du ikke en konto? <a>Opprett en konto</a>",
+  "signupTip": "Har du allerede en konto? <a>Logg inn</a>",
+  "guideVideoTitle": {
+    "chat": "Chat",
+    "translation": "Oversett",
+    "summary": "Oppsummer",
+    "chatpdf": "ChatPDF",
+    "write": "Skriv",
+    "painter": "Maler",
+    "ocr": "OCR",
+    "grammar": "Grammatikk",
+    "email": "E-post svar"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Multi-bot Chat",
+      "web-access": "Webtilgang",
+      "data-analysis": "Avansert Dataanalyse",
+      "painter": "Bildegenerering",
+      "prompts": "Egendefinerte Forespørsler"
+    },
+    "translation": {
+      "widget": "Valgt Tekst via Sidebar",
+      "selected": "Valgt Tekst via Kontekstmeny",
+      "input": "Inntastet Tekst på Side",
+      "page": "Full Nettside",
+      "in-chat": "Valgt Tekst i Chat",
+      "in-chat2": "Inntastet Tekst i Chat"
+    },
+    "summary": {
+      "youtube": "YouTube Videoer",
+      "doc": "Opplastede Dokumenter",
+      "page": "Nettside via Hurtigmeny",
+      "page2": "Nettside via Chat"
+    },
+    "chatpdf": {
+      "chatpdf": "Chat med PDF"
+    },
+    "write": {
+      "widget": "Komponer på Forespørsel",
+      "context": "Forbedre Valgt Tekst",
+      "input": "Omskriv Inndata"
+    },
+    "painter": {
+      "image": "Generer Bilder",
+      "bg-remove": "Fjern Bakgrunn",
+      "bg-replace": "Erstatt Bakgrunn",
+      "upscale": "Forstørr Bilder",
+      "eraser": "Fjern Penselområde",
+      "text-remove": "Fjern Tekst"
+    },
+    "ocr": {
+      "ocr": "Ekstraher Tekst og Ligninger"
+    },
+    "grammar": {
+      "widget": "Grammatikksjekk via Sidebar",
+      "context": "Grammatikksjekk via Kontekstmeny"
+    },
+    "email": {
+      "reply": "Generer E-postsvar"
+    }
+  },
+  "llmStatus": {
+    "thinking": "Tenker..."
+  },
+  "popupPage": {
+    "thank": "Takk for at du bruker utvidelsen {{APP_NAME}}!",
+    "desc": "Den gjeldende siden er en unik side og sidefeltfunksjonen er ikke tilgjengelig. Du kan imidlertid åpne en hel side for å chatte!",
+    "chatNow": "Chat nå"
+  },
+  "setupPage": {
+    "loginSuccess": "Vellykket innlogging",
+    "welcome": "Velkommen til {{APP_NAME}}!",
+    "startUsing": "Start å bruke {{APP_NAME}}",
+    "explore": "La oss Utforske {{FEATURE_NAME}} Funksjon",
+    "favorites": "Chrome sin mest populære utvidelse",
+    "fiveStarRate": "5-stjerners vurderinger",
+    "activeUser": "Aktive brukere",
+    "userCount": "4M+",
+    "spamMsg": "Dine data vil ikke bli lekket og det vil ikke være noen spam.",
+    "privacy": "Ved å fortsette, godtar du <a>Personvernpolicyen</a> & <b>Brukervilkårene</b>.",
+    "privacyPart1": "Ved å fortsette, godtar du",
+    "privacyPart2": "<a>Personvernpolicyen</a> & <b>Brukervilkårene</b>",
+    "loginWith": "Logg på med {{name}}",
+    "pinTips": "<b>Fest {{APP_NAME}}</b>, enklere tilgang!",
+    "pinClickTip": "Klikk på {{icon}} for å feste {{APP_NAME}}",
+    "pinClickTip2": "Fest {{APP_NAME}} for Rask Tilgang",
+    "pinClickTip3": "Klikk {{icon}} ikonet øverst til høyre",
+    "next": "Neste",
+    "tryOut": "Prøv det",
+    "endTitle": "{{APP_NAME}} er klar til å hjelpe deg!",
+    "endTip": "Du kan nå bla gjennom hvilken som helst nettside eller dykke ned i vårt Hjelpesenter for å lære mer.",
+    "learnMore": "Lær mer om {{APP_NAME}}",
+    "endBottom": "Trenger du assistanse eller har du forslag?",
+    "endBottom2": "Vi setter pris på din tilbakemelding! <a>Gi tilbakemelding</a> for å hjelpe oss med å forbedre din opplevelse."
+  },
+  "getKeyPage": {
+    "welcome": "Velkommen til {{APP_NAME}}! Her er reisen du skal begynne:",
+    "stepTitle": "Hvordan få en API-nøkkel.",
+    "step1": "Trinn 1: Få API-nøkkel",
+    "step1-1": "<i>Logg på OpenAI-kontoen din</i> Hvis du ikke har en konto, registrer deg <b>HER</b>",
+    "step1-2": "Besøk OpenAI API Key-siden",
+    "step1-3": "Opprett en ny hemmelig nøkkel og kopier den som følger",
+    "step2": "Trinn 2: Lim inn API-nøkkel i boksen nedenfor",
+    "step2-tips": "Ikke bekymre deg. API-nøkkelen din brukes kun lokalt i ChatGPT-utvidelsen. Å bruke API er mer stabil enn direkte å bruke ChatGPT.",
+    "step3": "Trinn 3: Sjekk kredittene dine <i>her</i>"
+  },
+  "optionPage": {
+    "openNewChat": "Start en ny chat",
+    "howToAccess": "Hvordan få tilgang til ChatGPT og bruke den hvor som helst",
+    "howToAccessTip": "For å sikre at AI er tilgjengelig for alle, tilbyr vi 3 måter å få tilgang til ChatGPT og bruke det hvor som helst.",
+    "recommended": "Anbefalt",
+    "loginFirst": "Vennligst logg inn først.",
+    "loginFirstTip": "Logg inn for å begynne å bruke Sider og få gratis kreditter hver dag.",
+    "displayMode": "Visningsmodus",
+    "displayLanguage": "Visningsspråk",
+    "fontSizeTitle": "Skriftstørrelse for melding",
+    "fontSizeTip": "Kun for meldingstekst",
+    "fontSizeOptions": {
+      "regular": "Vanlig",
+      "large": "Stor"
+    },
+    "fontSizeAutoTip": "Automatisk justering i henhold til sidepanelbredde",
+    "sidepanelPosition": "Sidepanelposisjon",
+    "sidepanelPositionTip": "For Chrome 114 eller høyere, kan kun endres i nettleserinnstillingene",
+    "providerPartTitle": "AI-tilgang",
+    "serviceProvider": "Tjenesteleverandør",
+    "providerSiderTip": "{{APP_NAME}} gir sømløs, rask og stabil tilgang til topp AI-modeller som OpenAI o1, Claude 3.5, Gemini, Llama og andre—alt gjennom offisielle API-er på en enkelt plattform.",
+    "providerWebappTip": "Opplevelsen kan variere for besøkende og innloggede brukere på grunn av OpenAIs begrensninger.",
+    "providerSiderDesc": "Drevet av offisielle API-er fra ledende modeller, raskt og pålitelig",
+    "providerAPIKeyDesc": "Ideell for de med en API-nøkkel: stabil, bruksbasert prising",
+    "providerWebappDesc": "Kan være ustabil på grunn av endringer i OpenAI-policy",
+    "importantReminders": "Viktige påminnelser",
+    "webappReminder1": "Forbli innlogget på kontoen din.",
+    "webappReminder2": "Denne tjenesten kan være ustabil på grunn av endringer i OpenAI-policy. For rask og stabil ytelse anbefaler vi å bruke {{APP_NAME}}.",
+    "defaultVoice": "Standardstemme",
+    "defaultSpeed": "Standard hastighet",
+    "whenSidebarReopens": "Når sidepanelet åpnes igjen",
+    "scrollingBehavior": "Rulleatferd for lange svar",
+    "autoQuoteSelectedText": "Automatisk siter valgt tekst i inntastingsboksen",
+    "autoQuoteSelectedTextTip": "Når aktivert, vises valgt tekst automatisk i inntastingsboksen for raske handlinger",
+    "siderIcon": "{{APP_NAME}}-ikon",
+    "siderIconDisplay": "Vis alltid {{APP_NAME}}-ikon på siden",
+    "siderIconDisplayTip": "Når aktivert, vises {{APP_NAME}}-ikonet i nedre høyre hjørne og kan dras",
+    "webAsstSearchTitle": "For søk",
+    "webAsstYoutubeTitle": "For YouTube",
+    "webAsstImageTitle": "For bilder",
+    "webAsstEmailTitle": "For e-post",
+    "webAsstCodeTitle": "For kode",
+    "webAsstQATitle": "For Q&A-nettsteder",
+    "webAsstLinkPreviewTitle": "For lenkeforhåndsvisninger",
+    "webAsstAISitesTitle": "Sammenlign modeller på ChatGPT",
+    "webAsstSearchDesc": "Vis AI-svar sammen med søkeresultater",
+    "webAsstVideoSummaryDesc": "Vis oppsummeringspanel på YouTube",
+    "webAsstVideoBilingualDesc": "Vis tospråklig kontroll på YouTube",
+    "webAsstImageDesc": "Vis AI-verktøy ved bildehover",
+    "webAsstEmailDesc": "Vis AI Svar-knapp i Gmail",
+    "webAsstCodeDesc": "Vis Forklar Kode-knapp på kodeblokk",
+    "webAsstQADesc": "Vis Svar-knapp på spørsmål-og-svar-nettsteder",
+    "webAsstAISitesDesc": "Vis \"Sammenlign med\"-knappen på {{url}}",
+    "webAsstInputBoxTitle": "Inntastingsboks",
+    "webAsstInputBoxDesc": "Vis prikkikon i inntastingsboksen for å forbedre skriving",
+    "webAsstLinkPreviewDesc": "Vis forhåndsvisningsvindu for lenke når du drar en lenke.",
+    "webAsstLinkpreviewExampleLink": "Dette er en sikker lenke, prøv å dra den for å se forhåndsvisningsvinduet",
+    "sendMessage": "Send melding",
+    "translatePage": "Oversett side",
+    "activateContextMenu": "Åpne rask forespørsel",
+    "invalidShortcutTip": "Inkluder {{key1}}, {{key2}}, eller {{key3}}",
+    "shortcutInUseTip": "Allerede i bruk, prøv en annen",
+    "disabledSites": "Deaktivert på nettsteder",
+    "addASite": "Legg til et nettsted",
+    "noSiteAdded": "Ingen nettsteder lagt til",
+    "wrongSiteTip": "Ugyldig URL: Sjekk URL-en og prøv igjen.",
+    "restoreDefault": "Gjenopprett standard",
+    "recommend4all": "(Anbefales for alle)",
+    "sidebarProvider": "Sidepanelet bruker ChatGPT Premium API for å sikre stabil tilgang.",
+    "sidebarProviderGoPremium": "Vi tilbyr {{num}} gratis daglige kreditter for å garantere AI-tilgjengelighet for alle. <a>Oppgrader til premium</a> for å øke din daglige kredittgrense og støtte vår misjon om å <b>gi universell AI til alle</b>.",
+    "webappGPT4": "(ChatGPT Plus-brukere kan prøve det)",
+    "webappTip1": "Hvis du er en ChatGPT Plus-bruker, har du nå muligheten til å velge GPT-4. Imidlertid kan OpenAI begrense antall meldinger du kan sende per dag.",
+    "webappTip2": "Vennligst <m>Fest ChatGPT-fanen</m> og forbli pålogget på ChatGPT-nettstedet. Dette kan imidlertid ikke garantere stabilitet. Hvis du støter på problemer, besøk <v>ChatGPT-nettstedet </v>og oppdater siden.",
+    "GPT4Desc": "Du må forbli innlogget på ChatGPT-kontoen din på nettsiden. Stabiliteten kan være inkonsekvent for både Plus-brukere og gratisbrukere på grunn av OpenAI's begrensning.",
+    "apiKeyProviderTip": "(For utviklere med API-nøkkel)",
+    "apiKeyProvider": "Den offisielle OpenAI API er mer stabil og kostnadene er basert på bruk.",
+    "apiKeyLocally": "Din API-nøkkel lagres lokalt i nettleseren din og sendes aldri andre steder.",
+    "ownURL": "Bruk min egen URL",
+    "customModelName": "Bruk tilpasset modellnavn",
+    "apiKeyTip1": "Din gratis OpenAI API-nøkkel kan ha utløpt. Vennligst <a>sjekk API-nøkkelens utløpsstatus her.</a>",
+    "apiKeyTip2": "Hvis du bruker den gratis OpenAI API-nøkkelen, kan det hende at tilgangen til ChatGPT ikke er stabil når den opplever høy etterspørsel.",
+    "apiFreeGuide": "Følg veiledningen for å få API-nøkkelen.",
+    "apiKeyGpt4Tip": "Utvidelsen støtter GPT-4 hvis du skriver inn en GPT-4 API-nøkkel.",
+    "displaySearchRes": "Vis ChatGPT-svar ved siden av søkeresultatsider",
+    "whenToAsk": "Når skal du spørre ChatGPT",
+    "promptTplForSearch": "Spørsmål for Google og andre søkemotorer",
+    "addNewTplForSearch": "Legg til en ny forespørselsmal",
+    "launchSidebar": "Åpne sidepanelet",
+    "sidebarLocation": "Sidefelts plassering",
+    "showSelectedTextTitle": "Automatisk visning av valgt tekst i inntastingsfelt",
+    "showSelectedTextDesc": "Vis automatisk valgt tekst som et sitat i inntastingsfeltet for raske handlinger med ledetekster",
+    "sendingMsgBehavior": "Atferd etter å ha sendt melding i chat",
+    "showSelectedTextTip": "Hvis du foretrekker å ikke ha valgt tekst vist automatisk i fremtiden, kan du slå det av i <a>sidefeltinnstillinger</a>.",
+    "sidepanelLocation": "Sidepanelplassering",
+    "sidebarLeftOrRight": "Plasser sidefeltet på venstre eller høyre side",
+    "linkToSetting": "Endre sidepanelplasseringen i nettleserinnstillingene",
+    "sidepanelLeftOrRight": "Plasser sidepanelet på venstre eller høyre side. Sidepanelet er bare tilgjengelig i Google Chrome 114 eller nyere.",
+    "sidebarDisplayOption": "Visningsmodus for sidefelt",
+    "sidebarDisplayOptionTip": "Velg hvordan sidefeltet skal vises på siden",
+    "sidebarDisplayOptions": {
+      "overlay": "Overlegg",
+      "expand": "Utvider"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "Rull automatisk til slutten av svaret",
+      "messageTop": "Pause rulling når svaret når toppen"
+    },
+    "sidebarOnStartup": "Når du åpner sidepanelet",
+    "sidebarOnStartupTip": "Konfigurer visningsmodus for chattegrensesnittet når du åpner sidepanelet",
+    "sidebarOnStartupOptions": {
+      "new": "Alltid start en ny chat",
+      "last": "Alltid fortsett den siste chatten",
+      "auto": "Automatisk gjenoppta eller start på nytt"
+    },
+    "sidebarOnStartupAutoTip": "Hvis åpnet igjen innen 10 minutter, fortsetter chatten; hvis etter 10 minutter, starter en ny chat",
+    "sidebarIcon": "Sidefeltikon",
+    "sidebarIconAccess": "Få tilgang til sidefeltet via ikonet nederst til høyre på siden. Du kan dra for å flytte den opp og ned",
+    "easiestWayUse": "Den enkleste måten å bruke {{APP_NAME}} på",
+    "displayWhenSelect": "Vises når tekst er valgt",
+    "addNewTplForSidebar": "Legg til ny forespørselsmal",
+    "editSearchTplTip": "bruk {{keywords}} for å henvise til søkeordene dine",
+    "editSearchTplPlaceholder": "{{keywords}} i prompt-innholdet vil automatisk bli erstattet med dine søkeord",
+    "editSidebarTplTip": "Lim inn eller skriv inn innhold her",
+    "quickAction": {
+      "mainSwitchTitle": "Vis {{name}}",
+      "mainSwitchDesc": "Når aktivert, vises en meny med hurtighandlinger ved tekstvalg",
+      "displayOnSelect": "når tekst er valgt",
+      "displayOnShortcut": "når tekst er valgt og {{key}} trykkes",
+      "displayOnSelectGuide": "Foretrekker du en ryddigere visning? Aktiver kontekstmenyen med en hurtigtast etter eget valg i <a>innstillinger</a>.",
+      "closeTips": "Hurtighandlinger for valgt tekst. Klikk på {{icon}} for å deaktivere hvis det ikke er nødvendig.",
+      "customPromptMenu": "Administrer forslag for {{name}}",
+      "useageScene": "Bruksscenario",
+      "useageSceneRW": "Vis {{name}} når du velger tekst hvor som helst",
+      "useageSceneR": "Vis {{name}} når du velger tekst på en nettside",
+      "useageSceneW": "Vis {{name}} når du velger tekst i en inntastingsboks"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "YouTube Assistent",
+        "SummaryDesc": "<b>Videooppsummering</b>: Når aktivert, kan {{APP_NAME}} hjelpe deg med å oppsummere YouTube-videoer",
+        "BilingualDesc": "<b>To-språklige undertekster</b>: Når aktivert, vil {{APP_NAME}} automatisk vise undertekster mens du ser på YouTube-videoer"
+      },
+      "qa": {
+        "title": "Spørsmål og svar-assistent",
+        "desc": "Når slått på, kan {{APP_NAME}} svare på spørsmålet på Quora, StackOverflow og andre QA-nettsteder"
+      },
+      "code": {
+        "title": "Kodeassistent",
+        "desc": "Når den er slått på, kan {{APP_NAME}} hjelpe deg med å forklare koder på nettsiden"
+      },
+      "image": {
+        "title": "Bildeassistent",
+        "desc": "Når aktivert, kan du raskt få tilgang til AI-bildeverktøy ved å holde musepekeren over et hvilket som helst bilde"
+      },
+      "linkPreview": {
+        "autoSummarize": "Auto-sammendrag",
+        "collapse": "Skjul",
+        "guideTipDesc": "Dra en lenke for å forhåndsvise den uten å forlate siden. Deaktiver i <link>innstillinger</link> hvis det ikke er nødvendig.",
+        "guideTipTitle": "Effektiv forhåndsvisning av lenker",
+        "openInNewTab": "Åpne i ny fane",
+        "pageLoadFailed": "Sideinnlasting mislyktes",
+        "summarizeNotSupported": "Denne siden støtter ikke oppsummering.",
+        "viewSummary": "Vis sammendrag"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Ny ledetekst",
+      "editPrompt": "Rediger ledetekst",
+      "checkPrompt": "Sjekk Spør",
+      "showInList": "Vis i liste",
+      "hideFromList": "Skjul fra liste",
+      "noPrompts": "Ingen spørsmål her",
+      "promptTabChatDesc": "Forslag i 'Vis i liste' vises i {{name}}-funksjonen.",
+      "promptTabReadDesc": "Forslag i 'Vis i liste' vises i {{name}} for sidetekst.",
+      "promptTabWriteDesc": "Forslag i 'Vis i liste' vises i {{name}} for inntastingsbokser.",
+      "deletePromptWarn": "Slette denne forespørselen?",
+      "howToWritePrompt": "Hvordan skrive spørsmål",
+      "howToVarTitle": "Hvilke variabler kan inkluderes i ledeteksten?",
+      "howToVar1": "Du kan bruke denne variabelen til å representere input eller valgt innhold. Hvis ledeteksten ikke inkluderer denne variabelen, vil inndata eller valgt innhold omsluttes med tredoble anførselstegn og plasseres helt på slutten av ledeteksten.",
+      "howToVar2": "Du kan bruke denne variabelen til å representere språket du ønsker å bruke for utdata, basert på standardspråket som er angitt i innstillingene.",
+      "howToExample": "Bruk følgende emner eller nøkkelord for å generere en disposisjon som inkluderer titler, kapitler og underavsnitt.\nSend den ut i Markdown-format. Gi meg bare utgangen og ingenting annet. Omrisset skal være på {{lang}} språk.\nEmner eller søkeord: {{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Problemrapport",
+        "title": {
+          "label": "Oppsummering av problem",
+          "tip": "Fortell oss hva som gikk galt med noen få ord."
+        },
+        "detail": {
+          "label": "Problemdetaljer",
+          "tip": "Beskriv i detalj hva som gikk galt, eventuelle handlinger du foretok og feilmeldinger du fikk."
+        }
+      },
+      "fr": {
+        "name": "Funksjonsforespørsel",
+        "title": {
+          "label": "Tittel",
+          "tip": "Hva handler forespørselen din om?"
+        },
+        "detail": {
+          "label": "Beskrivelse",
+          "tip": "Vennligst oppgi en detaljert beskrivelse av den nye funksjonen du ønsker."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "Lagre som en ny melding",
+    "replacePrompt": "Bytt ut ledeteksten",
+    "inputPlaceholder1": "Skriv inn spørsmål eller velg fra menyen",
+    "inputPlaceholder2": "Lim inn eller skriv inn innhold her",
+    "startNewLine": "Trykk på {{shortcut}} for å starte en ny linje",
+    "inputPlaceholderCodes": "Lim inn eller skriv inn koder her",
+    "inputPlaceholderQA": "Lim inn eller skriv inn spørsmål her",
+    "pressToSubmit": "Trykk på {{key}} for å sende",
+    "stopGenerating": "Slutt å generere",
+    "regenerate": "Regenerer respons",
+    "askTabLabel": "Spørre",
+    "chatTabLabel": "Chat",
+    "moreTabLabel": "Mer",
+    "composeTabLabel": "Skrive",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "Oversette",
+    "grammarTabLabel": "Grammatikk",
+    "searchTabLabel": "Søk",
+    "toolsTabLabel": "Verktøy",
+    "freePlan": "Gratis plan",
+    "premiumPlan": "Premium-plan",
+    "extraQuota": "Ekstra kvote",
+    "submitOption": "Send alternativ",
+    "painterLabel": "Maler",
+    "downloadLabel": "Last ned skrivebords-/mobilapp",
+    "deleteAllConfirmTitle": "Slett alt"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}} velger dynamisk GPT-4o mini, Claude 3 Haiku, Gemini 1.5 Flash, eller Llama 3 for optimale svar basert på scenarioet.",
+    "gpt-3.5": "Veldig rask, flott for de fleste dagligdagse gjøremål.",
+    "gpt-4": "Mest dyktig modell, best for komplekse oppgaver som krever avansert resonnement.",
+    "gpt-4o": "OpenAIs beste modell, best for komplekse oppgaver mens den opprettholder kvalitet.",
+    "gpt-4o-mini": "OpenAIs nyeste modell, tilbyr rask, overlegen ytelse i chat, koding og resonnementoppgaver for daglig bruk.",
+    "gpt-5": "OpenAIs nyeste modell, best for komplekse oppgaver samtidig som kvaliteten opprettholdes.",
+    "claude-instant": "Grunnmodellen fra Anthropic, brukstilfeller med lav latens, høy gjennomstrømning.",
+    "claude2": "Klassens beste tilbudsmodell fra Anthropic, overlegen ytelse på oppgaver som krever kompleks resonnement.",
+    "claude-3-haiku": "Anthropics mest kompakte modell, designet for nesten umiddelbar respons og sømløse AI-opplevelser som etterligner menneskelig interaksjon",
+    "claude-3-sonnet": "Anthropics mest balanserte modell mellom intelligens og hastighet, ideell for et bredt spekter av oppgaver.",
+    "claude-3.5-sonnet": "Anthropics nyeste modell, som leverer dobbelt så høy hastighet som Claude 3 Opus og høyere intelligens, og forbedrer betydelig resonnement, kunnskap, koding og visuelle oppgaver.",
+    "claude-3-opus": "Anthropics kraftigste modell, som leverer state-of-the-art ytelse på svært komplekse oppgaver og demonstrerer flyt og menneskelig forståelse.",
+    "bard": "Modellen fra Google (PaLM 2), presterer godt i avanserte resonneringsoppgaver.",
+    "gemini-pro": "Googles mest balanserte modell, perfekt kombinasjon av kapasitet og effektivitet.",
+    "gemini-1.5-pro": "Googles beste modell for generell ytelse over et bredt spekter av oppgaver.",
+    "gemini-1.5-flash": "Googles lette modell, optimalisert for hastighet og effektivitet.",
+    "llama-3": "Metas nyeste modell, best for komplekse oppgaver samtidig som kvaliteten opprettholdes."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Koster <m>1 grunnleggende kreditt</m>.",
+    "gpt-3.5-n_one": "Koster <m>{{count}} grunnleggende kreditt</m>.",
+    "gpt-3.5-n_other": "Koster <m>{{count}} grunnleggende kreditter</m>.",
+    "gpt-4": "Koster <m>1 avansert kreditt</m>.",
+    "gpt-4-2": "Koster <m>2 avanserte kreditter</m>.",
+    "gpt-4-n_one": "Koster <m>{{count}} avansert kreditt</m>.",
+    "gpt-4-n_other": "Koster <m>{{count}} avanserte kreditter</m>."
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "Svar fra",
+    "autoCloseBanner": "Pauser automatisk etter inaktivitet",
+    "autoCloseTips": "Søkeassistenten vil pause hvis du ikke klikker på noen knapper på kortet innen 30 søk. Du kan aktivere den igjen når som helst ved å klikke på knappen.",
+    "signinToAsk": "Logg på for å spørre {{MODEL_NAME}}",
+    "newChat": "Ny chat",
+    "chatHistory": "Chatthistorikk",
+    "writeHistory": "Skrivehistorikk",
+    "searchHistory": "Søkehistorikk",
+    "chatControls": "Chat-kontroller",
+    "inputPlaceholder": "Skriv inn en melding...",
+    "send": "Sende",
+    "feedback": "Tilbakemelding",
+    "experimental": "Denne funksjonen er fortsatt under utvikling og kan endres, så del gjerne dine tanker.",
+    "share": "Dele",
+    "replyLanguage": "Svarspråk",
+    "capabilities": "Muligheter",
+    "deleteConfirmTitle": "Vil du slette denne samtalen?",
+    "deleteConfirmContent": "Denne handlingen kan ikke angres.",
+    "compareWeb": "Sammenlign svar fra nettet",
+    "compareAnsWith": "Sammenlign svar med",
+    "smarterAnsWith": "Få smartere svar fra",
+    "improveWithXXX": "Få smartere svar fra <b>Bot</b>",
+    "improveWithXXX2": "Få omfattende svar fra <b>Bot</b>",
+    "compareWithXXX": "Spør <b>Bot</b>",
+    "improveWithSearch": "Få nettsvar fra Google",
+    "improveWithBoth": "Organiser Google Answers med GPT-4",
+    "answerWithoutSearching": "Spør den opprinnelige <b>roboten</b>",
+    "screenshot": "Skjermdump",
+    "upload": "Laste opp",
+    "uploadFile": "Last opp filer",
+    "siderUploadFile": "Last opp filer i PDF, DOC, XLSX, CSV, JPG, JSON og andre formater, opptil 6 filer om gangen, opptil 100MB per fil.",
+    "addImage": "Legg til et bilde",
+    "uploadTip": {
+      "formatTitle": "Støtte:",
+      "limitTitle": "Begrensning:",
+      "format": "Webside, PDF, DOC, XLSX, CSV, JPG, JSON, MP3, WAV, M4A, MPGA, og mer",
+      "limit": "Opptil 6 filer, 100MB hver"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "Skriv et sonett i Shakespeare-stil om smarttelefoner"
+      },
+      {
+        "title": "",
+        "ques": "Foreslå 10 kreative Halloween-kostymer for barn"
+      },
+      {
+        "title": "",
+        "ques": "Skisser en nybegynners veikart for å lære personlig økonomi"
+      },
+      {
+        "title": "",
+        "ques": "Forklar til et 10 år gammelt barn hvorfor himmelen er blå"
+      }
+    ],
+    "textSelectedTip": "Tekst fra utvalget ditt",
+    "ocrTextTip": "{{name}} Resultat",
+    "translateTip": "Oversett resultat",
+    "textSelectedSystemMsg": "Hva vil du gjøre med teksten?",
+    "welcomeSystemMsg": "Hallo! Hvordan kan jeg hjelpe deg i dag?",
+    "welcomeMsg": "Hvordan kan jeg hjelpe deg i dag?",
+    "chatActionTranslate": "Oversett til {{lang}}",
+    "search": "Søk",
+    "continueInChat": "Fortsett i chatten",
+    "chatWithVideo": "Chat med video",
+    "userStopTip": "Brukeren kansellerte forespørselen.",
+    "noChatHistory": "Ingen historikk ennå.",
+    "noSearchHistory": "Ingen resultater funnet",
+    "webAccessModalTitle": "{{APP_NAME}} gir både ChatGPT-3.5 og GPT-4 tilgang til nettet!",
+    "webAccessModalContent": "Dataene til ChatGPT er ikke sanntid. {{APP_NAME}} kombinerer intelligensen til ChatGPT med nettinformasjon i sanntid, slik at GPT kan håndtere informasjonsrelaterte spørsmål i sanntid mer effektivt. Oppgrader for å få denne funksjonen, og ikke bekymre deg mer om utdatert informasjon!",
+    "readDoc": "Les dokumenter",
+    "readDocFail": "Lesing av dokumenter mislyktes"
+  },
+  "sidebarComposePanel": {
+    "compose": "Skriv",
+    "reply": "Svare",
+    "write": "Skriv",
+    "writePlaceholder": "Skriv inn emnet du vil skrive om",
+    "replyPlaceholder1": "Skriv inn originalteksten du vil svare på",
+    "replyPlaceholder2": "Beskriv hovedideen i svaret ditt",
+    "submitShortcut": "Trykk på {{shortcut}} for å generere utkast",
+    "generate": "Generer utkast",
+    "format": "Format",
+    "email": "E-post",
+    "idea": "Idé",
+    "outline": "Disposisjon",
+    "essay": "Essay",
+    "paragraph": "Avsnitt",
+    "blog": "Blogg innlegg",
+    "ads": "Markedsføringsannonser",
+    "twitter": "Twitter",
+    "comment": "Kommentar",
+    "message": "Beskjed",
+    "tone": "Tone",
+    "basic": "grunnleggende",
+    "style": "Stil",
+    "professional": "Profesjonell",
+    "formal": "Formell",
+    "casual": "Uformelt",
+    "enthusiastic": "Entusiastisk",
+    "informational": "Informasjonsmessig",
+    "funny": "Morsom",
+    "length": "Lengde",
+    "short": "Kort",
+    "medium": "Medium",
+    "long": "Lang",
+    "regenerate": "Regenerer",
+    "addToSite": "Legg til nettstedet",
+    "addToSiteTip": "Plasser musepekeren i ønsket inntastingsboks og klikk '{{name}}' for å sette inn",
+    "insertToSite": "Sett inn resultatet i nettsidens inntastingsboks",
+    "history": "Historikk",
+    "formatExists": "Formatet finnes allerede",
+    "AIWriter": "AI-skribent",
+    "continueOptimizeTips": "Fortsett å forbedre og utvikle side om side med AI",
+    "alsoWriteTips": "Skriver side om side med Al"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "Aksepterer",
+    "checkFailed": "Kontroll mislyktes",
+    "checkNoError": "Ingen feil",
+    "checking": "Sjekker",
+    "fixError": "Fiks alle ({{errorCount}})",
+    "ignore": "Overse",
+    "improve": "Forbedre",
+    "inputPlaceholder": "Kun engelsk støttes. Lim inn eller skriv tekst for å sjekke.",
+    "reasonForChanges": "Årsak til endringene"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Automatisk gjenkjenning",
+    "placeholde": "Skriv eller lim inn tekst her...",
+    "errWrongTargetLang": "Samme kilde- og målspråk. Sjekk valget ditt.",
+    "errTooManyChar": "{{num}}/{{total}}: Inndata overskrider tegnbegrensningen.",
+    "upgradeForLongChar": "Oppgrader nå for å låse opp lengre inndata ({{num}} tegn).",
+    "extraTransTips": "Du kan også oversette:",
+    "currentPage": "Gjeldende side",
+    "customization": {
+      "defaultPreferences": "Standardinnstillinger",
+      "title": "Oversettingsinnstillinger",
+      "Length": "Lengde",
+      "LengthOpt": {
+        "Brief": "Kort",
+        "Concise": "Konsis",
+        "Standard": "Standard",
+        "Expanded": "Utvidet"
+      },
+      "Tone": "Tone",
+      "ToneOpt": {
+        "Casual": "Uformelt",
+        "Neutral": "Nøytral",
+        "Formal": "Formell",
+        "Authoritative": "Autoritær",
+        "Empathetic": "Empatisk"
+      },
+      "Style": "Stil",
+      "StyleOpt": {
+        "Literal": "Bokstavelig",
+        "DynamicEquivalence": "Dynamisk ekvivalens",
+        "CreativeAdaptation": "Kreativ tilpasning"
+      },
+      "Complexity": "Kompleksitet",
+      "ComplexityOpt": {
+        "Layman": "Lekmann",
+        "Standard": "Standard",
+        "Expert": "Ekspert"
+      }
+    },
+    "inputTranslateAdText": "Oversett tekst umiddelbart i en inntastingsboks på hvilken som helst nettside!",
+    "inputTranslateAdBtn": "Sett det opp nå",
+    "seeDict": "Se ordbok"
+  },
+  "sidebarSearchPanel": {
+    "history": "Historie",
+    "searchProgress": {
+      "searching": "Søker",
+      "analyzing": "Analyserer",
+      "organizing": "Organiserer",
+      "generatingAnswer": "Genererer svar",
+      "competed": "Fullført",
+      "searchInWeb": "Søk på nettet",
+      "analyzeSearchResult": "Analyser søkeresultater",
+      "generateAnswer": "Generer svar",
+      "searchCompleted": "Søk fullført",
+      "searchCancelled": "Søk avbrutt"
+    },
+    "relatedSearches": "Relaterte søk",
+    "searchFrom": "Søk fra",
+    "searchHistory": "Søkehistorikk",
+    "answer": "Svar",
+    "currentVisit": "Gjeldende besøk",
+    "feedback": {
+      "stepAnswer": "Generer svar",
+      "stepSearch": "Utfør søk",
+      "stepUnderstand": "Forstå spørsmål",
+      "tipTotal": "Totalt {{count}} kreditter"
+    },
+    "stoppedSearch": "Du har stoppet dette søket.",
+    "newSearch": "Nytt søk",
+    "searching": "Søker",
+    "searchFromAll": "Søk på hele internett",
+    "searchAll": "Søk fra alle",
+    "searchRange": "Søkeområde",
+    "searchFromSite": "Søk på {{domain}} nettsted",
+    "sources": "Kilder",
+    "suggestions": "Forslag",
+    "title": "Søk",
+    "viewAll": "Vis alle",
+    "defaultSearchSuggesiton": "Når er det beste tidspunktet å besøke Paris?",
+    "followUpQuestion": "Oppfølgingsspørsmål...",
+    "searchPlaceholder": "Skriv inn informasjonen du vil søke etter"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "AI OCR kan gjøre feil",
+    "dragImgTips": "Klikk for å laste opp eller slipp et bilde her for å hente ut tekst",
+    "noText": "Ingen tekst gjenkjent",
+    "ocrCost": "Hver {{name}} vil koste {{num}} grunnleggende kreditt",
+    "ocrTips": "Trekk ut tekst, tall og ligninger fra et bilde"
+  },
+  "pageTranslation": {
+    "title": "Sideoversettelse",
+    "demoText": "ChatGPT drives av Transformer, en dyp læringsmodell designet for naturlig språkbehandling, med selvoppmerksomhet og fremovermatende nevrale nettverk.",
+    "free": "Gratis",
+    "aiTranslator2": "AI Oversetter",
+    "aiTranslatorFunTitle1": "Forståelse av kontekst",
+    "aiTranslatorFunDesc1": "Fanger både intensjon og tone, og går dypere enn ord-for-ord oversettelse",
+    "aiTranslatorFunTitle2": "Nøyaktig oversettelse",
+    "aiTranslatorFunDesc2": "Oversett med klarhet og presisjon, slik at ingen detaljer går tapt",
+    "newAITranslationTip": "AI-sidetranslasjon er nå aktiv! Klikk her for å sette det opp.",
+    "translateService": "Oversettelsestjeneste",
+    "translateServiceTip": "AI-oversettelse koster grunnleggende kreditter basert på innholdslengde.",
+    "pageTranslation": "Oversett denne siden",
+    "showOriginal": "Vis originaltekst",
+    "transSettings": "Oversettingsinnstillinger",
+    "source": "Kildespråk",
+    "target": "Målspråk",
+    "autoDetect": "Automatisk gjenkjenning",
+    "displayMode": "Visningsmodus",
+    "displayModes": [
+      "Tospråklig",
+      "Kun oversettelse"
+    ],
+    "displayStyle": "Visningsstil",
+    "displayStyles": [
+      "Ingen",
+      "Understrek",
+      "Svak"
+    ],
+    "displayStyleDesc": "Kun for oversettelser i tospråklig sammenligningsmodus",
+    "autoTrans": "Automatisk oversettelse",
+    "autoTrans2": "Oversett nettsider automatisk",
+    "autoTrans2Desc": "Når av, klikk oversett-knappen eller bruk hurtigtast",
+    "neverTransSite": "Aldri oversett dette nettstedet",
+    "neverTransSites": "Aldri oversett disse nettstedene",
+    "transAgain": "Oversett igjen"
+  },
+  "inputTranslation": {
+    "title": "Inndataoversettelse",
+    "mainSwitchTitle": "Oversett inntastet tekst med en utløserknapp",
+    "mainSwitchDesc": "Oversett og erstatt tekst i en inntastingsboks på hvilken som helst nettside",
+    "triggerKeyTitle": "Utløsernøkkel",
+    "triggerKeyDesc": "Trykk på utløsernøkkelen 3 ganger raskt for å oversette, angre med {{key}}",
+    "spaceKey": "Mellomromstast",
+    "model": "Oversettingsmodell",
+    "neverTransSites": "Oversett aldri på disse nettstedene"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "Tenkemodus",
+      "desc": "Tenkemodus bruker Chain of Thought-reasoning for å analysere komplekse problemer gjennom flerstegs inferens, og gir mer omfattende og innsiktsfulle svar.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Tenk på: 9.11 eller 9.8, hvilken er større"
+        },
+        {
+          "title": "",
+          "value": "Tenk over og skriv en funksjon for å modellere teorien om 'Seks grader av separasjon'. Gitt et sosialt nettverk som en graf, finn den korteste veien mellom to personer."
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "Artefakter",
+      "desc": "Lag og presenter enkelt innhold, som nettsider eller flytskjemaer, i et nytt vindu. Øk produktiviteten med sanntidsinteraksjoner og et fokusert arbeidsområde.",
+      "demos": [
+        {
+          "title": "Lag et virtuelt xylofon",
+          "value": "Lag et HTML-basert xylofon med fargerike tangenter innenfor et {{ARTIFACT}}. Gi visuell tilbakemelding for trykte tangenter, og generer enkle, realistiske lyder ved hjelp av Web Audio API basert på frekvensparametere. Inkluder grunnleggende instruksjoner."
+        },
+        {
+          "title": "Lag et matspisende emoji-spill",
+          "value": "Lag et enkelt HTML-basert spill, lik Catch the Candy, innenfor et {{ARTIFACT}}. Spilleren kontrollerer en emoji nederst på skjermen, og beveger den raskt til venstre og høyre for å fange og spise matvarer (f.eks. 🍓, 🍔, 🍎) som faller ned fra oven, samtidig som de unngår bomber (💣). Hver gang spilleren fanger en mat-emoji, vil emojien endre seg til et mer overdrevet positivt uttrykk (f.eks. 🤩, 😆, 😋) for å indikere suksess. Hvis spilleren ved et uhell fanger en bombe, vil emojien først vise en eksplosjon (💥) og deretter endre seg til et svimmel uttrykk (😵‍💫)."
+        },
+        {
+          "title": "Lag et diagram for smarttelefonleveranser",
+          "value": "Bruk React til å lage et vakkert linjediagram innenfor et {{ARTIFACT}} basert på følgende tabell.\n------\n\nSmarttelefonleveranser fra store merker de siste ti årene (i milliarder)\n\n| År | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+        }
+      ]
+    },
+    "search": {
+      "name": "Nettaksess",
+      "desc": "Få sanntidsinnsikt utover forhåndstrent data, og sikrer nøyaktige og tidsriktige svar for aktuelle hendelser, siste nytt og utviklende temaer.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Hva er de best vurderte filmene som for øyeblikket går på kino i USA?"
+        },
+        {
+          "title": "",
+          "value": "Hvilke aksjer opplevde bemerkelsesverdige økninger i dag?"
+        },
+        {
+          "title": "",
+          "value": "Hva er det mest bemerkelsesverdige nye elektroniske produktet som ble lansert i dag?"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "Generer bilde",
+      "desc": "Beskriv enkelt hva du har i tankene, og generer bilder av høy kvalitet umiddelbart. Ingen designferdigheter nødvendig – bare fantasien din.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Design et futuristisk flygende bil-design."
+        },
+        {
+          "title": "",
+          "value": "Skissere en golden retriever som løper på gress."
+        },
+        {
+          "title": "",
+          "value": "Skildre en eldre kvinne som uformelt drikker kaffe."
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "Dataanalyse",
+      "desc": "Kjør Python-kode i sanntid for avansert matematikk, statistikk, maskinlæring og databehandling, og effektiviser oppgaver på tvers av ulike formater.",
+      "demos": [
+        {
+          "title": "Les fildata og lag et sektordiagram som viser andelen av ulike utgiftsbudsjetter.",
+          "value": "Les fildata og lag et sektordiagram som viser andelen av ulike utgiftsbudsjetter."
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Elsker du utvidelsen vår?</b> Gi oss fem stjerner i nettbutikken for å hjelpe oss å vokse",
+    "newInVersion": "Hva er nytt i versjon {{versionId}}",
+    "learnToUse": "Lær hvordan du bruker",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, AI Oversetter",
+      "4_36_0": "Samle kunnskap med Wisebase",
+      "4_35_0": "Forhåndsvis lenker: Surf smartere",
+      "4_34_0": "Gmail Al Svar, Artefakter og Oversettelsesforbedringer",
+      "4_33_0": "O1 & Video Sammendragsoppgraderinger",
+      "4_32_0": "Støtte for lydfiler i chat",
+      "4_31_0": "Verktøy Nav, Input Translate, Rask Kopiering",
+      "4_30_0": "Oppdatert GPT-4o, Sideoversettelse og YouTube-undertekster",
+      "4_29_0": "Forbedret chatopplevelse",
+      "4_28_0": "Claude 3.5 Haiku & Forbedrede Alternativer",
+      "4_27_0": "Forbedret kontekstmeny og artefakter",
+      "4_26_0": "Introduksjon av Tenkemodus (Eksperimentell)",
+      "4_25_0": "Frisk utseende for en bedre opplevelse",
+      "4_24_0": "Gemini-modellene har nettopp blitt smartere og raskere!",
+      "4_23_0": "OpenAI o1-preview & o1-mini er tilgjengelige nå!",
+      "4_22_0": "Demon vs Engel: Røntgen din X-personlighet",
+      "4_20_0": "Oppgradering av oversettingsfunksjoner",
+      "4_19_0": "{{ARTIFACTS}}: Sanntids, Interaktive Innholdsblokker",
+      "4_18_0": "Chat-deling er nå live!",
+      "4_17_0": "Introduksjon av Watch Highlights for YouTube",
+      "4_16_0": "Introduksjon av GPT-4o mini",
+      "4_13_0": "Introduksjon av AI Opplesning: Din Personlige Lydassistent",
+      "4_12_0": "",
+      "4_11_0": "Dyp leser for å forbedre dine kritiske lesekunnskaper!",
+      "4_10_0": "OpenAI sin GPT-4o er nå her!",
+      "4_9_0": "Llama 3 Nå! Neste generasjon av Metas toppmoderne åpen kildekode LLM.",
+      "4_8_0": "Gemini 1.5 Pro - Nå Tilgjengelig!",
+      "4_7_0": "In-Chat Video Oppsummering, Uttrekking av undertekster, Claude 3 Haiku! 🚀",
+      "4_6_0": "Støtt Claude 3-familien nå!",
+      "4_5_0": "",
+      "4_4_0": "Alle verktøy i Chat & GPT-4 kontekstmeny",
+      "4_3_0": "Maksimer opplevelsen din med fullskjermmodus!",
+      "4_2_0": "Mer effektiv tilgang til brukergrensesnitt og GPT-er i sidefelt",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "Sider er klar til å grille og skryte av dine offentlige X (Twitter) innlegg! Velg å være med for latter, ingen data beholdes. Spill i gang og del gleden med vennene dine!"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>: Matcher ytelsen til OpenAI-o1"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>: Utmerker seg i komplekse resonnementer, matematikk og koding"
+          ]
+        },
+        {
+          "features": [
+            "<b>AI Oversetter for nettside</b>: Leverer naturlige og nøyaktige oversettelser"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>Lagre nettsider og uthevinger</b>: Lagre verdifullt nettinnhold til Wisebase (Al kunnskapsbase) med ett klikk"
+          ]
+        },
+        {
+          "features": [
+            "<b>Al Inbox</b>: La Al kategorisere innholdet ditt automatisk"
+          ]
+        },
+        {
+          "features": [
+            "<b>Chat med flere filer</b>: Få umiddelbare svar fra de innsamlede filene dine"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>Umiddelbare forhåndsvisninger</b>: Dra lenker for å se innhold uten å åpne nye faner"
+          ]
+        },
+        {
+          "features": [
+            "<b>Smarte sammendrag</b>: Få nøkkelinformasjon fra sider med et blikk"
+          ]
+        },
+        {
+          "features": [
+            "<b>Effektiv surfing</b>: Hold fokus med færre klikk og mindre distraksjoner"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Al Svar i Gmail</b>: Støtte for oversettelse og valg av Al-modell for bedre kommunikasjon"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artefakter</b>: Eksporter flytskjemaer som bilder for enkel deling"
+          ]
+        },
+        {
+          "features": [
+            "<b>Oversett</b>: Al-ordbok for presise oversettelser av ord og uttrykk"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>: Raskere enn ‘o1-preview’, utmerker seg i komplekse flerstegsoppgaver med avansert nøyaktighet"
+          ]
+        },
+        {
+          "features": [
+            "<b>Oppsummer Videoer Uten Undertekster</b>: Få transkripsjoner og sammendrag for YouTube-videoer uten undertekster"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nettinnhold Sammendrag</b>: Forbedret for plattformer som Reddit og Twitter"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>Lyd til tekst</b>: Last opp MP3, WAV, M4A, eller MPGA-fil for å generere transkripsjoner"
+          ]
+        },
+        {
+          "features": [
+            "<b>Se & Lytt</b>: Les transkripsjoner mens du lytter til lyden"
+          ]
+        },
+        {
+          "features": [
+            "<b>Oppsummer enkelt</b>: Lag raske oppsummeringer med ett klikk"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>Verktøy Nav</b>: Få tilgang til AI-verktøy for bilder, PDF-er og videoer fra navigasjonslinjen"
+          ]
+        },
+        {
+          "features": [
+            "<b>Input Translate</b>: Trippel-mellomrom for å oversette inndatatekst (aktiver i Alternativer)"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rask Kopiering</b>: Kopier tekst umiddelbart med kontekstmeny"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>: Forbedrede naturlige skriveferdigheter og bedre filhåndtering"
+          ]
+        },
+        {
+          "features": [
+            "<b>Kun oversettelsesvisning</b>: Sideoversettelse støtter nå visning av kun det oversatte innholdet"
+          ]
+        },
+        {
+          "features": [
+            "<b>Bedre YouTube-undertekster</b>: Nyt høyere kvalitet på tospråklige undertekstoversettelser"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>Meldingsredigering</b>: Rediger enkelt sendte meldinger og send på nytt for nye svar"
+          ]
+        },
+        {
+          "features": [
+            "<b>Side-ved-side sammenligning</b>: Vis svar fra flere modeller i fullskjerm"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ikon for egendefinerte forespørsler</b>: Tildel ikoner til egendefinerte forespørsler for bedre organisering"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Haiku</b>: Leverer ytelse som overgår Claude 3 Opus, utmerker seg i koding, verktøybruk og resonnering"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tilpass skriftstørrelse</b>: Du kan nå endre skriftstørrelsen på meldingen"
+          ]
+        },
+        {
+          "features": [
+            "<b>Strømlinjeformet brukergrensesnitt</b>: Et renere, mer intuitivt alternativer brukergrensesnitt for enkel personalisering"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>Strømlinjeformet brukergrensesnitt</b>: Renere, mer intuitivt grensesnitt for en jevnere opplevelse"
+          ]
+        },
+        {
+          "features": [
+            "<b>Forbedret oversettelse</b>: Leverer relaterte ordmeninger med kontekstuell nøyaktighet"
+          ]
+        },
+        {
+          "features": [
+            "<b>Publiser og del artefakter</b>: Del enkelt dine artefakter offentlig via lenker"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>Chain of Thought-reasoning</b>: Bryter ned komplekse oppgaver steg-for-steg for smartere problemløsning"
+          ]
+        },
+        {
+          "features": [
+            "<b>Dypere innsikt</b>: Gir gjennomtenkte svar for å takle vanskelige spørsmål"
+          ]
+        },
+        {
+          "features": [
+            "<b>Fungerer med alle modeller</b>: Sømløst tilgjengelig på tvers av alle modeller"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>Forfinet design</b>: Moderne visuelle elementer, renere layout for enkel bruk og fokus"
+          ]
+        },
+        {
+          "features": [
+            "<b>Festing av hurtigkommandoer</b>: Fest ofte brukte hurtigkommandoer for rask tilgang"
+          ]
+        },
+        {
+          "features": [
+            "<b>Utvidbare tabeller</b>: Vis store data i et nytt vindu for forbedret lesbarhet"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>: Superladet resonnering med forbedrede matte- og visuelle ferdigheter."
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>: 2x raskere, 3x lavere ventetid, bedre på visuelle elementer og koding."
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>: Håndterer komplekse oppgaver og løser vanskeligere problemer enn tidligere modeller innen vitenskap, koding og matematikk. Koster 15 avanserte kreditter per melding."
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>: En raskere modell som er spesielt effektiv på koding. Ideell for fokusert resonnement uten bred kunnskap. Koster 3 avanserte kreditter per melding."
+          ]
+        },
+        {
+          "features": [
+            "<b>Merk</b>: Det er hastighetsbegrensninger."
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>Multi-Model Oversettelse</b>: Bruk flere modeller samtidig for mer nøyaktige oversettelser."
+          ]
+        },
+        {
+          "features": [
+            "<b>Allsidige Omskrivinger</b>: Omskriv oversettelser for forskjellige scenarier."
+          ]
+        },
+        {
+          "features": [
+            "<b>Tospråklige Undertekster</b>: Se YouTube-undertekster på begge språk samtidig."
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>Live Forhåndsvisning:</b> Forhåndsvis og samhandle med AI-genererte nettsider, dokumenter og diagrammer i sanntid."
+          ]
+        },
+        {
+          "features": [
+            "<b>Sømløs Iterasjon:</b> Iterer på genererte artefakter gjennom chat."
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>Flere formater</b>: Del chatten din som en lenke eller et bilde."
+          ]
+        },
+        {
+          "features": [
+            "<b>Fleksibelt utvalg</b>: Velg og del en hel samtale eller bare en del av den."
+          ]
+        },
+        {
+          "features": [
+            "<b>Enkel kontroll</b>: Opphev delte lenker når som helst."
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>Videohøydepunkter</b>: AI-generert fortelling sparer deg tid ved raskt å fremheve viktige punkter i videoen."
+          ]
+        },
+        {
+          "features": [
+            "<b>Naturlig fortelling</b>: Realistiske AI-stemmer forbedrer seeropplevelsen din."
+          ]
+        },
+        {
+          "features": [
+            "<b>Støtte for flere språk</b>: Forstå enkelt videoer på tvers av språkbarrierer."
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>Raskere, overlegen ytelse:</b> Gjør daglige oppgaver jevnere og mer effektive."
+          ]
+        },
+        {
+          "features": [
+            "<b>Forbedret matematikk og koding:</b> Sikrer nøyaktig ytelse for tekniske oppgaver."
+          ]
+        },
+        {
+          "features": [
+            "<b>Oppgradering fra GPT-3.5:</b> GPT-4o mini erstatter GPT-3.5 med bedre ytelse."
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>Naturlige AI Stemmer</b>: Nyt 9 naturlig klingende AI-stemmer på flere språk."
+          ]
+        },
+        {
+          "features": [
+            "<b>Hør Hvor Som Helst</b>: Velg hvilken som helst tekst på en nettside for å høre den lest høyt."
+          ]
+        },
+        {
+          "features": [
+            "<b>Sidepanelstøtte</b>: Lytt enkelt til AI-generert innhold fra sidepanel-widgets."
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>Støtte for Claude 3.5 Sonnet:</b> Anthropics nyeste modell, med 2x hastigheten til Claude 3 Opus og høyere intelligens, forbedrer betydelig resonnering, kunnskap, koding og visuelle oppgaver."
+          ]
+        },
+        {
+          "features": [
+            "<b>Avvikling av Claude 3 Opus:</b> erstattet av den avanserte Claude 3.5 Sonnet."
+          ]
+        },
+        {
+          "features": [
+            "<b>Inviter & Tjen:</b> Inviter vennene dine for å tjene gratis forespørsler og prøve den nyeste modellen i dag!"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>Flere nettsider:</b> Les flere nettsider eller dokumenter samtidig"
+          ]
+        },
+        {
+          "features": [
+            "<b>Kritiske leseverktøy:</b> Klargjør nøkkelbegreper, Identifiser antakelser, Fremhev utdrag, Lær om forfatteren, og mer."
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}:</b> Velger dynamisk den beste raske modellen (GPT-3.5, Claude 3 Haiku, Gemini 1.5 Flash eller Llama 3) for din spesifikke oppgave."
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Økt hastighet:</b> Få svar 2x raskere enn GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Forbedret visjon:</b> Sterkt forbedret bildeforståelse"
+          ]
+        },
+        {
+          "features": [
+            "<b>Utvidede språk:</b> Flere språk, bedre kvalitet og raskere ytelse"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Ny modell:</b> Støtter Llama 3 nå"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Ny Modell:</b> Støtter nå Gemini 1.5 Pro"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nye AI Bilderedskaper:</b> Tilgang til AI-funksjoner ved å holde musepekeren over et hvilket som helst bilde"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "In-Chat Oppsummering: Få nøkkelinformasjon fra YouTube-videoer med 'Les denne siden' i chat-vinduet."
+          ]
+        },
+        {
+          "features": [
+            "Enkel Uttrekking av Undertekster: Få undertekster med ett klikk på YouTube for dypere innsikt."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Nå tilgjengelig for å berike chat-opplevelsen din."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Påstår å ha \"nær-menneskelige\" evner og kan slå GPT-4."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Balanserer intelligens og hastighet, ideell for å hente informasjon eller automatisere salg."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Søkeagent-widget:</b> Opplev fremtiden med søk ved hjelp av AI-automatisering"
+          ]
+        },
+        {
+          "features": [
+            "<b>Oversett nettside:</b> Flere leservennlige oversettelsesvisningsstiler"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ny innstilling:</b> Automatisk gjenopptak av siste samtale ved åpning av sidepanelet"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Nytt avansert dataanalyseverktøy:</b> Kode tolker for effektiv datahåndtering og komplekse beregninger"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nytt malerverktøy:</b> Lag bilder øyeblikkelig i chat"
+          ]
+        },
+        {
+          "features": [
+            "<b>Forbedret kontekstmeny:</b> Bruk GPT-4 i kontekstmenyen."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Dykk inn i en engasjerende, fullskjermvisning"
+          ]
+        },
+        {
+          "features": [
+            "Nyt alle sidepanelfunksjoner, nå i fullskjerm"
+          ]
+        },
+        {
+          "features": [
+            "Bytt sømløst mellom moduser for det beste fra begge verdener"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Oppdatert grensesnitt:</b> Renere og enklere å navigere i"
+          ]
+        },
+        {
+          "features": [
+            "<b>Navigasjonsfelt som kan skjules:</b> Sikrer en fokusert chatopplevelse samtidig som viktige funksjoner er innen rekkevidde"
+          ]
+        },
+        {
+          "features": [
+            "<b>GPT-tilgang til sidefelt:</b> For ChatGPT Plus-brukere er direkte tilgang til GPT-er nå tilgjengelig i sidefeltet i webapp-modus"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "GPT-4V(ision) Forhåndsvisning! & AI-svar for Gmail",
+          "features": [
+            "{{SIDERVISION}} drives av GPT-4V",
+            "Bedre forståelse av bilder",
+            "Forstå e-postintensjoner raskt",
+            "Velg mellom forskjellige toner og personas",
+            "Velg svarforslag uten problemer"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "GPT-4 Turbo og Chat nettside!",
+          "features": [
+            "Støtte GPT-4 Turbo og GPT-3.5 Turbo",
+            "Oversett hele nettsiden",
+            "Chat-nettside i sidefeltet",
+            "Chat PDF i sidefeltet"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Oversettelseswidget",
+          "features": [
+            "Tilpass oversettelsen din i en dedikert oversettelseswidget",
+            "Forbedre ChatGPT-svar i Google, Bing, Baidu osv."
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} ble smartere",
+          "features": [
+            "{{4+VISION}}",
+            "1-klikk for å svare på det samme spørsmålet med forskjellige roboter"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sidegrammatikk-widget",
+          "features": [
+            "Sjekk grammatikkfeil",
+            "Rett opp grammatikkfeil",
+            "Forbedre skrivingen utover grammatikk"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} – ChatGPT-sidefelt med Vision",
+          "features": [
+            "Trekk ut tekst fra et bilde",
+            "Still spørsmål om bildet",
+            "3 måter å sende bilde til {{SIDERVISION}} <div><ol><li>Ta et skjermbilde</li><li>Dra og slipp et bilde til nettpratvinduet</li><li>Last opp et bilde </li> li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Trekk ut tekst fra et bilde"
+          ]
+        },
+        {
+          "features": [
+            "Trekk ut tekst fra et bilde"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Ny prisplan med 5x flere GPT-4-kreditter",
+          "features": [
+            "Gode nyheter! Vår oppdaterte prising gir deg nå enda mer tilgang til GPT-4 og Claude 2-kreditter.",
+            "Hvis du allerede er en premium-bruker, vil du bli oppgradert automatisk. I tillegg har vi en ny \"Ubegrenset\"-plan for alle dere superbrukere!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Mer bot!",
+          "features": [
+            "I tillegg til ChatGPT og Claude, støtter Sider Bard nå!"
+          ]
+        },
+        {
+          "title": "OCR: Trekk ut tekst fra et hvilket som helst bilde og send det til ChatGPT",
+          "features": [
+            "Gjenkjenne 10+ hovedspråk",
+            "Gjenkjenne håndskrevet på engelsk",
+            "Gjenkjenne <b>matematiske ligninger</b> i teksten"
+          ]
+        },
+        {
+          "title": "Forbedre Painter",
+          "features": [
+            "Bytt ut hele bakgrunnen",
+            "Fjern det valgte området"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Flere chatbots</b>: Støtter nå Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Gruppechat</b>: Sammenlign svar på tvers av chatboter!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Omtale</b>: Bruk '@' for å enkelt nevne og samhandle med hvilken som helst chatbot i samtalen!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rask melding</b>: Bare skriv '/' og gå!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Enkel design</b>: Gjør designet enkelt og enkelt å navigere"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Forbedret ledetekstansvarlig for",
+          "features": [
+            "Lese kontekstmeny",
+            "Skrive kontekstmeny"
+          ]
+        },
+        {
+          "title": "AI bilderedigerer",
+          "features": [
+            "Fjern bakgrunn fra alle bilder",
+            "Fjern tekst fra alle bilder"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Leseassistent: Bruk AI for rask forståelse mens du leser nettsider",
+        "Skriveassistent: Generer raskt innhold med AI i nettinndataboksen"
+      ],
+      "2_7_0": [
+        "Tegn bilde fra tekst",
+        "Tegn bilde fra et referansebilde"
+      ],
+      "2_6_0": [
+        "Sider støtter fast sidefelt - Du kan chatte mellom alle faner uten å overlappe noe innhold <br /> (tilgjengelig i Chrome 114 eller nyere)"
+      ],
+      "2_5_0": [
+        "YouTube-sammendrag! Se 1 time med YouTube-video på 1 minutt",
+        "Sammenlign svarene gitt av mennesker og AI på spørsmål og svar-sider som Quora, StackOverflow og Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Smart nettilgang</b>: Basert på søket ditt vil Al-avdelingen avgjøre om den trenger tilgang til nettet.",
+        "Stabilitetsforbedring"
+      ],
+      "2_3_0": [
+        "Støtte surfing og plugins for Plus-brukere!",
+        "ChatGPT med internettilgang for alle!"
+      ],
+      "2_2_0": [
+        "Skriv hvilken som helst melding",
+        "Svar på e-post, tweet, kommenter osv"
+      ],
+      "2_1_0": [
+        "Snarvei for hurtigoppslag",
+        "Endre størrelsen på hurtigoppslagsvinduet",
+        "Feilrettinger og andre UX-forbedringer"
+      ],
+      "2_0_0": [
+        "Støtte <b>GPT-4 </b>for alle brukere!",
+        "Inviter venner og få <b>GPT-4</b> kreditter for dere begge!",
+        "Feilrettinger og andre UX-forbedringer"
+      ],
+      "1_1_0": [
+        "Full chat i den <b>nye fanen</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> sammen!",
+        "Feilrettinger"
+      ],
+      "1_0_13": [
+        "Fortsett chatten etter å ha stilt spørsmål",
+        "Bytt mellom GPT-4 og GPT-3.5 for Plus-brukere",
+        "Enkel tilgang til og søk i chat-loggen"
+      ],
+      "1_0_12": [
+        "Synkroniser utvidelsesinnstillinger på tvers av datamaskiner",
+        "Få tilgang til meldingene dine fra forskjellige bærbare datamaskiner",
+        "Lagre chatter for fremtidig bruk",
+        "Del chatter via lenke"
+      ],
+      "1_0_11": [
+        "Få rask tilgang til handlinger gjennom et popup-vindu uten å åpne sidefeltet.",
+        "Legg til støtte for flere språk.",
+        "Behold brukerens språkpreferanse når du bruker oversettelsesfunksjonen.",
+        "Løs snarveiskonflikter på plattformer som GitHub og andre."
+      ],
+      "1_0_10": [
+        "Støtt 50+ språk nå!"
+      ],
+      "1_0_8": [
+        "Støtt GPT-4 for Plus-brukere! Sjekk innstillingssiden!"
+      ],
+      "1_0_7": [
+        "Husk prompt brukt sist gang",
+        "Optimaliser plasseringen av chatGPT-panelet på søkesider",
+        "Legg til et alternativ for å sette sidefeltets sideikon på venstre side",
+        "Optimaliser pakkestørrelsen",
+        "Legg til mørk modus",
+        "Støtt din API url proxy"
+      ],
+      "1_0_6": [
+        "Forbedre oppsummeringsfunksjonen på Youtube-siden"
+      ],
+      "1_0_5": [
+        "Husk plasseringen av sidefeltikonet",
+        "Forbedre snarveistaster",
+        "Lagre ledetekstmaler fra sidefeltet direkte"
+      ],
+      "1_0_4": [
+        "Bestill spørsmål på nytt i rullegardinlisten",
+        "Arkiver spørsmål du ikke vil bruke",
+        "Støttesvar på over 50 språk"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter for å gjøre rask \"Send\"",
+        "Mulighet for å skjule panelet på søkeresultatsiden",
+        "Støtt ESC for å skjule sidepanelet",
+        "Støtte oppsummere lang artikkel"
+      ],
+      "1_0_2": [
+        "Legg til stoppknapp for å slutte å generere respons",
+        "Endre stedet for sammenslåingsknappen"
+      ],
+      "1_0_1": [
+        "Forbedre oppsummeringsfunksjonen på Youtube-siden",
+        "Rett opp noen feil relatert til kopiering/lim inn og skriv ut"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Aktiver chatteverktøyene for å låse opp kraftige funksjoner.",
+    "content2": [
+      "Utforsk verdensveven sømløst.",
+      "Omgjør ideene dine til imponerende visuelle elementer.",
+      "Dykk dypt ned i data med ekspertanalyse."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Stem på produktjakt",
+    "sidebar2Banner1": "Stem på oss på <b>Produktjakt</b> NÅ for å spre ordet.",
+    "sidebar2ModalTitle": "✨ Sammendrag av Sidebar 2.0",
+    "sidebar2ModalDesc": "• Chat-fanen\n  • Rask oppslag for raske søk\n  • En konto for å synkronisere meldinger\n  • Lagre og del chatter\n  • Støtte flere språk\n  • Støtte GPT-4",
+    "ios1Banner1": "Stem på ChitChat - ChatGPT iOS-app 🎉",
+    "ios1Banner2": "La oss sette i gang med et smell! 😄",
+    "ios1ModalTitle": "✨ Nytt på ChitChat iOS-appen",
+    "ios1ModalDesc": "• Få svar fra ChatGPT 3.5 og 4\n• Et støtteteam med roboter hjelper deg på ett sted\n  • Gjør PDF-en til en chatbot"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}} for Mac",
+    "macContent": "Vi er glade for å kunngjøre at Sider nå er tilgjengelig for Mac-brukere! Nyt en sømløs og effektiv opplevelse skreddersydd kun for Mac, sammen med alle de kraftige funksjonene du liker fra nettversjonen vår.",
+    "macContent2": "{{APP_NAME}} er nå tilgjengelig for Mac!",
+    "macDownload": "Last ned nå!",
+    "phTitle": "Liker du å bruke utvidelsen vår?",
+    "phContent": "Ta et øyeblikk for å støtte oss med en stemme på <i>Product Hunt</i>—det er raskt, enkelt og hjelper oss mye!",
+    "phContent2": "Stem oss på <b>Produktjakt</b>",
+    "phVote": "Stem nå!",
+    "phTitle2": "Vi lanserte Sider 3.X-versjoner på <i>Product Hunt</i>.",
+    "phFeatures1": "<b>ChatGPT-widgets</b>: Skriv, trekk ut tekst fra bilder, sjekk grammatikk og oversett, alt på ett sted.",
+    "phFeatures2": "<b>Sider Vision</b>: Chat om bilder med GPT-4 Vision, og tar AI-samtale til neste nivå.",
+    "phFeatures3": "<b>Gruppe AI Chat</b>: Engasjer deg med ChatGPT, GPT-4, Claude og Bard i én banebrytende gruppechat.",
+    "phFeatures4": "<b>We Are All Ears</b>: Tilbakemeldingene dine former Sider – del tankene dine, vi lytter!",
+    "phVote2": "Stem på <i>Produktjakt</i>",
+    "phVoteTips": "<b>Dagens avstemning er nøkkelen</b> – Støtt oss nå!",
+    "halloweenCountdown": "Skummel avtale: <b>{{time}} igjen</b>",
+    "halloweenCountdown2": "{{price}} AVSLAG: <b>{{time}} igjen</b>",
+    "halloweenCardTitle": "Halloween-rabatt",
+    "halloweenCardDesc": "Lås opp skumle besparelser",
+    "halloweenCardTitle2": "Hent Halloween-godbit",
+    "halloweenCardDesc2": "Nyt {{price}} AVSLAG",
+    "blackFridayCountdown": "Black Friday: <b>{{time}} igjen</b>",
+    "xmasCountdown": "Årssalg: <b>{{time}} igjen</b>"
+  },
+  "timeUnit": {
+    "day": "Dag",
+    "day_one": "Dag",
+    "day_other": "Dager",
+    "hour": "Time",
+    "hour_one": "Time",
+    "hour_other": "Timer",
+    "minute": "Minutt",
+    "minute_one": "Minutt",
+    "minute_other": "Minutter",
+    "second": "Sekund",
+    "second_one": "Sekund",
+    "second_other": "Sekunder"
+  },
+  "searchTool": {
+    "questionMark": "Utløs ChatGPT ved å legge til et spørsmålstegn etter søket",
+    "fiveStart": "Liker du denne utvidelsen? Gi oss en 5-stjerners rangering på {{store}}",
+    "loginAndCloudflareCheck": "Logg på og bestå Cloudflare-sjekken på {{web}}",
+    "braveTrouble": "Virker fremdeles ikke? Følg {{url}}",
+    "cloudflareCheck": "OpenAI krever å bestå en sikkerhetssjekk av og til. Hvis dette fortsetter å skje, endre AI-leverandør til OpenAI API i <i>utvidelsesalternativene</i>.",
+    "failedResponse": "Kunne ikke laste inn svar fra ChatGPT:",
+    "whenToAskTips": "Hvert søk bruker en grunnleggende kreditt. Klikk her for å angi når du vil at ChatGPT skal spørre.",
+    "waitResponse": "Venter på ChatGPT-svar..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> 5-stjerners vurderinger",
+    "AIContentWarning": "AI-generert innhold er kanskje ikke alltid autentisk",
+    "activeUsers": "<num>5M+</num> Aktive brukere",
+    "copyIamge": "Kopier bilde",
+    "copyLink": "Kopier lenke",
+    "downloadImage": "Last ned bilde",
+    "generateImage": "Generer bilde",
+    "generateLink": "Generer lenke",
+    "linkCopied": "Lenke kopiert",
+    "linkGenerated": "Lenke generert",
+    "qrcodeTip": "Skann for å få {{APP_NAME}}!",
+    "selectAll": "Velg alle",
+    "shareOn": "Del på",
+    "slogan": "Din AI-assistent",
+    "socialMediaImageCopiedTip": "Bilde kopiert og klart til å limes inn."
+  },
+  "sidepanel": {
+    "title": "Sider støtter fast sidefelt",
+    "tip": "Tips: Juster bredden på sidepanelet for en bedre opplevelse.",
+    "benefit1": "Sidepanelet ditt vil <b>aldri forsvinne</b> hvis du navigerer til en ny side.",
+    "benefit2": "Du kan chatte mellom alle faner uten å <b>overlappe noe innhold</b>.",
+    "benefit3": "Bare tilgjengelig i <b>Google Chrome 114 eller nyere</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Koster 1 grunnleggende kreditt og 1 leserforespørsel",
+    "smartPlayCost": "Koster 1 rask tekstforespørsel og 1 leseforespørsel, stemmeopplesning faktureres etter bruk",
+    "smartPlayOnlyCost": "stemmeopplesning faktureres etter bruk",
+    "videoSummaryBtn": "Oppsummer video",
+    "videoSummaryMakeFullBtn": "Lag en fullstendig oppsummering",
+    "keyMomentsCollapse": "Brett sammen",
+    "keyMomentsClickExpand": "Klikk for å utvide",
+    "originalSubtitles": "Opprinnelige undertekster",
+    "transcribing": "Transkribering",
+    "expandAll": "Utvid alle",
+    "loginToAsk": "Logg inn på Spør",
+    "videoSummaryText": "Video sammendrag",
+    "summary": "Oppsummer",
+    "smartPlay": "视频速览",
+    "createShortenVideo": "Lag kort video",
+    "smartPlayBtnTips": "Se en kort video som hjelper deg med å raskt få med deg høydepunktene og spare tid.",
+    "shortenVideoTips": "Konverter denne videoen til en kort oppsummeringsvideo som fanger opp hovedpunktene!",
+    "smartPlaySwtichVoiceTitle": "Varsel om kredittfradrag",
+    "smartPlaySwitchVoiceContent": "Bytte til en annen stemme vil trekke kreditter igjen basert på hele videoskriptets lengde. Videoen vil fortsette å spille fra gjeldende posisjon. Vil du fortsette?",
+    "smartPlaySwitchVoiceBtn": "Ja, bytt stemme",
+    "smartPlaySwitchVoiceCancel": "Nei, avbryt",
+    "smartPlayReturnToCurrentProgress": "Gå tilbake til gjeldende fremdrift",
+    "smartPlayPlaybackEnded": "Avspilling av høydepunkter avsluttet",
+    "showHighlights": "Vis høydepunkter",
+    "hideHighlights": "Skjul høydepunkter",
+    "previousHighlight": "Forrige høydepunkt",
+    "nextHighlight": "Neste høydepunkt",
+    "showSubtitles": "Vis undertekster",
+    "hideSubtitles": "Skjul undertekster",
+    "fullScreen": "Fullskjerm",
+    "playbackSpeed": "Avspillingshastighet",
+    "subtitle": "Undertittel",
+    "subtitles": "Undertekster",
+    "responseLanguage": "Språk for svar",
+    "bilingual": "Tospråklig",
+    "subtitleFailed": "Undertekster kunne ikke lastes",
+    "videoTooLang": "For sammendrag må videoer være mindre enn 10 timer lange.",
+    "displayTranslation": "Vis oversettelse",
+    "noSubtitleTips": "Sammendrag er kun tilgjengelig for videoer med undertekster for øyeblikket.",
+    "shareToComment": "Del for å kommentere",
+    "generatedBy": "Generert av {{name}}",
+    "shownotes": "Høydepunkter",
+    "freeLimitTips": "Din gratis prøveperiode er brukt opp. Oppgrader nå for å fortsette å bruke funksjonen for videosammendrag.",
+    "askQuestionBtn": "Svar",
+    "noQuestionTip": "{{APP_NAME}} kan ikke finne problemet på siden.",
+    "targetLanguage": "Målspråk",
+    "whisperCostText": "Denne videoen mangler eksterne undertekster og krever transkribering for å oppsummere. (1 Avansert Kreditt/10 min eller mindre)"
+  },
+  "quickActions": {
+    "requireSignin": "Innlogging kreves",
+    "siginHint": "Logg inn for å få tilgang til denne funksjonen.",
+    "askAI": "Spør {{name}}",
+    "defaultPlaceholder": "Spør {{APP_NAME}} hva som helst",
+    "defaultPlaceholder2": "Spør {{APP_NAME}} med innholdet ovenfor",
+    "managePrompts": "Administrer prompts",
+    "pressToClose": "Trykk på {{name}} for å lukke",
+    "disableOnce": "Skjul til neste besøk",
+    "disableSite": "Deaktiver på dette nettstedet",
+    "disableGlobal": "Deaktiver på alle nettsteder",
+    "continueImproving": "Fortsett å forbedre",
+    "dictExample": "Eksempel:"
+  },
+  "wisebase": {
+    "inbox": "AI Innboks",
+    "myWisebase": "Min {{name}}",
+    "highlight": "Uthev",
+    "unhighlight": "Fjern utheving",
+    "HighlightInvalid": "Uthevinger mangler",
+    "HighlightInvalidDesc": "På grunn av endringer på denne nettsiden er ikke uthevingene dine lenger synlige. Du kan fortsatt få tilgang til dem i din <a>{{name}}</a>.",
+    "viewInSite": "Vis på nettstedet",
+    "addCollection": "Legg til en {{name}}",
+    "savePage": "Lagre side",
+    "editSavedPage": "Rediger lagret side",
+    "failedToSave": "Kunne ikke lagre",
+    "failedToDelete": "Kunne ikke slette",
+    "pageRemoved": "Side slettet",
+    "removePage": "Slette side?",
+    "removePageDesc": "Dette vil slette siden sammen med dens uthevinger.",
+    "saving": "Lagrer",
+    "pageSaved": "Side lagret",
+    "vistMyWisebase": "Åpne {{name}}",
+    "errNameExists": "Navn eksisterer allerede"
+  },
+  "msg": {
+    "searchNotFound": "Ingen resultater funnet",
+    "iosDownload": "Last ned iOS / Android-appen",
+    "notSupportFile": "Ikke støttet filformat",
+    "supportedFileFormat": "Støttede filformater er {{formats}}",
+    "maxFileSize": "Maksimal filstørrelse er {{size}}",
+    "maxSize": "Maks størrelse: {{num}}",
+    "fetchFailed": "Bildet kunne ikke hentes. Du kan laste det ned og laste det opp manuelt.",
+    "enterAPIKey": "Vennligst skriv inn OpenAI API-nøkkelen din",
+    "selectModel": "Velg en gyldig modell",
+    "changeSaved": "Endringer lagret",
+    "fiveStart": "Gi oss en 5-stjerners",
+    "inviteTitle": "Inviter og belønninger",
+    "inviteEarn": "Tjen <mx>{{num}} kreditter</mx> for deg og dine venner. <b>Jo flere du henviser, jo mer tjener du</b>.",
+    "inviteStep1": "Henvis vennene dine med invitasjonslenken",
+    "inviteStep2": "Vennene dine melder seg på",
+    "inviteStep3": "De installerer utvidelse og pålogging. Belønninger opptjent!",
+    "checkInvitation": "Sjekk invitasjonsposter",
+    "invitedRewardObtained": "Belønninger mottatt!",
+    "invitedWelcome": "Velkommen! GPT-kredittene er lagt til kontoen din!",
+    "inviteFriendJoin_one": "{{count}} venn har blitt med",
+    "inviteFriendJoin_other": "{{count}} venner har blitt med",
+    "getMoreGPT4": "Få flere avanserte kreditter",
+    "ttsChooseVoice": "Velg en stemme",
+    "ttsChooseVoiceLater": "Du kan endre dette senere.",
+    "ttsCharacterLimit": "Tegngrens nådd",
+    "ttsCharacterLimitDesc": "AI Les Høyt har en grense på {{count}} tegn. Vennligst velg en kortere tekst eller bruk den gratis stemmen.",
+    "ttsCharacterLimitDesc2": "Denne meldingen er for lang til at AI-stemmer kan lese den. Du kan bruke den gratis stemmen i stedet.",
+    "ttsCreditLimit": "Utilstrekkelige grunnleggende kreditter",
+    "ttsCreditLimitDesc": "Du har ikke nok grunnleggende kreditter for denne stemmen. Vennligst oppgrader planen din eller bruk den gratis stemmen.",
+    "ttsChangeVoiceTip": "Kredittfradragsvarsel",
+    "ttsChangeVoiceTipDesc": "Å bytte til en annen stemme vil trekke kreditter igjen. Er du sikker på at du vil fortsette?",
+    "dontRemindAgain": "Ikke spør meg igjen",
+    "failToPlay": "Kunne ikke spille av",
+    "onlyOneRequest": "Aktiv forespørsel pågår",
+    "onlyOneRequestDesc": "Din konto har en aktiv forespørsel - kun én forespørsel om gangen. Vennligst prøv igjen senere.",
+    "basicCreditLimit": "Tom for Basis Kreditter",
+    "basicCreditLimitDesc": "Du har brukt opp alle dine Basis Kreditter. Oppgrader din plan eller inviter venner for å få flere kreditter.",
+    "errSiderLoginExpired": "Din innlogging har utløpt, vennligst logg inn igjen",
+    "errSiderAdminKickout": "Du har blitt kastet ut, vennligst logg inn igjen",
+    "errSiderUserBanned": "Kontoen din har blitt suspendert på grunn av oppdaget uvanlig aktivitet (f.eks. regelbrudd eller deling av konto). Hvis du har spørsmål, vennligst send oss en e-post på care@sider.ai med kontodetaljene dine.",
+    "errSiderDeviceLimitLogout": "Du har blitt logget ut på grunn av at enhetsgrensen er nådd. Du kan logge inn igjen, og dette vil logge ut den tidligste aktive enheten på din konto.",
+    "errSiderApiTrialFeatLimit": "Du har nådd prøvegrensen for premium-funksjonen. Oppgrader for å låse opp alle funksjoner.",
+    "errSiderApiLimitDevice": "Vennligst logg inn for å bruke.",
+    "errSiderApiLimitLogin": "Du har brukt opp alle gratis kreditter i dag. Oppgrader eller inviter venner for mer, eller vent til morgendagens kredittilbakestilling.",
+    "errSiderApiLimitPremium": "Dine grunnleggende kreditter for denne måneden er brukt opp. Bytt til avanserte kreditter, vent på tilbakestilling neste måned (abonnementsdato), eller oppgrader for mer.",
+    "errSiderApiLimitPremiumDiscount": "Du har brukt opp alle dine kreditter. Oppgrader nå for ubegrensede kreditter med <b>$1</b> RABATT.",
+    "errSiderTranslateApiLimitPremium": "Dine grunnleggende kreditter for denne måneden er brukt opp. Vennligst vent på tilbakestilling neste måned (abonnementsdato), eller oppgrader for mer.",
+    "errSiderApiImageLimit": "Du har brukt opp alle de grunnleggende kredittene, vennligst oppgrader for å fortsette å bruke denne funksjonen.",
+    "errSiderApiSummaryVideoLimit": "Du har brukt opp alle dine kreditter. Vennligst oppgrader eller inviter venner for å få flere.",
+    "errSiderApiOcrLimit": "Du har brukt opp alle dine grunnleggende kreditter. Vennligst oppgrader for å fortsette å bruke denne funksjonen.",
+    "errSiderApiImgLimitPremiumUltra": "Du har nådd maks antall grunnleggende kreditter. Vennligst vent til neste tilbakestilling for å fortsette å bruke.",
+    "errSiderPremiumRequired": "Denne funksjonen er eksklusivt tilgjengelig for premium-brukere. Oppgrader nå for å låse opp denne funksjonaliteten.",
+    "errSiderHighTrafficError": "På grunn av høy trafikk, prøv igjen senere, eller oppgrader til en premiumkonto for raskere tilgang.",
+    "errSiderHighTrafficTip": "Vurder å <a>oppgradere til en premiumkonto</a> for stabil tilgang og for å støtte utviklingen vår.",
+    "errSiderDeviceBinded": "Vennligst logg inn for å bruke.",
+    "errSiderApiHighLoad": "OpenAI-serveren er for øyeblikket opptatt. Prøv igjen senere.",
+    "errSiderGPT4HighLoad": "OpenAI-serveren er for øyeblikket opptatt. Prøv igjen senere.",
+    "errSiderOpenaiFault": "Openai-serveren er opptatt. Vennligst bytt til {{model}} under OpenAI-bruddet.",
+    "errServiceUnavailable": "Openai-serveren er opptatt, prøv igjen senere, eller bytt til Sider API og bruk {{model}} under OpenAI-bruddet.",
+    "errSiderGPT4LimitDevice": "Vennligst <b>logg inn</b> først, og <amb>inviter vennene dine</amb> eller <ta>oppgrader til premium</ta> for å få flere avanserte kreditter.",
+    "errSiderGPT4LimitLogin": "Oppgrader eller inviter venner for å låse opp flere avanserte kreditter for mer innsiktsfulle svar.",
+    "errSiderGPT4LimitPremium": "Du har brukt opp alle dine månedlige Advanced Credits. Oppgrader planen din for en høyere månedlig kvote eller kjøp en Advanced Credits booster-pakke for umiddelbar bruk!",
+    "errSiderGPT4LimitPremiumDiscount": "Dine avanserte kreditter for denne måneden er brukt opp. Oppgrader nå for ubegrensede kreditter med <b>$1</b> RABATT, eller vent til tilbakestillingen neste måned (abonnementsdato).",
+    "errSiderDataAnalysisCredit": "Dette svaret krever Dataanalyse (1 Avansert Kreditt). Du er tom for Avanserte Kreditter, så oppgrader eller inviter venner for å få flere!",
+    "errSiderNeedLogin": "Vennligst logg inn for å bruke.",
+    "errGeminiPro": "{{GEMINI}}-feil, prøv igjen senere.",
+    "errSiderO1Limit1": "OpenAI o1-modellen er i høy etterspørsel og har nådd sin kvotegrense. Ikke bekymre deg, du kan også stille spørsmål til OpenAI o1 gratis på vår fellesskapsdrevne Q&A-nettside: <a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "Du trenger flere avanserte kreditter. Hver 10 minutter (eller mindre) med lyd koster 1 avansert kreditt. Oppgrader eller inviter venner for å få mer!",
+    "goToSignIn": "Gå til pålogging",
+    "errSiderTimeout": "Forespørselen ble tidsavbrutt. Vær så snill, prøv på nytt.",
+    "errSiderProcessing": "Bare én melding om gangen. Vennligst la alle andre svar fullføre før du sender en ny melding, eller vent et øyeblikk.",
+    "errTrySiderAPI": "Bytt til <i>ChatGPT Sidebar API</i> for å få stabil tilgang (for alle)",
+    "errTrySiderAPI2": "ELLER bruk din egen API-nøkkel på <a>innstillingssiden</a> (for utviklere)",
+    "errChatGPTAuth": "Vennligst <m>klikk på koblingen for å logge på </m>på ChatGPT-nettsiden din, så hjelper vi deg med å feste den. Deretter kan du bruke den i sidefeltet.",
+    "errChatGPTAuthTipTitle": "Hvis det ikke fungerer:",
+    "errChatGPTFailToFetch": "Får ikke svar fra ChatGPT.",
+    "errOpenaiFailToFetch": "Får ikke svar fra OpenAI via din API-nøkkel.",
+    "errSiderCreditUsageLimit": "Bruksgrense nådd",
+    "errSiderCreditFreqLimit": "Du har nådd den nåværende bruksgrensen. Denne grensen sikrer rettferdig bruk for alle brukere. Vennligst prøv igjen etter {{count}} minutter.",
+    "errSiderBasicTextLimit": "Du har nådd grensen for grunnleggende kreditt. For øyeblikket er det en begrensning på {{count}} meldinger hver 60. minutt. Alternativt kan du bruke avansert kreditt og komme tilbake senere.",
+    "errSiderAdvancedTextLimit": "Du har nådd grensen for avansert kreditt. For øyeblikket er det en begrensning på {{count}} meldinger hver 60. minutt. Alternativt kan du bruke grunnleggende kreditt og komme tilbake senere.",
+    "errSiderUnlimitedLimit": "Du har nådd en midlertidig grense ({{timesToUse}} ganger / {{periodTime}} time) på Avanserte Kreditter. Vi prøver å skaffe flere kreditter til deg. Nye kreditter vil være tilgjengelige kl {{resetTime}}. Trenger du flere nå? Prøv en booster-pakke!",
+    "errorOutputLimit": "Lengdegrense nådd. Oppgrader for å få et lengre svar.",
+    "errorFileType": "Filformatet støttes ikke",
+    "error1139_1": "Takk for at du bruker ubegrensede planer! Du kan fortsatt fortsette å bruke avanserte AI-modeller. Du har imidlertid nådd en midlertidig fartsgrense. <a>Her er hvorfor det er en fartsgrense og hvordan vi prøver å hjelpe deg</a>. Vennligst <mx>LES DET</mx>.",
+    "error1139_1_2": "Takk for at du bruker ubegrensede planer! Du kan fortsatt fortsette å bruke avanserte AI-modeller. Du har imidlertid nådd en midlertidig fartsgrense og brukt opp alle de ekstra avanserte forespørslene. Her er <a>hvorfor det er en fartsgrense og hvordan vi prøver å hjelpe deg</a>. Vennligst <mx>LES DET</mx>.",
+    "error1139_1_3": "Takk for at du bruker ubegrensede planer! Du kan fortsatt fortsette å bruke avanserte AI-modeller. Du har imidlertid nådd en midlertidig fartsgrense og brukt opp alle gaveforespørslene. Her er <a>hvorfor det er en fartsgrense og hvordan vi prøver å hjelpe deg</a>. Vennligst <mx>LES DET</mx>.",
+    "error1139_2": "For å ikke avbryte ditt nåværende arbeid, har vi gitt deg noen ekstra avanserte forespørsler som en gave for å låse opp den nåværende fartsgrensen. <b>Etter at du har brukt opp alle disse ekstra avanserte forespørslene, vil du ha en fartsgrense</b>.",
+    "error1139_3": "Den nåværende fartsgrensen er ({{timesToUse}} ganger / {{periodTime}} timer) på avanserte forespørsler. Vi kan justere den i henhold til våre kapasiteter. Trenger du mer nå? Prøv en boosterpakke!",
+    "error1139_4": "Vi har gitt deg 50 ekstra avanserte forespørsler som en gave for å låse opp den nåværende fartsgrensen. <b>Etter at du har brukt opp alle disse ekstra avanserte kreditter, vil du ha en fartsgrense.</b>",
+    "loginAndCloudflareCheck": "Bytt til <a>Sidebar API</a> for å få stabil tilgang ELLER logg på og bestå Cloudflare-sjekken på <i>chat.openai.com</i>",
+    "invalidApiKey": "API-nøkkel er ugyldig. Vennligst skaff en annen.",
+    "getApiKeyGuide": "Du trenger en OpenAI API-nøkkel for å få det til å fungere. Følg guiden vår for å få API-nøkkelen.",
+    "thankForFeedback": "Takk skal du ha. Skjemaet ble sendt inn. Vi vil kontakte deg innen kort tid.",
+    "writeSomething": "Skriv noe.",
+    "enterEmail": "Skriv inn en e-postadresse for å motta oppdateringer om problemet.",
+    "emailRequired": "E-post er påkrevd.",
+    "promptNameRequired": "Spørrenavn kreves.",
+    "titleRequired": "Tittel er påkrevd.",
+    "nameYourPrompt": "Gi forespørselen et navn",
+    "nameYourTitle": "Gi samtalen et navn",
+    "promptTplRequired": "Umiddelbart innhold kreves.",
+    "deletePromptWarn": "Vil du slette denne forespørselen?",
+    "restorePromptWarn": "Vil du gjenopprette denne ledetekstmalen?",
+    "notValidEmail": "ikke en gyldig e-post",
+    "signinTips": "Logg på for å synkronisere forespørsler og innstillinger",
+    "signinAward": "Logg inn for å få {{num}} <span>GRATIS</span> kreditter per dag",
+    "signinAward2": "Kredittene er brukt opp for ikke-innloggede brukere. Du kan logge inn for å få <b>{{num}} gratis kreditter per dag</b>.",
+    "signinAward3": "Logg inn for å få flere kreditter per dag",
+    "signinAward4": "Legg ut på en magisk AI-reise med nettleseren din og motta {{num}} <span>GRATIS</span> kreditter hver dag",
+    "chatgptTabGuardTips": "Hold denne fanen åpen, nå kan du gå tilbake til {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Noe gikk galt med ChatGPT. Kobler til på nytt, vennligst vent...",
+    "chatgptTabGuardRefreshingTips1": "Noe gikk galt med ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Kobler til på nytt, vennligst vent...",
+    "chatgptTabGuardSetupSuccessTips": "Fikset, vennligst prøv igjen",
+    "switchToSiderApiToContinue": "Denne funksjonen støtter for øyeblikket bare {{APP_NAME}} API-modus. <a>bytt til {{APP_NAME}} API</a> for å fortsette.",
+    "switchRequired": "Bytt til {{APP_NAME}}?",
+    "switchToSiderDesc": "For å bruke denne funksjonen, vennligst bytt AI-tilgangsmetoden din til {{APP_NAME}}.",
+    "signInRequired": "Innlogging kreves",
+    "useUpUpgrade": "Dine kreditter er brukt opp, vennligst oppgrader for å få flere kreditter.",
+    "featureLimit": "Funksjonsgrense",
+    "featureLimitTip": "Vennligst oppgrader for å bruke Claude og Bard.",
+    "featureUnavailableOnPage": "Kan ikke kjøre på denne siden",
+    "featureBrowserLimit": "Denne siden støtter ikke nettleserutvidelser. Begrensede sider inkluderer vanligvis nye faner, nettbutikken, andre utvidelser og innstillinger (chrome:// URLer). Vennligst prøv en vanlig side i stedet.",
+    "localFileAccessRequiredTitle": "Filtilgang kreves",
+    "localFileAccessRequiredDesc": "For å bruke utvidelsen med lokale filer, vennligst gå til utvidelsesinnstillingene og slå på \"<b>Tillat tilgang til fil-URLer</b>\".",
+    "localFileAccessRequiredBtn": "Gå til utvidelsesinnstillinger",
+    "quotaModelContent": "Din GPT-4/Claude-2 forespørselsgrense er nådd. Oppgrader til Premium-planen for mer tilgang, eller inviter venner for gratis ekstra kreditter.",
+    "signinFeature": "Vennligst logg inn for å få tilgang til denne funksjonen",
+    "dragImgTips": "Klikk for å laste opp eller slipp et bilde her",
+    "dragTips": "Klikk for å laste opp eller slipp filer her",
+    "fileSizeTip": "Maks størrelse: 100MB hver. Opptil 5 filer.",
+    "reEnableInSettings": "Du kan aktivere på nytt i <a>Innstillinger</a>",
+    "switchBarTip": "Utvid sidepanelet for å feste navigasjonslinjen.",
+    "upgradeSupport": "Oppgrader til premium-abonnement for å støtte oss",
+    "upgradeSupport2": "Oppgrader for flere funksjoner",
+    "imageSizeLimit": "Bildegrense",
+    "fileSizeLimit": "Filen er for stor",
+    "imageSizeLimitTip": "Sørg for at bildet er mindre enn 10 MB og at dets bredde eller høyde ikke overstiger 4096 piksler, og prøv på nytt.",
+    "fileSizeLimitTip": "Filen overskrider 100MB opplastningsgrensen. Vennligst reduser filstørrelsen og prøv igjen.",
+    "errOpenAIFilter": "Responsen ble filtrert på grunn av at prompten utløste OpenAI's innholdshåndteringspolicy. Vennligst endre prompten din og prøv igjen.",
+    "unreadableMsg": "Finner ikke hovedinnholdet på denne siden. Prøv en annen side.",
+    "unreadableTitle": "Mangler hovedinnhold",
+    "noSubtitleMsg": "Videoen har ikke undertekster og kan ikke oppsummeres.",
+    "noSubtitleTitle": "Undertekst kreves for sammendrag",
+    "fileLimit": "For å behandle denne filen, vennligst aktiver det avanserte dataanalyseverktøyet. Det koster 1 avansert kreditt per bruk. Vil du aktivere det og fortsette?",
+    "fileLimitFree": "Den opplastede filen din krever avansert dataanalyse for behandling. Oppgrader nå for å låse opp denne funksjonen.",
+    "openLastConversationTitle": "Åpne siste samtale?",
+    "openLastConversationContent": "Nå kan vi angi om sidepanelet skal gjenopprette den siste samtalen hver gang det starter.",
+    "openLastConversationCancel": "Forstått",
+    "openLastConversationOk": "Gå til innstillinger",
+    "keepConversationTip": "Hver gang du åpner Sider, starter en ny chat. For å fortsette den siste chatten, juster <a>innstillingene</a>.",
+    "uploadFailed": "\"{{FILENAME}}\" opplastning mislyktes.",
+    "askOriginalModel": "Original {{MODELNAME}}",
+    "videoTooLang": "Videoen er for lang (maks 10 timer). Vennligst velg en kortere video.",
+    "somethingWrong": "Noe gikk galt. Vennligst prøv igjen senere.",
+    "cantBeTranscribed": "Kan ikke oppsummere denne videoen på grunn av opphavsrettsbegrensninger. Vennligst prøv en annen.",
+    "notSupportLiveVideo": "Oppsummering av direktesendt video støttes ikke for øyeblikket."
+  },
+  "options": {
+    "title": "Alternativer",
+    "shortcut": {
+      "tips": "Skriv inn en snarvei"
+    },
+    "theme": {
+      "auto": "Automatisk",
+      "light": "lys modus",
+      "dark": "mørk modus"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Alltid",
+        "desc": "Alltid"
+      },
+      "questionMark": {
+        "title": "Spørsmålstegn",
+        "desc": "Når forespørselen slutter med et spørsmålstegn"
+      },
+      "manually": {
+        "title": "Manuelt",
+        "desc": "Når svarknappen klikkes"
+      }
+    },
+    "sidebarLocation": {
+      "left": "venstre side",
+      "right": "høyre side"
+    },
+    "sidebarMode": {
+      "sidepanel": "Fast sidefelt",
+      "inpage": "Sidepanel på siden"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "Når du bytter fane, vil Sider alltid forbli festet til høyre side av nettleseren.",
+      "inpage": "Når du bytter fane, vises ikke sideren. Du må åpne sidestolpen på nytt på den nye siden."
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "Forklare",
+        "template": "Forklar følgende innhold:"
+      },
+      "explain-codes": {
+        "title": "Forklar koder",
+        "template": "Forklar følgende koder:"
+      },
+      "translate": {
+        "title": "Oversette",
+        "template": "Oversett følgende innhold til {{lang}} språk:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Gratis plan",
+    "basic": "Grunnplan",
+    "pro": "Pro Plan",
+    "ultra": "Ubegrenset plan",
+    "starter": "Starterplan"
+  },
+  "shortPlanNames": {
+    "free": "Gratis",
+    "basic": "Grunnleggende",
+    "pro": "Pro",
+    "ultra": "Ubegrenset",
+    "starter": "Starter",
+    "pocket": "Pocket"
+  },
+  "queryNames": {
+    "fast": "Grunnleggende",
+    "advanced": "Avansert",
+    "image": "Bilde",
+    "reader": "Leser"
+  },
+  "upgradeModal": {
+    "off": "Rabatt!",
+    "desc": "Flere kreditter og flere funksjoner",
+    "upgradeToUseXXX": "Oppgrader for å bruke <b>bot</b>",
+    "getAllTTSVoices": "Lås opp alle stemmer",
+    "allVoices": "Alle stemmer",
+    "getAllTTSVoicesDesc": "Denne stemmen er eksklusiv for premium-brukere. Oppgrader nå for å få tilgang til alle stemmer.",
+    "getAllTTSVoicesDesc2": "Du har nådd prøvegrensen for premium-stemmer. Oppgrader nå for ubegrenset tilgang til 9 naturlig-lydende AI-stemmer eller bruk den gratis stemmen.",
+    "tryAllVoices": "Føl deg fri til å prøve alle stemmer",
+    "getWebAccess": "Oppgrader for å få nettsvar",
+    "videoSummay": "Oppgrader for å bruke videosammendrag",
+    "gpt4Desc": "GPT-4o er betydelig smartere og kan hjelpe deg med å få mer logiske og nøyaktige svar.",
+    "claude3SonnetDesc": "Claude 3 Sonnet er en raffinert språkmodell for presis, nyansert kommunikasjon.",
+    "claude35SonnetDesc": "Claude 3.5 Sonnet er Anthropics nyeste modell, som leverer dobbelt så høy hastighet som Claude 3 Opus og høyere intelligens, og forbedrer betydelig resonnement, kunnskap, koding og visuelle oppgaver.",
+    "claude3OpusDesc": "Claude 3 Opus er en avansert AI for å takle komplekse oppgaver med bemerkelsesverdig effektivitet.",
+    "webAccessDesc": "Sider henter svar på spørsmålene dine fra Google og bruker AI for konsis organisering og oppsummering.",
+    "videoSummaryDesc": "Du har nådd grensen for gratisbruk. For å fortsette å få tilgang til denne funksjonen, bør du vurdere å oppgradere til et premium-medlemskap."
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Utforske utover grensene!",
+      "pro": "Kvotegrense nådd",
+      "ultra": "Kvotegrense nådd"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Du har nådd din gratis kvotegrense. Oppgrader for en høyere kvote og lås opp avanserte funksjoner.",
+      "pro": "Du har nådd kvotegrensen for denne måneden. Oppgrader for ekstra kvote.",
+      "ultra": "Du har nådd kvotegrensen for denne måneden. Ta kontakt med oss på <a>care@sider.ai</a> for å gi forslag."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Gi oss fem stjerner",
+    "enjoy": "😘 Liker du denne utvidelsen?",
+    "enjoyNo": "Ingen tilbakemelding",
+    "enjoyYes": "Ja, 5-stjerners vurdering!",
+    "feedbackTip": "🥹 Fortell oss årsaken til din misnøye.",
+    "feedbackThx": "Takk for din tilbakemelding."
+  },
+  "sidepanelPinGuide": {
+    "title": "Klikk \"{{icon}}\"",
+    "desc": "Legg til {{APP_NAME}} i verktøylinjen for rask tilgang"
+  },
+  "emailEnhance": {
+    "emailAssistant": "E-postassistent",
+    "emailAssistantDesc": "Når den er slått på, kan Sider hjelpe deg raskt å svare på e-poster.",
+    "hideTranslation": "Skjul oversettelse",
+    "inputPlaceholder": "Fortell side hvordan du vil svare...",
+    "intent": "Avsenderens hensikt",
+    "orgLang": "Språk for e-post",
+    "quickAIReply": "AI svar",
+    "replyInputPlaceholder": "Hva vil du svare?",
+    "resultsTitle": "Utkast til svar",
+    "showTranslation": "Vis oversettelse",
+    "translateEmail": "Oversett e-posten",
+    "tryAgain": "Prøv igjen",
+    "voice": {
+      "applicant": "Søker",
+      "casual": "Uformelt",
+      "colleague": "Kollega",
+      "confident": "Selvsikker",
+      "customer-service-staff": "Kundeservicemedarbeidere",
+      "direct": "direkte",
+      "emailLength": "Lengde på e-post",
+      "empathetic": "empatisk",
+      "enthusiastic": "Lidenskapelig",
+      "formal": "Formell",
+      "formality": "Formalitet",
+      "friendly": "vennlig",
+      "human-resources": "Menneskelige ressurser",
+      "informational": "informativ",
+      "leader": "Leder",
+      "long": "Lang",
+      "medium": "Medium",
+      "neutral": "Nøytral",
+      "personable": "Kjære",
+      "project-manager": "Prosjektleder",
+      "sales-representative": "Salgsrepresentant",
+      "short": "Kort",
+      "subordinate": "Underordnet",
+      "tone": "Tone",
+      "witty": "flink",
+      "yourRole": "Din rolle"
+    },
+    "voiceSettings": "Toneinnstilling",
+    "wayToReply": "Svarforslag"
+  },
+  "searchEnhance": {
+    "getStarted": "Start nå",
+    "adContent": "Smarter enn GPT-4? Claude 3 er her! Inviter venner og prøv det gratis!",
+    "noLoginAdContent": "Lås opp AI-kraft: Søk, Les, Skriv, Oversett Raskere & Smart!",
+    "noLoginBtn": "Bli med 4M+ Fornøyde Brukere!"
+  },
+  "imageToolbar": {
+    "AITools": "AI-verktøy",
+    "chatWithImage": "Chat med bilde",
+    "extractText": "Ekstraher tekst",
+    "imageTools": "Bildeverktøy",
+    "inpaint": "Erstatt børstet område",
+    "removeBackground": "Fjern bakgrunn",
+    "removeText": "Fjern tekst",
+    "replaceBackground": "Erstatt bakgrunn",
+    "upscale": "Forstørr",
+    "variation": "Lag variasjoner"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "Få bedre svar",
+      "Mer variert kunnskap",
+      "Sterkere forståelse"
+    ],
+    "claude3Advantages": [
+      "Like kraftig som GPT-4",
+      "Mer naturlige svar",
+      "Kraftige resonnementsevner"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "Lås opp webtilgang",
+      "text_to_image": "Lås opp Generer bilde",
+      "data_analysis": "Lås opp Dataanalyse",
+      "artifacts": "Lås opp {{ARTIFACTS}}",
+      "thinking_mode": "Lås opp Tenkemodus"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "Forbedret problemløsning",
+          "desc": "Mestring av komplekse utfordringer med flertrinns resonnement!"
+        },
+        {
+          "title": "Omfattende analyse",
+          "desc": "Få dype innsikter for kritiske beslutninger umiddelbart."
+        },
+        {
+          "title": "Intelligent iterasjon",
+          "desc": "Forbedre løsninger uten anstrengelse gjennom veiledet tenkning."
+        }
+      ],
+      "search": [
+        {
+          "title": "Hold Deg Oppdatert",
+          "desc": "Få tilgang til oppdatert informasjon på nettet."
+        },
+        {
+          "title": "Forbedre Nøyaktighet",
+          "desc": "Få mer nøyaktige og relevante svar."
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "Fremkall Kreativitet",
+          "desc": "Gjør beskrivelser om til høykvalitets umiddelbart."
+        },
+        {
+          "title": "Forbedre Innhold",
+          "desc": "Forbedre prosjektene dine med tilpassede visuelle elementer."
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "Få Innsikt",
+          "desc": "Analyser og visualiser data enkelt for å finne klare."
+        },
+        {
+          "title": "Kod Smartere",
+          "desc": "Raffiner, tolk og kjør kode for effektiv problemløsning."
+        },
+        {
+          "title": "Utmerk Deg i Matematikk",
+          "desc": "Løs komplekse matteproblemer med letthet og nøyaktighet."
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "Forbedret produktivitet",
+          "desc": "Transformer ideer til håndfaste resultater, umiddelbart!"
+        },
+        {
+          "title": "Forhåndsvisning i sanntid",
+          "desc": "Visualiser AI-genererte nettsider, dokumenter og diagrammer umiddelbart."
+        },
+        {
+          "title": "Sømløs iterasjon",
+          "desc": "Forbedre artefakter enkelt gjennom naturlig samtale."
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "Chat med valgt tekst",
+    "highlightSelection": "Uthev valgt tekst",
+    "summarizePage": "Oppsummer siden",
+    "savePage": "Lagre siden til {{name}}",
+    "revertSavePage": "Fjern fra {{name}}",
+    "translatePage": "Oversett til {{lang}}",
+    "revertTranslatePage": "Vis originaltekst",
+    "imageTools": "{{AI}} Bildverktøy",
+    "togglePageTranslation": "Oversett siden / Vis originaltekst",
+    "openFullPageChat": "Åpne fullsidechat"
+  },
+  "highlightType": {
+    "key-sentences": "Nøkkelsetninger",
+    "structural-importance": "Strukturell Viktighet",
+    "comprehensive-coverage": "Omfattende Dekning",
+    "memorable-quotes": "Minneverdige Sitater"
+  },
+  "freeTrial": {
+    "panelTitle": "3 dagers ubegrenset plan gratis prøveperiode",
+    "panelList": [
+      "Chat fritt med GPT-4 & Claude 3",
+      "Chat med hvilken som helst PDF, bilde & lenke",
+      "Oppsummer nettsider & YouTube-videoer"
+    ],
+    "panelBtn": "Start gratis prøveperiode",
+    "cancelTip": "Avbryt når som helst"
+  }
+}

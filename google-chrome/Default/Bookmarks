@@ -1,0 +1,147 @@
+{
+   "checksum": "8dd55d10b451ee52ea63ad824a8d603d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13381602752204501",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13371251663388812",
+            "date_last_used": "0",
+            "guid": "36e79e74-5106-470e-bca2-36180b5e7a4b",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Account Security",
+            "type": "url",
+            "url": "https://www.fiverr.com/seller_onboarding/account_security"
+         }, {
+            "date_added": "13372775018122060",
+            "date_last_used": "0",
+            "guid": "cd8034ff-e428-4324-91f9-d6219c220f6b",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "laptops and netbooks :: gaming series :: loq 15aph8 :: 82xt Lenovo PC Support - Lenovo Support PL",
+            "type": "url",
+            "url": "https://pcsupport.lenovo.com/pl/pl/products/laptops-and-netbooks/gaming-series/loq-15aph8/82xt"
+         }, {
+            "date_added": "13373625711551368",
+            "date_last_used": "13382622027141114",
+            "guid": "3f43b9af-4ba3-4ae6-a74b-c7bec42ca6ef",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Direct",
+            "type": "url",
+            "url": "https://inpol.mazowieckie.pl/login"
+         }, {
+            "date_added": "13373625760434672",
+            "date_last_used": "0",
+            "guid": "bf084478-6be6-4750-8d9d-0bdccab2ac22",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MOS - Moduł Obsługi Spraw",
+            "type": "url",
+            "url": "https://mos.cudzoziemcy.gov.pl/ru"
+         }, {
+            "date_added": "13375195348487834",
+            "date_last_used": "0",
+            "guid": "688fd36d-1a24-415e-ae65-40e6a7eef2e9",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gammas - Gamma",
+            "type": "url",
+            "url": "https://gamma.app/"
+         }, {
+            "date_added": "13375196045661601",
+            "date_last_used": "0",
+            "guid": "997ebb96-1d2e-42be-8073-ce314a861025",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Freelancer",
+            "type": "url",
+            "url": "https://www.freelancer.com/verify?next=%2Fnew-freelancer%2Fmembership-offer&ref=onboarding&skipTrial=true&successUrl=ZTJiMGU4ODIwNzdkYmEwN2IwZjE2M2Y2MTZhZWM2MGEvbmV3LWZyZWVsYW5jZXIvbWVtYmVyc2hpcC1vZmZlcg,,"
+         }, {
+            "date_added": "13376417917906413",
+            "date_last_used": "0",
+            "guid": "cc707007-9d03-4076-858c-ffc3a8636891",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Онлайн преобразование аудио и видео в текст | Транскрибация текстов Any to Text",
+            "type": "url",
+            "url": "https://any2text.ru/files/1452147"
+         }, {
+            "date_added": "13377793939198122",
+            "date_last_used": "0",
+            "guid": "3833594e-fa2d-4796-b195-06a0d2e58e73",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home - OKE Warszawa",
+            "type": "url",
+            "url": "https://www.oke.waw.pl/"
+         }, {
+            "date_added": "13378562995635309",
+            "date_last_used": "0",
+            "guid": "b3e9a34c-488f-4f25-9e20-27e80a53f001",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CDA - Społeczność cda.pl",
+            "type": "url",
+            "url": "https://www.cda.pl/"
+         }, {
+            "date_added": "13378736940557718",
+            "date_last_used": "0",
+            "guid": "fb6c2897-b453-4e8b-8651-6aa2f6d91c2d",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Панель инструментов | VFS Global",
+            "type": "url",
+            "url": "https://visa.vfsglobal.com/blr/ru/pol/application-detail"
+         } ],
+         "date_added": "13381602752204503",
+         "date_last_used": "0",
+         "date_modified": "13378736940557718",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13381602752204504",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCS+aWinVLAYAES+aWinVLAYAKUjNWinVLAYAEgAqGFdNQjFMRnVTaVViSnFtV2dIKzh1Snc9PUgDEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFadzZpT1p0OUQyWld6ZkdiUGVleFdNY0dIZi9TMVM3Z3BMQ3JSQ3poRTJvSW9FdnJJVFB4aEhOaHdOd3FpTU9vc3BFQ3pybxgAIAAoADCA1eHTjv2KAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEu8BCAkS6gEKHFN0VzlkRGZlWjVBSkdSVTJRTmFYMzhFVXZobz0SZlo6QURxdEFaeDVSNzVRN1RqRnJrVUlveHpGRWJOSVRSbzk2NEtIdGkyaEZsNnhsU3N6U1pEYmZDVWdxd09tYTZqMk45TDEvcTM1bkN0WVp5SlFXV2kxd0l5UnRqdXFWbDJuY2c9PRgAIAAoADC/ndb60MKJAziIrLi4rzJAiKy4uK8yShxBeVIrZk5JdlBVRVpyaGRaaXJqQ1pXMWV3VlU9WiIiIP////szS2U3em4rQ083Y3pDSG15dVdVSTIvV0IrWFE9ZXcONmQS7wEICBLqAQoca1lQZkppanpVUy9DMWV6TFg5cjE3dmxYWkx3PRJmWjpBRHF0QVp4NVI3NVE3VGpGcmtVSW94ekZFYk5JcHhIMi95aVdhSks5TUh2RXFhMTVsU0tCdXlmbDdRMnBIRkxXRStTZG9Bc0Z5OEROYVIwdjF6ZTIxbFMxSzVGd0F1OVlzUT09GAAgACgAMKnh7+L5lIkDOLKlgMypMkCypYDMqTJKHGI0U1BnakxSRk9oMHg4NFN3WnNDOVMvNngzWT1aIiIg////7UlydXJFbitONjc5ZVJScC9CUEpmcE1PeHcvTT1lsJ3ifRLvAQgHEuoBChxKakljMldlZUZEOElZdWJFSE9mc3JRaVRGWEk9EmZaOkFEcXRBWng1Ujc1UTdUakZya1VJb3h6RkViTklDVzhOTmVSbDJVTDZWOVE0eXVRa0JhTng5RGtBSlNmNDAwTFNza0I1Nk5tWXI1clcrb0JjYUlITEZEWG8rSklZTkxyMk9nPT0YACAAKAAw64DIy/mUiQM4v6f9y6kyQL+n/cupMkocNlcxWEZFWklLZjlXNk00aHQxendoRExFVkd3PVoiIiD///+0WU1SeFRNYVhtQlZGZ3ZYSExQK0xqYy9oNXNJPWXWWJo7EvQBCA0S7wEKHGhSSks0SGV6ajI2TTcrWGQza0ZxejBUTTRQWT0SZlo6QURxdEFaeDVSNzVRN1RqRnJrVUlveHpGRWJOSWZDSitsTjFkWWYya1dHbmtPNGJFU3ViaHRkU25SeVYxZkxISU80OEJiVDRaSkUxMGJIczlPOWZVY1BkUER5VVVWcUhqcnc9PRgAIAAoADDgorGx0qSKAzizm6H+uzJAs5uh/rsyShx2cncvT0NzWHZMbks1UkJ6b09IZitkK0tvSlE9WiciJf////8AAAAEqktxMkY4a0ZNR2VjY1FTSFUrK3JWQmQ4b3BnRT1lmrgYzhLvAQgKEuoBChxDeUZvYktjV1VmYjJOSWdXSEVCSzduS1Q4MDQ9EmZaOkFEcXRBWng1Ujc1UTdUakZya1VJb3h6RkViTkk2c2Y4cE9rcVJTR2VJZnpOQlBkYkJjNytvUU1vQ2taMFdTRkxvMzUxR1dKNUNzWjBYRmRNRjU4YTNvU2k2cTJOZ2grdUR3PT0YACAAKAAw1NGRx9PCiQM43fLiuK8yQN3y4rivMkocbVdRanpicVlGSzU3Q1JyamxIWW16c0FwY0xBPVoiIiD////9ZGo2NWlkNWhXZjQ4bGVkeTh3dW9mazh6dWtRPWWDFYKlEu8BCAsS6gEKHDJUb3kyN0lxYXpZc2FvQXBOVlUvNlJMOS9Tdz0SZlo6QURxdEFaeDVSNzVRN1RqRnJrVUlveHpGRWJOSTFpdHdWMzB1cUhYVmFTejVFSUJwTlZ2K0FLcW1vRmpOQ2N3VUZKOVFjakVZMmhpRUhjMTVQY29CcEZYMi9uWVVhR3NXV0E9PRgAIAAoADCKtPuum+aJAzjSh7T/szJA0oe0/7MyShxXVUZaZEZhT0tLeTZ0N2k5T0dFUGxYdmxISFU9WiIiIP////5CYTJmd2owRHRoalVKQ2h1LzBkZmRvNTJTVzQ9Zdq/VlkSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5VVRXYmxveCtYSmxIOUJ2OGNoc1M5ZzVWRCthWkl2QjM4aCtLZGZIWC9ESDFwMlFlemxhZzhSaUNJL0E0clphejl0elFzSkliMDdpL2pML1ZsR05EQVJvOEt0UT09GAAgACgAMIDV4dOO/YoDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS8wEIDBLuAQocaGZSZVp5YllwdWJUdlhVQ2ZHMXYwNGxNNjFnPRJmWjpBRHF0QVp4NVI3NVE3VGpGcmtVSW94ekZFYk5JOTBHZmg2dWZqNStjYy9xM21WQ21BS0dJU0lGRng1QllMc3psUmEzNTRkNDJ6Z1Y4c0tSYnVEY0lnYXBYL2xuZzhrNzVLZz09GAAgACgAMOv9grqhjooDOP7dxY+5MkD+3cWPuTJKHHhRWTFGbitINytFUkJjTksrY2QzOVNQUUF2Yz1aJiIk/////wAAAARVcTJTMGY2c1hQc2xTS0ErQTZkT3BDeTBWVXM9ZYllAY4SwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6dVpvWVBvdUhzaFdXQ3JQRk5BQWlncGRlNHpuRVpIR1JrdE1ESEJEYUJBdCtFS1ZqemdQWE9rKzlMeEdUR3UzM1dZWDhZQVhqLzkwdXB5ck9IWGJmNGxxSHNIUT09GAAgACgAMIDV4dOO/YoDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7gEIBhLpAQocTVZ0UTFod0xuQ1RTNFVlNUg3dXpsT0NoTmtNPRJmWjpBRHF0QVp4NVI3NVE3VGpGcmtVSW94ekZFYk5JelBwdGJnUHJHTmtBeitHQVRWRnd1UFRuODZHZEQyMjVlams3QVNIVlJMNFlub3Ywb3pLZSs5aXVCay9PVG1Tdk4zdnJudz09GAAgACgAMKm71cKY/IgDOIqNq7amMkCKjau2pjJKHHMwUytRditCYytJOWxvU2ZUempYWS9ndEppaz1aISIf///7bXJ4bnFKSlFLVmRkbjZDTEkvTk91NFBUYlc4PWVn+YdgEuwBCAUS5wEKHEtWV3RHamNPaTZRK3VRUTlyNDRCQUhZdEZpUT0SZlo6QURxdEFaeDVSNzVRN1RqRnJrVUlveHpGRWJOSTlrYmFJOXpRbXNZRDRCakw0WHdjWlY0QWo4QUJnNmMvTDFKK29ia3VpMEdnbFkxYlFBU3ZLR1ZLeXh2VE1IQjBmREpLTkE9PRgAIAAoADCQieOjmdGIAzid9PjfoDJAnfT436AyShxvMUZ2Mk51MzdURjRrd2RUV3F2dUNxN0psZlE9Wh8iHdVsaFAvdnZXOTE5by96aWlsLy9BSkNrWUF1Mkk9Zeb7E9oS9AEIDhLvAQocbUc2aWNOTzRrd3QrRVdPZEc3T3FvSVJBSGlzPRJmWjpBRHF0QVp4NVI3NVE3VGpGcmtVSW94ekZFYk5JaTNYUndBZ1JsY3VLbVNEUjJ2bE9nbjc0ZWFzSUYrRlc5OXNraWNZOWFaQkRTTWZsODBoZDMvNUtpcUt1aVZiMnVEV2NSUT09GAAgACgAMPKr8bPaqYoDOI38mdG8MkCN/JnRvDJKHC8xR0J6TTB4aGJqZkdNT1ArZ0lHZ0djV2hQUT1aJyIl/////wAAAATVODVKWnpJVVc5RXBuTzhkQTI3WGRadkc5M3lnPWWAk/JzMAE4AA==",
+   "version": 1
+}

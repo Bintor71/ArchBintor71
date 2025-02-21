@@ -1,0 +1,2571 @@
+{
+  "sidebar": "Bara laterală",
+  "shortcut": "Comenzi rapide",
+  "ask": "Cere",
+  "save": "Salvați-l",
+  "saved": "Salvat",
+  "delete": "Șterge",
+  "deleteAll": "Ștergeți tot",
+  "remove": "Elimina",
+  "cancel": "Anulare",
+  "close": "Închide",
+  "minimize": "Minimizează",
+  "disable": "Dezactivează",
+  "retry": "Reîncercați",
+  "stop": "Stop",
+  "pause": "Pauză",
+  "play": "Redare",
+  "replay": "Repetare",
+  "changeSpeed": "Schimbă viteza",
+  "ttsDemo": "Exemplu",
+  "icon": "Pictogramă",
+  "select": "Selectați",
+  "change": "Schimbare",
+  "insert": "Introduce",
+  "replace": "A inlocui",
+  "ok": "Bine",
+  "Loading": "Se încarcă",
+  "thoughtProgress": "Proces de gândire",
+  "submit": "Trimite",
+  "attention": "Înștiințare",
+  "welcome": "Bine ai venit",
+  "send": "Trimite",
+  "copy": "Copie",
+  "auto": "Automat",
+  "unpublish": "Anulează publicarea",
+  "unpublishArtifact": "Anulează publicarea artefactului",
+  "aiResCompare": "Compararea răspunsurilor AI",
+  "copied": "Copiat",
+  "clear": "clar",
+  "table": "Tabel",
+  "tryDemo": "Încercați o demonstrație",
+  "translate": "Traduce",
+  "rewrite": "Rescrie",
+  "next": "Următorul",
+  "prev": "Anteriorul",
+  "hi": "Salut,",
+  "experimental": "Acces anticipat",
+  "experimentalDesc": "Utilizatorii plătitori beneficiază de acces anticipat la instrumente exclusive, de ultimă generație și funcții experimentale care nu sunt disponibile pentru cei care nu sunt abonați.",
+  "clickToTry": "Faceți clic pentru a încerca această caracteristică",
+  "detected": "Detectat",
+  "reset": "Resetează",
+  "upTo6file": "Încarcă până la 6 fișiere",
+  "quote": "Citat",
+  "download": "Descarcă",
+  "downloadTypeFile": "Descarcă fișierul {{type}}",
+  "collapse": "Restrângeți bara laterală",
+  "done": "Terminat",
+  "trial": "Încercare",
+  "manage": "Administra",
+  "template": "șablon",
+  "edit": "Editați | ×",
+  "exit": "Ieșire",
+  "add": "Adăuga",
+  "feedback": "Părere",
+  "fullscreenBookmarkTip": "Faceți clic pe pictograma stea pentru a marca chatul pe ecran complet pentru acces ușor data viitoare!",
+  "tweetit": "Urmărește-ne pe {{X}}",
+  "joinDiscord": "Alătură-te comunității noastre pe Discord",
+  "whatsnewInvite": "Invită să încerce gratuit",
+  "fullPageChat": "Chat pe întreaga pagină",
+  "whatNew": "Noi funcționalități",
+  "helpCenter": "Centrul de Ajutor",
+  "learnMore": "Află mai multe",
+  "gotIt": "Am înţeles",
+  "you": "Tu",
+  "settings": "Setări",
+  "signin": "Log in",
+  "extractingText": "Extrage text",
+  "extractingTextFailed": "Extracția textului a eșuat",
+  "textExtracted": "Text extras",
+  "audioExtractedText": "Text extras din audio",
+  "account": "Cont",
+  "createAccount": "Creează un cont",
+  "createAccountTip": "Înscrie-te pentru a primi <a>{{NUM}} credite gratuite</a> în fiecare zi",
+  "free": "Gratuit",
+  "signinNow": "Conectați-vă acum",
+  "unlimited": "Nelimitat",
+  "share": "Acțiune",
+  "toolMoveTip": "Instrumentul de chat are o nouă locație! Puteți accesa toate controalele de chat aici.",
+  "myChats": "Chaturile mele",
+  "general": "Configurație generală",
+  "archive": "Arhiva",
+  "unarchive": "dezarhivare",
+  "searchPage": "Pagina de căutare",
+  "addons": "Suplimente",
+  "webStore": "Magazin online",
+  "webApp": "Aplicația web",
+  "webAccess": "Acces Web",
+  "upgradeNow": "Imbunatateste acum",
+  "unlock": "Deblochează",
+  "allFeatures": "Toate Funcțiile",
+  "everyThing": "Totul",
+  "unlockFeatMsg": "Ai atins limita planului tău. Fă un upgrade acum pentru a debloca toate funcționalitățile!",
+  "upgradeUnlock": "Actualizează pentru a debloca acum!",
+  "upgrade": "Actualizare",
+  "subscribe": "Abonează-te",
+  "language": "Limba",
+  "theme": "Temă",
+  "sendShortcut": "Trimiteți comanda rapidă",
+  "speechVoice": "Voce de vorbire",
+  "buyBooster": "Cumpără pachet de amplificare ",
+  "model": "Model",
+  "version": "Versiune",
+  "more": "Mai mult",
+  "clickPreview": "Faceți clic pentru previzualizare",
+  "clickView": "Click pentru a vizualiza",
+  "sendToChat": "Trimite la chat",
+  "listen": "Asculta",
+  "openAnswerCompare": "Comparare alăturată",
+  "skip": "Ocolire",
+  "basic": "De bază",
+  "advanced": "Avansat",
+  "superAdvanced": "Super avansat",
+  "switchModel": "Schimbă modelul",
+  "switchVoice": "Schimbă vocea",
+  "changeVoice": "Schimbă o voce",
+  "vote": "Vot",
+  "invite": "A invita",
+  "hide": "Ascunde",
+  "show": "Afișează",
+  "logout": "Deconectare",
+  "pin": "ispititoare",
+  "unpin": "deblocați",
+  "showMore": "Afișați mai multe",
+  "editTitle": "Editați titlul",
+  "summarize": "Rezuma",
+  "summary": "Rezumat",
+  "fact-check": "Verificare fapt",
+  "highlight-excerpts": "Evidențiază extrase",
+  "key-concepts": "Clarifică conceptele cheie",
+  "identify-assumptions": "Identifică presupunerile",
+  "contrast-analysis": "Analizează contrastele",
+  "about-author": "Află despre autor",
+  "related-news": "Găsește știri relevante",
+  "related-academic-research": "Vezi lucrările conexe",
+  "related-videos": "Urmărește videoclipuri relevante",
+  "keypoints": "Puncte cheie",
+  "quiz": "Test",
+  "autoToText": "Auto la text",
+  "textFromSelect": "Text din selecția ta",
+  "textFromOCR": "Text din OCR",
+  "textFromTranslate": "Text din traducere",
+  "textFromWrite": "Text din scriere",
+  "textFromSearch": "Text de la agentul de căutare",
+  "textFromGrammar": "Text din gramatică",
+  "quoteText": "Text citat",
+  "summarizing": "Rezumând",
+  "summarizeFailed": "Rezumatul a eșuat",
+  "answering": "Răspunzând",
+  "productivity": "Productivitate",
+  "generating": "Generarea",
+  "modelUpdateSuccess": "Model actualizat cu succes",
+  "modelUpdateFailed": "Actualizarea modelului a eșuat",
+  "customPrompt": "Solicitare personalizată",
+  "currentTpl": "Șablon curent:",
+  "current": "Actual",
+  "extra": "suplimentar",
+  "generatingTranscript": "Generare transcriere",
+  "transcriptGenerated": "Transcriere generată",
+  "transcriptFailed": "Generarea transcrierii a eșuat",
+  "transcriptReady": "Transcriere gata",
+  "audioTranscript": "Transcriere audio",
+  "audio-to-text": "Audio la text",
+  "audio-summarize": "Rezumat",
+  "audio-meeting-minutes": "Procese verbale ale întâlnirii",
+  "publishArtifact": "Publică Artefact",
+  "uploadLocal": "Încarcă de pe computerul tău",
+  "openTabs": "Alege din filele deschise",
+  "editTpl": "Editați acest șablon",
+  "delteTpl": "Ștergeți acest șablon",
+  "restoreTpl": "Restaurați acest șablon",
+  "archiveTpl": "Arhivați acest șablon",
+  "showTpl": "Afișați acest șablon",
+  "prompts": "Indicații",
+  "selectPrompt": "Selectați indicația",
+  "imageRetryTip": "A apărut o eroare. Te rugăm să reîncerci.",
+  "mentionBot": "Menționează modelul",
+  "mentionGPTs": "Menționați GPT-uri",
+  "promptName": "Nume prompt",
+  "promptContent": "Conținut prompt",
+  "PromptManage": "Gestionare Prompt",
+  "contactUs": "Contactaţi-ne",
+  "webAssistant": "Asistent web",
+  "quickAction": "Meniu contextual",
+  "promptManage": "Manager prompt",
+  "morePrompts": "Mai multe sugestii",
+  "addPrompts": "Adaugă sugestie",
+  "issueType": "Tipul problemei",
+  "pinExt": "Extensie PIN",
+  "yourEmailAddress": "Adresa dvs. de e-mail",
+  "troubleshooting": "Depanare",
+  "openSidebar": "Deschideți bara laterală",
+  "pasteSelection": "Lipiți selecția",
+  "pasteTextPage": "Lipiți text din pagină",
+  "getAnotherKey": "Obțineți o altă cheie",
+  "showSearchPanel": "Afișați panoul de căutare",
+  "getItNow": "Ia-l acum",
+  "addTools": "Adaugă instrumente",
+  "toolsTitle": "Instrumente",
+  "notNow": "Nu acum",
+  "alwaysDisplay": "Afișează întotdeauna",
+  "credit": "Credit",
+  "credits": "Credite",
+  "unlimitedCredits": "Credite Nelimitate",
+  "total": "total",
+  "getMore": "a lua mai mult",
+  "goPremium": "upgrade la premium",
+  "goPremiumGetMore": "faceți upgrade la premium pentru a obține mai mult",
+  "myAccount": "Contul meu",
+  "clickToAsk": "Faceți clic pentru a întreba",
+  "searchingFor": "Căutare de:",
+  "searchedFor": "S-a căutat:",
+  "conversationTip": "Acest chat a fost creat în modul {{CHATPROVIDER}}. Schimbă modul pentru a continua sau începe un nou chat în modul curent.",
+  "using": "Folosind",
+  "used": "Folosit",
+  "switchAndContinue": "Schimbă modul",
+  "ExtractText": "Extrage textul",
+  "extracted": "Audio extras",
+  "describleImage": "Descrie",
+  "pricePerDay": "Mai puțin de {{num}}/zi",
+  "readingwriting": "Citire & Scriere",
+  "reading": "Citire",
+  "writing": "Scriere",
+  "compareWith": "Compară cu {{NAME}}",
+  "smarterWith": "Obțineți un răspuns mai inteligent de la {{NAME}}",
+  "summarizePage": "Rezumați această pagină",
+  "searched3": "Căutate pe 3 site-uri",
+  "browseFiles": "Ai navigat prin {{NUM}} fișiere",
+  "browseFiles1": "Ai navigat prin 1 fișier",
+  "readPage": "Citiți această pagină",
+  "moreQueries": "Mai multe credite!",
+  "newPlan": "Plan nou",
+  "switchToXXX": "Comutați la {{model}}",
+  "switchToSider": "Comutați la API-ul {{APP_NAME}}",
+  "switch": "Comutare",
+  "settingApiKey": "Setarea cheii API",
+  "all": "Toate",
+  "dropMsg": "Trageți aici pentru a trimite la Sider",
+  "success": "Succes",
+  "usedIn": "Folosit in",
+  "check": "Verifica",
+  "example": "Exemplu",
+  "toolsUpgradeTitle": "Upgradează pentru a-ți îmbunătăți experiența de chat!",
+  "ChangeTone": "Schimbați tonul",
+  "screenshot": "Captură de ecran",
+  "takeAScreenshot": "Fă o captură de ecran",
+  "back": "Înapoi",
+  "image": "Imagine",
+  "uploadImage": "Încărcați o imagine",
+  "hideImage": "Ascunde imaginea",
+  "chatWithPDF": "Chat cu PDF",
+  "recentFiles": "Fisiere recente",
+  "orTakeAction": "Sau luați alte măsuri:",
+  "NoFiles": "Nu există fișiere recente în acest chat",
+  "showImage": "Afișați imaginea",
+  "fullscreen": "Ecran complet",
+  "moreQuery": "Mai multe Credite",
+  "moreFeature": "Mai multe trăsături!",
+  "switchToSidepanel": "Comută la bara laterală",
+  "deepReadTools": "Unelte pentru citire aprofundată",
+  "OR": "SAU",
+  "enable": "Activează",
+  "refresh": "Reîmprospăta",
+  "painterOnBoardingTip": "Apasă aici pentru crearea și editarea imaginilor AI",
+  "pdfOnBoardingTip": "Apasă aici pentru ChatPDF",
+  "refreshModel": "Reîmprospătare modele",
+  "refreshing": "Se reîmprospătează",
+  "collapseNav": "Restrânge bara de navigare",
+  "expand": "Extinde",
+  "expandNav": "Extinde bara de navigare",
+  "phoneNumber": "Număr de telefon",
+  "recognizing": "Recunoașterea",
+  "useFreeVoice": "Folosește Vocea Gratuită",
+  "reselect": "Reselectează",
+  "earnFree": "Câștigă Credite Gratuite",
+  "appearance": "Aspect",
+  "result": "Rezultat",
+  "sidepanelTip": "Sfat panou lateral",
+  "continue": "Continua",
+  "confirm": "A confirma",
+  "describeImage": "Descrieți această imagine",
+  "inviteFriendTip": "<a>Invită prieteni</a> pentru a obține credite suplimentare",
+  "resetTime": "Resetați pe <a>3 august 2023</a>",
+  "imageQuoteTipTitle": "Mai întrebați imaginea? Trebuie să citați imaginea",
+  "imageQuoteTipContent": "Pentru a întreba din nou despre imagine, pur și simplu citați-o.",
+  "ocrEmptyMsg": "Îmi pare rău, nu găsesc text în această imagine.",
+  "imageInputHint": "Pune întrebări despre această imagine",
+  "selectedTextInputHint": "Pune întrebări despre textul selectat",
+  "fileInputHint": "Pune întrebări despre acest fișier",
+  "inviteYourFriends": "Invita prieteni",
+  "xmasSale": "Vanzare de Craciun",
+  "bigSale": "Reducere",
+  "bigSaleRest": "Sare",
+  "videoTutorial": "Vezi detalii",
+  "edgePasteBug": "Nu se poate lipi utilizând comenzile rapide de la tastatură din cauza unei erori a browserului Edge. Faceți clic dreapta pentru a lipi.",
+  "enable&continue": "Activare și Continuare",
+  "readAloud": "Citește cu voce tare",
+  "seeMoreHelp": "Vezi mai multe în <a>Centrul de Ajutor</a>",
+  "translateInto": "Tradu în: {{lang}}",
+  "imageTranslateInto": "Tradu textul din imagine în {{lang}}",
+  "translateBackInto": "Traduce înapoi în: {{lang}}",
+  "explainSection": "Îmi poți explica această secțiune în mai multe detalii?",
+  "betterAnswer": "Obțineți un rezultat mai bun cu {{MODEL_NAME}}",
+  "genBy": "Generat de {{MODEL_NAME}}",
+  "explain": "Explică",
+  "building": "Se construiește...",
+  "keyboardShortcuts": "Scurtături de la tastatură",
+  "console": "Consolă",
+  "enterText": "Introdu text",
+  "publish": "Publică",
+  "publishing": "Publicare",
+  "published": "Publicat",
+  "artifactPublished": "Artefact Publicat",
+  "artifactPublishTip1": "Odată ce publici acest artefact, vom crea un URL public astfel încât oricine să poată accesa. Chatul tău va rămâne privat și poți opri partajarea în orice moment.",
+  "artifactPublishTip2": "Acest artefact este disponibil publicului. Oricine poate accesa cu linkul partajat.",
+  "artifactUnpublishedTip": "Odată ce anulezi publicarea, ceilalți nu vor mai putea accesa Artefactul prin linkul partajat.",
+  "artifactNarrow": "Restabilește lățimea implicită",
+  "artifactWide": "Extinde la lățime completă",
+  "artifactRemixContent": "Hai să explorăm câteva variații ale acestui {{ARTIFACT}}. Poți sugera 3 moduri de a-l remixa și așteaptă răspunsul meu?",
+  "faceError": "Am întâlnit această eroare în cel mai recent {{ARTIFACT}}, vă rugăm să o remediați.",
+  "artifactError": {
+    "title": "Puteți încerca următoarele opțiuni:",
+    "solution1": "<a>Reîmprospătați previzualizarea</a>",
+    "solution2": "Trimiteți mesajul de eroare în chat pentru ajutor. <a>Trimiteți mesajul de eroare</a>"
+  },
+  "artifactsBetaTip": "Bucurați-vă de Artifacts (Pro) gratuit în timpul beta—nu ratați!",
+  "tryArtifact": "Încercați {{ARTIFACTS}}",
+  "tryNow": "Încercați exemple",
+  "errorOccurred": "A apărut o eroare",
+  "artifactDemos": [
+    {
+      "title": "Creați un Xilofon Virtual",
+      "value": "Creează un xilofon bazat pe HTML cu taste colorate într-un {{ARTIFACT}}. Oferă feedback vizual pentru tastele lovite și generează sunete simple și realiste folosind Web Audio API pe baza parametrilor de frecvență. Include instrucțiuni de bază."
+    },
+    {
+      "title": "Creați un Joc Emoji de Mâncat Mâncare",
+      "value": "Creează un joc simplu bazat pe HTML, similar cu Catch the Candy, într-un {{ARTIFACT}}. Jucătorul controlează un emoji în partea de jos a ecranului, mișcându-l rapid stânga și dreapta pentru a prinde și mânca articole de mâncare (de exemplu, 🍓, 🍔, 🍎) care cad de sus, evitând în același timp bombele (💣). De fiecare dată când jucătorul prinde un emoji de mâncare, emoji-ul său va schimba la o expresie pozitivă mai exagerată (de exemplu, 🤩, 😆, 😋) pentru a indica succesul. Dacă jucătorul prinde accidental o bombă, emoji-ul va arăta mai întâi o explozie (💥) și apoi va schimba la o expresie amețită (😵‍💫)."
+    },
+    {
+      "title": "Creați un Grafic de Livrări de Smartphone-uri",
+      "value": "Folosește React pentru a crea un grafic liniar frumos într-un {{ARTIFACT}} pe baza următorului tabel.\n------\n\nLivrări de smartphone-uri de către mărcile majore în ultimul deceniu (în miliarde)\n\n| An | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60 | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "Previzualizare",
+  "dataAnalysisTip": "Acest instrument este declanșat doar atunci când este utilizat, scăzând 1 Advanced Credit.",
+  "code": "Cod",
+  "code&preview": "Cod & Previzualizare",
+  "tryItNow": "Încercați acum",
+  "letsTryItNow": "Hai să încercăm acum!",
+  "tryArtifactNow": "Încercați {{ARTIFACTS}} acum",
+  "roast": {
+    "analyzing": "Se analizează...",
+    "roastX1": "🔥 Cineva tocmai te-a tachinat, aruncă o privire",
+    "roastX2": "Tachinează acest tip!",
+    "roast": "😜 Ironie",
+    "boast": "🥰 Laudă"
+  },
+  "historyGroups": {
+    "today": "Astăzi",
+    "thisWeek": "Săptămâna aceasta",
+    "thisMonth": "Luna aceasta",
+    "earlier": "Mai devreme"
+  },
+  "quotaInfo": {
+    "mobilePlan": "Plan Mobil",
+    "resetsDaily": "Se resetează zilnic",
+    "resetDate": "Data Resetării",
+    "tryForFree": "Încearcă gratuit",
+    "unlockFeats": "Deblochează Toate Funcțiile Premium",
+    "unlockToUse": "Deblochează Utilizarea Nelimitată",
+    "unlockAllFeats": "Deblochează Toate Funcțiile",
+    "unlockAllFeatsDesc": "Ai atins limita de încercare pentru funcțiile premium. Fă upgrade pentru a debloca toate funcțiile.",
+    "unlockAllFeats2": "Deblochează Accesul Complet",
+    "unlockAllFeatsDesc2": "Obține chat-uri nelimitate, acces web, analiză de date, generare de imagini, rezumate YouTube, chat cu fișiere/linkuri, extragere de text și multe altele",
+    "enjoyUnlimitedCredits": "Bucură-te de Credite Nelimitate",
+    "enjoyUnlimitedCreditsDesc": "Profită la maximum de GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro și altele.",
+    "webAccess": "Acces Web",
+    "chatActionTranslate": "Tradu în {{lang}}",
+    "dataAnalysis": "Analiză Avansată a Datelor",
+    "shortVideo": "AI Video Shortener",
+    "chatPDF": "Chat PDF/Link",
+    "chatFileLink": "Chat Fișier/Link",
+    "youtubeSummary": "Rezumat YouTube",
+    "readAloud": "Citire cu Voce AI",
+    "tryReadAloudForFree": "Încearcă Citirea cu Voce Gratuit",
+    "extractText": "Extragere Text AI",
+    "upgradeFor": "Fă upgrade pentru doar {{price}}/lună",
+    "off": "Reducere de {{num}}",
+    "allPlans": "Vezi toate planurile",
+    "usedCredits": "{{count}} credite utilizate",
+    "usedCredits_one": "{{count}} credit utilizat",
+    "usedCredits_other": "{{count}} credite utilizate",
+    "premiumTrial": "Încearcă funcțiile premium gratuit",
+    "premiumTrialTip": "Încercarea îți oferă acces limitat la funcțiile premium exclusive pentru membrii plătitori. Te rugăm să reții că fiecare utilizare va costa totuși credite.",
+    "creditRuleTitle": "Reguli de deducere a creditelor",
+    "creditRuleTip": "Deducem credite în funcție de modelul, funcțiile și lungimea contextului pe care îl folosești. Pentru detalii complete, vizitează <a>Centru de Ajutor</a>.",
+    "extraCreditTip": "Acestea sunt credite suplimentare pentru utilizare unică.",
+    "dailyCreditTip": "Regula de resetare se aplică doar creditelor din plan, nu și creditelor suplimentare.",
+    "inviteFriends": "<a>Invită prieteni</a> pentru a obține mai multe credite",
+    "vipInviteFriends": "Îți place {{APP_NAME}}? <a>Invită-ți prietenii!</a>",
+    "pocketPlanTips": "Creditele Pocket sunt utilizabile doar pe mobil. Bucură-te de câteva credite desktop gratuit.",
+    "pocketUpgrade": "Upgrade pentru a debloca mai multe"
+  },
+  "prompt": "Întrebare",
+  "addPrompt": "Adaugă întrebare",
+  "allSettings": "Toate setările",
+  "getAIAnswer": "Obține răspuns AI",
+  "login": {
+    "google": "Continuă cu Google",
+    "apple": "Continuă cu Apple",
+    "microsoft": "Continuă cu Microsoft",
+    "phone": "Continuă cu Telefonul"
+  },
+  "loginTip": "Nu ai un cont? <a>Creează un cont</a>",
+  "signupTip": "Ai deja un cont? <a>Autentifică-te</a>",
+  "guideVideoTitle": {
+    "chat": "Chat",
+    "translation": "Tradu",
+    "summary": "Rezumă",
+    "chatpdf": "ChatPDF",
+    "write": "Scrie",
+    "painter": "Pictor",
+    "ocr": "OCR",
+    "grammar": "Gramatică",
+    "email": "Răspuns Email"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Chat Multi-bot",
+      "web-access": "Acces Web",
+      "data-analysis": "Analiză Avansată a Datelor",
+      "painter": "Generare de Imagini",
+      "prompts": "Prompturi Personalizate"
+    },
+    "translation": {
+      "widget": "Text Selectat prin Sidebar",
+      "selected": "Text Selectat prin Meniu Contextual",
+      "input": "Text Tastat pe Pagină",
+      "page": "Pagină Web Completă",
+      "in-chat": "Text Selectat în Chat",
+      "in-chat2": "Text Tastat în Chat"
+    },
+    "summary": {
+      "youtube": "Videoclipuri YouTube",
+      "doc": "Documente Încărcate",
+      "page": "Pagină Web prin Meniu Rapid",
+      "page2": "Pagină Web prin Chat"
+    },
+    "chatpdf": {
+      "chatpdf": "Chat cu PDF"
+    },
+    "write": {
+      "widget": "Compune la Cerere",
+      "context": "Îmbunătățește Textul Selectat",
+      "input": "Rescrie Intrările"
+    },
+    "painter": {
+      "image": "Generează Imagini",
+      "bg-remove": "Elimină Fundalul",
+      "bg-replace": "Înlocuiește Fundalul",
+      "upscale": "Mărește Imaginile",
+      "eraser": "Elimină Zona Retușată",
+      "text-remove": "Elimină Textul"
+    },
+    "ocr": {
+      "ocr": "Extrage Textul și Ecuțiile"
+    },
+    "grammar": {
+      "widget": "Verificare Gramaticală prin Sidebar",
+      "context": "Verificare Gramaticală prin Meniu Contextual"
+    },
+    "email": {
+      "reply": "Generează Răspunsuri Email"
+    }
+  },
+  "llmStatus": {
+    "thinking": "Se gândește..."
+  },
+  "popupPage": {
+    "thank": "Vă mulțumim că folosiți extensia {{APP_NAME}}!",
+    "desc": "Pagina curentă este o pagină unică, iar caracteristica barei laterale nu este disponibilă. Cu toate acestea, puteți deschide o pagină completă pentru a discuta!",
+    "chatNow": "Vorbeste acum"
+  },
+  "setupPage": {
+    "loginSuccess": "Autentificare reușită",
+    "welcome": "Bun venit la {{APP_NAME}}!",
+    "startUsing": "Începe să folosești {{APP_NAME}}",
+    "explore": "Hai să Explorăm Funcția {{FEATURE_NAME}}",
+    "favorites": "Extensia cea mai populară a Chrome-ului",
+    "fiveStarRate": "Evaluări cu 5 stele",
+    "activeUser": "Utilizatori activi",
+    "userCount": "4M+",
+    "spamMsg": "Datele tale nu vor fi divulgate și nu vei primi spam.",
+    "privacy": "Continuând, ești de acord cu <a>Politica de Confidențialitate</a> & <b>Termenii de Utilizare</b>.",
+    "privacyPart1": "Continuând, ești de acord cu",
+    "privacyPart2": "<a>Politica de Confidențialitate</a> & <b>Termenii de Utilizare</b>",
+    "loginWith": "Conectați-vă cu {{name}}",
+    "pinTips": "<b>Fixați {{APP_NAME}}</b>, acces mai ușor!",
+    "pinClickTip": "Faceți clic pe {{icon}} pentru a fixa {{APP_NAME}}",
+    "pinClickTip2": "Fixează {{APP_NAME}} pentru Acces Rapid",
+    "pinClickTip3": "Clic pe iconița {{icon}} în dreapta sus",
+    "next": "Următorul",
+    "tryOut": "încearcă",
+    "endTitle": "{{APP_NAME}} este gata să te ajute!",
+    "endTip": "Acum poți naviga pe orice pagină web sau să explorezi Centrul nostru de Ajutor pentru a afla mai multe.",
+    "learnMore": "Află mai multe despre {{APP_NAME}}",
+    "endBottom": "Ai nevoie de asistență sau ai sugestii?",
+    "endBottom2": "Părerea ta contează! <a>Oferă feedback</a> pentru a ne ajuta să îmbunătățim experiența ta."
+  },
+  "getKeyPage": {
+    "welcome": "Bun venit la {{APP_NAME}}! Iată călătoria ta pentru a începe:",
+    "stepTitle": "Cum să obțineți o cheie API.",
+    "step1": "Pasul 1: Obțineți cheia API",
+    "step1-1": "<i>Conectați-vă contul OpenAI</i> Dacă nu aveți un cont, înscrieți-vă <b>AICI</b>",
+    "step1-2": "Vizitați pagina OpenAI API Key",
+    "step1-3": "Creați o nouă cheie secretă și copiați-o după cum urmează",
+    "step2": "Pasul 2: inserați cheia API în caseta de mai jos",
+    "step2-tips": "Nu vă faceți griji. Cheia dvs. API este utilizată numai local în cadrul extensiei ChatGPT. Utilizarea API-ului este mai stabilă decât utilizarea directă a ChatGPT.",
+    "step3": "Pasul 3: verificați-vă creditele <i>aici</i>"
+  },
+  "optionPage": {
+    "openNewChat": "Începe un chat nou",
+    "howToAccess": "Cum să accesezi ChatGPT și să-l folosești oriunde",
+    "howToAccessTip": "Pentru a ne asigura că AI este accesibilă pentru toată lumea, oferim 3 moduri de a accesa ChatGPT și de a-l folosi oriunde.",
+    "recommended": "Recomandat",
+    "loginFirst": "Vă rugăm să vă conectați mai întâi.",
+    "loginFirstTip": "Conectați-vă pentru a începe să utilizați Sider și pentru a primi credite gratuite în fiecare zi.",
+    "displayMode": "Mod de afișare",
+    "displayLanguage": "Limba de afișare",
+    "fontSizeTitle": "Dimensiunea fontului pentru mesaj",
+    "fontSizeTip": "Doar pentru textul mesajului",
+    "fontSizeOptions": {
+      "regular": "Normal",
+      "large": "Mare"
+    },
+    "fontSizeAutoTip": "Ajustare automată în funcție de lățimea barei laterale",
+    "sidepanelPosition": "Poziția panoului lateral",
+    "sidepanelPositionTip": "Pentru Chrome 114 sau mai nou, poate fi schimbată doar în setările browserului",
+    "providerPartTitle": "Acces AI",
+    "serviceProvider": "Furnizor de servicii",
+    "providerSiderTip": "{{APP_NAME}} oferă acces rapid, stabil și fără întreruperi la modelele AI de top, cum ar fi OpenAI o1, Claude 3.5, Gemini, Llama și altele—totul prin API-uri oficiale pe o singură platformă.",
+    "providerWebappTip": "Experiența poate varia pentru vizitatori și utilizatorii conectați din cauza restricțiilor OpenAI.",
+    "providerSiderDesc": "Susținut de API-uri oficiale ale modelelor de top, rapid și de încredere",
+    "providerAPIKeyDesc": "Ideal pentru cei cu o cheie API: prețuri stabile, bazate pe utilizare",
+    "providerWebappDesc": "Poate fi instabil din cauza schimbărilor de politică OpenAI",
+    "importantReminders": "Mementouri importante",
+    "webappReminder1": "Rămâneți conectat la contul dumneavoastră.",
+    "webappReminder2": "Acest serviciu poate fi instabil din cauza schimbărilor de politică OpenAI. Pentru performanțe rapide și stabile, vă recomandăm să utilizați {{APP_NAME}}.",
+    "defaultVoice": "Voce implicită",
+    "defaultSpeed": "Viteză implicită",
+    "whenSidebarReopens": "Când bara laterală se redeschide",
+    "scrollingBehavior": "Comportament de derulare pentru răspunsuri lungi",
+    "autoQuoteSelectedText": "Auto-citează textul selectat în caseta de introducere",
+    "autoQuoteSelectedTextTip": "Când este activat, textul selectat apare automat în caseta de introducere pentru acțiuni rapide",
+    "siderIcon": "Pictograma {{APP_NAME}}",
+    "siderIconDisplay": "Afișează întotdeauna pictograma {{APP_NAME}} pe pagină",
+    "siderIconDisplayTip": "Când este activat, pictograma {{APP_NAME}} apare în colțul din dreapta jos și poate fi trasă",
+    "webAsstSearchTitle": "Pentru căutare",
+    "webAsstYoutubeTitle": "Pentru YouTube",
+    "webAsstImageTitle": "Pentru imagini",
+    "webAsstEmailTitle": "Pentru email",
+    "webAsstCodeTitle": "Pentru cod",
+    "webAsstQATitle": "Pentru site-uri de întrebări și răspunsuri",
+    "webAsstLinkPreviewTitle": "Pentru previzualizările linkurilor",
+    "webAsstAISitesTitle": "Comparați modelele pe ChatGPT",
+    "webAsstSearchDesc": "Afișează răspunsul AI alături de rezultatele căutării",
+    "webAsstVideoSummaryDesc": "Afișează panoul de rezumat pe YouTube",
+    "webAsstVideoBilingualDesc": "Afișează controlul bilingv pe YouTube",
+    "webAsstImageDesc": "Afișează instrumentele AI la trecerea mouse-ului peste imagine",
+    "webAsstEmailDesc": "Afișează butonul de Răspuns AI în Gmail",
+    "webAsstCodeDesc": "Afișează butonul Explică Codul pe blocul de cod",
+    "webAsstQADesc": "Afișează butonul Răspuns pe site-urile de Întrebări și Răspunsuri",
+    "webAsstAISitesDesc": "Afișați butonul „Compară cu” pe {{url}}",
+    "webAsstInputBoxTitle": "Casetă de introducere",
+    "webAsstInputBoxDesc": "Afișează pictograma punct în caseta de introducere pentru a îmbunătăți scrierea",
+    "webAsstLinkPreviewDesc": "Afișează fereastra de previzualizare a linkului atunci când tragi un link.",
+    "webAsstLinkpreviewExampleLink": "Acesta este un link securizat, încearcă să-l tragi pentru a vedea fereastra de previzualizare",
+    "sendMessage": "Trimite mesaj",
+    "translatePage": "Tradu pagina",
+    "activateContextMenu": "Deschide întrebarea rapidă",
+    "invalidShortcutTip": "Include {{key1}}, {{key2}} sau {{key3}}",
+    "shortcutInUseTip": "Deja folosit, încearcă altul",
+    "disabledSites": "Dezactivat pe site-uri",
+    "addASite": "Adaugă un site",
+    "noSiteAdded": "Niciun site adăugat",
+    "wrongSiteTip": "URL invalid: Verifică URL-ul și încearcă din nou.",
+    "restoreDefault": "Restabilește implicitul",
+    "recommend4all": "(Recomandat tuturor)",
+    "sidebarProvider": "Bara laterală utilizează API-ul ChatGPT Premium pentru a asigura un acces stabil.",
+    "sidebarProviderGoPremium": "Oferim {{num}} credite gratuite zilnic pentru a garanta accesibilitatea AI pentru toți. <a>Fă upgrade la premium</a> pentru a crește limita zilnică de credite și pentru a sprijini misiunea noastră de a <b>oferi AI Universal pentru toată lumea</b>.",
+    "webappGPT4": "(Utilizatorii ChatGPT Plus îl pot încerca)",
+    "webappTip1": "Dacă sunteți utilizator ChatGPT Plus, acum aveți opțiunea de a alege GPT-4. Cu toate acestea, OpenAI poate limita numărul de mesaje pe care le puteți trimite pe zi.",
+    "webappTip2": "Vă rugăm să <m>Fixați fila ChatGPT</m> și rămâneți conectat pe site-ul web ChatGPT. Cu toate acestea, acest lucru poate să nu garanteze stabilitatea. Dacă întâmpinați probleme, accesați <v>site-ul web ChatGPT </v>și reîmprospătați pagina.",
+    "GPT4Desc": "Trebuie să rămâi conectat la contul tău ChatGPT pe site. Stabilitatea poate fi inconsistentă atât pentru utilizatorii Plus, cât și pentru utilizatorii gratuiți din cauza restricției OpenAI.",
+    "apiKeyProviderTip": "(Pentru dezvoltatorii cu cheie API)",
+    "apiKeyProvider": "API-ul oficial OpenAI este mai stabil și tarifele se bazează pe utilizare.",
+    "apiKeyLocally": "Cheia API este stocată local în browserul dumneavoastră și nu este trimisă niciodată în altă parte.",
+    "ownURL": "Folosește-mi propriul URL",
+    "customModelName": "Utilizați un nume de model personalizat",
+    "apiKeyTip1": "Este posibil ca cheia dvs. API OpenAI să fi expirat. Vă rugăm <a>verificați aici starea de expirare a cheii API.</a>",
+    "apiKeyTip2": "Dacă utilizați cheia API OpenAI gratuită, este posibil ca accesul la ChatGPT să nu fie stabil atunci când are o cerere mare.",
+    "apiFreeGuide": "Urmați ghidul pentru a obține cheia API.",
+    "apiKeyGpt4Tip": "Extensia acceptă GPT-4 dacă introduceți o cheie API GPT-4.",
+    "displaySearchRes": "Afișați răspunsul ChatGPT alături de paginile cu rezultatele căutării",
+    "whenToAsk": "Când să întrebați ChatGPT",
+    "promptTplForSearch": "Șablon prompt pentru Google și alte motoare de căutare",
+    "addNewTplForSearch": "Adăugați un nou șablon de prompt",
+    "launchSidebar": "Deschide bara laterală",
+    "sidebarLocation": "Locația barei laterale",
+    "showSelectedTextTitle": "Afișare automată a textului selectat în caseta de intrare",
+    "showSelectedTextDesc": "Afișează automat textul selectat ca citat în caseta de intrare pentru acțiuni rapide cu prompturi",
+    "sendingMsgBehavior": "Comportament după trimiterea mesajului în chat",
+    "showSelectedTextTip": "Dacă preferi să nu ai textul selectat afișat automat în viitor, îl poți dezactiva din <a>setările sidebar-ului</a>.",
+    "sidepanelLocation": "Locația barei laterale",
+    "sidebarLeftOrRight": "Așezați bara laterală pe partea stângă sau dreaptă",
+    "linkToSetting": "Schimbă locația barei laterale în setările browser-ului",
+    "sidepanelLeftOrRight": "Plasați panoul lateral pe partea stângă sau dreaptă. Panoul lateral este disponibil doar în Google Chrome 114 sau ulterior.",
+    "sidebarDisplayOption": "Mod de afișare din bara laterală",
+    "sidebarDisplayOptionTip": "Alegeți cum va apărea bara laterală pe pagină",
+    "sidebarDisplayOptions": {
+      "overlay": "Acoperire",
+      "expand": "Extindere"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "Derulează automat până la sfârșitul răspunsului",
+      "messageTop": "Pauzează derularea când răspunsul ajunge în partea de sus"
+    },
+    "sidebarOnStartup": "La deschiderea panoului lateral",
+    "sidebarOnStartupTip": "Configurează modul de afișare al interfeței de chat la deschiderea barei laterale",
+    "sidebarOnStartupOptions": {
+      "new": "Începeți întotdeauna un chat nou",
+      "last": "Reluați întotdeauna ultimul chat",
+      "auto": "Reluare sau restartare automată"
+    },
+    "sidebarOnStartupAutoTip": "Dacă este redeschis în decurs de 10 minute, conversația se reia; dacă după 10 minute, începe o conversație nouă",
+    "sidebarIcon": "Pictograma bară laterală",
+    "sidebarIconAccess": "Accesați bara laterală prin pictograma situată în colțul din dreapta jos al paginii. Puteți trage pentru a o muta în sus și în jos",
+    "easiestWayUse": "Cel mai simplu mod de a folosi {{APP_NAME}}",
+    "displayWhenSelect": "Afișează când este selectat text",
+    "addNewTplForSidebar": "Adăugați un nou șablon de prompt",
+    "editSearchTplTip": "utilizați {{keywords}} pentru a trimite cuvintele cheie de căutare",
+    "editSearchTplPlaceholder": "{{keywords}} în conținutul promptului vor fi înlocuite automat cu cuvintele tale de căutare",
+    "editSidebarTplTip": "Lipiți sau introduceți conținut aici",
+    "quickAction": {
+      "mainSwitchTitle": "Afișează {{name}}",
+      "mainSwitchDesc": "Când este activat, un meniu cu acțiuni rapide apare la selectarea textului",
+      "displayOnSelect": "când textul este selectat",
+      "displayOnShortcut": "când textul este selectat și se apasă {{key}}",
+      "displayOnSelectGuide": "Preferi o vizualizare mai simplă? Activează meniul contextual cu o tastă de scurtătură la alegerea ta în <a>setări</a>.",
+      "closeTips": "Acțiuni rapide pentru textul selectat. Faceți clic pe {{icon}} pentru a dezactiva dacă nu este necesar.",
+      "customPromptMenu": "Gestionează prompturile pentru {{name}}",
+      "useageScene": "Scenariu de utilizare",
+      "useageSceneRW": "Afișează {{name}} când selectezi text oriunde",
+      "useageSceneR": "Afișați {{name}} când selectați text pe o pagină web",
+      "useageSceneW": "Afișați {{name}} când selectați text într-o casetă de introducere"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "Asistent YouTube",
+        "SummaryDesc": "<b>Rezumat Video</b>: Când este activat, {{APP_NAME}} te poate ajuta să rezumi videoclipurile de pe YouTube",
+        "BilingualDesc": "<b>Subtitrări Bilingve</b>: Când este activat, {{APP_NAME}} va afișa automat subtitrări în timp ce vizionezi videoclipuri pe YouTube"
+      },
+      "qa": {
+        "title": "Asistent pentru întrebări și răspunsuri",
+        "desc": "Când este pornită, {{APP_NAME}} poate răspunde la întrebare pe Quora, StackOverflow și alte site-uri QA"
+      },
+      "code": {
+        "title": "Asistent de cod",
+        "desc": "Când este activat, {{APP_NAME}} te poate ajuta să explici codurile de pe paginile web"
+      },
+      "image": {
+        "title": "Asistent Imagine",
+        "desc": "Când este activat, puteți accesa rapid Instrumentele AI pentru Imagini plasând cursorul peste orice imagine"
+      },
+      "linkPreview": {
+        "autoSummarize": "Rezumat Automat",
+        "collapse": "Restrânge",
+        "guideTipDesc": "Trage un link pentru a-l previzualiza fără a părăsi pagina. Dezactivează în <link>setări</link> dacă nu este necesar.",
+        "guideTipTitle": "Previzualizează eficient linkurile",
+        "openInNewTab": "Deschide într-o filă nouă",
+        "pageLoadFailed": "Încărcarea paginii a eșuat",
+        "summarizeNotSupported": "Această pagină nu suportă rezumarea.",
+        "viewSummary": "Vezi rezumatul"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Solicitare nouă",
+      "editPrompt": "Editare prompt",
+      "checkPrompt": "Verificați promptul",
+      "showInList": "Afișează în listă",
+      "hideFromList": "Ascunde din listă",
+      "noPrompts": "Nu există indicații aici",
+      "promptTabChatDesc": "Indicațiile din 'Afișează în listă' apar în funcția {{name}}.",
+      "promptTabReadDesc": "Indicațiile din 'Afișează în listă' apar în {{name}} pentru textul paginii.",
+      "promptTabWriteDesc": "Indicațiile din 'Afișează în listă' apar în {{name}} pentru casetele de introducere.",
+      "deletePromptWarn": "Ștergeți această solicitare?",
+      "howToWritePrompt": "Cum se scrie prompt",
+      "howToVarTitle": "Ce variabile pot fi incluse în prompt?",
+      "howToVar1": "Puteți utiliza această variabilă pentru a reprezenta intrarea sau conținutul selectat. Dacă promptul nu include această variabilă, intrarea sau conținutul selectat va fi închis cu ghilimele triple și plasat la sfârșitul promptului.",
+      "howToVar2": "Puteți utiliza această variabilă pentru a reprezenta limba pe care doriți să o utilizați pentru ieșire, pe baza limbii implicite stabilite în setări.",
+      "howToExample": "Vă rugăm să utilizați următoarele subiecte sau cuvinte cheie pentru a genera o schiță care să includă titluri, capitole și subsecțiuni.\nTrimiteți-l în format Markdown. Dă-mi doar rezultatul și nimic altceva. Conturul trebuie să fie în limba {{lang}}.\nSubiecte sau cuvinte cheie: {{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Raport de problemă",
+        "title": {
+          "label": "Rezumatul problemei",
+          "tip": "Spune-ne ce a mers prost în câteva cuvinte."
+        },
+        "detail": {
+          "label": "Detalii probleme",
+          "tip": "Descrieți în detaliu ce a mers prost, orice acțiuni pe care le-ați întreprins și mesajele de eroare pe care le-ați primit."
+        }
+      },
+      "fr": {
+        "name": "Solicitare caracteristică",
+        "title": {
+          "label": "Titlu",
+          "tip": "Despre ce este cererea ta?"
+        },
+        "detail": {
+          "label": "Descriere",
+          "tip": "Vă rugăm să furnizați o descriere detaliată a funcției noi pe care o doriți."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "Salvați ca un prompt nou",
+    "replacePrompt": "Înlocuiți promptul",
+    "inputPlaceholder1": "Introduceți promptul sau alegeți din meniu",
+    "inputPlaceholder2": "Lipiți sau introduceți conținut aici",
+    "startNewLine": "Apăsați pe {{shortcut}} pentru a începe o nouă linie",
+    "inputPlaceholderCodes": "Lipiți sau introduceți coduri aici",
+    "inputPlaceholderQA": "Lipiți sau introduceți întrebarea aici",
+    "pressToSubmit": "Apăsați {{key}} pentru a trimite",
+    "stopGenerating": "Nu mai generați",
+    "regenerate": "Regenerați răspunsul",
+    "askTabLabel": "Cere",
+    "chatTabLabel": "conversație",
+    "moreTabLabel": "Mai mult",
+    "composeTabLabel": "Scrie",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "Traduceți",
+    "grammarTabLabel": "Gramatică",
+    "searchTabLabel": "Căutare",
+    "toolsTabLabel": "Instrumente",
+    "freePlan": "Plan gratuit",
+    "premiumPlan": "Plan Premium",
+    "extraQuota": "Cotă suplimentară",
+    "submitOption": "Trimiteți opțiunea",
+    "painterLabel": "Pictor",
+    "downloadLabel": "Descarcă aplicația desktop/mobile",
+    "deleteAllConfirmTitle": "Ștergeți tot"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}} selectează dinamic GPT-4o mini, Claude 3 Haiku, Gemini 1.5 Flash sau Llama 3 pentru răspunsuri optime în funcție de scenariu.",
+    "gpt-3.5": "Foarte rapid, excelent pentru majoritatea sarcinilor de zi cu zi.",
+    "gpt-4": "Cel mai capabil model, cel mai bun pentru sarcini complexe care necesită raționament avansat.",
+    "gpt-4o": "Cel mai bun model OpenAI, ideal pentru sarcini complexe menținând calitatea.",
+    "gpt-4o-mini": "Cel mai recent model OpenAI, oferă performanță rapidă și superioară în chat, codare și raționament pentru utilizarea zilnică.",
+    "gpt-5": "Cel mai recent model al OpenAI, cel mai bun pentru sarcini complexe menținând calitatea.",
+    "claude-instant": "Modelul de bază de la Anthropic, cazuri de utilizare cu latență scăzută și debit mare.",
+    "claude2": "Cel mai bun model de ofertă de la Anthropic, performanță superioară la sarcini care necesită un raționament complex.",
+    "claude-3-haiku": "Cel mai compact model al Anthropic, proiectat pentru o reactivitate aproape instantanee și experiențe AI fără întreruperi care imită interacțiunile umane",
+    "claude-3-sonnet": "Cel mai echilibrat model al Anthropic între inteligență și viteză, ideal pentru o gamă largă de sarcini.",
+    "claude-3.5-sonnet": "Ultimul model de la Anthropic, oferind de două ori viteza lui Claude 3 Opus și o inteligență superioară, îmbunătățind semnificativ raționamentul, cunoștințele, programarea și sarcinile vizuale.",
+    "claude-3-opus": "Cel mai puternic model al Anthropic, oferind performanță de ultimă generație în sarcini extrem de complexe și demonstrând fluență și înțelegere asemănătoare omului.",
+    "bard": "Modelul de la Google (PaLM 2), funcționează bine în sarcinile avansate de raționament.",
+    "gemini-pro": "Cel mai echilibrat model al Google, combinând perfect capacitatea cu eficiența.",
+    "gemini-1.5-pro": "Cel mai bun model al Google pentru performanță generală într-o gamă largă de sarcini.",
+    "gemini-1.5-flash": "Modelul ușor al Google, optimizat pentru viteză și eficiență.",
+    "llama-3": "Cel mai recent model Meta, cel mai bun pentru sarcini complexe menținând calitatea."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Cost <m>1 credit de bază</m>.",
+    "gpt-3.5-n_one": "Cost <m>{{count}} credit de bază</m>.",
+    "gpt-3.5-n_other": "Cost <m>{{count}} credite de bază</m>.",
+    "gpt-4": "Cost <m>1 credit avansat</m>.",
+    "gpt-4-2": "Cost <m>2 credite avansate</m>.",
+    "gpt-4-n_one": "Cost <m>{{count}} credit avansat</m>.",
+    "gpt-4-n_other": "Cost <m>{{count}} credite avansate</m>."
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "Răspuns de la",
+    "autoCloseBanner": "Se oprește automat după inactivitate",
+    "autoCloseTips": "Asistentul de Căutare se va opri dacă nu faceți clic pe niciun buton de pe card în decurs de 30 de căutări. Îl puteți reactiva oricând făcând clic pe buton.",
+    "signinToAsk": "Conectați-vă la Întrebați {{MODEL_NAME}}",
+    "newChat": "Chat nou",
+    "chatHistory": "Istoric chat",
+    "writeHistory": "Istoric scriere",
+    "searchHistory": "Istoric căutare",
+    "chatControls": "Controale de chat",
+    "inputPlaceholder": "Scrie un mesaj...",
+    "send": "Trimite",
+    "feedback": "Părere",
+    "experimental": "Această funcționalitate este încă în dezvoltare și poate suferi modificări, așa că te rugăm să împărtășești gândurile tale.",
+    "share": "Acțiune",
+    "replyLanguage": "Limba răspunsului",
+    "capabilities": "Capabilități",
+    "deleteConfirmTitle": "Ștergeți această conversație?",
+    "deleteConfirmContent": "Această acțiune nu poate fi anulată.",
+    "compareWeb": "Comparați răspunsul de pe web",
+    "compareAnsWith": "Compară răspunsul cu",
+    "smarterAnsWith": "Obține răspunsuri mai inteligente de la",
+    "improveWithXXX": "Obțineți un răspuns mai inteligent de la <b>Bot</b>",
+    "improveWithXXX2": "Obțineți un răspuns cuprinzător de la <b>Bot</b>",
+    "compareWithXXX": "<b>Întreabă Bot</b>",
+    "improveWithSearch": "Obțineți răspuns web de la Google",
+    "improveWithBoth": "Organizați Google Answers cu GPT-4",
+    "answerWithoutSearching": "<b>Întreabă botul</b> original",
+    "screenshot": "Captură de ecran",
+    "upload": "Încărcați",
+    "uploadFile": "Incarcați fișiere",
+    "siderUploadFile": "Încarcă fișiere în formate PDF, DOC, XLSX, CSV, JPG, JSON și alte formate, până la 6 fișiere simultan, până la 100MB per fișier.",
+    "addImage": "Adăugați o imagine",
+    "uploadTip": {
+      "formatTitle": "Suport:",
+      "limitTitle": "Limită:",
+      "format": "Pagină web, PDF, DOC, XLSX, CSV, JPG, JSON, MP3, WAV, M4A, MPGA și altele",
+      "limit": "Până la 6 fișiere, 100MB fiecare"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "Scrie un sonet în stil shakesperian despre smartphone-uri"
+      },
+      {
+        "title": "",
+        "ques": "Sugerează 10 costume creative de Halloween pentru copii"
+      },
+      {
+        "title": "",
+        "ques": "Conturează un plan pentru începători pentru a învăța despre finanțele personale"
+      },
+      {
+        "title": "",
+        "ques": "Explică unui copil de 10 ani de ce cerul este albastru"
+      }
+    ],
+    "textSelectedTip": "Text din selecția dvs",
+    "ocrTextTip": "{{name}} Rezultat",
+    "translateTip": "Traduceți rezultatul",
+    "textSelectedSystemMsg": "Ce ai vrea să faci cu textul?",
+    "welcomeSystemMsg": "Buna ziua! Cum te pot ajuta astăzi?",
+    "welcomeMsg": "Cum pot să te ajut astăzi?",
+    "chatActionTranslate": "Traduceți în {{lang}}",
+    "search": "Căutare",
+    "continueInChat": "Continuați în chat",
+    "chatWithVideo": "Chat cu video",
+    "userStopTip": "Utilizatorul a anulat cererea.",
+    "noChatHistory": "Niciun istoric încă.",
+    "noSearchHistory": "Nu s-au găsit rezultate",
+    "webAccessModalTitle": "{{APP_NAME}} permite atât ChatGPT-3.5, cât și GPT-4 să acceseze web!",
+    "webAccessModalContent": "Datele ChatGPT nu sunt în timp real. {{APP_NAME}} combină inteligența ChatGPT cu informații web în timp real, permițând GPT să gestioneze mai eficient întrebările legate de informații în timp real. Faceți upgrade pentru a obține această funcție și nu vă mai faceți griji cu privire la informațiile învechite!",
+    "readDoc": "Citirea documentelor",
+    "readDocFail": "Citirea documentelor a eșuat"
+  },
+  "sidebarComposePanel": {
+    "compose": "Compune",
+    "reply": "Răspuns",
+    "write": "Scrie",
+    "writePlaceholder": "Introdu subiectul despre care vrei să scrii",
+    "replyPlaceholder1": "Introdu textul original la care vrei să răspunzi",
+    "replyPlaceholder2": "Descrie ideea generală a răspunsului tău",
+    "submitShortcut": "Apăsați pe {{shortcut}} pentru a genera schița",
+    "generate": "Generați schița",
+    "format": "Format",
+    "email": "E-mail",
+    "idea": "Idee",
+    "outline": "Contur",
+    "essay": "Eseu",
+    "paragraph": "Paragraf",
+    "blog": "Postare pe blog",
+    "ads": "Reclame de marketing",
+    "twitter": "Stare de nervozitate",
+    "comment": "cometariu",
+    "message": "Mesaj",
+    "tone": "Ton",
+    "basic": "de bază",
+    "style": "Stil",
+    "professional": "Profesional",
+    "formal": "Formal",
+    "casual": "Casual",
+    "enthusiastic": "Entuziast",
+    "informational": "Informațional",
+    "funny": "Amuzant",
+    "length": "Lungime",
+    "short": "Mic de statura",
+    "medium": "Mediu",
+    "long": "Lung",
+    "regenerate": "Regenera",
+    "addToSite": "Adăugați pe site",
+    "addToSiteTip": "Plasați cursorul mouse-ului în caseta de introducere dorită și faceți clic pe „{{name}}” pentru a introduce",
+    "insertToSite": "Inserează rezultatul în caseta de introducere a paginii web",
+    "history": "Istoric",
+    "formatExists": "Formatul există deja",
+    "AIWriter": "Scriitor AI",
+    "continueOptimizeTips": "Continuați să rafinați și să îmbunătățiți alături de AI",
+    "alsoWriteTips": "Scriere alături de Al"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "Accept",
+    "checkFailed": "Verificare eșuată",
+    "checkNoError": "Nicio eroare",
+    "checking": "Control",
+    "fixError": "Rezolvă Tot ({{errorCount}})",
+    "ignore": "Ignora",
+    "improve": "Îmbunătățește",
+    "inputPlaceholder": "Doar limba engleză este suportată. Lipiți sau tastați textul pentru a verifica.",
+    "reasonForChanges": "Motivul modificărilor"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Auto detectare",
+    "placeholde": "Tastează sau lipește textul aici...",
+    "errWrongTargetLang": "Aceeași limbă sursă și țintă. Verifică selecția ta.",
+    "errTooManyChar": "{{num}}/{{total}}: Introducerea depășește limita de caractere.",
+    "upgradeForLongChar": "Upgradează acum pentru a debloca o intrare mai lungă ({{num}} caractere).",
+    "extraTransTips": "Poți de asemenea să traduci:",
+    "currentPage": "Pagina curentă",
+    "customization": {
+      "defaultPreferences": "Preferințe implicite",
+      "title": "Preferințe de traducere",
+      "Length": "Lungime",
+      "LengthOpt": {
+        "Brief": "Scurt",
+        "Concise": "Concis",
+        "Standard": "Standard",
+        "Expanded": "Extins"
+      },
+      "Tone": "Ton",
+      "ToneOpt": {
+        "Casual": "Casual",
+        "Neutral": "Neutru",
+        "Formal": "Formal",
+        "Authoritative": "Autoritar",
+        "Empathetic": "Empatic"
+      },
+      "Style": "Stil",
+      "StyleOpt": {
+        "Literal": "Literal",
+        "DynamicEquivalence": "Echivalența dinamică",
+        "CreativeAdaptation": "Adaptare creativă"
+      },
+      "Complexity": "Complexitate",
+      "ComplexityOpt": {
+        "Layman": "Laic",
+        "Standard": "Standard",
+        "Expert": "Expert"
+      }
+    },
+    "inputTranslateAdText": "Traduce instantaneu textul într-o casetă de introducere pe orice pagină web!",
+    "inputTranslateAdBtn": "Configurează acum",
+    "seeDict": "Vezi dicționarul"
+  },
+  "sidebarSearchPanel": {
+    "history": "Istoric",
+    "searchProgress": {
+      "searching": "Căutare",
+      "analyzing": "Analiză",
+      "organizing": "Organizare",
+      "generatingAnswer": "Generare răspuns",
+      "competed": "Completat",
+      "searchInWeb": "Căutare pe web",
+      "analyzeSearchResult": "Analizați rezultatele căutării",
+      "generateAnswer": "Generați răspunsul",
+      "searchCompleted": "Căutare finalizată",
+      "searchCancelled": "Căutare anulată"
+    },
+    "relatedSearches": "Căutări Asemănătoare",
+    "searchFrom": "Caută din",
+    "searchHistory": "Istoric Căutări",
+    "answer": "Răspuns",
+    "currentVisit": "Vizită curentă",
+    "feedback": {
+      "stepAnswer": "Generați răspunsul",
+      "stepSearch": "Efectuați căutarea",
+      "stepUnderstand": "Înțelegeți întrebările",
+      "tipTotal": "Total de {{count}} credite"
+    },
+    "stoppedSearch": "Ai oprit această căutare.",
+    "newSearch": "Căutare nouă",
+    "searching": "Căutare",
+    "searchFromAll": "Căutare pe întregul Internet",
+    "searchAll": "Căutare din toate",
+    "searchRange": "Interval de căutare",
+    "searchFromSite": "Căutare pe site-ul {{domain}}",
+    "sources": "Surse",
+    "suggestions": "Sugestii",
+    "title": "Caută",
+    "viewAll": "Vizualizați toate",
+    "defaultSearchSuggesiton": "Care este cea mai bună perioadă pentru a vizita Parisul?",
+    "followUpQuestion": "Întrebare de urmărire...",
+    "searchPlaceholder": "Introdu informațiile pe care vrei să le cauți"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "AI OCR poate face greșeli",
+    "dragImgTips": "Faceți clic pentru a încărca sau trageți o imagine aici pentru a extrage textul",
+    "noText": "Niciun text recunoscut",
+    "ocrCost": "Fiecare {{name}} va costa {{num}} credit de bază",
+    "ocrTips": "Extrageți text, numere și ecuații dintr-o imagine"
+  },
+  "pageTranslation": {
+    "title": "Traducere pagină",
+    "demoText": "ChatGPT este alimentat de Transformer, un model de învățare profundă conceput pentru procesarea limbajului natural, având rețele neuronale cu auto-atenție și feedforward.",
+    "free": "Gratuit",
+    "aiTranslator2": "Traducător AI",
+    "aiTranslatorFunTitle1": "Înțelegerea contextului",
+    "aiTranslatorFunDesc1": "Captează atât intenția, cât și tonul, mergând mai adânc decât traducerea cuvânt-cu-cuvânt",
+    "aiTranslatorFunTitle2": "Traducere precisă",
+    "aiTranslatorFunDesc2": "Tradu cu claritate și precizie, asigurându-te că niciun detaliu nu este pierdut",
+    "newAITranslationTip": "Traducerea paginii AI este acum disponibilă! Faceți clic aici pentru a o configura.",
+    "translateService": "Serviciu de traducere",
+    "translateServiceTip": "Traducerea AI costă credite de bază în funcție de lungimea conținutului.",
+    "pageTranslation": "Tradu acestă pagină",
+    "showOriginal": "Afișează textul original",
+    "transSettings": "Setări traducere",
+    "source": "Limba sursă",
+    "target": "Limba țintă",
+    "autoDetect": "Auto detectare",
+    "displayMode": "Mod de afișare",
+    "displayModes": [
+      "Bilingv",
+      "Doar traducere"
+    ],
+    "displayStyle": "Stil de afișare",
+    "displayStyles": [
+      "Niciunul",
+      "Subliniat",
+      "Slăbit"
+    ],
+    "displayStyleDesc": "Doar pentru traduceri în modul de comparație bilingvă",
+    "autoTrans": "Traducere automată",
+    "autoTrans2": "Tradu automat paginile web",
+    "autoTrans2Desc": "Când este dezactivat, apasă butonul de traducere sau folosește comanda rapidă",
+    "neverTransSite": "Nu traduce niciodată acest site",
+    "neverTransSites": "Nu traduce niciodată aceste site-uri",
+    "transAgain": "Tradu din nou"
+  },
+  "inputTranslation": {
+    "title": "Traducere input",
+    "mainSwitchTitle": "Traduce textul de intrare cu o tastă de declanșare",
+    "mainSwitchDesc": "Traduce și înlocuiește textul într-o casetă de introducere pe orice pagină web",
+    "triggerKeyTitle": "Tasta declanșatoare",
+    "triggerKeyDesc": "Apasă tasta declanșatoare de 3 ori rapid pentru a traduce, anulează cu {{key}}",
+    "spaceKey": "Tasta spațiu",
+    "model": "Model de traducere",
+    "neverTransSites": "Nu traduce niciodată pe aceste site-uri"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "Mod de Gândire",
+      "desc": "Modul de Gândire utilizează raționamentul Chain of Thought pentru a analiza probleme complexe prin inferență în mai mulți pași, oferind răspunsuri mai cuprinzătoare și mai perspicace.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Gândește-te: 9.11 sau 9.8, care este mai mare"
+        },
+        {
+          "title": "",
+          "value": "Gândiți-vă și scrieți o funcție pentru a modela teoria 'Șase grade de separare'. Dată fiind o rețea socială ca un graf, găsiți calea cea mai scurtă între oricare două persoane."
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "Artefacte",
+      "desc": "Creați și prezentați cu ușurință conținut, cum ar fi pagini web sau diagrame de flux, într-o fereastră nouă. Creșteți productivitatea cu interacțiuni în timp real și un spațiu de lucru concentrat.",
+      "demos": [
+        {
+          "title": "Creează un Xilofon Virtual",
+          "value": "Creează un xilofon bazat pe HTML cu taste colorate într-un {{ARTIFACT}}. Oferă feedback vizual pentru tastele lovite și generează sunete simple, realiste folosind Web Audio API pe baza parametrilor de frecvență. Include instrucțiuni de bază."
+        },
+        {
+          "title": "Creează un Joc Emoji cu Mâncare",
+          "value": "Creează un joc simplu bazat pe HTML, similar cu Catch the Candy, într-un {{ARTIFACT}}. Jucătorul controlează un emoji în partea de jos a ecranului, mișcându-l rapid stânga și dreapta pentru a prinde și a mânca articole de mâncare (de exemplu, 🍓, 🍔, 🍎) care cad din sus, evitând bombele (💣). De fiecare dată când jucătorul prinde un emoji de mâncare, emoji-ul său se va schimba într-o expresie pozitivă mai exagerată (de exemplu, 🤩, 😆, 😋) pentru a indica succesul. Dacă jucătorul prinde accidental o bombă, emoji-ul va arăta mai întâi o explozie (💥) și apoi se va schimba într-o expresie amețită (😵‍💫)."
+        },
+        {
+          "title": "Creează un Grafic de Livrări de Smartphone-uri",
+          "value": "Folosește React pentru a crea un grafic liniar frumos într-un {{ARTIFACT}} bazat pe următorul tabel.\n------\n\nLivrări de Smartphone-uri de către Branduri Mari în Ultima Decadă (în Miliarde)\n\n| An | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+        }
+      ]
+    },
+    "search": {
+      "name": "Acces web",
+      "desc": "Obțineți informații în timp real dincolo de datele pre-antrenate, asigurând răspunsuri precise și la timp pentru evenimentele curente, știri de ultimă oră și subiecte în evoluție.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Care sunt filmele cu cele mai bune recenzii în prezent în cinematografele din SUA?"
+        },
+        {
+          "title": "",
+          "value": "Ce acțiuni au înregistrat creșteri notabile astăzi?"
+        },
+        {
+          "title": "",
+          "value": "Care este cel mai notabil produs electronic nou lansat astăzi?"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "Generează Imagine",
+      "desc": "Descrieți pur și simplu ceea ce aveți în minte și generați imagini de înaltă calitate instantaneu. Nu sunt necesare abilități de design – doar imaginația dumneavoastră.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Proiectează un design futurist de mașină zburătoare."
+        },
+        {
+          "title": "",
+          "value": "Schitează un golden retriever alergând pe iarbă."
+        },
+        {
+          "title": "",
+          "value": "Ilustrează o femeie în vârstă care bea cafea în mod relaxat."
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "Analiza Datelor",
+      "desc": "Rulați cod Python în timp real pentru matematică avansată, statistici, învățare automată și procesare de date, simplificând sarcinile în diverse formate.",
+      "demos": [
+        {
+          "title": "Citiți datele din fișier și creați un grafic circular care arată proporția diferitelor bugete de cheltuieli.",
+          "value": "Citiți datele din fișier și creați un grafic circular care arată proporția diferitelor bugete de cheltuieli."
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Îți place extensia noastră?</b> Evaluează-ne cinci stele pe magazinul web pentru a ne ajuta să creștem",
+    "newInVersion": "Ce este nou în versiunea {{versionId}}",
+    "learnToUse": "Aflați cum să utilizați",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, Traducător AI",
+      "4_36_0": "Colectează Cunoștințe cu Wisebase",
+      "4_35_0": "Previzualizare Linkuri: Navighează mai inteligent",
+      "4_34_0": "Îmbunătățiri Gmail Al Reply, Artifacts și Translate",
+      "4_33_0": "O1 & Îmbunătățiri Rezumat Video",
+      "4_32_0": "Suport pentru fișiere audio în chat",
+      "4_31_0": "Navigare Unelte, Traducere Input, Copiere Rapidă",
+      "4_30_0": "Actualizat GPT-4o, Traducere Pagină și Subtitrări YouTube",
+      "4_29_0": "Experiență de chat îmbunătățită",
+      "4_28_0": "Claude 3.5 Haiku & Opțiuni Îmbunătățite",
+      "4_27_0": "Meniu contextual și artefacte îmbunătățite",
+      "4_26_0": "Introducerea Modului de Gândire (Experimental)",
+      "4_25_0": "Aspect proaspăt pentru o experiență mai bună",
+      "4_24_0": "Modelele Gemini au devenit mai inteligente și mai rapide!",
+      "4_23_0": "OpenAI o1-preview & o1-mini sunt disponibile acum!",
+      "4_22_0": "Demon vs Angel: Radiografia personalității tale X",
+      "4_20_0": "Upgrade Funcții de Traducere",
+      "4_19_0": "{{ARTIFACTS}}: Blocuri de conținut interactive, în timp real",
+      "4_18_0": "Partajarea Chatului este Acum Activă!",
+      "4_17_0": "Introducerea funcției Watch Highlights pentru YouTube",
+      "4_16_0": "Introducerea GPT-4o mini",
+      "4_13_0": "Introducere Citire cu Voce AI: Asistentul tău personal audio",
+      "4_12_0": "",
+      "4_11_0": "Cititor profund pentru a-ți îmbunătăți abilitățile de citire critică!",
+      "4_10_0": "OpenAI's GPT-4o este acum aici!",
+      "4_9_0": "Llama 3 Acum! Următoarea generație a LLM-ului open source de ultimă oră de la Meta.",
+      "4_8_0": "Gemini 1.5 Pro - Acum Disponibil!",
+      "4_7_0": "Rezumat video în chat, extragerea subtitrărilor, Claude 3 Haiku! 🚀",
+      "4_6_0": "Susține acum familia Claude 3!",
+      "4_5_0": "",
+      "4_4_0": "Toate instrumentele în Chat & Meniul contextual GPT-4",
+      "4_3_0": "Maximizați-vă experiența cu modul ecran complet!",
+      "4_2_0": "Acces mai eficient la interfața de utilizare și la bara laterală GPT-uri",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "Sider este gata să îți analizeze și să îți laude postările publice de pe X (Twitter)! Optează pentru râsete, fără a păstra date. Joacă și împărtășește bucuria cu prietenii tăi!"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>: Se potrivește cu performanța OpenAI-o1"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>: Excelează în raționamente complexe, matematică și sarcini de programare"
+          ]
+        },
+        {
+          "features": [
+            "<b>Traducător AI pentru Pagini Web</b>: Oferă traduceri naturale și precise"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>Salvează Pagini Web și Evidențieri</b>: Salvează conținut web valoros în Wisebase (baza de cunoștințe Al) cu un singur clic"
+          ]
+        },
+        {
+          "features": [
+            "<b>Al Inbox</b>: Lasă Al să îți categorizeze conținutul automat"
+          ]
+        },
+        {
+          "features": [
+            "<b>Chat cu Fișiere Multiple</b>: Obține răspunsuri instantanee din fișierele tale colectate"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>Previzualizări Instantanee</b>: Trage linkurile pentru a vizualiza conținutul fără a deschide file noi"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rezumate Inteligente</b>: Obține rapid informații esențiale de pe pagini"
+          ]
+        },
+        {
+          "features": [
+            "<b>Navigare Eficientă</b>: Rămâi concentrat cu mai puține clicuri și mai puține distrageri"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Al Reply în Gmail</b>: Suport pentru traducere și selecția modelului Al pentru o comunicare mai bună"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artifacts</b>: Exportă diagrame de flux ca imagini pentru partajare ușoară"
+          ]
+        },
+        {
+          "features": [
+            "<b>Translate</b>: Dicționar Al pentru traduceri precise ale cuvintelor și frazelor"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>: Mai rapid decât ‘o1-preview’, excelează în sarcini complexe cu mai mulți pași cu acuratețe avansată"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rezumat Video Fără Subtitrări</b>: Obțineți transcrieri și rezumate pentru videoclipuri YouTube fără subtitrări"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rezumat Conținut Web</b>: Îmbunătățit pentru platforme precum Reddit și Twitter"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>Audio la Text</b>: Încărcați fișier MP3, WAV, M4A sau MPGA pentru a genera transcrieri"
+          ]
+        },
+        {
+          "features": [
+            "<b>Vizualizați și Ascultați</b>: Citiți transcrierile în timp ce ascultați audio"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rezumați cu ușurință</b>: Creați rezumate rapide cu un singur clic"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>Navigare Unelte</b>: Accesează uneltele AI pentru imagini, PDF-uri și videoclipuri din bara de navigare"
+          ]
+        },
+        {
+          "features": [
+            "<b>Traducere Input</b>: Apasă de trei ori spațiu pentru a traduce textul introdus (activează în Opțiuni)"
+          ]
+        },
+        {
+          "features": [
+            "<b>Copiere Rapidă</b>: Copiază textul instantaneu cu meniul contextual"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>: Capacități îmbunătățite de scriere naturală și manipulare îmbunătățită a fișierelor"
+          ]
+        },
+        {
+          "features": [
+            "<b>Afișare Doar Traducere</b>: Traducerea paginii suportă acum vizualizarea doar a conținutului tradus"
+          ]
+        },
+        {
+          "features": [
+            "<b>Subtitrări YouTube Mai Bune</b>: Bucurați-vă de traduceri de subtitrări bilingve de calitate superioară"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>Editare mesaje</b>: Editați cu ușurință mesajele trimise și retrimiteți pentru noi răspunsuri"
+          ]
+        },
+        {
+          "features": [
+            "<b>Comparare alăturată</b>: Vizualizați răspunsurile de la mai multe modele pe pagină completă"
+          ]
+        },
+        {
+          "features": [
+            "<b>Pictogramă pentru solicitări personalizate</b>: Atribuiți pictograme solicitărilor personalizate pentru o organizare mai clară"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Haiku</b>: Oferă performanțe care depășesc Claude 3 Opus, excelând în codare, utilizarea uneltelor și raționament"
+          ]
+        },
+        {
+          "features": [
+            "<b>Personalizează dimensiunea fontului</b>: Acum poți schimba dimensiunea fontului mesajului"
+          ]
+        },
+        {
+          "features": [
+            "<b>Interfață UI Simplificată</b>: O interfață UI pentru Opțiuni mai curată și mai intuitivă pentru personalizare ușoară"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>Interfață UI simplificată</b>: Interfață mai curată și mai intuitivă pentru o experiență mai fluidă"
+          ]
+        },
+        {
+          "features": [
+            "<b>Traducere îmbunătățită</b>: Oferă semnificații ale cuvintelor înrudite cu acuratețe contextuală"
+          ]
+        },
+        {
+          "features": [
+            "<b>Publică și partajează artefacte</b>: Partajează cu ușurință artefactele tale public prin linkuri"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>Raționament Chain of Thought</b>: Descompune sarcinile complexe pas cu pas pentru o rezolvare mai inteligentă a problemelor"
+          ]
+        },
+        {
+          "features": [
+            "<b>Informații mai profunde</b>: Oferă răspunsuri gândite pentru a aborda întrebări dificile"
+          ]
+        },
+        {
+          "features": [
+            "<b>Funcționează cu toate modelele</b>: Disponibil fără probleme pe fiecare model"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>Design rafinat</b>: Vizuale moderne, aspect mai curat pentru ușurință în utilizare și concentrare"
+          ]
+        },
+        {
+          "features": [
+            "<b>Fixare promptă</b>: Fixează prompturile utilizate frecvent pentru acces rapid"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tabele extensibile</b>: Vizualizează date mari într-o fereastră nouă pentru o lizibilitate îmbunătățită"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>: Raționament superîncărcat cu abilități îmbunătățite în matematică și vizual."
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>: De 2 ori mai rapid, de 3 ori mai puțină latență, mai bun la vizualuri și codare."
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>: Gestionează sarcini complexe și rezolvă probleme mai dificile decât modelele anterioare în știință, programare și matematică. Costă 15 credite avansate per mesaj."
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>: Un model mai rapid, deosebit de eficient în programare. Ideal pentru raționamente concentrate fără cunoștințe extinse. Costă 3 credite avansate per mesaj."
+          ]
+        },
+        {
+          "features": [
+            "<b>Notă</b>: Există limite de rată."
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>Traduce Multi-Model</b>: Utilizează mai multe modele simultan pentru traduceri mai precise."
+          ]
+        },
+        {
+          "features": [
+            "<b>Rescrieri Versatile de Traducere</b>: Rescrie traducerile pentru diferite scenarii."
+          ]
+        },
+        {
+          "features": [
+            "<b>Subtitrări Bilingve</b>: Vizualizează subtitrările YouTube în ambele limbi simultan."
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>Previzualizare live:</b> Previzualizează și interacționează cu pagini web, documente și grafice generate de AI în timp real."
+          ]
+        },
+        {
+          "features": [
+            "<b>Iterație fără întreruperi:</b> Iterează asupra artefactelor generate prin chat."
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>Formaturi Multiple</b>: Partajează chatul tău ca link sau imagine."
+          ]
+        },
+        {
+          "features": [
+            "<b>Selecție Flexibilă</b>: Selectează și partajează o conversație întreagă sau doar o parte din ea."
+          ]
+        },
+        {
+          "features": [
+            "<b>Control Ușor</b>: Revocă linkurile partajate oricând."
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>Repere Video</b>: Narațiunea generată de AI îți economisește timp prin evidențierea rapidă a punctelor cheie din video."
+          ]
+        },
+        {
+          "features": [
+            "<b>Narațiune Naturală</b>: Vocile realiste generate de AI îți îmbunătățesc experiența de vizionare."
+          ]
+        },
+        {
+          "features": [
+            "<b>Suport Multi-limbă</b>: Înțelege cu ușurință videoclipurile dincolo de barierele lingvistice."
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>Performanță mai rapidă și superioară:</b> Face sarcinile zilnice mai fluide și mai eficiente."
+          ]
+        },
+        {
+          "features": [
+            "<b>Matematică și codare îmbunătățite:</b> Asigură performanțe precise pentru sarcini tehnice."
+          ]
+        },
+        {
+          "features": [
+            "<b>Upgrade de la GPT-3.5:</b> GPT-4o mini înlocuiește GPT-3.5 cu performanțe mai bune."
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>Voci AI Naturale</b>: Bucură-te de 9 voci AI cu sunet natural în mai multe limbi."
+          ]
+        },
+        {
+          "features": [
+            "<b>Ascultă Oriunde</b>: Selectează orice text de pe o pagină web pentru a-l auzi citit cu voce tare."
+          ]
+        },
+        {
+          "features": [
+            "<b>Suport pentru Bara Laterală</b>: Ascultă cu ușurință conținutul generat de AI din widgeturile barei laterale."
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>Suport pentru Claude 3.5 Sonnet:</b> Cel mai recent model de la Anthropic, cu o viteză de 2 ori mai mare decât Claude 3 Opus și cu o inteligență superioară, îmbunătățește semnificativ raționamentul, cunoștințele, codarea și sarcinile vizuale."
+          ]
+        },
+        {
+          "features": [
+            "<b>Retragerea Claude 3 Opus:</b> înlocuit de avansatul Claude 3.5 Sonnet."
+          ]
+        },
+        {
+          "features": [
+            "<b>Invită & Câștigă:</b> Invită-ți prietenii pentru a câștiga interogări gratuite și pentru a încerca ultimul model astăzi!"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>Pagini web multiple:</b> Citește mai multe pagini web sau documente simultan"
+          ]
+        },
+        {
+          "features": [
+            "<b>Instrumente de citire critică:</b> Clarifică conceptele cheie, Identifică presupunerile, Evidențiază fragmente, Află despre autor și altele."
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}:</b> Selectează dinamic cel mai bun model rapid (GPT-3.5, Claude 3 Haiku, Gemini 1.5 Flash sau Llama 3) pentru sarcina ta specifică."
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Viteză sporită:</b> Obțineți răspunsuri de 2x mai rapide decât GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Viziune îmbunătățită:</b> Înțelegere mult îmbunătățită a imaginilor"
+          ]
+        },
+        {
+          "features": [
+            "<b>Limbaje extinse:</b> Mai multe limbi, calitate mai bună și performanță mai rapidă"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Model Nou:</b> Suport pentru Llama 3 acum"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Model Nou:</b> Suportă acum Gemini 1.5 Pro"
+          ]
+        },
+        {
+          "features": [
+            "<b>Unelte noi AI pentru Imagini:</b> Accesează funcțiile AI plasând cursorul peste orice imagine"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "Rezumat în chat: Obțineți punctele cheie ale videoclipurilor YouTube cu „Citiți această pagină” în fereastra de chat."
+          ]
+        },
+        {
+          "features": [
+            "Extragere ușoară a subtitrărilor: Obțineți subtitrări cu un singur clic pe YouTube pentru o înțelegere mai profundă."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Acum disponibil pentru a îmbogăți experiența dvs. de chat."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Pretinde că are abilități \"aproape umane\" și poate învinge GPT-4."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Echilibrează inteligența și viteza, ideal pentru recuperarea informațiilor sau automatizarea vânzărilor."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Widgetul Agent de Căutare:</b> Experimentați viitorul căutării cu automatizarea AI"
+          ]
+        },
+        {
+          "features": [
+            "<b>Traduceți pagina web:</b> Stiluri de afișare a traducerii mai prietenoase pentru cititori"
+          ]
+        },
+        {
+          "features": [
+            "<b>Setare nouă:</b> Redeschiderea automată a ultimei conversații la deschiderea panoului lateral"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Un nou instrument avansat de analiză a datelor:</b> Interpretor de cod pentru manipularea eficientă a datelor și calculuri complexe"
+          ]
+        },
+        {
+          "features": [
+            "<b>Un nou instrument de pictură:</b> Creează imagini instantaneu în chat"
+          ]
+        },
+        {
+          "features": [
+            "<b>Meniul contextual îmbunătățit:</b> Folosește GPT-4 în meniul contextual."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Intrați într-o vedere imersivă pe tot ecranul"
+          ]
+        },
+        {
+          "features": [
+            "Bucurați-vă de toate funcțiile panoului lateral, acum în modul ecran complet"
+          ]
+        },
+        {
+          "features": [
+            "Comutați fără probleme între moduri pentru ce e mai bun din ambele lumi"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Interfață reîmprospătată:</b> Mai curat și mai ușor de navigat"
+          ]
+        },
+        {
+          "features": [
+            "<b>Bară de navigare pliabilă:</b> Asigură o experiență de chat concentrată, păstrând în același timp caracteristicile esențiale la îndemână"
+          ]
+        },
+        {
+          "features": [
+            "<b>Acces GPT-uri în bara laterală:</b> Pentru utilizatorii ChatGPT Plus, accesul direct la GPT-uri este acum disponibil în bara laterală în modul aplicație web"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "Previzualizare GPT-4V(ision)! Răspuns și AI pentru Gmail",
+          "features": [
+            "{{SIDERVISION}} este alimentat de GPT-4V",
+            "O mai bună înțelegere a imaginilor",
+            "Înțelegeți rapid intențiile de e-mail",
+            "Alegeți dintre diverse tonuri și personaje",
+            "Alegeți fără efort sugestiile de răspuns"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "Pagina web GPT-4 Turbo și Chat!",
+          "features": [
+            "Suportă GPT-4 Turbo și GPT-3.5 Turbo",
+            "Traduceți întreaga pagină web",
+            "Pagina web de chat în bara laterală",
+            "Chat PDF în bara laterală"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Widget de traducere",
+          "features": [
+            "Personalizați-vă traducerea într-un widget de traducere dedicat",
+            "Îmbunătățește răspunsurile ChatGPT în Google, Bing, Baidu etc."
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} a devenit mai inteligent",
+          "features": [
+            "{{4+VISION}}",
+            "1-clic pentru a răspunde la aceeași întrebare cu diferiți roboți"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Grammar Widget",
+          "features": [
+            "Verificați erorile gramaticale",
+            "Remediați erorile gramaticale",
+            "Îmbunătățiți scrierea dincolo de gramatică"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Bara laterală ChatGPT cu Vision",
+          "features": [
+            "Extrageți text dintr-o imagine",
+            "Pune orice întrebare despre imagine",
+            "3 moduri de a trimite o imagine către {{SIDERVISION}} <div><ol><li>Faceți o captură de ecran</li><li>Trageți și plasați o imagine în fereastra de chat</li><li>Încărcați o imagine </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Extrageți text dintr-o imagine"
+          ]
+        },
+        {
+          "features": [
+            "Extrageți text dintr-o imagine"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Plan de prețuri nou cu 5x mai multe credite GPT-4",
+          "features": [
+            "Vești bune! Prețurile noastre actualizate îți oferă acum și mai mult acces la creditele GPT-4 și Claude 2.",
+            "Dacă sunteți deja un utilizator premium, veți fi actualizat automat. În plus, avem un nou plan „Nelimitat” pentru toți utilizatorii puternici!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Mai mult bot!",
+          "features": [
+            "Pe lângă ChatGPT și Claude, Sider îl sprijină acum pe Bard!"
+          ]
+        },
+        {
+          "title": "OCR: extrageți text din orice imagine și trimiteți-l la ChatGPT",
+          "features": [
+            "Recunoașteți peste 10 limbi majore",
+            "Recunoașteți scrisul de mână în engleză",
+            "Recunoașteți <b>ecuațiile matematice</b> din text"
+          ]
+        },
+        {
+          "title": "Îmbunătățiți Painter",
+          "features": [
+            "Înlocuiți întregul fundal",
+            "Eliminați zona selectată"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Mai multe chatbots</b>: Acum acceptă Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Chat de grup</b>: comparați răspunsurile la chatbot!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Menționați</b>: folosiți „@” pentru a menționa și a interacționa fără efort cu orice chatbot din conversație!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Solicitare rapidă</b>: trebuie doar să tastați „/” și să mergeți!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Design simplu</b>: faceți designul simplu și ușor de navigat"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Manager prompt îmbunătățit pentru",
+          "features": [
+            "Citirea meniului contextual",
+            "Scrierea meniului contextual"
+          ]
+        },
+        {
+          "title": "Editor de imagini AI",
+          "features": [
+            "Eliminați fundalul din orice imagine",
+            "Eliminați textul din orice imagine"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Asistent de citire: Folosiți inteligența artificială pentru înțelegere rapidă în timp ce citiți pagini web",
+        "Asistent de scriere: generați rapid conținut cu AI în caseta de introducere web"
+      ],
+      "2_7_0": [
+        "Desenați o imagine din text",
+        "Desenați o imagine dintr-o imagine de referință"
+      ],
+      "2_6_0": [
+        "Sider acceptă bara laterală fixă - Puteți conversa prin chat între toate filele fără a suprapune niciun conținut <br /> (disponibil în Chrome 114 sau o versiune ulterioară)"
+      ],
+      "2_5_0": [
+        "Rezumat YouTube! Vizionați 1 oră de videoclip YouTube într-un minut",
+        "Comparați răspunsurile oferite de oameni și AI pe site-uri de întrebări și răspunsuri precum Quora, StackOverflow și Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Acces inteligent la web</b>: pe baza interogării dvs., AL va decide dacă trebuie să acceseze web.",
+        "Îmbunătățirea stabilității"
+      ],
+      "2_3_0": [
+        "Suportă navigare și pluginuri pentru utilizatorii Plus!",
+        "ChatGPT cu acces la internet pentru toată lumea!"
+      ],
+      "2_2_0": [
+        "Compune orice mesaj",
+        "Răspunde la e-mail, tweet, comentariu etc"
+      ],
+      "2_1_0": [
+        "Comandă rapidă pentru Căutare rapidă",
+        "Redimensionați fereastra Căutare rapidă",
+        "Remedieri de erori și alte îmbunătățiri UX"
+      ],
+      "2_0_0": [
+        "Suportă <b>GPT-4 </b>pentru toți utilizatorii!",
+        "Invită prieteni și câștigă credite <b>GPT-4</b> pentru amândoi!",
+        "Remedieri de erori și alte îmbunătățiri UX"
+      ],
+      "1_1_0": [
+        "Chat complet în <b>fila nouă</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> împreună!",
+        "Corectarea erorilor"
+      ],
+      "1_0_13": [
+        "Continuați conversația după ce ați pus întrebări",
+        "Comutați între GPT-4 și GPT-3.5 pentru utilizatorii Plus",
+        "Accesați și căutați cu ușurință istoricul chat-urilor"
+      ],
+      "1_0_12": [
+        "Sincronizați setările extensiilor pe computere",
+        "Accesați solicitările dvs. de pe diferite laptopuri",
+        "Salvați chat-urile pentru utilizare ulterioară",
+        "Partajați chat-uri prin link"
+      ],
+      "1_0_11": [
+        "Accesați rapid acțiunile printr-o fereastră pop-up fără a deschide bara laterală.",
+        "Adăugați suport pentru limbi suplimentare.",
+        "Păstrați preferința de limbă a utilizatorului atunci când utilizați funcția de traducere.",
+        "Rezolvați conflictele de comenzi rapide pe platforme precum GitHub și altele."
+      ],
+      "1_0_10": [
+        "Acceptă acum peste 50 de limbi!"
+      ],
+      "1_0_8": [
+        "Suportă GPT-4 pentru utilizatorii Plus! Verificați pagina de setări!"
+      ],
+      "1_0_7": [
+        "Amintiți-vă promptul folosit ultima dată",
+        "Optimizați poziția panoului chatGPT pe paginile de căutare",
+        "Adăugați o opțiune pentru a plasa pictograma din bara laterală în pagină în partea stângă",
+        "Optimizați dimensiunea pachetului",
+        "Adăugați modul întunecat",
+        "Acceptați proxy-ul dvs. URL API"
+      ],
+      "1_0_6": [
+        "Îmbunătățiți funcția de rezumat în pagina Youtube"
+      ],
+      "1_0_5": [
+        "Amintiți-vă locația pictogramei barei laterale",
+        "Îmbunătățiți tastele de comenzi rapide",
+        "Salvați șabloanele de solicitare direct din bara laterală"
+      ],
+      "1_0_4": [
+        "Reordonați elementele prompte din lista verticală",
+        "Arhivați elementele prompte pe care nu le veți folosi",
+        "Răspuns de asistență în peste 50 de limbi"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter pentru a face „Trimite” rapid",
+        "Opțiunea de a ascunde panoul în pagina cu rezultatele căutării",
+        "Suport ESC pentru a ascunde bara laterală",
+        "Suport articol lung"
+      ],
+      "1_0_2": [
+        "Adăugați butonul de oprire pentru a opri generarea de răspuns",
+        "Schimbați locul de restrângere a butonului"
+      ],
+      "1_0_1": [
+        "Îmbunătățiți funcția de rezumat în pagina Youtube",
+        "Remediați unele erori legate de copiere/lipire și imprimare"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Activează instrumentele de chat pentru a debloca capacități puternice.",
+    "content2": [
+      "Explorează internetul în mod transparent.",
+      "Transformă-ți ideile în vizualuri uimitoare.",
+      "Adâncește-te în date cu analiză de experți."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Votați pentru vânătoarea de produse",
+    "sidebar2Banner1": "Votați-ne ACUM la <b>Product Hunt</b> pentru a răspândi vestea.",
+    "sidebar2ModalTitle": "✨ Rezumatul barei laterale 2.0",
+    "sidebar2ModalDesc": "• Fila Chat\n  • Căutare rapidă pentru interogări rapide\n  • Un cont pentru a sincroniza solicitările\n  • Salvați și partajați conversații\n  • Acceptă mai multe limbi\n  • Suport GPT-4",
+    "ios1Banner1": "Votează pentru ChitChat - aplicația ChatGPT pentru iOS 🎉",
+    "ios1Banner2": "Să începem lucrurile cu explozie! 😄",
+    "ios1ModalTitle": "✨ Nou pe aplicația ChitChat iOS",
+    "ios1ModalDesc": "• Obțineți răspunsuri de la ChatGPT 3.5 și 4\n• O echipă de asistență formată din roboți vă ajută într-un singur loc\n  • Transformă PDF-ul într-un chatbot"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}} pentru Mac",
+    "macContent": "Suntem încântați să anunțăm că Sider este acum disponibil pentru utilizatorii de Mac! Bucurați-vă de o experiență perfectă și eficientă, adaptată doar pentru Mac, împreună cu toate funcțiile puternice pe care le iubiți de la versiunea noastră web.",
+    "macContent2": "{{APP_NAME}} este acum disponibilă pentru Mac!",
+    "macDownload": "Descarcă acum!",
+    "phTitle": "Îți place să folosești extensia noastră?",
+    "phContent": "Acordă-ne un moment pentru a ne susține cu un vot pe <i>Product Hunt</i>—este rapid, ușor și ne ajută foarte mult!",
+    "phContent2": "Votați-ne la <b>Product Hunt</b>",
+    "phVote": "Voteaza acum!",
+    "phTitle2": "Am lansat versiunile Sider 3.X pe <i>Product Hunt</i>.",
+    "phFeatures1": "<b>Widget-uri ChatGPT</b>: scrieți, extrageți text din imagini, verificați gramatica și traduceți, totul într-un singur loc.",
+    "phFeatures2": "<b>Sider Vision</b>: discutați despre imagini cu GPT-4 Vision, ducând conversația AI la nivelul următor.",
+    "phFeatures3": "<b>Group AI Chat</b>: interacționează cu ChatGPT, GPT-4, Claude și Bard într-un singur chat de grup inovator.",
+    "phFeatures4": "<b>Toți suntem urechi</b>: feedback-ul dvs. modelează Sider - împărtășiți-vă gândurile, vă ascultăm!",
+    "phVote2": "Votați pentru <i>Product Hunt</i>",
+    "phVoteTips": "<b>Votul de astăzi este cheia</b> - Sprijină-ne acum!",
+    "halloweenCountdown": "Ofertă Înfricoșătoare: <b>{{time}} Rămas</b>",
+    "halloweenCountdown2": "{{price}} REDUCERE: <b>{{time}} Rămas</b>",
+    "halloweenCardTitle": "Reducere de Halloween",
+    "halloweenCardDesc": "Deblochează Economiile Înfricoșătoare",
+    "halloweenCardTitle2": "Revendică Deliciul de Halloween",
+    "halloweenCardDesc2": "Bucură-te de {{price}} REDUCERE",
+    "blackFridayCountdown": "Black Friday: <b>{{time}} rămas</b>",
+    "xmasCountdown": "Reduceri de Sfârșit de An: <b>{{time}} Rămase</b>"
+  },
+  "timeUnit": {
+    "day": "Zi",
+    "day_one": "Zi",
+    "day_other": "Zile",
+    "hour": "Oră",
+    "hour_one": "Oră",
+    "hour_other": "Ore",
+    "minute": "Minut",
+    "minute_one": "Minut",
+    "minute_other": "Minute",
+    "second": "Secundă",
+    "second_one": "Secundă",
+    "second_other": "Secunde"
+  },
+  "searchTool": {
+    "questionMark": "Declanșează ChatGPT adăugând un semn de întrebare după interogare",
+    "fiveStart": "Vă place această extensie? Oferiți-ne o evaluare de 5 stele la {{store}}",
+    "loginAndCloudflareCheck": "Vă rugăm să vă conectați și să treceți verificarea Cloudflare la {{web}}",
+    "braveTrouble": "Încă nu funcționează? Urmăriți {{url}}",
+    "cloudflareCheck": "OpenAI necesită trecerea unui control de securitate din când în când. Dacă acest lucru continuă să se întâmple, schimbați furnizorul AI la OpenAI API în <i>opțiunile de extensie</i>.",
+    "failedResponse": "Nu s-a încărcat răspunsul de la ChatGPT:",
+    "whenToAskTips": "Fiecare căutare consumă un credit de bază. Apasă aici pentru a seta când să întrebi ChatGPT.",
+    "waitResponse": "Se așteaptă răspunsul ChatGPT..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> Evaluări de 5 Stele",
+    "AIContentWarning": "Conținutul generat de AI poate să nu fie întotdeauna autentic",
+    "activeUsers": "<num>5M+</num> Utilizatori activi",
+    "copyIamge": "Copiază imaginea",
+    "copyLink": "Copiază linkul",
+    "downloadImage": "Descarcă imaginea",
+    "generateImage": "Generează imaginea",
+    "generateLink": "Generează link",
+    "linkCopied": "Link copiat",
+    "linkGenerated": "Link generat",
+    "qrcodeTip": "Scanează pentru a obține {{APP_NAME}}!",
+    "selectAll": "Selectează tot",
+    "shareOn": "Distribuie pe",
+    "slogan": "Asistentul tău AI",
+    "socialMediaImageCopiedTip": "Imagine copiată și gata de lipit."
+  },
+  "sidepanel": {
+    "title": "Sider suportă bară laterală fixă",
+    "tip": "Sfat: Reglați lățimea panoului lateral în mod corespunzător pentru o experiență mai bună.",
+    "benefit1": "Bara laterală Sider nu va <b>dispără niciodată</b> dacă navigați la o pagină nouă.",
+    "benefit2": "Puteți conversa prin chat între toate filele fără a <b>suprapune niciun conținut</b>.",
+    "benefit3": "Disponibil numai în <b>Google Chrome 114 sau o versiune ulterioară</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Costă 1 credit de bază și 1 interogare cititor",
+    "smartPlayCost": "Costă 1 interogare text rapidă și 1 interogare cititor, citirea vocală este facturată pe măsură ce folosești",
+    "smartPlayOnlyCost": "citirea vocală este facturată pe măsură ce folosești",
+    "videoSummaryBtn": "Rezumat video",
+    "videoSummaryMakeFullBtn": "Creează un rezumat complet",
+    "keyMomentsCollapse": "Restrânge",
+    "keyMomentsClickExpand": "Apasă pentru a extinde",
+    "originalSubtitles": "Subtitrări originale",
+    "transcribing": "Transcriere",
+    "expandAll": "Extinde tot",
+    "loginToAsk": "Conectați-vă la Întrebare",
+    "videoSummaryText": "Rezumat video",
+    "summary": "Rezumat",
+    "smartPlay": "视频速览",
+    "createShortenVideo": "Creează un videoclip scurt",
+    "smartPlayBtnTips": "Vizionați un videoclip scurt care vă ajută să obțineți rapid punctele esențiale și să economisiți timp.",
+    "shortenVideoTips": "Transformă acest videoclip într-un rezumat concis care să surprindă punctele cheie!",
+    "smartPlaySwtichVoiceTitle": "Notificare de deducere a creditelor",
+    "smartPlaySwitchVoiceContent": "Schimbarea vocii va deduce din nou credite pe baza lungimii complete a scriptului video. Video-ul va continua să ruleze de la poziția curentă. Doriți să continuați?",
+    "smartPlaySwitchVoiceBtn": "Da, schimbă vocea",
+    "smartPlaySwitchVoiceCancel": "Nu, anulează",
+    "smartPlayReturnToCurrentProgress": "Revenire la progresul curent",
+    "smartPlayPlaybackEnded": "Redarea momentelor importante s-a încheiat",
+    "showHighlights": "Afișează momentele importante",
+    "hideHighlights": "Ascunde momentele importante",
+    "previousHighlight": "Momentul important anterior",
+    "nextHighlight": "Momentul important următor",
+    "showSubtitles": "Afișează subtitrările",
+    "hideSubtitles": "Ascunde subtitrările",
+    "fullScreen": "Ecran complet",
+    "playbackSpeed": "Viteza de redare",
+    "subtitle": "Subtitrare",
+    "subtitles": "Subtitrări",
+    "responseLanguage": "Limbă de răspuns",
+    "bilingual": "Bilingv",
+    "subtitleFailed": "Subtitrările nu au putut fi încărcate",
+    "videoTooLang": "Pentru rezumare, videoclipurile trebuie să fie mai scurte de 10 ore.",
+    "displayTranslation": "Afișează traducerea",
+    "noSubtitleTips": "Rezumarea este disponibilă doar pentru videoclipurile cu subtitrări în acest moment.",
+    "shareToComment": "Distribuie pentru a comenta",
+    "generatedBy": "Generat de {{name}}",
+    "shownotes": "Momente importante",
+    "freeLimitTips": "Perioada de încercare gratuită a fost epuizată, faceți upgrade acum pentru a continua să utilizați funcția de rezumat video.",
+    "askQuestionBtn": "Răspunde",
+    "noQuestionTip": "{{APP_NAME}} nu poate găsi problema pe pagină.",
+    "targetLanguage": "Limba țintă",
+    "whisperCostText": "Acest videoclip nu are subtitrări externe și necesită transcriere pentru a rezuma. (1 Credit Avansat/10 min sau mai puțin)"
+  },
+  "quickActions": {
+    "requireSignin": "Conectare obligatorie",
+    "siginHint": "Vă rugăm să vă conectați pentru a accesa această funcție.",
+    "askAI": "Întreabă pe {{name}}",
+    "defaultPlaceholder": "Întrebați {{APP_NAME}} orice",
+    "defaultPlaceholder2": "Întrebați {{APP_NAME}} cu conținutul de mai sus",
+    "managePrompts": "Gestionează prompturile",
+    "pressToClose": "Apăsați pe {{name}} pentru a închide",
+    "disableOnce": "Ascundeți până la următoarea vizită",
+    "disableSite": "Dezactivează pe acest site",
+    "disableGlobal": "Dezactivează pe toate site-urile",
+    "continueImproving": "Îmbunătățirea în continuare",
+    "dictExample": "Exemplu:"
+  },
+  "wisebase": {
+    "inbox": "Inbox AI",
+    "myWisebase": "{{name}} al meu",
+    "highlight": "Evidențiază",
+    "unhighlight": "Dezactivează evidențierea",
+    "HighlightInvalid": "Evidențierile lipsesc",
+    "HighlightInvalidDesc": "Datorită modificărilor pe această pagină web, evidențierile tale nu mai sunt vizibile. Încă le poți accesa în <a>{{name}}</a>.",
+    "viewInSite": "Vezi pe site",
+    "addCollection": "Adaugă un {{name}}",
+    "savePage": "Salvează pagina",
+    "editSavedPage": "Editează pagina salvată",
+    "failedToSave": "Eșec la salvare",
+    "failedToDelete": "Eșec la ștergere",
+    "pageRemoved": "Pagina a fost ștearsă",
+    "removePage": "Ștergi pagina?",
+    "removePageDesc": "Aceasta va șterge pagina împreună cu evidențierile sale.",
+    "saving": "Se salvează",
+    "pageSaved": "Pagina a fost salvată",
+    "vistMyWisebase": "Deschide {{name}}",
+    "errNameExists": "Numele există deja"
+  },
+  "msg": {
+    "searchNotFound": "Nu au fost găsite rezultate",
+    "iosDownload": "Descarcă aplicația iOS / Android",
+    "notSupportFile": "Format de fișier nesuportat",
+    "supportedFileFormat": "Formatele de fișier acceptate sunt {{formats}}",
+    "maxFileSize": "Dimensiunea maximă a fișierului este {{size}}",
+    "maxSize": "Dimensiune maximă: {{num}}",
+    "fetchFailed": "Imaginea nu a putut fi obținută. O puteți descărca și încărca manual.",
+    "enterAPIKey": "Vă rugăm să introduceți cheia dvs. API OpenAI",
+    "selectModel": "Vă rugăm să selectați un model valid",
+    "changeSaved": "schimbarile au fost salvate",
+    "fiveStart": "Oferă-ne un 5 stele",
+    "inviteTitle": "Invitație și recompense",
+    "inviteEarn": "Câștigă <mx>{{num}} credite</mx> pentru tine și prietenii tăi. <b>Cu cât referi mai mulți, cu atât câștigi mai mult</b>.",
+    "inviteStep1": "Recomandați-vă prietenii cu linkul de invitație",
+    "inviteStep2": "Prietenii tăi se înscriu",
+    "inviteStep3": "Ei instalează extensia și autentificare. Recompense câștigate!",
+    "checkInvitation": "Verificați înregistrările invitațiilor",
+    "invitedRewardObtained": "Recompense obținute!",
+    "invitedWelcome": "Bine ai venit! Creditele GPT au fost adăugate în contul tău!",
+    "inviteFriendJoin_one": "{{count}} prieten s-a alăturat",
+    "inviteFriendJoin_other": "{{count}} prieteni s-au alăturat",
+    "getMoreGPT4": "Obține mai multe Credite Avansate",
+    "ttsChooseVoice": "Alege o Voce",
+    "ttsChooseVoiceLater": "Poți schimba asta mai târziu.",
+    "ttsCharacterLimit": "Limită de caractere atinsă",
+    "ttsCharacterLimitDesc": "AI Citirea cu Voce are o limită de {{count}} caractere. Te rog selectează un text mai scurt sau folosește vocea gratuită.",
+    "ttsCharacterLimitDesc2": "Acest mesaj este prea lung pentru a fi citit de vocile AI. Poți folosi vocea gratuită în schimb.",
+    "ttsCreditLimit": "Credite de bază insuficiente",
+    "ttsCreditLimitDesc": "Nu ai suficiente Credite de Bază pentru această voce. Te rog fă upgrade planului tău sau folosește vocea gratuită.",
+    "ttsChangeVoiceTip": "Notificare de Deducere a Creditelor",
+    "ttsChangeVoiceTipDesc": "Schimbarea la o voce diferită va deduce din nou credite. Ești sigur că vrei să continui?",
+    "dontRemindAgain": "Nu mă întreba din nou",
+    "failToPlay": "Redare eșuată",
+    "onlyOneRequest": "Cerere activă în curs",
+    "onlyOneRequestDesc": "Contul tău are o cerere activă - doar o cerere la un moment dat. Te rugăm să încerci din nou mai târziu.",
+    "basicCreditLimit": "Credite de bază epuizate",
+    "basicCreditLimitDesc": "Ai folosit toate Creditele de bază. Actualizează-ți planul sau invită prieteni pentru a obține mai multe credite.",
+    "errSiderLoginExpired": "Sesiunea ta a expirat, te rugăm să te autentifici din nou",
+    "errSiderAdminKickout": "Ai fost deconectat, te rugăm să te autentifici din nou",
+    "errSiderUserBanned": "Contul dumneavoastră a fost suspendat din cauza detectării unei activități neobișnuite (de exemplu, încălcări ale regulilor sau partajarea contului). Dacă aveți întrebări, vă rugăm să ne trimiteți un email la care@sider.ai cu detaliile contului dumneavoastră.",
+    "errSiderDeviceLimitLogout": "Ai fost deconectat din cauza atingerii limitei de dispozitive. Te poți autentifica din nou și aceasta va deconecta cel mai vechi dispozitiv activ din contul tău.",
+    "errSiderApiTrialFeatLimit": "Ai atins limita de încercare pentru funcția premium. Fă upgrade pentru a debloca toate funcțiile.",
+    "errSiderApiLimitDevice": "Vă rugăm să vă conectați pentru a utiliza.",
+    "errSiderApiLimitLogin": "Ai folosit toate creditele gratuite de astăzi. Fă upgrade sau invită prieteni pentru mai multe, sau așteaptă resetarea creditelor de mâine.",
+    "errSiderApiLimitPremium": "Creditul tău de bază pentru această lună a fost epuizat. Treci la Credit Avansat, așteaptă resetarea luna viitoare (data abonamentului) sau fă un upgrade pentru mai mult.",
+    "errSiderApiLimitPremiumDiscount": "Ai epuizat toate creditele. Fă upgrade acum pentru credite nelimitate cu <b>1$</b> REDUCERE.",
+    "errSiderTranslateApiLimitPremium": "Creditul tău de bază pentru această lună a fost epuizat. Te rugăm să aștepți resetarea luna viitoare (data abonamentului) sau să faci un upgrade pentru mai mult.",
+    "errSiderApiImageLimit": "Ai folosit toate creditele de bază și te rugăm să faci un upgrade pentru a continua să folosești această funcție.",
+    "errSiderApiSummaryVideoLimit": "Ai epuizat toate creditele. Te rugăm să faci upgrade sau să inviți prieteni pentru a obține mai multe.",
+    "errSiderApiOcrLimit": "Ai epuizat toate creditele de bază. Te rugăm să faci upgrade pentru a continua să accesezi această funcție.",
+    "errSiderApiImgLimitPremiumUltra": "Ai atins numărul maxim de credite de bază. Te rugăm să aștepți următoarea resetare pentru a continua să folosești.",
+    "errSiderPremiumRequired": "Această funcție este disponibilă exclusiv pentru utilizatorii premium. Faceți upgrade acum pentru a debloca această funcționalitate.",
+    "errSiderHighTrafficError": "Din cauza traficului ridicat, încercați din nou mai târziu sau treceți la un cont premium pentru un acces mai rapid.",
+    "errSiderHighTrafficTip": "Vă rugăm să luați în considerare <a>trecerea la un cont premium</a> pentru un acces stabil și pentru a ne sprijini dezvoltarea.",
+    "errSiderDeviceBinded": "Vă rugăm să vă conectați pentru a utiliza.",
+    "errSiderApiHighLoad": "Serverul OpenAI este ocupat în prezent. Vă rugăm să încercați din nou mai târziu.",
+    "errSiderGPT4HighLoad": "Serverul OpenAI este ocupat în prezent. Vă rugăm să încercați din nou mai târziu.",
+    "errSiderOpenaiFault": "Serverul Openai este ocupat. Treceți la {{model}} în timpul întreruperii OpenAI.",
+    "errServiceUnavailable": "Serverul Openai este ocupat, încercați din nou mai târziu sau comutați la API-ul Sider și utilizați {{model}} în timpul întreruperii OpenAI.",
+    "errSiderGPT4LimitDevice": "Te rugăm să te <b>conectezi</b> mai întâi și <amb>invită-ți prietenii</amb> sau <ta>fă upgrade la premium</ta> pentru a obține mai multe credite avansate.",
+    "errSiderGPT4LimitLogin": "Fă upgrade sau invită prieteni pentru a debloca mai multe Credite Avansate pentru răspunsuri mai detaliate.",
+    "errSiderGPT4LimitPremium": "Ați utilizat toate Creditele Avansate lunare. Actualizați-vă planul pentru o cotă lunară mai mare sau achiziționați un pachet suplimentar de Credite Avansate pentru utilizare imediată!",
+    "errSiderGPT4LimitPremiumDiscount": "Creditele tale Avansate pentru această lună au fost epuizate. Fă upgrade acum pentru credite nelimitate cu <b>1$</b> REDUCERE, sau așteaptă resetarea de luna viitoare (data abonamentului).",
+    "errSiderDataAnalysisCredit": "Acest răspuns necesită Analiză de Date (1 Credit Avansat). Ați epuizat Creditele Avansate, așa că faceți upgrade sau invitați prieteni pentru mai multe!",
+    "errSiderNeedLogin": "Vă rugăm să vă conectați pentru a utiliza.",
+    "errGeminiPro": "Eroare {{GEMINI}}, vă rugăm să încercați din nou mai târziu.",
+    "errSiderO1Limit1": "Modelul OpenAI o1 este foarte solicitat și a atins limita de cotă. Nu vă faceți griji, puteți pune întrebări despre OpenAI o1 gratuit pe site-ul nostru de întrebări și răspunsuri gestionat de comunitate: <a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "Aveți nevoie de mai multe Credite Avansate. Fiecare 10 minute (sau mai puțin) de audio costă 1 Credit Avansat. Faceți upgrade sau invitați prieteni pentru a obține mai multe!",
+    "goToSignIn": "Du-te la autentificare",
+    "errSiderTimeout": "Cererea a expirat. Vă rugăm să încercați din nou.",
+    "errSiderProcessing": "Un singur mesaj la un moment dat. Vă rugăm să permiteți ca orice alt răspuns să fie finalizat înainte de a trimite un alt mesaj sau așteptați un moment.",
+    "errTrySiderAPI": "Comutați la <i>ChatGPT Sidebar API</i> pentru a obține acces stabil (pentru toată lumea)",
+    "errTrySiderAPI2": "SAU folosiți propria cheie API în <a>pagina de setări</a> (pentru dezvoltatori)",
+    "errChatGPTAuth": "Vă rugăm să <m>faceți clic pe link pentru a vă conecta </m>la pagina dvs. web ChatGPT și vă vom ajuta să o fixați. Apoi îl puteți folosi în bara laterală.",
+    "errChatGPTAuthTipTitle": "Daca nu merge:",
+    "errChatGPTFailToFetch": "Nu se obține răspuns de la ChatGPT.",
+    "errOpenaiFailToFetch": "Nu reușiți să primiți răspuns de la OpenAI prin cheia dvs. API.",
+    "errSiderCreditUsageLimit": "Limită de utilizare atinsă",
+    "errSiderCreditFreqLimit": "Ai atins limita curentă de utilizare. Această limită asigură utilizarea echitabilă pentru toți utilizatorii. Te rugăm să încerci din nou după {{count}} minute.",
+    "errSiderBasicTextLimit": "Ați atins limita de mesaje pentru creditul de bază. În prezent, există o restricție de {{count}} mesaje la fiecare 60 de minute. Alternativ, puteți folosi creditul avansat și reveniți mai târziu.",
+    "errSiderAdvancedTextLimit": "Ați atins limita de mesaje pentru creditul avansat. În prezent, există o restricție de {{count}} mesaje la fiecare 60 de minute. Alternativ, puteți folosi creditul de bază și reveniți mai târziu.",
+    "errSiderUnlimitedLimit": "Ați atins o limită temporară ({{timesToUse}} ori / {{periodTime}} oră) pentru Credite Avansate. Încercăm să obținem mai multe credite pentru dumneavoastră. Creditele noi vor fi disponibile la {{resetTime}}. Aveți nevoie de mai multe acum? Încercați un pachet booster!",
+    "errorOutputLimit": "S-a atins limita de lungime. Faceți upgrade pentru a obține un răspuns mai lung.",
+    "errorFileType": "Format de fișier nesuportat",
+    "error1139_1": "Mulțumim că folosiți planurile nelimitate! Puteți continua să utilizați modelele AI avansate. Totuși, ați atins o limită temporară de viteză. <a>Iată de ce există o limită de viteză și cum încercăm să vă ajutăm</a>. Vă rugăm să <mx>CITIȚI</mx>.",
+    "error1139_1_2": "Mulțumim că folosiți planurile nelimitate! Puteți continua să utilizați modelele AI avansate. Totuși, ați atins o limită temporară de viteză și ați epuizat toate interogările avansate suplimentare. Iată <a>de ce există o limită de viteză și cum încercăm să vă ajutăm</a>. Vă rugăm să <mx>CITIȚI</mx>.",
+    "error1139_1_3": "Mulțumim că folosiți planurile nelimitate! Puteți continua să utilizați modelele AI avansate. Totuși, ați atins o limită temporară de viteză și ați epuizat toate interogările avansate cadou. Iată <a>de ce există o limită de viteză și cum încercăm să vă ajutăm</a>. Vă rugăm să <mx>CITIȚI</mx>.",
+    "error1139_2": "Pentru a nu vă întrerupe munca curentă, v-am oferit câteva interogări avansate suplimentare cadou pentru a debloca limita actuală de viteză. <b>După ce utilizați toate aceste interogări avansate suplimentare, veți avea o limită de viteză</b>.",
+    "error1139_3": "Limita actuală de viteză este ({{timesToUse}} ori / {{periodTime}} ore) pentru Interogări Avansate. O putem ajusta în funcție de capacitățile noastre. Aveți nevoie de mai multe acum? Încercați un pachet booster!",
+    "error1139_4": "V-am oferit 50 de interogări avansate suplimentare cadou pentru a debloca limita actuală de viteză. <b>După ce utilizați toate aceste credite avansate suplimentare, veți avea o limită de viteză.</b>",
+    "loginAndCloudflareCheck": "Comutați la <a>API-ul Sidebar</a> pentru a obține acces stabil SAU autentificați-vă și treceți verificarea Cloudflare la <i>chat.openai.com</i>",
+    "invalidApiKey": "Cheia API este nevalidă, vă rugăm să obțineți alta.",
+    "getApiKeyGuide": "Aveți nevoie de o cheie API OpenAI pentru a o face să funcționeze. Urmați ghidul nostru pentru a obține cheia API.",
+    "thankForFeedback": "Mulțumesc. Formularul a fost trimis cu succes. Vă vom contacta în scurt timp.",
+    "writeSomething": "Vă rog să scrieți ceva.",
+    "enterEmail": "Introdu o adresă de e-mail pentru a primi actualizări cu privire la problemă.",
+    "emailRequired": "E-mailul este necesar.",
+    "promptNameRequired": "Este necesar un nume prompt.",
+    "titleRequired": "Titlul este obligatoriu.",
+    "nameYourPrompt": "Denumiți solicitarea dvs",
+    "nameYourTitle": "Denumiți-vă conversația",
+    "promptTplRequired": "Este necesar un conținut prompt.",
+    "deletePromptWarn": "Doriți să ștergeți această solicitare?",
+    "restorePromptWarn": "Doriți să restaurați acest șablon de solicitare?",
+    "notValidEmail": "nu este un e-mail valid",
+    "signinTips": "Conectați-vă pentru a vă sincroniza solicitările și setările",
+    "signinAward": "Conectează-te pentru a primi {{num}} <span>credite GRATUITE</span> pe zi",
+    "signinAward2": "Creditele au fost epuizate pentru utilizatorul neconectat. Te poți conecta pentru a primi <b>{{num}} credite gratuite pe zi</b>.",
+    "signinAward3": "Conectează-te pentru a primi mai multe credite pe zi",
+    "signinAward4": "Începe o călătorie magică AI cu browserul tău și primește {{num}} <span>credite GRATUITE</span> în fiecare zi",
+    "chatgptTabGuardTips": "Vă rugăm să păstrați această filă deschisă, acum puteți reveni la {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "A apărut o eroare cu ChatGPT. În curs de reconectare, așteptați...",
+    "chatgptTabGuardRefreshingTips1": "A apărut o eroare cu ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "În curs de reconectare, așteptați...",
+    "chatgptTabGuardSetupSuccessTips": "Rezolvat, te rog încearcă din nou",
+    "switchToSiderApiToContinue": "În prezent, această funcție acceptă numai modul API {{APP_NAME}}. Vă rugăm <a>treceți la API-ul {{APP_NAME}}</a> pentru a continua.",
+    "switchRequired": "Comutați la {{APP_NAME}}?",
+    "switchToSiderDesc": "Pentru a utiliza această funcție, vă rugăm să schimbați metoda de acces AI la {{APP_NAME}}.",
+    "signInRequired": "Conectare obligatorie",
+    "useUpUpgrade": "Creditele tale au fost epuizate, te rugăm să faci upgrade pentru a obține mai multe credite.",
+    "featureLimit": "Limită caracteristică",
+    "featureLimitTip": "Vă rugăm să faceți upgrade pentru a folosi Claude și Bard.",
+    "featureUnavailableOnPage": "Nu se poate rula pe această pagină",
+    "featureBrowserLimit": "Această pagină nu suportă extensii de browser. Paginile restricționate includ de obicei filele noi, magazinul web, alte extensii și setările (URL-uri de tip chrome://). Vă rugăm să încercați în schimb o pagină obișnuită.",
+    "localFileAccessRequiredTitle": "Acces la fișiere necesar",
+    "localFileAccessRequiredDesc": "Pentru a utiliza extensia cu fișiere locale, vă rugăm să mergeți la setările extensiei și să activați \"<b>Permite accesul la URL-urile fișierelor</b>\".",
+    "localFileAccessRequiredBtn": "Mergi la setările extensiei",
+    "quotaModelContent": "Limita ta de interogări GPT-4/Claude-2 a fost atinsă. Fă upgrade la Planul Premium pentru mai mult acces, sau invită prieteni pentru credite suplimentare gratuite.",
+    "signinFeature": "Vă rugăm să vă autentificați pentru a accesa această funcționalitate",
+    "dragImgTips": "Clic pentru a încărca sau trageți o imagine aici",
+    "dragTips": "Clic pentru a încărca sau trage fișiere aici",
+    "fileSizeTip": "Dimensiune max: 100MB fiecare. Până la 5 fișiere.",
+    "reEnableInSettings": "Puteți reactiva în <a>Setări</a>",
+    "switchBarTip": "Lărgiți panoul lateral pentru a fixa bara de navigare.",
+    "upgradeSupport": "Faceți upgrade la planul premium pentru a ne sprijini",
+    "upgradeSupport2": "Upgrade pentru mai multe funcționalități",
+    "imageSizeLimit": "Limită de imagine",
+    "fileSizeLimit": "Fișier prea mare",
+    "imageSizeLimitTip": "Asigurați-vă că imaginea este mai mică de 10 MB și lățimea sau înălțimea sa nu depășește 4096 pixeli, apoi încercați din nou.",
+    "fileSizeLimitTip": "Fișierul depășește limita de încărcare de 100MB. Te rugăm să reduci dimensiunea fișierului și să încerci din nou.",
+    "errOpenAIFilter": "Răspunsul a fost filtrat din cauza declanșării politicii de gestionare a conținutului OpenAI de către prompt. Te rog modifică promptul și încearcă din nou.",
+    "unreadableMsg": "Nu găsesc conținutul principal pe această pagină. Vă rugăm să încercați o altă pagină.",
+    "unreadableTitle": "Lipsește conținutul principal",
+    "noSubtitleMsg": "Videoclipul nu are subtitrări și nu poate fi rezumat.",
+    "noSubtitleTitle": "Subtitrare necesară pentru rezumat",
+    "fileLimit": "Pentru a procesa acest fișier, te rugăm să activezi Instrumentul de Analiză Avansată a Datelor. Costă 1 credit avansat per utilizare. Dorești să îl activezi și să continui?",
+    "fileLimitFree": "Fișierul încărcat necesită Analiză Avansată a Datelor pentru procesare. Faceți upgrade acum pentru a debloca această funcție.",
+    "openLastConversationTitle": "Deschide ultima conversație?",
+    "openLastConversationContent": "Acum putem seta dacă bara laterală va restaura ultima conversație de fiecare dată când se pornește.",
+    "openLastConversationCancel": "Am înțeles",
+    "openLastConversationOk": "Mergi la Setări",
+    "keepConversationTip": "De fiecare dată când deschideți Sider, începe un nou chat. Pentru a continua ultimul chat, ajustați <a>setările</a>.",
+    "uploadFailed": "Încărcarea fișierului \"{{FILENAME}}\" a eșuat.",
+    "askOriginalModel": "{{MODELNAME}} original",
+    "videoTooLang": "Videoclipul este prea lung (maxim 10 ore). Vă rugăm să alegeți un videoclip mai scurt.",
+    "somethingWrong": "Ceva nu a mers bine. Vă rugăm să încercați din nou mai târziu.",
+    "cantBeTranscribed": "Nu se poate rezuma acest videoclip din cauza restricțiilor de copyright. Vă rugăm să încercați altul.",
+    "notSupportLiveVideo": "Rezumatul video live nu este suportat în acest moment."
+  },
+  "options": {
+    "title": "Opțiuni",
+    "shortcut": {
+      "tips": "Tastați o scurtătură"
+    },
+    "theme": {
+      "auto": "automat",
+      "light": "modul luminos",
+      "dark": "modul întunecat"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Mereu",
+        "desc": "Întotdeauna"
+      },
+      "questionMark": {
+        "title": "Semnul întrebării",
+        "desc": "Când interogarea se termină cu un semn de întrebare"
+      },
+      "manually": {
+        "title": "Manual",
+        "desc": "Când se apasă butonul de răspuns"
+      }
+    },
+    "sidebarLocation": {
+      "left": "partea stanga",
+      "right": "partea dreapta"
+    },
+    "sidebarMode": {
+      "sidepanel": "Bară laterală fixă",
+      "inpage": "Bară laterală în pagină"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "La comutarea filelor, Sider va rămâne întotdeauna fixat în partea dreaptă a browserului.",
+      "inpage": "La comutarea filelor, Siderul nu va rămâne afișat; trebuie să redeschideți bara laterală pe noua pagină."
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "Explica",
+        "template": "Explicați următorul conținut:"
+      },
+      "explain-codes": {
+        "title": "Explicați codurile",
+        "template": "Explicați următoarele coduri:"
+      },
+      "translate": {
+        "title": "Traduceți",
+        "template": "Traduceți următorul conținut în limba {{lang}}:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Plan gratuit",
+    "basic": "Plan de bază",
+    "pro": "Plan Pro",
+    "ultra": "Plan nelimitat",
+    "starter": "Plan Starter"
+  },
+  "shortPlanNames": {
+    "free": "Gratuit",
+    "basic": "Bază",
+    "pro": "Pro",
+    "ultra": "Nelimitat",
+    "starter": "Starter",
+    "pocket": "Pocket"
+  },
+  "queryNames": {
+    "fast": "De bază",
+    "advanced": "Avansat",
+    "image": "Imagine",
+    "reader": "Cititor"
+  },
+  "upgradeModal": {
+    "off": "Reducere!",
+    "desc": "Mai multe credite și mai multe funcții",
+    "upgradeToUseXXX": "Faceți upgrade pentru a utiliza <b>bot</b>",
+    "getAllTTSVoices": "Deblochează toate vocile",
+    "allVoices": "Toate Vocile",
+    "getAllTTSVoicesDesc": "Această voce este exclusivă pentru utilizatorii premium. Actualizează acum pentru a accesa toate vocile.",
+    "getAllTTSVoicesDesc2": "Ai atins limita de încercare pentru vocile premium. Fă upgrade acum pentru acces nelimitat la 9 voci AI cu sunet natural sau folosește vocea gratuită.",
+    "tryAllVoices": "Simțiți-vă liber să încercați toate vocile",
+    "getWebAccess": "Faceți upgrade pentru a obține răspuns web",
+    "videoSummay": "Fă upgrade pentru a folosi rezumatul video",
+    "gpt4Desc": "GPT-4o este semnificativ mai inteligent și te poate ajuta să obții răspunsuri mai logice și mai precise.",
+    "claude3SonnetDesc": "Claude 3 Sonnet este un model de limbaj rafinat pentru comunicare precisă și nuanțată.",
+    "claude35SonnetDesc": "Claude 3.5 Sonnet este ultimul model de la Anthropic, oferind de două ori viteza lui Claude 3 Opus și o inteligență superioară, îmbunătățind semnificativ raționamentul, cunoștințele, programarea și sarcinile vizuale.",
+    "claude3OpusDesc": "Claude 3 Opus este o IA avansată pentru abordarea sarcinilor complexe cu o eficiență remarcabilă.",
+    "webAccessDesc": "Sider preia răspunsuri la întrebările dvs. de la Google și folosește inteligența artificială pentru organizarea și rezumatul concis.",
+    "videoSummaryDesc": "Ați atins limita de utilizare gratuită. Pentru a continua accesarea acestei funcții, vă rugăm să luați în considerare trecerea la un abonament premium."
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Exploreaza dincolo de limite!",
+      "pro": "Limită de cotă atinsă",
+      "ultra": "Limită de cotă atinsă"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Ați atins limita de cotă gratuită. Faceți upgrade pentru o cotă mai mare și deblocați funcții avansate.",
+      "pro": "Ați atins limita de cotă din această lună. Faceți upgrade pentru cotă suplimentară.",
+      "ultra": "Ați atins limita de cotă din această lună. Vă rugăm să ne contactați la <a>care@sider.ai</a> pentru a vă oferi sugestiile."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Evaluează-ne cu cinci stele",
+    "enjoy": "😘 Îți place această extensie?",
+    "enjoyNo": "Niciun raspuns",
+    "enjoyYes": "Da, evaluare de 5 stele!",
+    "feedbackTip": "🥹 Vă rugăm să ne spuneți motivul nemulțumirii dvs.",
+    "feedbackThx": "Vă mulțumim pentru feedback-ul dumneavoastră."
+  },
+  "sidepanelPinGuide": {
+    "title": "Apasă \"{{icon}}\"",
+    "desc": "Adaugă {{APP_NAME}} la bara de instrumente pentru acces rapid"
+  },
+  "emailEnhance": {
+    "emailAssistant": "Asistent de e-mail",
+    "emailAssistantDesc": "Când este pornit, Sider vă poate ajuta să răspundeți rapid la e-mailuri.",
+    "hideTranslation": "Ascunde traducerea",
+    "inputPlaceholder": "Spune-i lui sider cum vrei să răspunzi...",
+    "intent": "Intenția expeditorului",
+    "orgLang": "Limba emailului",
+    "quickAIReply": "Răspuns AI",
+    "replyInputPlaceholder": "Ce ai dori să răspunzi?",
+    "resultsTitle": "Schimb de răspuns",
+    "showTranslation": "Afișează traducerea",
+    "translateEmail": "Tradu e-mailul",
+    "tryAgain": "Încearcă din nou",
+    "voice": {
+      "applicant": "Solicitant",
+      "casual": "Casual",
+      "colleague": "Coleg",
+      "confident": "încrezător",
+      "customer-service-staff": "Personalul serviciului clienți",
+      "direct": "direct",
+      "emailLength": "Lungimea e-mailului",
+      "empathetic": "empatic",
+      "enthusiastic": "Pasionat",
+      "formal": "Formal",
+      "formality": "Formalitate",
+      "friendly": "prietenos",
+      "human-resources": "Resurse umane",
+      "informational": "informativ",
+      "leader": "Lider",
+      "long": "Lung",
+      "medium": "Mediu",
+      "neutral": "Neutru",
+      "personable": "dragă",
+      "project-manager": "Manager de proiect",
+      "sales-representative": "Reprezentant de vânzări",
+      "short": "Mic de statura",
+      "subordinate": "Subordonat",
+      "tone": "Ton",
+      "witty": "inteligent",
+      "yourRole": "Rolul tau"
+    },
+    "voiceSettings": "Setarea tonului",
+    "wayToReply": "Idei de răspuns"
+  },
+  "searchEnhance": {
+    "getStarted": "Începe acum",
+    "adContent": "Mai inteligent decât GPT-4? Claude 3 este aici! Invită-ți prietenii și încearcă-l gratuit!",
+    "noLoginAdContent": "Deblochează puterea AI: Caută, Citește, Scrie, Tradu mai rapid și mai inteligent!",
+    "noLoginBtn": "Alătură-te celor peste 4 milioane de utilizatori mulțumiți!"
+  },
+  "imageToolbar": {
+    "AITools": "Instrumente AI",
+    "chatWithImage": "Conversație cu Imagine",
+    "extractText": "Extrage Text",
+    "imageTools": "Unelte Imagine",
+    "inpaint": "Înlocuiește Zona Periată",
+    "removeBackground": "Elimină Fundalul",
+    "removeText": "Elimină Textul",
+    "replaceBackground": "Înlocuiește Fundalul",
+    "upscale": "Mărire",
+    "variation": "Creează Variații"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "Obține răspunsuri mai bune",
+      "Cunoștințe mai diverse",
+      "Înțelegere mai profundă"
+    ],
+    "claude3Advantages": [
+      "La fel de puternic ca GPT-4",
+      "Răspunsuri mai naturale",
+      "Capacități puternice de raționament"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "Deblochează Accesul Web",
+      "text_to_image": "Deblochează Generarea de Imagini",
+      "data_analysis": "Deblochează Analiza Datelor",
+      "artifacts": "Deblochează {{ARTIFACTS}}",
+      "thinking_mode": "Deblocați Modul de Gândire"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "Rezolvare Îmbunătățită a Problemelor",
+          "desc": "Stăpânește provocările complexe cu raționament în mai multe etape!"
+        },
+        {
+          "title": "Analiză Cuprinzătoare",
+          "desc": "Obțineți informații detaliate pentru decizii critice instantaneu."
+        },
+        {
+          "title": "Iterație Inteligentă",
+          "desc": "Îmbunătățește soluțiile fără efort prin gândire ghidată."
+        }
+      ],
+      "search": [
+        {
+          "title": "Rămâi la Curent",
+          "desc": "Accesează informații actualizate pe web."
+        },
+        {
+          "title": "Îmbunătățește Precizia",
+          "desc": "Obține răspunsuri mai precise și relevante."
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "Stimulează Creativitatea",
+          "desc": "Transformă instant descrierile în materiale de înaltă calitate."
+        },
+        {
+          "title": "Îmbunătățește Conținutul",
+          "desc": "Îmbogățește-ți proiectele cu vizuale personalizate."
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "Obține Perspective",
+          "desc": "Analizează și vizualizează ușor datele pentru a găsi clar."
+        },
+        {
+          "title": "Programează Mai Inteligent",
+          "desc": "Rafinează, interpretează și rulează cod pentru rezolvarea eficientă a problemelor."
+        },
+        {
+          "title": "Excelează în Matematică",
+          "desc": "Rezolvă probleme complexe de matematică cu ușurință și precizie."
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "Productivitate Îmbunătățită",
+          "desc": "Transformă ideile în rezultate tangibile, instantaneu!"
+        },
+        {
+          "title": "Previzualizare în Timp Real",
+          "desc": "Vizualizează instantaneu pagini web, documente și grafice generate de AI."
+        },
+        {
+          "title": "Iterație Fără Probleme",
+          "desc": "Rafinează artefactele fără efort prin conversații naturale."
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "Chat cu textul selectat",
+    "highlightSelection": "Evidențiază textul selectat",
+    "summarizePage": "Rezumatul paginii",
+    "savePage": "Salvează pagina în {{name}}",
+    "revertSavePage": "Elimină din {{name}}",
+    "translatePage": "Tradu în {{lang}}",
+    "revertTranslatePage": "Afișează textul original",
+    "imageTools": "Instrumente de imagine {{AI}}",
+    "togglePageTranslation": "Tradu pagina / Afișează textul original",
+    "openFullPageChat": "Deschide Chatul pe Pagină Completă"
+  },
+  "highlightType": {
+    "key-sentences": "Fraze cheie",
+    "structural-importance": "Importanță structurală",
+    "comprehensive-coverage": "Acoperire cuprinzătoare",
+    "memorable-quotes": "Citate memorabile"
+  },
+  "freeTrial": {
+    "panelTitle": "Plan nelimitat de 3 zile Încercare gratuită",
+    "panelList": [
+      "Chat liber cu GPT-4 & Claude 3",
+      "Chat cu orice PDF, imagine & link",
+      "Rezumat pagini web & videoclipuri YouTube"
+    ],
+    "panelBtn": "Începe Încercare gratuită",
+    "cancelTip": "Anulează oricând"
+  }
+}

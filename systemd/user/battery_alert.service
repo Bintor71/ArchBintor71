@@ -1,0 +1,5 @@
+[Unit]
+Description=Battery Alert Service
+
+[Service]
+ExecStart=/bin/bash ~/battery_alert.sh

@@ -1,0 +1,2571 @@
+{
+  "sidebar": "Upau wa kando",
+  "shortcut": "Vifupisho vya Kibodi",
+  "ask": "Uliza",
+  "save": "Ihifadhi",
+  "saved": "Imehifadhiwa",
+  "delete": "Futa",
+  "deleteAll": "Futa yote",
+  "remove": "Ondoa",
+  "cancel": "Ghairi",
+  "close": "Funga",
+  "minimize": "Punguza",
+  "disable": "Zima",
+  "retry": "Försök igen",
+  "stop": "Acha",
+  "pause": "Sitisha",
+  "play": "Cheza",
+  "replay": "Cheza tena",
+  "changeSpeed": "Badilisha kasi",
+  "ttsDemo": "Mfano",
+  "icon": "Ikoni",
+  "select": "Chagua",
+  "change": "Badilisha",
+  "insert": "Ingiza",
+  "replace": "Badilisha",
+  "ok": "sawa",
+  "Loading": "Inapakia",
+  "thoughtProgress": "Mchakato wa mawazo",
+  "submit": "Wasilisha",
+  "attention": "Taarifa",
+  "welcome": "Karibu",
+  "send": "Tuma",
+  "copy": "Nakili",
+  "auto": "Moja kwa moja",
+  "unpublish": "Ondoa kutoka kwa kuchapishwa",
+  "unpublishArtifact": "Ondoa Kifaa kutoka kwa kuchapishwa",
+  "aiResCompare": "Ulinganisho wa Majibu ya AI",
+  "copied": "Imenakiliwa",
+  "clear": "Wazi",
+  "table": "Jedwali",
+  "tryDemo": "Jaribu demo",
+  "translate": "Tafsiri",
+  "rewrite": "Andika Upya",
+  "next": "Ifuatayo",
+  "prev": "Iliyotangulia",
+  "hi": "Habari,",
+  "experimental": "Ufikiaji wa mapema",
+  "experimentalDesc": "Watumiaji waliolipia wanapata ufikiaji wa mapema kwa zana za kipekee, za kisasa na vipengele vya majaribio ambavyo havipatikani kwa wasiojisajili.",
+  "clickToTry": "Bofya kujaribu kipengele hiki",
+  "detected": "Imepatikana",
+  "reset": "Weka Upya",
+  "upTo6file": "Pakia hadi faili 6",
+  "quote": "Nukuu",
+  "download": "Ladda ner",
+  "downloadTypeFile": "Pakua Faili ya {{type}}",
+  "collapse": "Kunja utepe",
+  "done": "Imekamilika",
+  "trial": "Jaribio",
+  "manage": "Dhibiti",
+  "template": "kiolezo",
+  "edit": "Hariri",
+  "exit": "Toka",
+  "add": "Ongeza",
+  "feedback": "Maoni",
+  "fullscreenBookmarkTip": "Bofya ikoni ya nyota kuweka alama mazungumzo ya skrini nzima kwa urahisi wa upatikanaji wakati mwingine!",
+  "tweetit": "Fuata sisi kwenye {{X}}",
+  "joinDiscord": "Jiunge na jamii yetu ya Discord",
+  "whatsnewInvite": "Alika kujaribu bila malipo",
+  "fullPageChat": "Gumzo la ukurasa mzima",
+  "whatNew": "Mambo Mapya",
+  "helpCenter": "Centrum ya Msaada",
+  "learnMore": "Jifunze zaidi",
+  "gotIt": "Nimeelewa",
+  "you": "Du",
+  "settings": "Mipangilio",
+  "signin": "Ingia",
+  "extractingText": "Inachukua maandishi",
+  "extractingTextFailed": "Kuchukua maandishi kumeshindikana",
+  "textExtracted": "Maandishi yamechukuliwa",
+  "audioExtractedText": "Maandishi yaliyotolewa kutoka kwa Sauti",
+  "account": "Akaunti",
+  "createAccount": "Fungua akaunti",
+  "createAccountTip": "Jisajili ili upate <a>{{NUM}} bure</a> mikopo kila siku",
+  "free": "Bure",
+  "signinNow": "Ingia Sasa",
+  "unlimited": "Bila kikomo",
+  "share": "Shiriki",
+  "toolMoveTip": "Chombo cha mazungumzo kina makazi mapya! Unaweza kufikia udhibiti wote wa mazungumzo hapa.",
+  "myChats": "Gumzo Zangu",
+  "general": "Usanidi wa jumla",
+  "archive": "kumbukumbu",
+  "unarchive": "ondoa kwenye kumbukumbu",
+  "searchPage": "Tafuta Ukurasa",
+  "addons": "Viongezi",
+  "webStore": "Duka la Wavuti",
+  "webApp": "Programu ya Wavuti",
+  "webAccess": "Ufikiaji wa Wavuti",
+  "upgradeNow": "Kuboresha sasa",
+  "unlock": "Fungua",
+  "allFeatures": "Vipengele Vyote",
+  "everyThing": "Kila kitu",
+  "unlockFeatMsg": "Umefikia kikomo cha mpango wako. Boresha sasa ili kufungua vipengele vyote!",
+  "upgradeUnlock": "Boresha ili kufungua sasa!",
+  "upgrade": "Boresha",
+  "subscribe": "Jisajili",
+  "language": "Lugha",
+  "theme": "Mandhari",
+  "sendShortcut": "Tuma njia ya mkato",
+  "speechVoice": "Sauti ya Hotuba",
+  "buyBooster": "Nunua kifurushi cha kuongeza",
+  "model": "Mfano",
+  "version": "Toleo",
+  "more": "Zaidi",
+  "clickPreview": "Bofya kuona hakikisho",
+  "clickView": "Bofya kuona",
+  "sendToChat": "Tuma kwenye gumzo",
+  "listen": "Sikiliza",
+  "openAnswerCompare": "Ulinganisho wa kando kwa kando",
+  "skip": "Ruka",
+  "basic": "Msingi",
+  "advanced": "Juu",
+  "superAdvanced": "Super ya hali ya juu",
+  "switchModel": "Badilisha mfano",
+  "switchVoice": "Badilisha Sauti",
+  "changeVoice": "Badilisha sauti",
+  "vote": "Piga kura",
+  "invite": "Alika",
+  "hide": "Ficha",
+  "show": "Onyesha",
+  "logout": "Logga ut",
+  "pin": "piga juu",
+  "unpin": "bandua",
+  "showMore": "Onyesha zaidi",
+  "editTitle": "Badilisha kichwa",
+  "summarize": "Fanya muhtasari",
+  "summary": "Muhtasari",
+  "fact-check": "Hakiki ukweli",
+  "highlight-excerpts": "Angazia dondoo",
+  "key-concepts": "Fafanua dhana muhimu",
+  "identify-assumptions": "Tambua dhana",
+  "contrast-analysis": "Chambua tofauti",
+  "about-author": "Jifunze kuhusu mwandishi",
+  "related-news": "Tafuta habari zinazohusiana",
+  "related-academic-research": "Tazama makala yanayohusiana",
+  "related-videos": "Tazama video zinazohusiana",
+  "keypoints": "Pointi muhimu",
+  "quiz": "Maswali",
+  "autoToText": "Otomatiki kwa maandishi",
+  "textFromSelect": "Maandishi kutoka kwenye chaguo lako",
+  "textFromOCR": "Maandishi kutoka OCR",
+  "textFromTranslate": "Maandishi kutoka tafsiri",
+  "textFromWrite": "Maandishi kutoka kwa kuandika",
+  "textFromSearch": "Maandishi kutoka kwa wakala wa utafutaji",
+  "textFromGrammar": "Maandishi kutoka kwa sarufi",
+  "quoteText": "Nukuu ya maandishi",
+  "summarizing": "Kufupisha",
+  "summarizeFailed": "Sammanfattningen misslyckades",
+  "answering": "Kujibu",
+  "productivity": "Tija",
+  "generating": "Inazalisha",
+  "modelUpdateSuccess": "Muundo umesasishwa",
+  "modelUpdateFailed": "Imeshindwa kusasisha muundo",
+  "customPrompt": "Agizo maalum",
+  "currentTpl": "Kiolezo cha sasa:",
+  "current": "Sasa",
+  "extra": "ziada",
+  "generatingTranscript": "Inatengeneza nakala",
+  "transcriptGenerated": "Nakala imetengenezwa",
+  "transcriptFailed": "Uundaji wa nakala umeshindikana",
+  "transcriptReady": "Nakala iko tayari",
+  "audioTranscript": "Nakala ya sauti",
+  "audio-to-text": "Sauti kwa maandishi",
+  "audio-summarize": "Fupisha",
+  "audio-meeting-minutes": "Dakika za mkutano",
+  "publishArtifact": "Chapisha Kifaa",
+  "uploadLocal": "Pakia kutoka kwenye kompyuta yako",
+  "openTabs": "Chagua kutoka kwenye tabo zilizofunguliwa",
+  "editTpl": "Hariri kiolezo hiki",
+  "delteTpl": "Futa kiolezo hiki",
+  "restoreTpl": "Rejesha kiolezo hiki",
+  "archiveTpl": "Hifadhi kiolezo hiki kwenye kumbukumbu",
+  "showTpl": "Onyesha kiolezo hiki",
+  "prompts": "Miongozo",
+  "selectPrompt": "Chagua kichocheo",
+  "imageRetryTip": "Kumetokea hitilafu. Tafadhali jaribu tena.",
+  "mentionBot": "Taja mfano",
+  "mentionGPTs": "Nämn GPT:er",
+  "promptName": "Jina la haraka",
+  "promptContent": "Maudhui ya haraka",
+  "PromptManage": "Dhibiti Maagizo",
+  "contactUs": "Wasiliana nasi",
+  "webAssistant": "Msaidizi wa wavuti",
+  "quickAction": "Menyu ya muktadha",
+  "promptManage": "Meneja wa haraka",
+  "morePrompts": "Vidokezo zaidi",
+  "addPrompts": "Ongeza kidokezo",
+  "issueType": "Aina ya Suala",
+  "pinExt": "Pini kiendelezi",
+  "yourEmailAddress": "Anwani yako ya barua pepe",
+  "troubleshooting": "Utatuzi wa shida",
+  "openSidebar": "Fungua utepe",
+  "pasteSelection": "Bandika uteuzi",
+  "pasteTextPage": "Bandika maandishi kutoka kwa ukurasa",
+  "getAnotherKey": "Pata Ufunguo Mwingine",
+  "showSearchPanel": "Onyesha Paneli ya Utafutaji",
+  "getItNow": "Ipate Sasa",
+  "addTools": "Lägg till verktyg",
+  "toolsTitle": "Verktyg",
+  "notNow": "Sio kwa sasa",
+  "alwaysDisplay": "Onyesha kila wakati",
+  "credit": "Mikopo",
+  "credits": "Mikopo",
+  "unlimitedCredits": "Mikopo Isiyo na Kikomo",
+  "total": "jumla",
+  "getMore": "kupata zaidi",
+  "goPremium": "kuboresha hadi premium",
+  "goPremiumGetMore": "pata toleo jipya la malipo ili kupata zaidi",
+  "myAccount": "Akaunti yangu",
+  "clickToAsk": "Bofya ili kuuliza",
+  "searchingFor": "Kutafuta:",
+  "searchedFor": "Imetafutwa:",
+  "conversationTip": "Mazungumzo haya yaliundwa katika hali ya {{CHATPROVIDER}}. Badilisha hali ili kuendelea, au anza mazungumzo mapya katika hali ya sasa.",
+  "using": "Kutumia",
+  "used": "Imetumika",
+  "switchAndContinue": "Badilisha hali",
+  "ExtractText": "Chimba maandishi",
+  "extracted": "Sauti imetolewa",
+  "describleImage": "Elezea",
+  "pricePerDay": "Chini ya {{num}}/siku",
+  "readingwriting": "Kusoma & Kuandika",
+  "reading": "Kusoma",
+  "writing": "Kuandika",
+  "compareWith": "Linganisha na {{NAME}}",
+  "smarterWith": "Pata jibu la busara zaidi kutoka kwa {{NAME}}",
+  "summarizePage": "Fanya muhtasari wa ukurasa huu",
+  "searched3": "Imetafuta tovuti 3",
+  "browseFiles": "Umevinjari faili {{NUM}}",
+  "browseFiles1": "Umevinjari faili 1",
+  "readPage": "Soma ukurasa huu",
+  "moreQueries": "Mikopo zaidi!",
+  "newPlan": "Mpango mpya",
+  "switchToXXX": "Badili hadi {{model}}",
+  "switchToSider": "Badili hadi {{APP_NAME}} API",
+  "switch": "Badili",
+  "settingApiKey": "Kuweka ufunguo wako wa API",
+  "all": "Wote",
+  "dropMsg": "Släpp här för att skicka till Sider",
+  "success": "Mafanikio",
+  "usedIn": "Inatumika katika",
+  "check": "Angalia",
+  "example": "Mfano",
+  "toolsUpgradeTitle": "Uppgradera för att förbättra din chattupplevelse!",
+  "ChangeTone": "Badilisha toni",
+  "screenshot": "Picha ya skrini",
+  "takeAScreenshot": "Piga picha ya skrini",
+  "back": "Rudi",
+  "image": "Picha",
+  "uploadImage": "Pakia picha",
+  "hideImage": "Ficha picha",
+  "chatWithPDF": "Piga gumzo na PDF",
+  "recentFiles": "Faili za Hivi Karibuni",
+  "orTakeAction": "Au chukua hatua zingine:",
+  "NoFiles": "Hakuna faili za hivi majuzi kwenye gumzo hili",
+  "showImage": "Onyesha picha",
+  "fullscreen": "Skrini nzima",
+  "moreQuery": "Mikopo Zaidi",
+  "moreFeature": "Vipengele Zaidi!",
+  "switchToSidepanel": "Byt till sidofältet",
+  "deepReadTools": "Zana za usomaji wa kina",
+  "OR": "AU",
+  "enable": "Wezesha",
+  "refresh": "Onyesha upya",
+  "painterOnBoardingTip": "Klicka här för AI-bildskapande och redigering",
+  "pdfOnBoardingTip": "Klicka här för ChatPDF",
+  "refreshModel": "Kuongeza upya mifano",
+  "refreshing": "Kuongeza upya",
+  "collapseNav": "Kukunja Mstari wa Nav",
+  "expand": "Panua",
+  "expandNav": "Kupanua Mstari wa Nav",
+  "phoneNumber": "Nambari ya simu",
+  "recognizing": "Kutambua",
+  "useFreeVoice": "Tumia Sauti ya Bure",
+  "reselect": "Chagua tena",
+  "earnFree": "Pata Mikopo ya Bure",
+  "appearance": "Mwonekano",
+  "result": "Matokeo",
+  "sidepanelTip": "Kidokezo cha Sidepanel",
+  "continue": "Endelea",
+  "confirm": "Thibitisha",
+  "describeImage": "Eleza picha hii",
+  "inviteFriendTip": "<a>Alika marafiki</a> ili upate mikopo ya ziada",
+  "resetTime": "Rejesha tarehe <a>Ago 3, 2023</a>",
+  "imageQuoteTipTitle": "Uliza picha tena? Unahitaji kunukuu picha",
+  "imageQuoteTipContent": "Kuuliza kuhusu picha tena, nukuu tu.",
+  "ocrEmptyMsg": "Samahani, sijapata maandishi katika picha hii.",
+  "imageInputHint": "Uliza maswali kuhusu picha hii",
+  "selectedTextInputHint": "Uliza maswali kuhusu maandishi yaliyochaguliwa",
+  "fileInputHint": "Uliza maswali kuhusu faili hili",
+  "inviteYourFriends": "Waalike Marafiki",
+  "xmasSale": "Uuzaji wa Krismasi",
+  "bigSale": "Uuzaji",
+  "bigSaleRest": "Uuzaji",
+  "videoTutorial": "Angalia maelezo",
+  "edgePasteBug": "Haiwezi kubandika kwa kutumia njia za mkato za kibodi kwa sababu ya hitilafu ya kivinjari cha Edge. Tafadhali bofya kulia ili kubandika.",
+  "enable&continue": "Aktivera och fortsätt",
+  "readAloud": "Soma kwa sauti",
+  "seeMoreHelp": "Tazama zaidi katika <a>Kituo cha Msaada</a>",
+  "translateInto": "Tafsiri katika: {{lang}}",
+  "imageTranslateInto": "Tafsiri maandishi kwenye picha hadi {{lang}}",
+  "translateBackInto": "Tafsiri tena kwa: {{lang}}",
+  "explainSection": "Unaweza kuelezea sehemu hii kwa undani zaidi?",
+  "betterAnswer": "Pata matokeo bora na {{MODEL_NAME}}",
+  "genBy": "Imetengenezwa na {{MODEL_NAME}}",
+  "explain": "Eleza",
+  "building": "Inajengwa...",
+  "keyboardShortcuts": "Njia za mkato za kibodi",
+  "console": "Konsoli",
+  "enterText": "Ingiza maandishi",
+  "publish": "Chapisha",
+  "publishing": "Kuchapisha",
+  "published": "Imechapishwa",
+  "artifactPublished": "Kifaa Kimechapishwa",
+  "artifactPublishTip1": "Ukichapisha kifaa hiki, tutaunda URL ya umma ili mtu yeyote aweze kukipata. Gumzo lako litabaki kuwa la faragha, na unaweza kusitisha kushiriki wakati wowote.",
+  "artifactPublishTip2": "Kifaa hiki kinapatikana kwa umma. Mtu yeyote anaweza kukipata kwa kiungo kilichoshirikiwa.",
+  "artifactUnpublishedTip": "Ukiondoa uchapishaji, wengine hawataweza tena kufikia Kifaa kupitia kiungo kilichoshirikiwa.",
+  "artifactNarrow": "Rejesha upana wa kawaida",
+  "artifactWide": "Panua hadi upana kamili",
+  "artifactRemixContent": "Hebu tuchunguze baadhi ya tofauti za {{ARTIFACT}} hii. Unaweza kupendekeza njia 3 za kuibadilisha na kusubiri jibu langu?",
+  "faceError": "Tumekutana na hitilafu hii katika {{ARTIFACT}} ya hivi karibuni, tafadhali irekebishe.",
+  "artifactError": {
+    "title": "Unaweza kujaribu chaguo zifuatazo:",
+    "solution1": "<a>Fanya upya Hakikisho</a>",
+    "solution2": "Tuma ujumbe wa hitilafu kwenye mazungumzo kwa msaada. <a>Tuma ujumbe wa hitilafu</a>"
+  },
+  "artifactsBetaTip": "Furahia Artifacts (Pro) bila malipo wakati wa beta—usikose!",
+  "tryArtifact": "Jaribu {{ARTIFACTS}}",
+  "tryNow": "Jaribu mifano",
+  "errorOccurred": "Hitilafu imetokea",
+  "artifactDemos": [
+    {
+      "title": "Tengeneza Xylophone ya Kijanja",
+      "value": "Tengeneza xylophone inayotumia HTML yenye funguo za rangi ndani ya {{ARTIFACT}}. Toa maoni ya kuona kwa funguo zilizogongwa, na tengeneza sauti rahisi na halisi kwa kutumia Web Audio API kulingana na vigezo vya masafa. Jumuisha maelekezo ya msingi."
+    },
+    {
+      "title": "Tengeneza Mchezo wa Emoji wa Kula Chakula",
+      "value": "Tengeneza mchezo rahisi unaotumia HTML, sawa na Catch the Candy, ndani ya {{ARTIFACT}}. Mchezaji hudhibiti emoji chini ya skrini, akiihamisha haraka kushoto na kulia ili kukamata na kula vitu vya chakula (mfano, 🍓, 🍔, 🍎) vinavyoanguka kutoka juu huku akiepuka mabomu (💣). Kila wakati mchezaji anapokamata emoji ya chakula, emoji yake itabadilika kuwa na usemi wa furaha zaidi (mfano, 🤩, 😆, 😋) kuashiria mafanikio. Ikiwa mchezaji atakosea na kukamata bomu, emoji itaonyesha mlipuko (💥) kwanza kisha kubadilika kuwa na usemi wa kizunguzungu (😵‍💫)."
+    },
+    {
+      "title": "Tengeneza Chati ya Usafirishaji wa Simu za Mkononi",
+      "value": "Tumia React kutengeneza chati nzuri ya mstari ndani ya {{ARTIFACT}} kulingana na jedwali lifuatalo.\n------\n\nUsafirishaji wa Simu za Mkononi na Bidhaa Kuu Katika Muongo Uliopita (kwa Mabilioni)\n\n| Mwaka | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "Hakikisho",
+  "dataAnalysisTip": "Chombo hiki huwashwa tu kinapotumika, kikikata 1 Advanced Credit.",
+  "code": "Msimbo",
+  "code&preview": "Msimbo na Muonekano",
+  "tryItNow": "Jaribu sasa",
+  "letsTryItNow": "Hebu Tuijaribu Sasa!",
+  "tryArtifactNow": "Jaribu {{ARTIFACTS}} Sasa",
+  "roast": {
+    "analyzing": "Inachambua...",
+    "roastX1": "🔥 Mtu amekucheka, angalia",
+    "roastX2": "Mcheke Huyu Jamaa!",
+    "roast": "😜 Cheka",
+    "boast": "🥰 Jivunie"
+  },
+  "historyGroups": {
+    "today": "Leo",
+    "thisWeek": "Wiki Hii",
+    "thisMonth": "Mwezi Huu",
+    "earlier": "Hapo Awali"
+  },
+  "quotaInfo": {
+    "mobilePlan": "Mpango wa Simu",
+    "resetsDaily": "Inajirudia kila siku",
+    "resetDate": "Tarehe ya Kurudia",
+    "tryForFree": "Jaribu bure",
+    "unlockFeats": "Fungua Vipengele Vyote vya Premium",
+    "unlockToUse": "Fungua Matumizi Yasiyo na Kikomo",
+    "unlockAllFeats": "Fungua Vipengele Vyote",
+    "unlockAllFeatsDesc": "Umefikia kikomo cha majaribio kwa vipengele vya premium. Sasisha ili kufungua vipengele vyote.",
+    "unlockAllFeats2": "Fungua Ufikiaji Kamili",
+    "unlockAllFeatsDesc2": "Pata mazungumzo yasiyo na kikomo, ufikiaji wa wavuti, uchambuzi wa data, uzalishaji wa picha, muhtasari wa YouTube, mazungumzo ya faili/kiungo, uchimbaji wa maandishi na zaidi",
+    "enjoyUnlimitedCredits": "Furahia Mikopo Isiyo na Kikomo",
+    "enjoyUnlimitedCreditsDesc": "Tumia GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, na zaidi kwa ufanisi.",
+    "webAccess": "Ufikiaji wa Wavuti",
+    "chatActionTranslate": "Tafsiri katika {{lang}}",
+    "dataAnalysis": "Uchambuzi wa Data ya Juu",
+    "shortVideo": "Kipunguza Video cha AI",
+    "chatPDF": "PDF/Kiungo Gumzo",
+    "chatFileLink": "Mazungumzo ya Faili/Kiungo",
+    "youtubeSummary": "Muhtasari wa YouTube",
+    "readAloud": "AI Kusoma kwa Sauti",
+    "tryReadAloudForFree": "Jaribu Kusoma kwa Sauti Bure",
+    "extractText": "AI Uchimbaji wa Maandishi",
+    "upgradeFor": "Boresha kwa {{price}}/mo tu",
+    "off": "Punguzo la {{num}}",
+    "allPlans": "Tazama mipango yote",
+    "usedCredits": "{{count}} mikopo imetumika",
+    "usedCredits_one": "Mikopo {{count}} imetumika",
+    "usedCredits_other": "Mikopo {{count}} imetumika",
+    "premiumTrial": "Jaribu vipengele vya premium bure",
+    "premiumTrialTip": "Jaribio linakupa ufikiaji mdogo kwa vipengele vya premium vinavyopatikana kwa wanachama waliolipwa. Tafadhali kumbuka kila matumizi bado yatagharimu mikopo.",
+    "creditRuleTitle": "Sheria za kukatwa kwa mikopo",
+    "creditRuleTip": "Tunakata mikopo kulingana na mfano, vipengele, na urefu wa muktadha unaotumia. Kwa maelezo kamili, tembelea <a>Kituo cha Msaada</a>.",
+    "extraCreditTip": "Hii ni mikopo ya ziada kwa matumizi ya mara moja.",
+    "dailyCreditTip": "Sheria ya kurudia inatumika tu kwa mikopo ya mpango, sio mikopo ya ziada.",
+    "inviteFriends": "<a>Alika marafiki</a> ili upate mikopo zaidi",
+    "vipInviteFriends": "Unapenda {{APP_NAME}}? <a>Alika marafiki zako!</a>",
+    "pocketPlanTips": "Mikopo ya Pocket inatumika tu kwenye simu. Furahia mikopo ya bure ya desktop.",
+    "pocketUpgrade": "Boresha ili Kufungua Zaidi"
+  },
+  "prompt": "Kichocheo",
+  "addPrompt": "Ongeza kichocheo",
+  "allSettings": "Mipangilio yote",
+  "getAIAnswer": "Pata jibu la AI",
+  "login": {
+    "google": "Endelea na Google",
+    "apple": "Endelea na Apple",
+    "microsoft": "Endelea na Microsoft",
+    "phone": "Endelea na Simu"
+  },
+  "loginTip": "Huna akaunti? <a>Fungua akaunti</a>",
+  "signupTip": "Tayari una akaunti? <a>Ingia</a>",
+  "guideVideoTitle": {
+    "chat": "Gumzo",
+    "translation": "Tafsiri",
+    "summary": "Muhtasari",
+    "chatpdf": "ChatPDF",
+    "write": "Andika",
+    "painter": "Mchoraji",
+    "ocr": "OCR",
+    "grammar": "Sarufi",
+    "email": "Jibu Barua Pepe"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Gumzo la Multi-bot",
+      "web-access": "Ufikiaji wa Mtandao",
+      "data-analysis": "Uchambuzi wa Data wa Kina",
+      "painter": "Uzalishaji wa Picha",
+      "prompts": "Maagizo Maalum"
+    },
+    "translation": {
+      "widget": "Maandishi Yaliyochaguliwa kupitia Upau wa Pembeni",
+      "selected": "Maandishi Yaliyochaguliwa kupitia Menyu ya Muktadha",
+      "input": "Maandishi Yaliyoandikwa kwenye Ukurasa",
+      "page": "Ukurasa Kamili wa Mtandao",
+      "in-chat": "Maandishi Yaliyochaguliwa katika Gumzo",
+      "in-chat2": "Maandishi Yaliyoandikwa katika Gumzo"
+    },
+    "summary": {
+      "youtube": "Video za YouTube",
+      "doc": "Nyaraka Zilizopakiwa",
+      "page": "Ukurasa wa Mtandao kupitia Menyu ya Haraka",
+      "page2": "Ukurasa wa Mtandao kupitia Gumzo"
+    },
+    "chatpdf": {
+      "chatpdf": "Gumzo na PDF"
+    },
+    "write": {
+      "widget": "Tunga kwa Ombi",
+      "context": "Boresha Maandishi Yaliyochaguliwa",
+      "input": "Andika Upya Maingizo"
+    },
+    "painter": {
+      "image": "Zalisha Picha",
+      "bg-remove": "Ondoa Mandharinyuma",
+      "bg-replace": "Badilisha Mandharinyuma",
+      "upscale": "Kuza Picha",
+      "eraser": "Ondoa Eneo Lililopakwa",
+      "text-remove": "Ondoa Maandishi"
+    },
+    "ocr": {
+      "ocr": "Toa Maandishi na Mihesabu"
+    },
+    "grammar": {
+      "widget": "Kagua Sarufi kupitia Upau wa Pembeni",
+      "context": "Kagua Sarufi kupitia Menyu ya Muktadha"
+    },
+    "email": {
+      "reply": "Zalisha Majibu ya Barua Pepe"
+    }
+  },
+  "llmStatus": {
+    "thinking": "Inafikiria..."
+  },
+  "popupPage": {
+    "thank": "Asante kwa kutumia kiendelezi cha {{APP_NAME}}!",
+    "desc": "Ukurasa wa sasa ni ukurasa wa kipekee na kipengele cha utepe hakipatikani. Hata hivyo, unaweza kufungua ukurasa kamili ili kuzungumza!",
+    "chatNow": "Piga gumzo sasa"
+  },
+  "setupPage": {
+    "loginSuccess": "Kuingia kumefaulu",
+    "welcome": "Karibu kwenye {{APP_NAME}}!",
+    "startUsing": "Anza Kutumia {{APP_NAME}}",
+    "explore": "Hebu Tuchunguze Kipengele cha {{FEATURE_NAME}}",
+    "favorites": "Extension maarufu zaidi ya Chrome",
+    "fiveStarRate": "Tathmini za Nyota 5",
+    "activeUser": "Active Users",
+    "userCount": "4M+",
+    "spamMsg": "Data yako haitavuja na hakutakuwa na barua taka.",
+    "privacy": "Kwa kuendelea, unakubaliana na <a>Sera ya Faragha</a> & <b>Masharti ya Matumizi</b>.",
+    "privacyPart1": "Kwa kuendelea, unakubaliana na",
+    "privacyPart2": "<a>Sera ya Faragha</a> & <b>Masharti ya Matumizi</b>",
+    "loginWith": "Ingia kwa kutumia {{name}}",
+    "pinTips": "<b>Bandika {{APP_NAME}}</b>, ufikiaji rahisi zaidi!",
+    "pinClickTip": "Bofya {{icon}} ili kubandika {{APP_NAME}}",
+    "pinClickTip2": "Bana {{APP_NAME}} kwa Ufikiaji wa Haraka",
+    "pinClickTip3": "Bofya alama ya {{icon}} kulia juu",
+    "next": "Inayofuata",
+    "tryOut": "jaribu",
+    "endTitle": "{{APP_NAME}} Iko Tayari Kukusaidia!",
+    "endTip": "Sasa unaweza kutembelea ukurasa wowote wa mtandao au kuzama katika Kituo chetu cha Msaada kujifunza zaidi.",
+    "learnMore": "Jifunze zaidi kuhusu {{APP_NAME}}",
+    "endBottom": "Unahitaji Msaada au Una Mapendekezo?",
+    "endBottom2": "Tunathamini maoni yako! <a>Toa Maoni</a> kutusaidia kuboresha uzoefu wako."
+  },
+  "getKeyPage": {
+    "welcome": "Karibu kwenye {{APP_NAME}}! Hii ndio safari yako ya kuanza:",
+    "stepTitle": "Jinsi ya kupata ufunguo wa API.",
+    "step1": "Hatua ya 1: Pata ufunguo wa API",
+    "step1-1": "<i>Ingia akaunti yako ya OpenAI</i> Ikiwa huna akaunti, Jisajili <b>HAPA</b>",
+    "step1-2": "Tembelea ukurasa wa Ufunguo wa OpenAI API",
+    "step1-3": "Unda ufunguo mpya wa siri na uinakili kama ifuatavyo",
+    "step2": "Hatua ya 2: Bandika Ufunguo wa API kwenye kisanduku kilicho hapa chini",
+    "step2-tips": "Usijali. Ufunguo wako wa API unatumika tu ndani ya kiendelezi cha ChatGPT. Kutumia API ni thabiti zaidi kuliko kutumia ChatGPT moja kwa moja.",
+    "step3": "Hatua ya 3: Angalia mikopo yako <i>hapa</i>"
+  },
+  "optionPage": {
+    "openNewChat": "Anza mazungumzo mapya",
+    "howToAccess": "Jinsi ya kufikia ChatGPT na kuitumia popote",
+    "howToAccessTip": "Ili kuhakikisha AI inapatikana kwa kila mtu, tunatoa njia 3 za kufikia ChatGPT na kuitumia popote.",
+    "recommended": "Inayopendekezwa",
+    "loginFirst": "Tafadhali ingia kwanza.",
+    "loginFirstTip": "Ingia ili kuanza kutumia Sider na upate mikopo ya bure kila siku.",
+    "displayMode": "Hali ya kuonyesha",
+    "displayLanguage": "Lugha ya onyesho",
+    "fontSizeTitle": "Ukubwa wa fonti kwa ujumbe",
+    "fontSizeTip": "Kwa maandishi ya ujumbe pekee",
+    "fontSizeOptions": {
+      "regular": "Kawaida",
+      "large": "Kubwa"
+    },
+    "fontSizeAutoTip": "Rekebisha kiotomatiki kulingana na upana wa upau wa pembeni",
+    "sidepanelPosition": "Nafasi ya paneli ya pembeni",
+    "sidepanelPositionTip": "Kwa Chrome 114 au zaidi, inaweza kubadilishwa tu katika mipangilio ya kivinjari",
+    "providerPartTitle": "Upatikanaji wa AI",
+    "serviceProvider": "Mtoa huduma",
+    "providerSiderTip": "{{APP_NAME}} inatoa ufikiaji usio na mshono, wa haraka, na thabiti kwa mifano bora ya AI kama vile OpenAI o1, Claude 3.5, Gemini, Llama, na mingineyo—yote kupitia API rasmi kwenye jukwaa moja.",
+    "providerWebappTip": "Uzoefu unaweza kutofautiana kwa wageni na watumiaji walioingia kutokana na vizuizi vya OpenAI.",
+    "providerSiderDesc": "Inaendeshwa na API rasmi za mifano inayoongoza, haraka na ya kuaminika",
+    "providerAPIKeyDesc": "Inafaa kwa wale wenye ufunguo wa API: bei thabiti, inayotegemea matumizi",
+    "providerWebappDesc": "Inaweza kuwa isiyo thabiti kutokana na mabadiliko ya sera za OpenAI",
+    "importantReminders": "Kumbukumbu muhimu",
+    "webappReminder1": "Baki umeingia kwenye akaunti yako.",
+    "webappReminder2": "Huduma hii inaweza kuwa isiyo thabiti kutokana na mabadiliko ya sera za OpenAI. Kwa utendaji wa haraka na thabiti, tunapendekeza kutumia {{APP_NAME}}.",
+    "defaultVoice": "Sauti chaguo-msingi",
+    "defaultSpeed": "Kasi chaguo-msingi",
+    "whenSidebarReopens": "Wakati upau wa pembeni unafunguliwa tena",
+    "scrollingBehavior": "Tabia ya kusogeza kwa majibu marefu",
+    "autoQuoteSelectedText": "Nukuu moja kwa moja maandishi yaliyochaguliwa kwenye kisanduku cha ingizo",
+    "autoQuoteSelectedTextTip": "Ikiwa imewashwa, maandishi yaliyochaguliwa huonekana kiotomatiki kwenye kisanduku cha ingizo kwa vitendo vya haraka",
+    "siderIcon": "Ikoni ya {{APP_NAME}}",
+    "siderIconDisplay": "Daima onyesha ikoni ya {{APP_NAME}} kwenye ukurasa",
+    "siderIconDisplayTip": "Ikiwa imewashwa, ikoni ya {{APP_NAME}} inaonekana kwenye kona ya chini kulia na inaweza kuvutwa",
+    "webAsstSearchTitle": "Kwa utafutaji",
+    "webAsstYoutubeTitle": "Kwa YouTube",
+    "webAsstImageTitle": "Kwa picha",
+    "webAsstEmailTitle": "Kwa barua pepe",
+    "webAsstCodeTitle": "Kwa msimbo",
+    "webAsstQATitle": "Kwa tovuti za Maswali na Majibu",
+    "webAsstLinkPreviewTitle": "Kwa maonyesho ya viungo",
+    "webAsstAISitesTitle": "Linganisheni mifano kwenye ChatGPT",
+    "webAsstSearchDesc": "Onyesha jibu la AI pamoja na matokeo ya utafutaji",
+    "webAsstVideoSummaryDesc": "Onyesha paneli ya muhtasari kwenye YouTube",
+    "webAsstVideoBilingualDesc": "Onyesha udhibiti wa lugha mbili kwenye YouTube",
+    "webAsstImageDesc": "Onyesha zana za AI unapohovya picha",
+    "webAsstEmailDesc": "Onyesha kitufe cha Jibu la AI kwenye Gmail",
+    "webAsstCodeDesc": "Onyesha kitufe cha Eleza Msimbo kwenye kizuizi cha msimbo",
+    "webAsstQADesc": "Onyesha kitufe cha Jibu kwenye tovuti za Maswali na Majibu",
+    "webAsstAISitesDesc": "Onyesha kitufe cha \"Linganisha na\" kwenye {{url}}",
+    "webAsstInputBoxTitle": "Sanduku la Kuingiza",
+    "webAsstInputBoxDesc": "Onyesha ikoni ya nukta kwenye sanduku la kuingiza ili kuboresha uandishi",
+    "webAsstLinkPreviewDesc": "Onyesha dirisha la hakikisho la kiungo unapovuta kiungo.",
+    "webAsstLinkpreviewExampleLink": "Hii ni kiungo salama, jaribu kukivuta ili kuona dirisha la hakikisho",
+    "sendMessage": "Tuma ujumbe",
+    "translatePage": "Tafsiri ukurasa",
+    "activateContextMenu": "Fungua swali la haraka",
+    "invalidShortcutTip": "Jumuisha {{key1}}, {{key2}}, au {{key3}}",
+    "shortcutInUseTip": "Tayari inatumika, jaribu nyingine",
+    "disabledSites": "Imelemazwa kwenye tovuti",
+    "addASite": "Ongeza tovuti",
+    "noSiteAdded": "Hakuna tovuti zilizoongezwa",
+    "wrongSiteTip": "URL batili: Angalia URL na ujaribu tena.",
+    "restoreDefault": "Rejesha chaguo-msingi",
+    "recommend4all": "(Inapendekezwa kwa kila mtu)",
+    "sidebarProvider": "Upau wa kando hutumia API ya ChatGPT Premium ili kuhakikisha ufikiaji thabiti.",
+    "sidebarProviderGoPremium": "Tunatoa mikopo ya bure ya kila siku ya {{num}} ili kuhakikisha upatikanaji wa AI kwa wote. <a>Boresha hadi premium</a> ili kuongeza kikomo chako cha mikopo ya kila siku na kuunga mkono dhamira yetu ya <b>kutoa AI ya Ulimwengu kwa kila mtu</b>.",
+    "webappGPT4": "(Watumiaji wa ChatGPT Plus wanaweza kuijaribu)",
+    "webappTip1": "Ikiwa wewe ni mtumiaji wa ChatGPT Plus, sasa una chaguo la kuchagua GPT-4. Walakini, OpenAI inaweza kupunguza idadi ya ujumbe unaoweza kutuma kwa siku.",
+    "webappTip2": "Tafadhali <m>Bandika kichupo cha ChatGPT</m> na ubaki umeingia kwenye tovuti ya ChatGPT. Walakini, hii inaweza isihakikishe utulivu. Ukikumbana na matatizo yoyote, tembelea <v>tovuti ya ChatGPT </v>na uonyeshe upya ukurasa.",
+    "GPT4Desc": "Lazima uendelee kuwa umeingia kwenye akaunti yako ya ChatGPT kwenye tovuti. Utulivu unaweza kuwa usio thabiti kwa watumiaji wa Plus na watumiaji wa bure kwa sababu ya kizuizi cha OpenAI.",
+    "apiKeyProviderTip": "(Kwa watengenezaji walio na ufunguo wa API)",
+    "apiKeyProvider": "API rasmi ya OpenAI ni thabiti zaidi na gharama zinatokana na matumizi.",
+    "apiKeyLocally": "Funguo yako ya API imehifadhiwa ndani ya kivinjari chako na haitatumwa mahali pengine popote.",
+    "ownURL": "Tumia URL yangu mwenyewe",
+    "customModelName": "Använd anpassat modellnamn",
+    "apiKeyTip1": "Ufunguo wako usiolipishwa wa API ya OpenAI unaweza kuwa umeisha muda wake. Tafadhali <a>angalia hali ya kuisha kwa ufunguo wa API hapa.</a>",
+    "apiKeyTip2": "Ukitumia kitufe cha OpenAI API bila malipo, ufikiaji wa ChatGPT unaweza usiwe thabiti inapohitajika sana.",
+    "apiFreeGuide": "Fuata mwongozo ili kupata ufunguo wa API.",
+    "apiKeyGpt4Tip": "Kiendelezi kinaauni GPT-4 ukiingiza kitufe cha GPT-4 API.",
+    "displaySearchRes": "Onyesha majibu ya ChatGPT pamoja na kurasa za matokeo ya utafutaji",
+    "whenToAsk": "Wakati wa kuuliza ChatGPT",
+    "promptTplForSearch": "Kiolezo cha haraka cha Google na injini nyingine za utafutaji",
+    "addNewTplForSearch": "Ongeza kiolezo kipya cha kidokezo",
+    "launchSidebar": "Fungua upau wa pembeni",
+    "sidebarLocation": "Mahali pa Upau wa kando",
+    "showSelectedTextTitle": "Onyesha Maandishi Yaliyochaguliwa Kiotomatiki kwenye Kiboxi cha Maingizo",
+    "showSelectedTextDesc": "Onyesha kiotomatiki maandishi yaliyochaguliwa kama nukuu kwenye kiboxi cha maingizo kwa ajili ya hatua za haraka na maagizo",
+    "sendingMsgBehavior": "Tabia baada ya kutuma ujumbe kwenye gumzo",
+    "showSelectedTextTip": "Ikiwa unapendelea maandishi yaliyochaguliwa yasioneshe kiotomatiki siku za usoni, Unaweza kuzima katika <a>mpangilio wa pembeni</a>.",
+    "sidepanelLocation": "Plats för sidofält",
+    "sidebarLeftOrRight": "Weka kando upande wa kushoto au kulia",
+    "linkToSetting": "Ändra platsen för sidofältet i webbläsarens inställningar",
+    "sidepanelLeftOrRight": "Placera sidopanelen på vänster eller höger sida. Sidopanelen är endast tillgänglig i Google Chrome 114 eller senare.",
+    "sidebarDisplayOption": "Hali ya Kuonyesha Upau wa kando",
+    "sidebarDisplayOptionTip": "Chagua jinsi upau wa kando unavyoonekana kwenye ukurasa",
+    "sidebarDisplayOptions": {
+      "overlay": "Uwekeleaji",
+      "expand": "Kupanua"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "Jisogeze kiotomatiki hadi mwisho wa jibu",
+      "messageTop": "Sitisha kusogeza wakati jibu linafikia juu"
+    },
+    "sidebarOnStartup": "När du öppnar sidofältet",
+    "sidebarOnStartupTip": "Sanidi hali ya onyesho ya kiolesura cha gumzo wakati wa kufungua Upau wa Pembeni",
+    "sidebarOnStartupOptions": {
+      "new": "Anza gumzo jipya daima",
+      "last": "Endelea gumzo la mwisho daima",
+      "auto": "Kuendelea au kuanzisha upya kiotomatiki"
+    },
+    "sidebarOnStartupAutoTip": "Ikiwa imefunguliwa tena ndani ya dakika 10, mazungumzo yanaendelea; ikiwa baada ya dakika 10, mazungumzo mapya yanaanza",
+    "sidebarIcon": "Aikoni ya Upau wa kando",
+    "sidebarIconAccess": "Fikia utepe kupitia ikoni iliyo kwenye kona ya chini ya kulia ya ukurasa. Unaweza kuburuta ili kuisogeza juu na chini",
+    "easiestWayUse": "Njia rahisi zaidi ya kutumia {{APP_NAME}}",
+    "displayWhenSelect": "Onyesha wakati maandishi yamechaguliwa",
+    "addNewTplForSidebar": "Ongeza kiolezo kipya cha haraka",
+    "editSearchTplTip": "tumia {{keywords}} kurejelea maneno muhimu ya utafutaji wako",
+    "editSearchTplPlaceholder": "{{keywords}} katika maudhui ya mwito yatabadilishwa na maneno yako ya utafutaji kiotomatiki",
+    "editSidebarTplTip": "Bandika au ingiza maudhui hapa",
+    "quickAction": {
+      "mainSwitchTitle": "Onyesha {{name}}",
+      "mainSwitchDesc": "Ikiwa imewashwa, menyu yenye vitendo vya haraka inaonekana unapochagua maandishi",
+      "displayOnSelect": "wakati maandishi yamechaguliwa",
+      "displayOnShortcut": "wakati maandishi yamechaguliwa na {{key}} inabonyezwa",
+      "displayOnSelectGuide": "Unapendelea muonekano safi zaidi? Wezesha menyu ya muktadha kwa ufunguo wa mkato wa chaguo lako katika <a>settings</a>.",
+      "closeTips": "Hatua za haraka kwa maandishi yaliyochaguliwa. Bonyeza {{icon}} kuzima ikiwa haitahitajika.",
+      "customPromptMenu": "Dhibiti maelekezo kwa {{name}}",
+      "useageScene": "Hali ya matumizi",
+      "useageSceneRW": "Onyesha {{name}} wakati wa kuchagua maandishi popote",
+      "useageSceneR": "Onyesha {{name}} wakati wa kuchagua maandishi kwenye ukurasa wa wavuti",
+      "useageSceneW": "Onyesha {{name}} wakati wa kuchagua maandishi kwenye kisanduku cha kuingiza"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "Msaidizi wa YouTube",
+        "SummaryDesc": "<b>Muhtasari wa Video</b>: Inapowezeshwa, {{APP_NAME}} inaweza kukusaidia kutoa muhtasari wa video za YouTube",
+        "BilingualDesc": "<b>Manukuu ya Lugha Mbili</b>: Inapowezeshwa, {{APP_NAME}} itaonyesha moja kwa moja wakati wa kutazama video za YouTube"
+      },
+      "qa": {
+        "title": "Msaidizi wa Maswali na Majibu",
+        "desc": "Inapowashwa, {{APP_NAME}} inaweza kujibu swali kwenye Quora, StackOverflow na tovuti zingine za QA"
+      },
+      "code": {
+        "title": "Code Assistant",
+        "desc": "När det är aktiverat kan {{APP_NAME}} hjälpa dig att förklara koder på webbsidan"
+      },
+      "image": {
+        "title": "Msaidizi wa Picha",
+        "desc": "Pindi inapowashwa, unaweza kufikia Haraka Zana za AI za Picha kwa kuelea juu ya picha yoyote"
+      },
+      "linkPreview": {
+        "autoSummarize": "Muhtasari wa Moja kwa Moja",
+        "collapse": "Kunja",
+        "guideTipDesc": "Buruta kiungo ili kukiona bila kutoka. Zima katika <link>mipangilio</link> ikiwa haitahitajika.",
+        "guideTipTitle": "Tazama viungo kwa ufanisi",
+        "openInNewTab": "Fungua katika kichupo kipya",
+        "pageLoadFailed": "Ukurasa umeshindwa kupakia",
+        "summarizeNotSupported": "Ukurasa huu hauungi mkono muhtasari.",
+        "viewSummary": "Tazama muhtasari"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Mwongozo Mpya",
+      "editPrompt": "Hariri haraka",
+      "checkPrompt": "Angalia Prompt",
+      "showInList": "Onyesha kwenye orodha",
+      "hideFromList": "Ficha kutoka kwenye orodha",
+      "noPrompts": "Hakuna vichocheo hapa",
+      "promptTabChatDesc": "Miongozo katika 'Onyesha kwenye orodha' inaonekana katika kipengele cha {{name}}.",
+      "promptTabReadDesc": "Miongozo katika 'Onyesha kwenye orodha' inaonekana katika {{name}} kwa maandishi ya ukurasa.",
+      "promptTabWriteDesc": "Miongozo katika 'Onyesha kwenye orodha' inaonekana katika {{name}} kwa visanduku vya kuingiza.",
+      "deletePromptWarn": "Futa amri hii?",
+      "howToWritePrompt": "Jinsi ya kuandika haraka",
+      "howToVarTitle": "Ni vigeu gani vinaweza kujumuishwa katika arifa?",
+      "howToVar1": "Unaweza kutumia kigezo hiki kuwakilisha ingizo au maudhui yaliyochaguliwa. Iwapo kidokezo hakijumuishi kigeu hiki, ingizo au maudhui yaliyochaguliwa yataambatanishwa na manukuu mara tatu na kuwekwa mwishoni kabisa mwa kidokezo.",
+      "howToVar2": "Unaweza kutumia kigezo hiki kuwakilisha lugha unayotaka kutumia kutoa matokeo, kulingana na lugha chaguo-msingi iliyowekwa katika mipangilio.",
+      "howToExample": "Tafadhali tumia mada au maneno muhimu yafuatayo kuunda muhtasari unaojumuisha mada, sura na vifungu vidogo.\nItoe katika umbizo la Markdown. Nipe tu matokeo na sio kitu kingine chochote. Muhtasari unapaswa kuwa katika lugha {{lang}}.\nMada au maneno muhimu: {{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Ripoti ya Tatizo",
+        "title": {
+          "label": "Muhtasari wa Tatizo",
+          "tip": "Hebu tujue ni nini kilienda vibaya kwa maneno machache."
+        },
+        "detail": {
+          "label": "Maelezo ya Tatizo",
+          "tip": "Tafadhali eleza kwa kina nini kilienda vibaya, hatua zozote ulizochukua, na ujumbe wa hitilafu ulizopata."
+        }
+      },
+      "fr": {
+        "name": "Ombi la Kipengele",
+        "title": {
+          "label": "Kichwa",
+          "tip": "Ombi lako linahusu nini?"
+        },
+        "detail": {
+          "label": "Maelezo",
+          "tip": "Tafadhali toa maelezo ya kina ya kipengele kipya unachotaka."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "Hifadhi kama kidokezo kipya",
+    "replacePrompt": "Badilisha kidokezo",
+    "inputPlaceholder1": "Ingiza kidokezo au chagua kutoka kwa menyu",
+    "inputPlaceholder2": "Bandika au ingiza maudhui hapa",
+    "startNewLine": "Bonyeza {{shortcut}} ili kuanzisha laini mpya",
+    "inputPlaceholderCodes": "Bandika au weka misimbo hapa",
+    "inputPlaceholderQA": "Bandika au swali la kuingiza hapa",
+    "pressToSubmit": "Bonyeza {{key}} ili kuwasilisha",
+    "stopGenerating": "Acha kuzalisha",
+    "regenerate": "Tengeneza jibu upya",
+    "askTabLabel": "Uliza",
+    "chatTabLabel": "Soga",
+    "moreTabLabel": "Zaidi",
+    "composeTabLabel": "Andika",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "Tafsiri",
+    "grammarTabLabel": "Sarufi",
+    "searchTabLabel": "Sök",
+    "toolsTabLabel": "Vifaa",
+    "freePlan": "Mpango wa Bure",
+    "premiumPlan": "Mpango wa Premium",
+    "extraQuota": "Kiasi cha Ziada",
+    "submitOption": "Wasilisha Chaguo",
+    "painterLabel": "Mchoraji",
+    "downloadLabel": "Pakua Programu ya Kompyuta/Simu ya Mkononi",
+    "deleteAllConfirmTitle": "Futa yote"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}} huchagua kwa nguvu GPT-4o mini, Claude 3 Haiku, Gemini 1.5 Flash, au Llama 3 kwa majibu bora kulingana na hali.",
+    "gpt-3.5": "Haraka sana, nzuri kwa kazi nyingi za kila siku.",
+    "gpt-4": "Muundo wenye uwezo zaidi, bora zaidi kwa kazi ngumu zinazohitaji mawazo ya kina.",
+    "gpt-4o": "Mfano bora wa OpenAI, bora kwa kazi ngumu huku ukidumisha ubora.",
+    "gpt-4o-mini": "Mfano wa hivi karibuni wa OpenAI, hutoa utendaji wa haraka, bora katika gumzo, usimbaji, na kazi za mantiki kwa matumizi ya kila siku.",
+    "gpt-5": "Mfano wa hivi punde wa OpenAI, bora kwa kazi ngumu huku ukihifadhi ubora.",
+    "claude-instant": "Muundo msingi kutoka kwa Anthropic, latency ya chini, kesi za matumizi ya juu.",
+    "claude2": "Muundo bora zaidi wa utoaji kutoka kwa Anthropic, utendaji bora kwenye kazi zinazohitaji hoja changamano.",
+    "claude-3-haiku": "Anthropics mest kompakta modell, designad för nästan omedelbar respons och sömlösa AI-upplevelser som liknar mänskliga interaktioner",
+    "claude-3-sonnet": "Anthropic's modell som är mest balanserad mellan intelligens och hastighet, idealisk för en bred uppsättning uppgifter.",
+    "claude-3.5-sonnet": "Mfano wa hivi karibuni wa Anthropic, unaotoa kasi mara mbili ya Claude 3 Opus na akili ya juu zaidi, ikiboresha sana hoja, maarifa, usimbaji, na kazi za kuona.",
+    "claude-3-opus": "Anthropic's kraftfullaste modell, levererar toppmodern prestanda på mycket komplexa uppgifter och visar flytande och mänsklig förståelse.",
+    "bard": "Mfano kutoka Google (PaLM 2), hufanya vyema katika kazi za juu za hoja.",
+    "gemini-pro": "Mfano ulio sawa zaidi wa Google, unaochanganya uwezo na ufanisi kikamilifu.",
+    "gemini-1.5-pro": "Mfano bora wa Google kwa utendaji wa jumla katika aina mbalimbali za kazi.",
+    "gemini-1.5-flash": "Mfano mwepesi wa Google, ulioboreshwa kwa kasi na ufanisi.",
+    "llama-3": "Mfano wa hivi karibuni wa Meta, bora kwa kazi ngumu huku ukihifadhi ubora."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Gharama <m>1 mkopo wa msingi</m>.",
+    "gpt-3.5-n_one": "Gharama <m>{{count}} mkopo wa msingi</m>.",
+    "gpt-3.5-n_other": "Gharama <m>{{count}} mikopo ya msingi</m>.",
+    "gpt-4": "Gharama <m>1 mkopo wa juu</m>.",
+    "gpt-4-2": "Gharama <m>2 mikopo ya juu</m>.",
+    "gpt-4-n_one": "Gharama <m>{{count}} mkopo wa juu</m>.",
+    "gpt-4-n_other": "Gharama <m>{{count}} mikopo ya juu</m>."
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "Jibu kutoka",
+    "autoCloseBanner": "Inasimama kiotomatiki baada ya kutokuwa na shughuli",
+    "autoCloseTips": "Msaidizi wa Utafutaji atasimama ikiwa hutabonyeza vitufe vyovyote kwenye kadi ndani ya utafutaji 30. Unaweza kuirejesha wakati wowote kwa kubonyeza kitufe.",
+    "signinToAsk": "Ingia ili Uulize {{MODEL_NAME}}",
+    "newChat": "Mazungumzo mapya",
+    "chatHistory": "Historia ya mazungumzo",
+    "writeHistory": "Historia ya kuandika",
+    "searchHistory": "Historia ya Utafutaji",
+    "chatControls": "Udhibiti wa mazungumzo",
+    "inputPlaceholder": "Andika ujumbe...",
+    "send": "Tuma",
+    "feedback": "Maoni",
+    "experimental": "Kipengele hiki bado kinaendelea kubadilika na kinaweza kubadilika, kwa hivyo tafadhali shiriki mawazo yako.",
+    "share": "Shiriki",
+    "replyLanguage": "Lugha ya majibu",
+    "capabilities": "Uwezo",
+    "deleteConfirmTitle": "Je, ungependa kufuta mazungumzo haya?",
+    "deleteConfirmContent": "Kitendo hiki hakiwezi kutenduliwa.",
+    "compareWeb": "Linganisha jibu kutoka kwa wavuti",
+    "compareAnsWith": "Linganisha jibu na",
+    "smarterAnsWith": "Pata jibu la busara zaidi kutoka",
+    "improveWithXXX": "Pata jibu bora kutoka kwa <b>Bot</b>",
+    "improveWithXXX2": "Pata jibu la kina kutoka kwa <b>Bot</b>",
+    "compareWithXXX": "Uliza <b>Bot</b>",
+    "improveWithSearch": "Pata jibu la wavuti kutoka kwa Google",
+    "improveWithBoth": "Panga Majibu ya Google ukitumia GPT-4",
+    "answerWithoutSearching": "Uliza <b>Bot</b> ya asili",
+    "screenshot": "Picha ya skrini",
+    "upload": "Pakia",
+    "uploadFile": "Pakia Faili",
+    "siderUploadFile": "Pakia faili katika PDF, DOC, XLSX, CSV, JPG, JSON na miundo mingine, hadi faili 6 kwa wakati mmoja, hadi 100MB kwa kila faili.",
+    "addImage": "Ongeza picha",
+    "uploadTip": {
+      "formatTitle": "Msaada:",
+      "limitTitle": "Kikomo:",
+      "format": "Ukurasa wa wavuti, PDF, DOC, XLSX, CSV, JPG, JSON, MP3, WAV, M4A, MPGA, na zaidi",
+      "limit": "Hadi faili 6, 100MB kila moja"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "Andika soneti ya mtindo wa Shakespeare kuhusu simu za mkononi"
+      },
+      {
+        "title": "",
+        "ques": "Pendekeza mavazi 10 ya ubunifu ya Halloween kwa watoto"
+      },
+      {
+        "title": "",
+        "ques": "Toa muhtasari wa ramani ya mwanzo ya kujifunza fedha binafsi"
+      },
+      {
+        "title": "",
+        "ques": "Elezea mtoto wa miaka 10 kwa nini anga ni ya buluu"
+      }
+    ],
+    "textSelectedTip": "Maandishi kutoka kwa chaguo lako",
+    "ocrTextTip": "{{name}} Matokeo",
+    "translateTip": "Tafsiri Matokeo",
+    "textSelectedSystemMsg": "Je, ungependa kufanya nini na maandishi?",
+    "welcomeSystemMsg": "Habari! Je, ninaweza kukusaidiaje leo?",
+    "welcomeMsg": "Hur kan jag hjälpa dig idag?",
+    "chatActionTranslate": "Tafsiri kwa {{lang}}",
+    "search": "Tafuta",
+    "continueInChat": "Endelea kwenye gumzo",
+    "chatWithVideo": "Ongea kwa video",
+    "userStopTip": "Mtumiaji alighairi ombi.",
+    "noChatHistory": "Bado hakuna historia.",
+    "noSearchHistory": "Hakuna matokeo yaliyopatikana",
+    "webAccessModalTitle": "{{APP_NAME}} huwezesha ChatGPT-3.5 na GPT-4 kufikia wavuti!",
+    "webAccessModalContent": "Data ya ChatGPT si ya wakati halisi. {{APP_NAME}} huchanganya akili ya ChatGPT na maelezo ya mtandaoni ya wakati halisi, hivyo basi, kuruhusu GPT kushughulikia maswali ya wakati halisi yanayohusiana na taarifa kwa ufanisi zaidi. Boresha ili upate kipengele hiki, na usiwe na wasiwasi zaidi kuhusu taarifa zilizopitwa na wakati!",
+    "readDoc": "Läs dokument",
+    "readDocFail": "Misslyckades att läsa dokument"
+  },
+  "sidebarComposePanel": {
+    "compose": "Tunga",
+    "reply": "Jibu",
+    "write": "Andika",
+    "writePlaceholder": "Ingiza mada unayotaka kuandika kuhusu",
+    "replyPlaceholder1": "Ingiza maandishi ya awali unayotaka kujibu",
+    "replyPlaceholder2": "Eleza wazo kuu la jibu lako",
+    "submitShortcut": "Bonyeza {{shortcut}} ili kuunda rasimu",
+    "generate": "Tengeneza rasimu",
+    "format": "Umbizo",
+    "email": "Barua pepe",
+    "idea": "Wazo",
+    "outline": "Muhtasari",
+    "essay": "Insha",
+    "paragraph": "Aya",
+    "blog": "Chapisho la Blogu",
+    "ads": "Matangazo ya Uuzaji",
+    "twitter": "Twitter",
+    "comment": "Maoni",
+    "message": "Ujumbe",
+    "tone": "Toni",
+    "basic": "msingi",
+    "style": "Mtindo",
+    "professional": "Mtaalamu",
+    "formal": "Rasmi",
+    "casual": "Kawaida",
+    "enthusiastic": "Mwenye shauku",
+    "informational": "Taarifa",
+    "funny": "Mapenzi",
+    "length": "Urefu",
+    "short": "Mfupi",
+    "medium": "Kati",
+    "long": "Muda mrefu",
+    "regenerate": "Tengeneza upya",
+    "addToSite": "Ongeza kwenye tovuti",
+    "addToSiteTip": "Weka kishale cha kipanya chako kwenye kisanduku cha kuingiza unachotaka na ubofye '{{name}}' ili kuingiza",
+    "insertToSite": "Weka matokeo kwenye kisanduku cha ingizo cha wavuti",
+    "history": "Historia",
+    "formatExists": "Muundo tayari upo",
+    "AIWriter": "Mwandishi wa AI",
+    "continueOptimizeTips": "Endelea kuboresha na kuimarisha sambamba na AI",
+    "alsoWriteTips": "Kuandika sambamba na Al"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "Kubali",
+    "checkFailed": "Angalia Imeshindwa",
+    "checkNoError": "Hakuna makosa",
+    "checking": "Kuangalia",
+    "fixError": "Sahihisha Yote ({{errorCount}})",
+    "ignore": "Puuza",
+    "improve": "Boresha",
+    "inputPlaceholder": "Inapatikana kwa Kiingereza pekee. Bandika au andika maandishi ili kukagua.",
+    "reasonForChanges": "Sababu za mabadiliko"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Gundua Kiotomatiki",
+    "placeholde": "Andika au bandika maandishi hapa...",
+    "errWrongTargetLang": "Lugha chanzo na lengwa ni sawa. Angalia chaguo lako.",
+    "errTooManyChar": "{{num}}/{{total}}: Kuingiza kunazidi kikomo cha herufi.",
+    "upgradeForLongChar": "Boresha sasa ili kufungua ingizo refu zaidi ({{num}} herufi).",
+    "extraTransTips": "Unaweza pia kutafsiri:",
+    "currentPage": "Ukurasa wa Sasa",
+    "customization": {
+      "defaultPreferences": "Mapendeleo ya msingi",
+      "title": "Mapendeleo ya Tafsiri",
+      "Length": "Urefu",
+      "LengthOpt": {
+        "Brief": "Kwa kifupi",
+        "Concise": "Kwa ufupi",
+        "Standard": "Kawaida",
+        "Expanded": "Imepanuliwa"
+      },
+      "Tone": "Toni",
+      "ToneOpt": {
+        "Casual": "Kawaida",
+        "Neutral": "Si upande wowote",
+        "Formal": "Rasmi",
+        "Authoritative": "Mwenye mamlaka",
+        "Empathetic": "Mwenye huruma"
+      },
+      "Style": "Mtindo",
+      "StyleOpt": {
+        "Literal": "halisi",
+        "DynamicEquivalence": "Usawa wa Nguvu",
+        "CreativeAdaptation": "Urekebishaji wa Ubunifu"
+      },
+      "Complexity": "Utata",
+      "ComplexityOpt": {
+        "Layman": "Layman",
+        "Standard": "Kawaida",
+        "Expert": "Mtaalamu"
+      }
+    },
+    "inputTranslateAdText": "Tafsiri maandishi mara moja kwenye kisanduku cha kuingiza kwenye ukurasa wowote wa wavuti!",
+    "inputTranslateAdBtn": "Iweke sasa",
+    "seeDict": "Tazama kamusi"
+  },
+  "sidebarSearchPanel": {
+    "history": "Historik",
+    "searchProgress": {
+      "searching": "Inatafuta",
+      "analyzing": "Inachambua",
+      "organizing": "Inaandaa",
+      "generatingAnswer": "Inazalisha jibu",
+      "competed": "Imekamilika",
+      "searchInWeb": "Sök på webben",
+      "analyzeSearchResult": "Analysera sökresultat",
+      "generateAnswer": "Generera svar",
+      "searchCompleted": "Sökning slutförd",
+      "searchCancelled": "Sökning avbruten"
+    },
+    "relatedSearches": "Utafutaji Husika",
+    "searchFrom": "Tafuta kutoka",
+    "searchHistory": "Historia ya Utafutaji",
+    "answer": "Svar",
+    "currentVisit": "Aktuell besök",
+    "feedback": {
+      "stepAnswer": "Generera svar",
+      "stepSearch": "Utför sökning",
+      "stepUnderstand": "Förstå frågor",
+      "tipTotal": "Jumla ya mikopo {{count}}"
+    },
+    "stoppedSearch": "Umesimamisha utafutaji huu.",
+    "newSearch": "Ny sökning",
+    "searching": "Sökning",
+    "searchFromAll": "Sök från hela Internet",
+    "searchAll": "Sök från alla",
+    "searchRange": "Sökområde",
+    "searchFromSite": "Sök från {{domain}} webbplats",
+    "sources": "Källor",
+    "suggestions": "Förslag",
+    "title": "Tafuta",
+    "viewAll": "Visa alla",
+    "defaultSearchSuggesiton": "Lini bora ya kutembelea Paris ni lini?",
+    "followUpQuestion": "Swali la kufuatilia...",
+    "searchPlaceholder": "Ingiza taarifa unayotaka kutafuta"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "AI OCR inaweza kufanya makosa",
+    "dragImgTips": "Bofya kupakia au buruta picha hapa ili kutoa maandishi",
+    "noText": "Hakuna maandishi yanayotambuliwa",
+    "ocrCost": "Kila {{name}} itagharimu {{num}} mkopo wa msingi",
+    "ocrTips": "Toa maandishi, nambari na milinganyo kutoka kwa picha"
+  },
+  "pageTranslation": {
+    "title": "Tafsiri ukurasa",
+    "demoText": "ChatGPT inaendeshwa na Transformer, mfano wa kujifunza kwa kina ulioundwa kwa ajili ya usindikaji wa lugha asilia, ukiwa na mitandao ya neva ya kujihusisha na kulisha mbele.",
+    "free": "Bure",
+    "aiTranslator2": "Mkalimani wa AI",
+    "aiTranslatorFunTitle1": "Uelewa wa Muktadha",
+    "aiTranslatorFunDesc1": "Inakamata nia na sauti, ikienda zaidi ya tafsiri ya neno kwa neno",
+    "aiTranslatorFunTitle2": "Tafsiri Sahihi",
+    "aiTranslatorFunDesc2": "Tafsiri kwa uwazi na usahihi, kuhakikisha hakuna maelezo yanayopotea",
+    "newAITranslationTip": "Tafsiri ya Ukurasa wa AI sasa ipo hewani! Bofya hapa ili kuiweka.",
+    "translateService": "Huduma ya Tafsiri",
+    "translateServiceTip": "Gharama za tafsiri ya AI zinategemea mikopo ya msingi kulingana na urefu wa maudhui.",
+    "pageTranslation": "Översätt den här sidan",
+    "showOriginal": "Visa originaltext",
+    "transSettings": "Mipangilio ya tafsiri",
+    "source": "Lugha ya Chanzo",
+    "target": "Lugha Lengwa",
+    "autoDetect": "Gundua Kiotomatiki",
+    "displayMode": "Hali ya onyesho",
+    "displayModes": [
+      "Lugha Mbili",
+      "Tafsiri pekee"
+    ],
+    "displayStyle": "Mtindo wa Onyesho",
+    "displayStyles": [
+      "Ingen",
+      "Understrykning",
+      "Försvagning"
+    ],
+    "displayStyleDesc": "Kwa tafsiri tu katika hali ya kulinganisha lugha mbili",
+    "autoTrans": "Tafsiri Kiotomatiki",
+    "autoTrans2": "Tafsiri kurasa za wavuti kiotomatiki",
+    "autoTrans2Desc": "Ikiwa imezimwa, bonyeza kitufe cha kutafsiri au tumia kifupisho",
+    "neverTransSite": "Usiwahi kutafsiri tovuti hii",
+    "neverTransSites": "Usiwahi kutafsiri tovuti hizi",
+    "transAgain": "Tafsiri tena"
+  },
+  "inputTranslation": {
+    "title": "Ingizo la tafsiri",
+    "mainSwitchTitle": "Tafsiri maandishi ya kuingiza kwa kutumia kitufe cha kuchochea",
+    "mainSwitchDesc": "Tafsiri na ubadilishe maandishi kwenye kisanduku cha kuingiza kwenye ukurasa wowote wa wavuti",
+    "triggerKeyTitle": "Kitufe cha kichochezi",
+    "triggerKeyDesc": "Bonyeza kitufe cha kichochezi mara 3 haraka ili kutafsiri, futa na {{key}}",
+    "spaceKey": "Kitufe cha nafasi",
+    "model": "Mfano wa tafsiri",
+    "neverTransSites": "Usitafsiri kamwe kwenye tovuti hizi"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "Hali ya Fikra",
+      "desc": "Hali ya Fikra inatumia uamuzi wa Mnyororo wa Mawazo kuchambua matatizo magumu kupitia hitimisho la hatua nyingi, ikitoa majibu ya kina na yenye ufahamu zaidi.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Fikiria kuhusu: 9.11 au 9.8, ipi ni kubwa zaidi"
+        },
+        {
+          "title": "",
+          "value": "Fikiria na andika kazi ya kuiga nadharia ya 'Digrii Sita za Kutengana'. Ukipewa mtandao wa kijamii kama grafu, tafuta njia fupi zaidi kati ya watu wawili wowote."
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "Artifacts",
+      "desc": "Rahisi kuunda na kuwasilisha maudhui, kama kurasa za wavuti au michoro ya mtiririko, katika dirisha jipya. Ongeza tija na mwingiliano wa wakati halisi na eneo la kazi lenye umakini.",
+      "demos": [
+        {
+          "title": "Unda Xylophone ya Kijijini",
+          "value": "Unda xylophone inayotumia HTML yenye funguo za rangi ndani ya {{ARTIFACT}}. Toa mrejesho wa kuona kwa funguo zilizogongwa, na tengeneza sauti rahisi, halisi kwa kutumia Web Audio API kulingana na vigezo vya frequency. Jumuisha maelekezo ya msingi."
+        },
+        {
+          "title": "Unda Mchezo wa Emoji wa Kula Chakula",
+          "value": "Unda mchezo rahisi unaotumia HTML, kama Catch the Candy, ndani ya {{ARTIFACT}}. Mchezaji anadhibiti emoji chini ya skrini, akihamisha haraka kushoto na kulia ili kukamata na kula vitu vya chakula (mfano, 🍓, 🍔, 🍎) vinavyodondoka kutoka juu huku akiepuka mabomu (💣). Kila wakati mchezaji anapokamata emoji ya chakula, emoji yao itabadilika kuwa na uso wa furaha zaidi (mfano, 🤩, 😆, 😋) kuashiria mafanikio. Ikiwa mchezaji kwa bahati mbaya anakamata bomu, emoji itaanza kuonyesha mlipuko (💥) na kisha kubadilika kuwa na uso wa kutetemeka (😵‍💫)."
+        },
+        {
+          "title": "Unda Chati ya Usafirishaji wa Simu za Mkononi",
+          "value": "Tumia React kuunda chati nzuri ya mistari ndani ya {{ARTIFACT}} kulingana na jedwali lifuatalo.\n------\n\nUsafirishaji wa Simu za Mkononi kwa Alama Kubwa Katika Muongo wa Mwisho (katika Bilioni)\n\n| Mwaka | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+        }
+      ]
+    },
+    "search": {
+      "name": "Webbåtkomst",
+      "desc": "Pata ufahamu wa wakati halisi zaidi ya data iliyofunzwa awali, kuhakikisha majibu sahihi na ya wakati kwa matukio ya sasa, habari za dharura, na mada zinazobadilika.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Ni filamu zipi zenye viwango vya juu kwa sasa katika sinema za Marekani?"
+        },
+        {
+          "title": "",
+          "value": "Ni hisa zipi zilizoonyesha ongezeko kubwa leo?"
+        },
+        {
+          "title": "",
+          "value": "Ni bidhaa ipi mpya ya elektroniki iliyoachiliwa leo ambayo inastahili kuzingatiwa?"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "Tengeneza Picha",
+      "desc": "Eleza tu unachofikiria, na tengeneza picha za ubora wa juu papo hapo. Hakuna ujuzi wa kubuni unaohitajika – ni mawazo yako tu.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Buni muundo wa gari la kuruka la kisasa."
+        },
+        {
+          "title": "",
+          "value": "Chora retriever wa dhahabu akikimbia kwenye majani."
+        },
+        {
+          "title": "",
+          "value": "Onyesha mwanamke mzee akinywa kahawa kwa kawaida."
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "Uchambuzi wa Takwimu",
+      "desc": "Endesha msimbo wa Python kwa wakati halisi kwa hesabu za juu, takwimu, ujifunzaji wa mashine, na usindikaji wa data, kurahisisha kazi katika miundo mbalimbali.",
+      "demos": [
+        {
+          "title": "Soma data ya faili na tengeneza chati ya mduara inayoonyesha uwiano wa bajeti mbalimbali za matumizi.",
+          "value": "Soma data ya faili na tengeneza chati ya mduara inayoonyesha uwiano wa bajeti mbalimbali za matumizi."
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Unapenda kiendelezi chetu?</b> Tafadhali tukadirie nyota tano kwenye duka la wavuti ili utusaidie kukua",
+    "newInVersion": "Nini Kipya katika toleo {{versionId}}",
+    "learnToUse": "Jifunze jinsi ya kutumia",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, Mkalimani wa AI",
+      "4_36_0": "Kusanya Maarifa na Wisebase",
+      "4_35_0": "Tazama Viungo: Vinjari kwa Akili",
+      "4_34_0": "Maboresho ya Kujibu kwa Al katika Gmail, Artifacts na Tafsiri",
+      "4_33_0": "O1 & Uboreshaji wa Muhtasari wa Video",
+      "4_32_0": "Msaada kwa Faili za Sauti katika Gumzo",
+      "4_31_0": "Zana Nav, Ingiza Tafsiri, Nakili Haraka",
+      "4_30_0": "Imesasishwa GPT-4o, Tafsiri ya Ukurasa na Manukuu ya YouTube",
+      "4_29_0": "Uzoefu wa Gumzo Ulioboreshwa",
+      "4_28_0": "Claude 3.5 Haiku & Chaguo Zilizoboreshwa",
+      "4_27_0": "Menyu ya Muktadha Iliyoboreshwa na Vitu",
+      "4_26_0": "Kutambulisha Hali ya Fikra (Jaribio)",
+      "4_25_0": "Mwonekano Mpya kwa Uzoefu Bora",
+      "4_24_0": "Mifano ya Gemini imekuwa na akili zaidi na kasi zaidi!",
+      "4_23_0": "OpenAI o1-preview & o1-mini zinapatikana sasa!",
+      "4_22_0": "Demon vs Malaika: Piga X-Ray ya X-tabia Yako",
+      "4_20_0": "Boresha Vipengele vya Tafsiri",
+      "4_19_0": "{{ARTIFACTS}}: Vitalu vya Maudhui ya Wakati Halisi, ya Kuingiliana",
+      "4_18_0": "Kushiriki Gumzo Sasa Kuko Moja kwa Moja!",
+      "4_17_0": "Kukuletea Vipengele vya Kutazama kwa YouTube",
+      "4_16_0": "Kuwasilisha GPT-4o mini",
+      "4_13_0": "Kujitambulisha AI Kusoma kwa Sauti: Msaidizi Wako wa Kibinafsi wa Sauti",
+      "4_12_0": "",
+      "4_11_0": "Msomaji wa kina ili kuongeza ujuzi wako wa kusoma kwa kina!",
+      "4_10_0": "GPT-4o ya OpenAI sasa ipo hapa!",
+      "4_9_0": "Llama 3 Sasa! Kizazi kijacho cha LLM ya kisasa na ya wazi kutoka Meta.",
+      "4_8_0": "Gemini 1.5 Pro - Sasa Inapatikana!",
+      "4_7_0": "In-Chat Video Summary, Subtitle Extraction, Claude 3 Haiku! 🚀",
+      "4_6_0": "Stöd Claude 3-familjen nu!",
+      "4_5_0": "",
+      "4_4_0": "Alla verktyg i Chatt & GPT-4 Kontextmenyn",
+      "4_3_0": "Maximiza Uzo wako na Mode ya Skrini Kamili!",
+      "4_2_0": "Ufikiaji wa GPTs wa UI na Upau wa kando zaidi",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "Sider yuko tayari kuchoma na kujigamba kuhusu machapisho yako ya umma ya X (Twitter)! Chagua kwa ajili ya vicheko, hakuna data inayohifadhiwa. Cheza na ushiriki furaha na marafiki zako!"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>: Inalingana na utendaji wa OpenAI-o1"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>: Inang'ara katika hoja ngumu, hesabu, na kazi za usimbaji"
+          ]
+        },
+        {
+          "features": [
+            "<b>Mkalimani wa AI kwa Ukurasa wa Wavuti</b>: Inatoa tafsiri za asili na sahihi"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>Hifadhi Kurasa za Wavuti na Vipengele Muhimu</b>: Hifadhi maudhui muhimu ya wavuti kwenye Wisebase (hifadhidata ya Al) kwa kubofya mara moja"
+          ]
+        },
+        {
+          "features": [
+            "<b>Al Inbox</b>: Ruhusu Al kupanga maudhui yako kiotomatiki"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ongea na Faili Nyingi</b>: Pata majibu ya haraka kutoka kwa faili zako zilizokusanywa"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>Muonekano wa Haraka</b>: Buruta viungo kuona maudhui bila kufungua vichupo vipya"
+          ]
+        },
+        {
+          "features": [
+            "<b>Muhtasari Mahiri</b>: Pata ufahamu muhimu kutoka kwa kurasa kwa haraka"
+          ]
+        },
+        {
+          "features": [
+            "<b>Vinjari kwa Ufanisi</b>: Baki makini na upunguze mibofyo na usumbufu"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Kujibu kwa Al katika Gmail</b>: Inasaidia tafsiri na uteuzi wa modeli ya Al kwa mawasiliano bora"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artifacts</b>: Hamisha michoro ya mtiririko kama picha kwa urahisi wa kushiriki"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tafsiri</b>: Kamusi ya Al kwa tafsiri sahihi za maneno na misemo"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>: Haraka kuliko 'o1-preview', inang'ara katika kazi ngumu za hatua nyingi kwa usahihi wa hali ya juu"
+          ]
+        },
+        {
+          "features": [
+            "<b>Muhtasari wa Video Bila Manukuu</b>: Pata maandiko na muhtasari wa video za YouTube bila manukuu"
+          ]
+        },
+        {
+          "features": [
+            "<b>Muhtasari wa Maudhui ya Wavuti</b>: Umeboreshwa kwa majukwaa kama Reddit na Twitter"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>Sauti kwa Maandishi</b>: Pakia faili ya MP3, WAV, M4A, au MPGA ili kutengeneza nakala"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tazama & Sikiliza</b>: Soma nakala huku ukisikiliza sauti"
+          ]
+        },
+        {
+          "features": [
+            "<b>Fupisha kwa Urahisi</b>: Tengeneza muhtasari wa haraka kwa kubofya mara moja"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>Zana Nav</b>: Fikia zana za AI kwa picha, PDF na video kutoka kwenye upau wa nav"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ingiza Tafsiri</b>: Bonyeza nafasi mara tatu kutafsiri maandishi yaliyoingizwa (washa katika Machaguo)"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nakili Haraka</b>: Nakili maandishi mara moja kwa kutumia menyu ya muktadha"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>: Uwezo wa kuandika kwa asili ulioboreshwa na uboreshaji wa usimamizi wa faili"
+          ]
+        },
+        {
+          "features": [
+            "<b>Onyesho la Tafsiri Pekee</b>: Tafsiri ya ukurasa sasa inasaidia kuona maudhui yaliyotafsiriwa pekee"
+          ]
+        },
+        {
+          "features": [
+            "<b>Manukuu Bora ya YouTube</b>: Furahia tafsiri za manukuu ya lugha mbili zenye ubora wa juu"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>Uhariri wa Ujumbe</b>: Hariri kwa urahisi ujumbe uliotumwa na utume tena kwa majibu mapya"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ulinganisho wa Kando kwa Kando</b>: Tazama majibu kutoka kwa mifano mingi kwenye ukurasa mzima"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ikoni kwa Maagizo Maalum</b>: Weka ikoni kwa maagizo maalum kwa mpangilio ulio wazi zaidi"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Haiku</b>: Inatoa utendaji unaozidi Claude 3 Opus, ikibobea katika usimbaji, matumizi ya zana, na hoja"
+          ]
+        },
+        {
+          "features": [
+            "<b>Badilisha Ukubwa wa Herufi</b>: Sasa unaweza kubadilisha ukubwa wa herufi za ujumbe"
+          ]
+        },
+        {
+          "features": [
+            "<b>UI Iliyosafishwa</b>: UI ya Chaguo safi zaidi, yenye angavu kwa urahisi wa ubinafsishaji"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>UI Iliyopangwa</b>: Kiolesura safi, chenye mantiki zaidi kwa uzoefu laini"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tafsiri Iliyoboreshwa</b>: Inatoa maana za maneno zinazohusiana kwa usahihi wa muktadha"
+          ]
+        },
+        {
+          "features": [
+            "<b>Chapisha na Shiriki Vitu</b>: Shiriki kwa urahisi Vitu vyako hadharani kupitia viungo"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>Uamuzi wa Mnyororo wa Mawazo</b>: Inavunja kazi ngumu hatua kwa hatua kwa utatuzi wa matatizo wenye akili zaidi"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ufahamu wa Kina</b>: Inatoa majibu yenye mawazo ya kina kushughulikia maswali magumu"
+          ]
+        },
+        {
+          "features": [
+            "<b>Inafanya kazi na Miundo Yote</b>: Inapatikana bila mshono katika kila muundo"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>Muundo Ulioboreshwa</b>: Taswira za kisasa, mpangilio safi kwa urahisi wa matumizi na umakini"
+          ]
+        },
+        {
+          "features": [
+            "<b>Kubandika Haraka</b>: Bandika maelekezo yanayotumika mara kwa mara kwa upatikanaji wa haraka"
+          ]
+        },
+        {
+          "features": [
+            "<b>Jedwali Zinazopanuka</b>: Tazama data kubwa katika dirisha jipya kwa usomaji ulioboreshwa"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>: Uwezo mkubwa wa kufikiri na ujuzi wa hesabu na kuona ulioboreshwa."
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>: Mara 2 kasi zaidi, ucheleweshaji mara 3 chini, bora katika kuona na usimbaji."
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>: Inashughulikia kazi ngumu na kutatua matatizo magumu zaidi kuliko mifano ya awali katika sayansi, usimbaji, na hesabu. Gharama ni mikopo 15 ya juu kwa kila ujumbe."
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>: Mfano wa haraka zaidi hasa mzuri katika usimbaji. Inafaa kwa hoja zilizolengwa bila maarifa mapana. Gharama ni mikopo 3 ya juu kwa kila ujumbe."
+          ]
+        },
+        {
+          "features": [
+            "<b>Kumbuka</b>: Kuna mipaka ya kiwango."
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>Tafsiri ya Multi-Model</b>: Tumia mifano mingi kwa wakati mmoja kwa tafsiri sahihi zaidi."
+          ]
+        },
+        {
+          "features": [
+            "<b>Kuandika Upya Tafsiri kwa Ustadi</b>: Andika upya tafsiri kwa hali tofauti."
+          ]
+        },
+        {
+          "features": [
+            "<b>Manukuu ya Lugha Mbili</b>: Tazama manukuu ya YouTube katika lugha zote mbili kwa wakati mmoja."
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>Onyesho la Moja kwa Moja:</b> Tazama na kuingiliana na kurasa za wavuti, nyaraka, na chati zilizotengenezwa na AI kwa wakati halisi."
+          ]
+        },
+        {
+          "features": [
+            "<b>Urudiaji Usio na Mshono:</b> Rudia kwenye vitu vilivyotengenezwa kupitia gumzo."
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>Miundo Mingi</b>: Shiriki gumzo lako kama kiungo au picha."
+          ]
+        },
+        {
+          "features": [
+            "<b>Uchaguzi Rahisi</b>: Chagua na shiriki mazungumzo yote au sehemu yake tu."
+          ]
+        },
+        {
+          "features": [
+            "<b>Udhibiti Rahisi</b>: Futa viungo vilivyoshirikiwa wakati wowote."
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>Vipengele vya Video</b>: Usimulizi unaotengenezwa na AI hukusaidia kuokoa muda kwa kuonyesha haraka sehemu muhimu za video."
+          ]
+        },
+        {
+          "features": [
+            "<b>Usimulizi wa Asili</b>: Sauti halisi za AI huboresha uzoefu wako wa kutazama."
+          ]
+        },
+        {
+          "features": [
+            "<b>Usaidizi wa Lugha Nyingi</b>: Elewa video kwa urahisi licha ya vizuizi vya lugha."
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>Utendaji wa Haraka, Bora:</b> Hufanya kazi za kila siku kuwa laini na bora zaidi."
+          ]
+        },
+        {
+          "features": [
+            "<b>Hisabati na Usimbaji Ulioimarishwa:</b> Inahakikisha utendaji sahihi kwa kazi za kiufundi."
+          ]
+        },
+        {
+          "features": [
+            "<b>Uboreshaji kutoka GPT-3.5:</b> GPT-4o mini inachukua nafasi ya GPT-3.5 na utendaji bora."
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>Sauti za Asili za AI</b>: Furahia sauti 9 za AI zinazopendeza katika lugha nyingi."
+          ]
+        },
+        {
+          "features": [
+            "<b>Sikiliza Popote</b>: Chagua maandishi yoyote kwenye ukurasa wa wavuti ili kuyasoma kwa sauti."
+          ]
+        },
+        {
+          "features": [
+            "<b>Usaidizi wa Upande</b>: Sikiliza kwa urahisi maudhui yaliyotengenezwa na AI kutoka kwa vijisehemu vya upande."
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>Msaada kwa Claude 3.5 Sonnet:</b> Modeli ya hivi karibuni ya Anthropic, yenye kasi mara 2 ya Claude 3 Opus na akili ya juu zaidi, inaboresha kwa kiasi kikubwa uamuzi, maarifa, usimbaji, na kazi za kuona."
+          ]
+        },
+        {
+          "features": [
+            "<b>Kustaafu kwa Claude 3 Opus:</b> imebadilishwa na Claude 3.5 Sonnet iliyoboreshwa."
+          ]
+        },
+        {
+          "features": [
+            "<b>Alika & Pata:</b> Alika marafiki zako kupata maswali ya bure na ujaribu mfano wa hivi karibuni leo!"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>Kurasa nyingi za wavuti:</b> Soma kurasa nyingi za wavuti au nyaraka kwa wakati mmoja"
+          ]
+        },
+        {
+          "features": [
+            "<b>Zana za kusoma kwa kina:</b> Fafanua dhana kuu, Tambua mawazo, Angazia vifungu, Jifunze kuhusu mwandishi, na zaidi."
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}:</b> Huchagua kwa njia ya kielektroniki mfano bora wa haraka (GPT-3.5, Claude 3 Haiku, Gemini 1.5 Flash, au Llama 3) kwa kazi yako maalum."
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Kasi Ilioongezeka:</b> Pata majibu ya haraka mara 2 zaidi ya GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Muono Ulioboreshwa:</b> Uelewa bora zaidi wa picha"
+          ]
+        },
+        {
+          "features": [
+            "<b>Lugha Zilizoongezwa:</b> Lugha zaidi, ubora bora, na utendaji wa haraka zaidi"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Mfano Mpya:</b> Tegemeza Llama 3 sasa"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Mfano Mpya:</b> Tumia Gemini 1.5 Pro sasa"
+          ]
+        },
+        {
+          "features": [
+            "<b>Zana Mpya za Picha za AI:</b> Pata vipengele vya AI kwa kuelea juu ya picha yoyote"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "In-Chat Sammanfattning: Få nyckelpunkter från YouTube-videor med 'Läs denna sida' i chattfönstret."
+          ]
+        },
+        {
+          "features": [
+            "Enkel undertextsextraktion: Få undertexter med en enda klick på YouTube för djupare insikter."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Nu tillgängligt för att berika din chattupplevelse."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Påstår sig ha \"nästan mänskliga\" förmågor och kan slå GPT-4."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Balanserar intelligens och hastighet, idealisk för att hämta information eller automatisera försäljning."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Widget ya Mawakala wa Utafutaji:</b> Pata uzoefu wa baadaye wa utafutaji na uendeshaji wa AI"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tafsiri ukurasa wa wavuti:</b> Mitindo zaidi ya kuonyesha tafsiri inayofaa kwa wasomaji"
+          ]
+        },
+        {
+          "features": [
+            "<b>Mipangilio Mpya:</b> Kurejesha moja kwa moja gumzo la mwisho wakati wa kufungua upau wa pembeni"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Nytt Avancerat Dataanalysverktyg:</b> Kodtolkare för effektiv hantering av data och komplexa beräkningar"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nytt Målarverktyg:</b> Skapa bilder direkt i chatten"
+          ]
+        },
+        {
+          "features": [
+            "<b>Förbättrad Kontextmeny:</b> Använd GPT-4 i kontextmenyn."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Jizamishe katika mtazamo wa kina wa skrini kamili"
+          ]
+        },
+        {
+          "features": [
+            "Furahia huduma zote za upau wa pembeni, sasa katika Mode ya Skrini Kamili"
+          ]
+        },
+        {
+          "features": [
+            "Badilisha kwa urahisi kati ya modes kwa faida zote mbili"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Kiolesura kilichoonyeshwa upya:</b> Safi na rahisi kusafiri"
+          ]
+        },
+        {
+          "features": [
+            "<b>Upau wa Uabiri wa Collapsible:</b> Hakikisha uzoefu wa mazungumzo uliozingatia wakati wa kuweka huduma muhimu ndani ya ufikiaji rahisi"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ufikiaji wa GPTs ya Mwambaaupande:</b> Kwa watumiaji wa ChatGPT Plus, ufikiaji wa moja kwa moja wa GPTs sasa unapatikana kwenye upau wa kando katika hali ya programu ya wavuti"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "Hakiki ya GPT-4V(ision)! & AI kujibu Gmail",
+          "features": [
+            "{{SIDERVISION}} inaendeshwa na GPT-4V",
+            "Uelewa bora wa picha",
+            "Haraka kufahamu nia ya barua pepe",
+            "Chagua kutoka kwa tani tofauti na watu",
+            "Chagua mapendekezo ya majibu kwa urahisi"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "Ukurasa wa wavuti wa GPT-4 Turbo na Chat!",
+          "features": [
+            "Msaada GPT-4 Turbo na GPT-3.5 Turbo",
+            "Tafsiri ukurasa mzima wa wavuti",
+            "Ukurasa wa wavuti wa gumzo kwenye Upau wa kando",
+            "Piga gumzo la PDF kwenye Upau wa kando"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Wijeti ya tafsiri",
+          "features": [
+            "Binafsisha tafsiri yako katika wijeti maalum ya Tafsiri",
+            "Boresha majibu ya ChatGPT katika Google, Bing, Baidu nk"
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} imekuwa nadhifu zaidi",
+          "features": [
+            "{{4+VISION}}",
+            "1-click kujibu swali sawa na roboti tofauti"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Wijeti ya Sarufi ya Sider",
+          "features": [
+            "Angalia makosa ya sarufi",
+            "Rekebisha makosa ya sarufi",
+            "Boresha uandishi zaidi ya sarufi"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Utepe wa GumzoGPT wenye Maono",
+          "features": [
+            "Toa maandishi kutoka kwa picha",
+            "Uliza swali lolote kuhusu picha",
+            "Njia 3 za kutuma picha kwa {{SIDERVISION}} <div><ol><li>Piga picha ya skrini</li><li>Buruta na Udondoshe picha kwenye dirisha la Gumzo</li><li>Pakia picha </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Toa maandishi kutoka kwa picha"
+          ]
+        },
+        {
+          "features": [
+            "Toa maandishi kutoka kwa picha"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Mpango mpya wa bei na mikopo 5x zaidi ya GPT-4",
+          "features": [
+            "Habari njema! Bei yetu iliyosasishwa sasa inakupa ufikiaji zaidi wa mikopo ya GPT-4 na Claude 2.",
+            "Ikiwa tayari wewe ni mtumiaji anayelipwa, utasasishwa kiotomatiki. Zaidi ya hayo, tuna mpango mpya wa 'Unlimited' kwa ajili yenu nyote watumiaji wa nishati!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Kijibu zaidi!",
+          "features": [
+            "Mbali na ChatGPT na Claude, Sider inasaidia Bard sasa!"
+          ]
+        },
+        {
+          "title": "OCR: Toa maandishi kutoka kwa picha yoyote na utume kwa ChatGPT",
+          "features": [
+            "Tambua lugha 10+ kuu",
+            "Tambua maandishi ya mkono kwa Kiingereza",
+            "Tambua <b>milinganyo ya hesabu</b> katika maandishi"
+          ]
+        },
+        {
+          "title": "Boresha Mchoraji",
+          "features": [
+            "Badilisha usuli mzima",
+            "Ondoa eneo lililochaguliwa"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Chatbots Zaidi</b>: Sasa Inamuunga mkono Claude-papo hapo, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Gumzo la Kikundi</b>: Linganisha Majibu kote kwenye Gumzo!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Taja</b>: Tumia '@' kutaja na kuingiliana kwa urahisi na chatbot yoyote kwenye mazungumzo!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Kidokezo cha Haraka</b>: Andika tu '/' na Uende!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Muundo Rahisi</b>: Fanya muundo uwe wa moja kwa moja na rahisi kusogeza"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Kidhibiti cha haraka kilichoboreshwa cha",
+          "features": [
+            "Kusoma menyu ya muktadha",
+            "Kuandika menyu ya muktadha"
+          ]
+        },
+        {
+          "title": "Mhariri wa picha wa AI",
+          "features": [
+            "Ondoa usuli kutoka kwa picha zozote",
+            "Ondoa maandishi kutoka kwa picha yoyote"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Msaidizi wa Kusoma: Tumia AI kwa ufahamu wa haraka unaposoma kurasa za wavuti",
+        "Msaidizi wa Kuandika: Tengeneza maudhui kwa haraka na AI kwenye kisanduku cha ingizo cha wavuti"
+      ],
+      "2_7_0": [
+        "Chora picha kutoka kwa maandishi",
+        "Chora picha kutoka kwa picha ya kumbukumbu"
+      ],
+      "2_6_0": [
+        "Sider Inaauni Utepe Usiobadilika - Unaweza kupiga gumzo kati ya vichupo vyote bila kupishana maudhui yoyote <br /> (inapatikana katika Chrome 114 au matoleo mapya zaidi)"
+      ],
+      "2_5_0": [
+        "Muhtasari wa YouTube! Tazama saa 1 ya video ya YouTube ndani ya dakika 1",
+        "Linganisha majibu yanayotolewa na binadamu na AI kwenye tovuti za Maswali na Majibu kama vile Quora, StackOverflow na Zhihu."
+      ],
+      "2_4_0": [
+        "<b>Ufikiaji wa wavuti kwa njia mahiri</b>: Kulingana na swali lako, Al itaamua ikiwa inahitaji kufikia wavuti.",
+        "Uboreshaji wa utulivu"
+      ],
+      "2_3_0": [
+        "Msaada wa Kuvinjari na Programu-jalizi kwa watumiaji wa Plus!",
+        "ChatGPT na ufikiaji wa mtandao kwa kila mtu!"
+      ],
+      "2_2_0": [
+        "Tunga ujumbe wowote",
+        "Jibu barua pepe, tweet, maoni nk"
+      ],
+      "2_1_0": [
+        "Njia ya mkato ya Utafutaji Haraka",
+        "Badilisha ukubwa wa dirisha la Utafutaji Haraka",
+        "Marekebisho ya hitilafu na maboresho mengine ya UX"
+      ],
+      "2_0_0": [
+        "Inasaidia <b>GPT-4</b>kwa watumiaji wote!",
+        "Alika marafiki na upate mikopo ya <b>GPT-4</b> kwa wote wawili!",
+        "Marekebisho ya hitilafu na maboresho mengine ya UX"
+      ],
+      "1_1_0": [
+        "Gumzo Kamili katika <b>kichupo kipya</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> pamoja!",
+        "Marekebisho ya hitilafu"
+      ],
+      "1_0_13": [
+        "Endelea mazungumzo baada ya kuuliza maswali",
+        "Badilisha kati ya GPT-4 na GPT-3.5 kwa watumiaji wa Plus",
+        "Fikia na utafute historia ya soga kwa urahisi"
+      ],
+      "1_0_12": [
+        "Sawazisha mipangilio ya viendelezi kwenye kompyuta zote",
+        "Fikia vidokezo vyako kutoka kwa kompyuta ndogo tofauti",
+        "Hifadhi gumzo kwa matumizi ya baadaye",
+        "Shiriki mazungumzo kupitia kiungo"
+      ],
+      "1_0_11": [
+        "Fikia vitendo kwa haraka kupitia kidirisha ibukizi bila kufungua utepe.",
+        "Ongeza usaidizi kwa lugha za ziada.",
+        "Hifadhi mapendeleo ya lugha ya mtumiaji unapotumia kipengele cha kutafsiri.",
+        "Suluhisha mizozo ya njia za mkato kwenye mifumo kama vile GitHub na zingine."
+      ],
+      "1_0_10": [
+        "Tumia lugha 50+ sasa!"
+      ],
+      "1_0_8": [
+        "Saidia GPT-4 kwa watumiaji wa Plus! Angalia ukurasa wa mipangilio!"
+      ],
+      "1_0_7": [
+        "Kumbuka haraka iliyotumiwa mara ya mwisho",
+        "Boresha nafasi ya paneli ya chatGPT kwenye kurasa za utafutaji",
+        "Ongeza chaguo ili kuweka upau wa kando ikoni ya ukurasa kwenye upande wa kushoto",
+        "Boresha ukubwa wa kifurushi",
+        "Ongeza hali ya giza",
+        "Tumia proksi yako ya url ya API"
+      ],
+      "1_0_6": [
+        "Boresha kipengele cha muhtasari katika ukurasa wa Youtube"
+      ],
+      "1_0_5": [
+        "Kumbuka eneo la ikoni ya utepe",
+        "Boresha vitufe vya njia za mkato",
+        "Hifadhi violezo vya haraka kutoka kwa utepe moja kwa moja"
+      ],
+      "1_0_4": [
+        "Agiza upya vipengee vya haraka katika orodha kunjuzi",
+        "Weka kwenye kumbukumbu vipengee vya haraka ambavyo hutatumia",
+        "Msaada wa majibu katika lugha 50+"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter ili kufanya haraka \"Wasilisha\"",
+        "Chaguo la kuficha kidirisha katika ukurasa wa matokeo ya utafutaji",
+        "Tumia ESC kuficha utepe",
+        "Msaada muhtasari wa makala ndefu"
+      ],
+      "1_0_2": [
+        "Ongeza kitufe cha kusitisha ili uache kutoa majibu",
+        "Badilisha eneo la kitufe cha kukunja"
+      ],
+      "1_0_1": [
+        "Boresha kipengele cha muhtasari katika ukurasa wa Youtube",
+        "Rekebisha hitilafu kadhaa zinazohusiana na kunakili/kubandika na kuchapisha"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Aktivera chattverktygen för att låsa upp kraftfulla funktioner.",
+    "content2": [
+      "Utforska världsomspännande webben sömlöst.",
+      "Omvandla dina idéer till fantastiska visuella effekter.",
+      "Dyka djupt ner i data med expertanalys."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Piga kura kwenye Uwindaji wa Bidhaa",
+    "sidebar2Banner1": "Tupigie kura kwenye <b>Product Hunt</b> SASA ili kueneza habari.",
+    "sidebar2ModalTitle": "✨ Muhtasari wa Upau wa kando 2.0",
+    "sidebar2ModalDesc": "• Kichupo cha gumzo\n  • Tafuta kwa haraka maswali ya haraka\n  • Akaunti ya kusawazisha vidokezo\n  • Hifadhi na ushiriki mazungumzo\n  • Tumia lugha zaidi\n  • Inatumia GPT-4",
+    "ios1Banner1": "Piga kura kwa ChitChat - programu ya ChatGPT ya iOS 🎉",
+    "ios1Banner2": "Wacha tuanze mambo kwa kishindo! 😄",
+    "ios1ModalTitle": "✨ Mpya kwenye Programu ya iOS ya ChitChat",
+    "ios1ModalDesc": "• Pata majibu kutoka kwa ChatGPT 3.5 & 4\n• Timu ya usaidizi ya roboti hukusaidia katika sehemu moja\n  • Geuza PDF yako iwe chatbot"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}} ya Mac",
+    "macContent": "Tunayo furaha kutangaza kwamba Sider sasa inapatikana kwa watumiaji wa Mac! Furahia hali nzuri ya matumizi iliyoundwa kwa ajili ya Mac pekee, pamoja na vipengele vyote muhimu unavyopenda kutoka kwa toleo letu la wavuti.",
+    "macContent2": "{{APP_NAME}} sasa inapatikana kwa Mac!",
+    "macDownload": "Download sasa!",
+    "phTitle": "Je, unapenda kutumia kiendelezi chetu?",
+    "phContent": "Chukua muda kutuunga mkono kwa kupiga kura kwenye <i>Product Hunt</i>—ni haraka, rahisi, na inatusaidia sana!",
+    "phContent2": "Tupigie kura kwenye <b>Product Hunt</b>",
+    "phVote": "Piga kura Sasa!",
+    "phTitle2": "Tulizindua matoleo ya Sider 3.X kwenye <i>Product Hunt</i>.",
+    "phFeatures1": "<b>Wijeti za ChatGPT</b>: Andika, toa maandishi kutoka kwa picha, angalia sarufi, na utafsiri, yote katika sehemu moja.",
+    "phFeatures2": "<b>Sider Vision</b>: Piga gumzo kuhusu picha zilizo na GPT-4 Vision, ikipeleka mazungumzo ya AI kwenye kiwango kinachofuata.",
+    "phFeatures3": "<b>Gumzo la AI la Kikundi</b>: Shirikiana na ChatGPT, GPT-4, Claude, na Bard katika gumzo moja muhimu la kikundi.",
+    "phFeatures4": "<b>Sisi Sote ni Masikio</b>: Maoni yako yanaunda Sider - shiriki mawazo yako, tunasikiliza!",
+    "phVote2": "Piga kura kwenye <i>Uwindaji wa Bidhaa</i>",
+    "phVoteTips": "<b>Kura ya Leo ni Muhimu</b> - Tusaidie Sasa!",
+    "halloweenCountdown": "Ofa ya Kutisha: <b>{{time}} Zimebaki</b>",
+    "halloweenCountdown2": "{{price}} IMEPUNGUA: <b>{{time}} Zimebaki</b>",
+    "halloweenCardTitle": "Punguzo la Halloween",
+    "halloweenCardDesc": "Fungua Akiba za Kutisha",
+    "halloweenCardTitle2": "Dai Zawadi ya Halloween",
+    "halloweenCardDesc2": "Furahia {{price}} IMEPUNGUA",
+    "blackFridayCountdown": "Black Friday: <b>{{time}} Zimebaki</b>",
+    "xmasCountdown": "Uuzaji wa Mwisho wa Mwaka: <b>{{time}} Zimebaki</b>"
+  },
+  "timeUnit": {
+    "day": "Siku",
+    "day_one": "Siku",
+    "day_other": "Siku",
+    "hour": "Saa",
+    "hour_one": "Saa",
+    "hour_other": "Masaa",
+    "minute": "Dakika",
+    "minute_one": "Dakika",
+    "minute_other": "Dakika",
+    "second": "Sekunde",
+    "second_one": "Sekunde",
+    "second_other": "Sekunde"
+  },
+  "searchTool": {
+    "questionMark": "Anzisha ChatGPT kwa kuambatisha alama ya kuuliza baada ya hoja yako",
+    "fiveStart": "Je, ungependa kufurahia kiendelezi hiki? Tupe ukadiriaji wa nyota 5 kwenye {{store}}",
+    "loginAndCloudflareCheck": "Tafadhali ingia na upite ukaguzi wa Cloudflare kwenye {{web}}",
+    "braveTrouble": "Bado haifanyi kazi? Fuata {{url}}",
+    "cloudflareCheck": "OpenAI inahitaji kupitisha ukaguzi wa usalama kila baada ya muda fulani. Hili likiendelea kutokea, badilisha mtoa huduma wa AI hadi OpenAI API katika <i>chaguo za viendelezi</i>.",
+    "failedResponse": "Imeshindwa kupakia majibu kutoka kwa ChatGPT:",
+    "whenToAskTips": "Kila utafutaji hutumia mkopo mmoja wa msingi. Bofya hapa kuweka wakati wa kuuliza ChatGPT.",
+    "waitResponse": "Inasubiri jibu la ChatGPT..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> Ukadiriaji wa Nyota 5",
+    "AIContentWarning": "Maudhui yaliyotengenezwa na AI yanaweza yasikuwa halisi kila wakati",
+    "activeUsers": "<num>5M+</num> Watumiaji Hai",
+    "copyIamge": "Nakili Picha",
+    "copyLink": "Nakili Kiungo",
+    "downloadImage": "Pakua Picha",
+    "generateImage": "Tengeneza Picha",
+    "generateLink": "Tengeneza Kiungo",
+    "linkCopied": "Kiungo Kimenakiliwa",
+    "linkGenerated": "Kiungo Kimetengenezwa",
+    "qrcodeTip": "Changanua ili kupata {{APP_NAME}}!",
+    "selectAll": "Chagua zote",
+    "shareOn": "Shiriki kwenye",
+    "slogan": "Msaidizi wako wa AI",
+    "socialMediaImageCopiedTip": "Picha imenakiliwa na iko tayari kubandikwa."
+  },
+  "sidepanel": {
+    "title": "Sider Inasaidia Upau Usiohamishika",
+    "tip": "Kidokezo: Rekebisha upana wa kidirisha cha pembeni ipasavyo kwa matumizi bora zaidi.",
+    "benefit1": "Utepe wako wa Sider <b>hautatoweka</b> ukienda kwenye ukurasa mpya.",
+    "benefit2": "Unaweza kupiga gumzo kati ya vichupo vyote bila <b>kupishana maudhui yoyote</b>.",
+    "benefit3": "Inapatikana tu katika <b>Google Chrome 114 au matoleo mapya zaidi</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Gharama 1 mkopo wa msingi na 1 swali la msomaji",
+    "smartPlayCost": "Gharama ya swali moja la maandishi ya haraka na swali moja la msomaji, usomaji wa sauti unatozwa kwa kulipia kadri unavyotumia",
+    "smartPlayOnlyCost": "usomaji wa sauti unatozwa kwa kulipia kadri unavyotumia",
+    "videoSummaryBtn": "Fupisha Video",
+    "videoSummaryMakeFullBtn": "Fanya Muhtasari Kamili",
+    "keyMomentsCollapse": "Minimera",
+    "keyMomentsClickExpand": "Klicka för att expandera",
+    "originalSubtitles": "Ursprungliga undertexter",
+    "transcribing": "Kufasiri",
+    "expandAll": "Expandera alla",
+    "loginToAsk": "Ingia ili Uliza",
+    "videoSummaryText": "Videosammanfattning",
+    "summary": "Sammanfatta",
+    "smartPlay": "Muhtasari wa video",
+    "createShortenVideo": "Tengeneza Video Fupi",
+    "smartPlayBtnTips": "Tazama video fupi inayokusaidia kupata mambo muhimu haraka na kuokoa muda.",
+    "shortenVideoTips": "Geuza video hii kuwa video fupi ya muhtasari inayoshika hoja kuu!",
+    "smartPlaySwtichVoiceTitle": "Ilani ya Kukatwa Mikopo",
+    "smartPlaySwitchVoiceContent": "Kubadilisha sauti tofauti kutakata mikopo tena kulingana na urefu kamili wa maandishi ya video. Video itaendelea kucheza kutoka nafasi ya sasa. Unataka kuendelea?",
+    "smartPlaySwitchVoiceBtn": "Ndio, Badilisha Sauti",
+    "smartPlaySwitchVoiceCancel": "Hapana, Ghairi",
+    "smartPlayReturnToCurrentProgress": "Rudi kwenye maendeleo ya sasa",
+    "smartPlayPlaybackEnded": "Uchezaji wa vipengele muhimu umekamilika",
+    "showHighlights": "Onyesha Mambo Muhimu",
+    "hideHighlights": "Ficha Mambo Muhimu",
+    "previousHighlight": "Mambo Muhimu ya Awali",
+    "nextHighlight": "Mambo Muhimu Yanayofuata",
+    "showSubtitles": "Onyesha manukuu",
+    "hideSubtitles": "Ficha manukuu",
+    "fullScreen": "Skrini Nzima",
+    "playbackSpeed": "Kasi ya Uchezaji",
+    "subtitle": "Underrubrik",
+    "subtitles": "Undertexter",
+    "responseLanguage": "Svarspråk",
+    "bilingual": "Tvåspråkig",
+    "subtitleFailed": "Undertexter kunde inte laddas",
+    "videoTooLang": "För sammanfattning måste videor vara kortare än 10 timmar.",
+    "displayTranslation": "Visa översättning",
+    "noSubtitleTips": "Sammanfattning är endast tillgänglig för videor med undertexter för tillfället.",
+    "shareToComment": "Shiriki kutoa maoni",
+    "generatedBy": "Genererad av {{name}}",
+    "shownotes": "Mambo Muhimu",
+    "freeLimitTips": "Jaribio lako la bila malipo limetumika, pata toleo jipya la sasa ili kuendelea kutumia kipengele cha muhtasari wa video.",
+    "askQuestionBtn": "Jibu",
+    "noQuestionTip": "{{APP_NAME}} haiwezi kupata tatizo kwenye ukurasa.",
+    "targetLanguage": "Lugha lengwa",
+    "whisperCostText": "Video hii haina manukuu ya nje na inahitaji kutafsiriwa ili kufupishwa. (1 Advanced Credit/10 min au chini)"
+  },
+  "quickActions": {
+    "requireSignin": "Ingia Inahitajika",
+    "siginHint": "Tafadhali ingia ili kufikia kipengele hiki.",
+    "askAI": "Fråga {{name}}",
+    "defaultPlaceholder": "Uliza {{APP_NAME}} chochote",
+    "defaultPlaceholder2": "Uliza {{APP_NAME}} na maudhui yaliyo hapo juu",
+    "managePrompts": "Dhibiti vichocheo",
+    "pressToClose": "Bonyeza {{name}} ili kufunga",
+    "disableOnce": "Ficha hadi utembelee tena",
+    "disableSite": "Zima kwenye tovuti hii",
+    "disableGlobal": "Zima kwenye tovuti zote",
+    "continueImproving": "Endelea Kuboresha",
+    "dictExample": "Mfano:"
+  },
+  "wisebase": {
+    "inbox": "Kisanduku cha AI",
+    "myWisebase": "{{name}} Yangu",
+    "highlight": "Tia alama",
+    "unhighlight": "Ondoa alama",
+    "HighlightInvalid": "Vipengele muhimu vinakosekana",
+    "HighlightInvalidDesc": "Kutokana na mabadiliko kwenye ukurasa huu wa wavuti, vipengele vyako muhimu havionekani tena. Bado unaweza kuvipata katika <a>{{name}}</a> yako.",
+    "viewInSite": "Tazama kwenye tovuti",
+    "addCollection": "Ongeza {{name}}",
+    "savePage": "Hifadhi ukurasa",
+    "editSavedPage": "Hariri ukurasa uliowekwa",
+    "failedToSave": "Imeshindwa kuhifadhi",
+    "failedToDelete": "Imeshindwa kufuta",
+    "pageRemoved": "Ukurasa umefutwa",
+    "removePage": "Futa ukurasa?",
+    "removePageDesc": "Hii itafuta ukurasa pamoja na vipengele vyake muhimu.",
+    "saving": "Inahifadhi",
+    "pageSaved": "Ukurasa umehifadhiwa",
+    "vistMyWisebase": "Fungua {{name}}",
+    "errNameExists": "Jina tayari lipo"
+  },
+  "msg": {
+    "searchNotFound": "Hakuna matokeo yaliyopatikana",
+    "iosDownload": "Pakua app ya iOS / Android",
+    "notSupportFile": "Umbizo la faili lisiloungwa mkono",
+    "supportedFileFormat": "Miundo ya faili inayotumika ni {{formats}}",
+    "maxFileSize": "Upeo wa ukubwa wa faili ni {{size}}",
+    "maxSize": "Ukubwa wa juu: {{num}}",
+    "fetchFailed": "Bilden kunde inte hämtas. Du kan ladda ner den och ladda upp den manuellt.",
+    "enterAPIKey": "Tafadhali weka ufunguo wako wa OpenAI API",
+    "selectModel": "Tafadhali chagua muundo sahihi",
+    "changeSaved": "Mabadiliko yamehifadhiwa",
+    "fiveStart": "Tupe nyota 5",
+    "inviteTitle": "Alika na Zawadi",
+    "inviteEarn": "Pata <mx>{{num}} mikopo</mx> kwa ajili yako na marafiki zako. <b>Unavyorejelea zaidi, ndivyo unavyopata zaidi</b>.",
+    "inviteStep1": "Rejelea marafiki zako kwa kiungo cha Mwaliko",
+    "inviteStep2": "Marafiki zako wanajiandikisha",
+    "inviteStep3": "Wanasakinisha kiendelezi na kuingia. Zawadi ulizopata!",
+    "checkInvitation": "Angalia Rekodi za Mwaliko",
+    "invitedRewardObtained": "Zawadi Zimepatikana!",
+    "invitedWelcome": "Karibu! Mikopo ya GPT imeongezwa kwenye akaunti yako!",
+    "inviteFriendJoin_one": "{{count}} vän anslöt sig",
+    "inviteFriendJoin_other": "{{count}} vänner anslöt sig",
+    "getMoreGPT4": "Pata Mikopo ya Juu Zaidi",
+    "ttsChooseVoice": "Chagua Sauti",
+    "ttsChooseVoiceLater": "Unaweza kubadilisha hii baadaye.",
+    "ttsCharacterLimit": "Kikomo cha Tabia Kimefikiwa",
+    "ttsCharacterLimitDesc": "AI Kusoma kwa Sauti ina kikomo cha herufi {{count}}. Tafadhali chagua maandishi mafupi au tumia sauti ya bure.",
+    "ttsCharacterLimitDesc2": "Ujumbe huu ni mrefu sana kwa sauti za AI kusoma. Unaweza kutumia sauti ya bure badala yake.",
+    "ttsCreditLimit": "Mikopo ya msingi haitoshi",
+    "ttsCreditLimitDesc": "Huna Mikopo ya Msingi ya kutosha kwa sauti hii. Tafadhali sasisha mpango wako au tumia sauti ya bure.",
+    "ttsChangeVoiceTip": "Ilani ya Kukatwa Mikopo",
+    "ttsChangeVoiceTipDesc": "Kubadilisha sauti tofauti kutakata mikopo tena. Una uhakika unataka kuendelea?",
+    "dontRemindAgain": "Usiniulize tena",
+    "failToPlay": "Imeshindwa kucheza",
+    "onlyOneRequest": "Ombi Linaloendelea",
+    "onlyOneRequestDesc": "Akaunti yako ina ombi linaloendelea - ombi moja tu kwa wakati mmoja. Tafadhali jaribu tena baadaye.",
+    "basicCreditLimit": "Hakuna Mikopo ya Msingi",
+    "basicCreditLimitDesc": "Umetumia Mikopo yako yote ya Msingi. Boresha mpango wako au waalike marafiki kupata mikopo zaidi.",
+    "errSiderLoginExpired": "Kuingia kwako kumeisha muda, tafadhali ingia tena",
+    "errSiderAdminKickout": "Umetolewa nje, tafadhali ingia tena",
+    "errSiderUserBanned": "Akaunti yako imesimamishwa kutokana na kugunduliwa kwa shughuli zisizo za kawaida (mfano, uvunjaji wa sheria au kushiriki akaunti). Ikiwa una maswali yoyote, tafadhali tutumie barua pepe kwa care@sider.ai ukiwa na maelezo ya akaunti yako.",
+    "errSiderDeviceLimitLogout": "Umetolewa nje kwa sababu ya kufikia kikomo cha vifaa. Unaweza kuingia tena na hii itatoka kifaa cha kwanza kilichoingia kwenye akaunti yako.",
+    "errSiderApiTrialFeatLimit": "Umefikia kikomo cha majaribio kwa kipengele cha premium. Sasisha ili kufungua vipengele vyote.",
+    "errSiderApiLimitDevice": "Tafadhali ingia ili kutumia.",
+    "errSiderApiLimitLogin": "Umetumia mikopo yote ya bure leo. Boresha au alika marafiki kwa zaidi, au subiri hadi kurudia kwa mikopo ya kesho.",
+    "errSiderApiLimitPremium": "Mikopo yako ya Msingi kwa mwezi huu imeisha. Badilisha hadi Mikopo ya Juu, subiri upya mwezi ujao (tarehe ya usajili), au boresha kwa zaidi.",
+    "errSiderApiLimitPremiumDiscount": "Umetumia mikopo yako yote. Boresha sasa kwa mikopo isiyo na kikomo na <b>$1</b> punguzo.",
+    "errSiderTranslateApiLimitPremium": "Mikopo yako ya Msingi kwa mwezi huu imeisha. Tafadhali subiri upya mwezi ujao (tarehe ya usajili), au boresha kwa zaidi.",
+    "errSiderApiImageLimit": "Umetumia mikopo yote ya msingi na tafadhali boresha ili kuendelea kutumia kipengele hiki.",
+    "errSiderApiSummaryVideoLimit": "Umetumia mikopo yako yote. Tafadhali boresha au alika marafiki kupata zaidi.",
+    "errSiderApiOcrLimit": "Umetumia mikopo yako yote ya msingi. Tafadhali boresha ili kuendelea kufikia kipengele hiki.",
+    "errSiderApiImgLimitPremiumUltra": "Umefikia idadi ya juu ya mikopo ya msingi. Tafadhali subiri kurudia ijayo ili kuendelea kutumia.",
+    "errSiderPremiumRequired": "Kipengele hiki kinapatikana kwa watumiaji wanaolipiwa pekee. Boresha sasa ili ufungue utendakazi huu.",
+    "errSiderHighTrafficError": "Kwa sababu ya trafiki nyingi, tafadhali jaribu tena baadaye, au pata toleo jipya la akaunti ya malipo kwa ufikiaji wa haraka.",
+    "errSiderHighTrafficTip": "Tafadhali zingatia <a>kuboresha hadi akaunti ya malipo</a> kwa ufikiaji thabiti na kusaidia maendeleo yetu.",
+    "errSiderDeviceBinded": "Tafadhali ingia ili kutumia.",
+    "errSiderApiHighLoad": "Seva ya OpenAI ina shughuli nyingi kwa sasa. Tafadhali jaribu tena baadae.",
+    "errSiderGPT4HighLoad": "Seva ya OpenAI ina shughuli nyingi kwa sasa. Tafadhali jaribu tena baadae.",
+    "errSiderOpenaiFault": "Seva ya Openai ina shughuli nyingi. Tafadhali badilisha hadi {{model}} wakati wa kukatika kwa OpenAI.",
+    "errServiceUnavailable": "Seva ya Openai ina shughuli nyingi, tafadhali jaribu tena baadaye, au ubadilishe hadi Sider API na utumie {{model}} wakati wa kukatika kwa OpenAI.",
+    "errSiderGPT4LimitDevice": "Tafadhali <b>ingia</b> kwanza, na <amb>alika marafiki zako</amb> au <ta>boresha hadi premium</ta> ili upate mikopo zaidi ya juu.",
+    "errSiderGPT4LimitLogin": "Boresha au alika marafiki ili kufungua Mikopo zaidi ya Juu kwa majibu yenye ufahamu zaidi.",
+    "errSiderGPT4LimitPremium": "Umetumia Mikopo yako yote ya Kila Mwezi ya Advanced. Boresha mpango wako kwa kiwango cha juu cha kila mwezi au nunua kifurushi cha kuongeza Mikopo ya Advanced kwa matumizi ya haraka!",
+    "errSiderGPT4LimitPremiumDiscount": "Mikopo yako ya Juu kwa mwezi huu imetumika. Boresha sasa kwa mikopo isiyo na kikomo na <b>$1</b> punguzo, au subiri kurudia mwezi ujao (tarehe ya usajili).",
+    "errSiderDataAnalysisCredit": "Jibu hili linahitaji Uchambuzi wa Data (1 Mkopo wa Juu). Umeishiwa Mikopo ya Juu, hivyo boresha au waalike marafiki kwa zaidi!",
+    "errSiderNeedLogin": "Tafadhali ingia ili kutumia.",
+    "errGeminiPro": "{{GEMINI}}-fel, försök igen senare.",
+    "errSiderO1Limit1": "Mfumo wa OpenAI o1 unahitajika sana na umefikia kikomo cha mgao wake. Usijali, unaweza pia kuuliza maswali kuhusu OpenAI o1 bila malipo kwenye tovuti yetu ya maswali na majibu inayosimamiwa na jamii: <a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "Unahitaji Mikopo ya Juu Zaidi. Kila dakika 10 (au chini) za sauti hugharimu Mkopo 1 wa Juu. Boresha au waalike marafiki kupata zaidi!",
+    "goToSignIn": "Nenda kwa kuingia",
+    "errSiderTimeout": "Muda wa ombi umekwisha. Tafadhali jaribu tena.",
+    "errSiderProcessing": "Ujumbe mmoja tu kwa wakati mmoja. Tafadhali ruhusu jibu lingine lolote likamilike kabla ya kutuma ujumbe mwingine, au subiri kidogo.",
+    "errTrySiderAPI": "Badili hadi <i>API ya Upau wa Kando wa ChatGPT</i> ili kupata ufikiaji thabiti (kwa kila mtu)",
+    "errTrySiderAPI2": "AU tumia ufunguo wako wa API katika <a>ukurasa wa kuweka</a> (kwa wasanidi)",
+    "errChatGPTAuth": "Tafadhali <m>bofya kiungo ili kuingia </m>kwenye ukurasa wako wa wavuti wa ChatGPT na tutakusaidia kuubandika. Kisha unaweza kuitumia kwenye upau wa pembeni.",
+    "errChatGPTAuthTipTitle": "Ikiwa haifanyi kazi:",
+    "errChatGPTFailToFetch": "Imeshindwa kupata jibu kutoka kwa ChatGPT.",
+    "errOpenaiFailToFetch": "Imeshindwa kupata jibu kutoka OpenAI kupitia ufunguo wako wa API.",
+    "errSiderCreditUsageLimit": "Kikomo cha Matumizi Kimefikiwa",
+    "errSiderCreditFreqLimit": "Umefikia kikomo cha matumizi ya sasa. Kikomo hiki kinahakikisha matumizi ya haki kwa watumiaji wote. Tafadhali jaribu tena baada ya dakika {{count}}.",
+    "errSiderBasicTextLimit": "Umefikia kikomo cha kiwango cha mikopo ya msingi. Kwa sasa, kuna kizuizi cha ujumbe {{count}} kila dakika 60. Vinginevyo, unaweza kutumia mkopo wa juu na kurudi baadaye.",
+    "errSiderAdvancedTextLimit": "Umefikia kikomo cha kiwango cha mikopo ya juu. Kwa sasa, kuna kizuizi cha ujumbe {{count}} kila dakika 60. Vinginevyo, unaweza kutumia mkopo wa msingi na kurudi baadaye.",
+    "errSiderUnlimitedLimit": "Umefikia kikomo cha muda mfupi (mara {{timesToUse}} / saa {{periodTime}}) kwenye Mikopo ya Juu. Tunajaribu kupata mikopo zaidi kwa ajili yako. Mikopo mipya itapatikana saa {{resetTime}}. Unahitaji zaidi sasa? Jaribu kifurushi cha nyongeza!",
+    "errorOutputLimit": "Kikomo cha urefu kimefikiwa. Sasisha ili kupata jibu refu zaidi.",
+    "errorFileType": "Umbizo la faili halitumiki",
+    "error1139_1": "Asante kwa kutumia mipango isiyo na kikomo! Bado unaweza kuendelea kutumia mifano ya AI ya hali ya juu. Hata hivyo, umefikia kikomo cha kasi cha muda. <a>Hapa kuna sababu ya kuwepo kwa kikomo cha kasi na jinsi tunavyokusaidia</a>. Tafadhali <mx>ISOME</mx>.",
+    "error1139_1_2": "Asante kwa kutumia mipango isiyo na kikomo! Bado unaweza kuendelea kutumia mifano ya AI ya hali ya juu. Hata hivyo, umefikia kikomo cha kasi cha muda na umetumia maswali yote ya ziada ya hali ya juu. Hapa kuna <a>sababu ya kuwepo kwa kikomo cha kasi na jinsi tunavyokusaidia</a>. Tafadhali <mx>ISOME</mx>.",
+    "error1139_1_3": "Asante kwa kutumia mipango isiyo na kikomo! Bado unaweza kuendelea kutumia mifano ya AI ya hali ya juu. Hata hivyo, umefikia kikomo cha kasi cha muda na umetumia maswali yote ya zawadi ya hali ya juu. Hapa kuna <a>sababu ya kuwepo kwa kikomo cha kasi na jinsi tunavyokusaidia</a>. Tafadhali <mx>ISOME</mx>.",
+    "error1139_2": "Ili kutoingilia kazi yako ya sasa, tumekupa maswali ya ziada ya hali ya juu kama zawadi ili kufungua kikomo cha kasi cha sasa. <b>Baada ya kutumia maswali haya yote ya ziada ya hali ya juu, utakuwa na kikomo cha kasi</b>.",
+    "error1139_3": "Kikomo cha kasi cha sasa ni (mara {{timesToUse}} / saa {{periodTime}}) kwenye Maswali ya Hali ya Juu. Tunaweza kukibadilisha kulingana na uwezo wetu. Unahitaji zaidi sasa? Jaribu kifurushi cha kuongeza kasi!",
+    "error1139_4": "Tumekupa maswali ya ziada 50 ya hali ya juu kama zawadi ili kufungua kikomo cha kasi cha sasa. <b>Baada ya kutumia mikopo hii yote ya ziada ya hali ya juu, utakuwa na kikomo cha kasi.</b>",
+    "loginAndCloudflareCheck": "Badili hadi <a>API ya Upau wa kando</a> ili kupata ufikiaji thabiti AU ingia na upite ukaguzi wa Cloudflare kwenye <i>chat.openai.com</i>",
+    "invalidApiKey": "Ufunguo wa API ni batili, tafadhali pata nyingine.",
+    "getApiKeyGuide": "Unahitaji kitufe cha OpenAI API ili kuifanya ifanye kazi. Fuata mwongozo wetu ili kupata ufunguo wa API.",
+    "thankForFeedback": "Asante. Fomu iliwasilishwa kwa ufanisi. Tutawasiliana nawe baada ya muda mfupi.",
+    "writeSomething": "Tafadhali andika kitu.",
+    "enterEmail": "Weka barua pepe ili kupokea masasisho kuhusu suala hilo.",
+    "emailRequired": "Barua pepe inahitajika.",
+    "promptNameRequired": "Jina la kidokezo linahitajika.",
+    "titleRequired": "Kichwa kinahitajika.",
+    "nameYourPrompt": "Taja kidokezo chako",
+    "nameYourTitle": "Taja mazungumzo yako",
+    "promptTplRequired": "Maudhui ya haraka yanahitajika.",
+    "deletePromptWarn": "Je, ungependa kufuta kidokezo hiki?",
+    "restorePromptWarn": "Je, ungependa kurejesha kiolezo hiki cha kidokezo?",
+    "notValidEmail": "si barua pepe halali",
+    "signinTips": "Ingia ili kusawazisha vidokezo na mipangilio yako",
+    "signinAward": "Ingia ili upate mikopo {{num}} <span>BURE</span> kwa siku",
+    "signinAward2": "Mikopo imetumika kwa mtumiaji ambaye hajaingia. Unaweza kuingia ili upate <b>mikopo ya bure {{num}} kwa siku</b>.",
+    "signinAward3": "Ingia ili upate mikopo zaidi kwa siku",
+    "signinAward4": "Anza safari ya kichawi ya AI na kivinjari chako na upate mikopo {{num}} <span>BURE</span> kila siku",
+    "chatgptTabGuardTips": "Tafadhali weka kichupo hiki wazi, sasa unaweza kurudi kwenye {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Hitilafu fulani imetokea kwenye ChatGPT. Inaunganisha tena, tafadhali subiri...",
+    "chatgptTabGuardRefreshingTips1": "Hitilafu fulani imetokea kwenye ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Inaunganisha tena, tafadhali subiri...",
+    "chatgptTabGuardSetupSuccessTips": "Imerekebishwa, tafadhali jaribu tena",
+    "switchToSiderApiToContinue": "Kipengele hiki kwa sasa kinaauni modi ya API ya {{APP_NAME}} pekee, tafadhali <a>badili hadi {{APP_NAME}} API</a> ili kuendelea.",
+    "switchRequired": "Badilisha hadi {{APP_NAME}}?",
+    "switchToSiderDesc": "Ili kutumia kipengele hiki, tafadhali badilisha njia yako ya kufikia AI hadi {{APP_NAME}}.",
+    "signInRequired": "Ingia Inahitajika",
+    "useUpUpgrade": "Mikopo yako imetumika, tafadhali boresha ili upate mikopo zaidi.",
+    "featureLimit": "Kikomo cha Kipengele",
+    "featureLimitTip": "Tafadhali pata toleo jipya la kutumia Claude na Bard.",
+    "featureUnavailableOnPage": "Haiwezi kuendesha kwenye ukurasa huu",
+    "featureBrowserLimit": "Ukurasa huu hauungi mkono viendelezi vya kivinjari. Kurasa zilizozuiliwa kwa kawaida ni pamoja na vichupo vipya, duka la wavuti, viendelezi vingine, na mipangilio (chrome:// URLs). Tafadhali jaribu ukurasa wa kawaida badala yake.",
+    "localFileAccessRequiredTitle": "Ufikiaji wa faili unahitajika",
+    "localFileAccessRequiredDesc": "Ili kutumia kiendelezi na faili za ndani, tafadhali nenda kwenye mipangilio ya kiendelezi na washa \"<b>Ruhusu ufikiaji wa URL za faili</b>\".",
+    "localFileAccessRequiredBtn": "Nenda kwenye mipangilio ya kiendelezi",
+    "quotaModelContent": "Kikomo chako cha maswali ya GPT-4/Claude-2 kimefikiwa. Boresha hadi Mpango wa Premium kwa ufikiaji zaidi, au alika marafiki kwa mikopo ya ziada ya bure.",
+    "signinFeature": "Tafadhali ingia ili kupata kipengele hiki",
+    "dragImgTips": "Bofya kupakia au tupe picha hapa",
+    "dragTips": "Bofya kupakia au vuta faili hapa",
+    "fileSizeTip": "Ukubwa wa juu: 100MB kwa kila moja. Hadi faili 5.",
+    "reEnableInSettings": "Unaweza kuwezesha tena katika <a>Mipangilio</a>",
+    "switchBarTip": "Panua kidirisha cha pembeni ili kubandika upau wa kusogeza.",
+    "upgradeSupport": "Pata toleo jipya la mpango wa malipo ili utuunge mkono",
+    "upgradeSupport2": "Uppgradera för fler funktioner",
+    "imageSizeLimit": "Kikomo cha Picha",
+    "fileSizeLimit": "Faili ni kubwa mno",
+    "imageSizeLimitTip": "Tafadhali hakikisha kuwa picha ni ndogo kuliko 10MB na upana au urefu wake hauzidi pikseli 4096, kisha ujaribu tena.",
+    "fileSizeLimitTip": "Faili inazidi kikomo cha upakiaji cha 100MB. Tafadhali punguza ukubwa wa faili na ujaribu tena.",
+    "errOpenAIFilter": "Jibu limechujwa kutokana na mwito kuchochea sera ya usimamizi wa maudhui ya OpenAI. Tafadhali badilisha mwito wako na ujaribu tena.",
+    "unreadableMsg": "Haiwezi kupata maudhui kuu kwenye ukurasa huu. Tafadhali jaribu ukurasa mwingine.",
+    "unreadableTitle": "Maudhui kuu hayapo",
+    "noSubtitleMsg": "Video haina manukuu na haiwezi kufupishwa.",
+    "noSubtitleTitle": "Manukuu Yanahitajika kwa Muhtasari",
+    "fileLimit": "Ili kuchakata faili hii, tafadhali wezesha Zana ya Uchambuzi wa Data ya Juu. Inagharimu mkopo 1 wa Juu kwa kila matumizi. Je, ungependa kuiwezesha na kuendelea?",
+    "fileLimitFree": "Faili lako lililopakiwa linahitaji Uchambuzi wa Data wa Juu kwa usindikaji. Boresha sasa ili kufungua kipengele hiki.",
+    "openLastConversationTitle": "Fungua mazungumzo ya mwisho?",
+    "openLastConversationContent": "Sasa tunaweza kuweka ikiwa upau wa pembeni utarudisha mazungumzo ya mwisho kila wakati unapoanza.",
+    "openLastConversationCancel": "Nimeelewa",
+    "openLastConversationOk": "Nenda kwenye Mipangilio",
+    "keepConversationTip": "Kila wakati unapofungua Sider, gumzo jipya linaanza. Ili kuendelea na gumzo la mwisho, rekebisha <a>mipangilio</a>.",
+    "uploadFailed": "Upakiaji wa \"{{FILENAME}}\" umeshindikana.",
+    "askOriginalModel": "Asili {{MODELNAME}}",
+    "videoTooLang": "Video ni ndefu sana (zaidi ya masaa 10). Tafadhali chagua video fupi.",
+    "somethingWrong": "Kuna tatizo. Tafadhali jaribu tena baadaye.",
+    "cantBeTranscribed": "Hatuwezi kutoa muhtasari wa video hii kutokana na vizuizi vya hakimiliki. Tafadhali jaribu nyingine.",
+    "notSupportLiveVideo": "Muhtasari wa video ya moja kwa moja hauungwi mkono kwa sasa."
+  },
+  "options": {
+    "title": "Chaguzi",
+    "shortcut": {
+      "tips": "Skriv in en genväg"
+    },
+    "theme": {
+      "auto": "moja kwa moja",
+      "light": "mode mkali",
+      "dark": "hali ya giza"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Kila mara",
+        "desc": "Daima"
+      },
+      "questionMark": {
+        "title": "Alama ya swali",
+        "desc": "Wakati swali linaishia na alama ya kuuliza"
+      },
+      "manually": {
+        "title": "Kwa mikono",
+        "desc": "Wakati kitufe cha jibu kinabonyezwa"
+      }
+    },
+    "sidebarLocation": {
+      "left": "upande wa kushoto",
+      "right": "upande wa kulia"
+    },
+    "sidebarMode": {
+      "sidepanel": "Mwambaaupande wa pembeni usiohamishika",
+      "inpage": "Mwambaaupande wa ukurasa"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "Wakati wa kubadili tabo, Sider daima itabaki fasta upande wa kulia wa kivinjari.",
+      "inpage": "Wakati wa kubadili tabo, Sider haitakaa kwenye onyesho; lazima ufungue tena upau wa kando kwenye ukurasa mpya."
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "Eleza",
+        "template": "Eleza maudhui yafuatayo:"
+      },
+      "explain-codes": {
+        "title": "Eleza Kanuni",
+        "template": "Eleza kanuni zifuatazo:"
+      },
+      "translate": {
+        "title": "Tafsiri",
+        "template": "Tafsiri maudhui yafuatayo kwa lugha {{lang}}:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Mpango wa Bure",
+    "basic": "Mpango wa Msingi",
+    "pro": "Mpango wa Pro",
+    "ultra": "Mpango usio na kikomo",
+    "starter": "Starter-paket"
+  },
+  "shortPlanNames": {
+    "free": "Gratis",
+    "basic": "Grundläggande",
+    "pro": "Pro",
+    "ultra": "Obegränsad",
+    "starter": "Starter",
+    "pocket": "Pocket"
+  },
+  "queryNames": {
+    "fast": "Msingi",
+    "advanced": "Juu",
+    "image": "Picha",
+    "reader": "Msomaji"
+  },
+  "upgradeModal": {
+    "off": "Punguzo!",
+    "desc": "Mikopo zaidi na vipengele zaidi",
+    "upgradeToUseXXX": "Boresha Ili Kutumia <b>bot</b>",
+    "getAllTTSVoices": "Fungua Sauti Zote",
+    "allVoices": "Sauti Zote",
+    "getAllTTSVoicesDesc": "Sauti hii ni ya kipekee kwa watumiaji wa premium. Boresha sasa ili kufikia sauti zote.",
+    "getAllTTSVoicesDesc2": "Umefikia kikomo cha majaribio kwa sauti za premium. Sasisha sasa kwa ufikiaji usio na kikomo kwa sauti 9 za AI zenye sauti ya asili au tumia sauti ya bure.",
+    "tryAllVoices": "Jisikie Huru Kujaribu Sauti Zote",
+    "getWebAccess": "Boresha ili kupata jibu la wavuti",
+    "videoSummay": "Boresha ili kutumia muhtasari wa video",
+    "gpt4Desc": "GPT-4o ni mwerevu zaidi na inaweza kukusaidia kupata majibu yenye mantiki na sahihi zaidi.",
+    "claude3SonnetDesc": "Claude 3 Sonnet ni mfano wa lugha ulioboreshwa kwa mawasiliano sahihi na yenye nuances.",
+    "claude35SonnetDesc": "Claude 3.5 Sonnet ni mfano wa hivi karibuni wa Anthropic, unaotoa kasi mara mbili ya Claude 3 Opus na akili ya juu zaidi, ikiboresha sana hoja, maarifa, usimbaji, na kazi za kuona.",
+    "claude3OpusDesc": "Claude 3 Opus ni AI ya kisasa kwa kukabiliana na kazi ngumu kwa ufanisi mkubwa.",
+    "webAccessDesc": "Sider hurejesha majibu ya maswali yako kutoka Google na hutumia AI kwa upangaji na muhtasari mafupi.",
+    "videoSummaryDesc": "Umefikia kikomo chako cha matumizi bila malipo. Ili kuendelea kufikia kipengele hiki, tafadhali zingatia kupata uanachama unaolipiwa."
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Gundua Zaidi ya Mipaka!",
+      "pro": "Kikomo cha Kiwango Kimefikiwa",
+      "ultra": "Kikomo cha Kiwango Kimefikiwa"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Umefikia kikomo chako cha mgao usiolipishwa. Boresha ili upate nafasi ya juu zaidi na ufungue vipengele vya kina.",
+      "pro": "Umefikia kikomo chako cha mgawo wa mwezi huu. Pata toleo jipya la mgao wa ziada.",
+      "ultra": "Umefikia kikomo chako cha mgawo wa mwezi huu. Tafadhali wasiliana nasi kwa <a>care@sider.ai</a> ili kutoa mapendekezo yako."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Tukadirie Nyota Tano",
+    "enjoy": "😘 Je, unafurahia kiendelezi hiki?",
+    "enjoyNo": "Hapana, maoni",
+    "enjoyYes": "Ndio, alama ya nyota 5!",
+    "feedbackTip": "🥹 Tafadhali tuambie sababu ya kutoridhika kwako.",
+    "feedbackThx": "Asante kwa maoni yako."
+  },
+  "sidepanelPinGuide": {
+    "title": "Bonyeza \"{{icon}}\"",
+    "desc": "Ongeza {{APP_NAME}} kwenye upau wako wa zana kwa ufikiaji wa haraka"
+  },
+  "emailEnhance": {
+    "emailAssistant": "Barua pepe Msaidizi",
+    "emailAssistantDesc": "Inapowashwa, Sider inaweza kukusaidia kujibu barua pepe kwa haraka.",
+    "hideTranslation": "Ficha tafsiri",
+    "inputPlaceholder": "Mwambie mhusika jinsi unavyotaka kujibu...",
+    "intent": "Madhumuni ya mtumaji",
+    "orgLang": "Lugha ya Barua Pepe",
+    "quickAIReply": "Jibu la AI",
+    "replyInputPlaceholder": "Ungependa kujibu nini?",
+    "resultsTitle": "Rasimu ya Jibu",
+    "showTranslation": "Onyesha tafsiri",
+    "translateEmail": "Tafsiri barua pepe",
+    "tryAgain": "Jaribu tena",
+    "voice": {
+      "applicant": "Mwombaji",
+      "casual": "Kawaida",
+      "colleague": "Mwenzake",
+      "confident": "kujiamini",
+      "customer-service-staff": "Wafanyakazi wa huduma kwa wateja",
+      "direct": "moja kwa moja",
+      "emailLength": "Urefu wa Barua Pepe",
+      "empathetic": "mwenye huruma",
+      "enthusiastic": "Mwenye shauku",
+      "formal": "Rasmi",
+      "formality": "Rasmi",
+      "friendly": "kirafiki",
+      "human-resources": "Rasilimali Watu",
+      "informational": "taarifa",
+      "leader": "Kiongozi",
+      "long": "Muda mrefu",
+      "medium": "Kati",
+      "neutral": "Si upande wowote",
+      "personable": "Mpendwa",
+      "project-manager": "Meneja wa mradi",
+      "sales-representative": "Mwakilishi wa mauzo",
+      "short": "Mfupi",
+      "subordinate": "Chini",
+      "tone": "Toni",
+      "witty": "wajanja",
+      "yourRole": "Wajibu Wako"
+    },
+    "voiceSettings": "Mpangilio wa toni",
+    "wayToReply": "Mawazo ya kujibu"
+  },
+  "searchEnhance": {
+    "getStarted": "Börja nu",
+    "adContent": "Smarter än GPT-4? Claude 3 är här! Bjud in vänner och prova det gratis!",
+    "noLoginAdContent": "Fungua Nguvu ya AI: Tafuta, Soma, Andika, Tafsiri kwa Haraka & Ujanja Zaidi!",
+    "noLoginBtn": "Jiunge na Watumiaji Zaidi ya Milioni 4 Walioridhika!"
+  },
+  "imageToolbar": {
+    "AITools": "Zana za AI",
+    "chatWithImage": "Chati na Picha",
+    "extractText": "Toa Maandishi",
+    "imageTools": "Zana za Picha",
+    "inpaint": "Badilisha Eneo Lililopigwa Brushi",
+    "removeBackground": "Ondoa Mandharinyuma",
+    "removeText": "Ondoa Maandishi",
+    "replaceBackground": "Badilisha Mandharinyuma",
+    "upscale": "Kuza",
+    "variation": "Unda Tofauti"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "Pata majibu bora",
+      "Maarifa mbalimbali zaidi",
+      "Uelewa wenye nguvu zaidi"
+    ],
+    "claude3Advantages": [
+      "Yenye nguvu sawa na GPT-4",
+      "Majibu ya asili zaidi",
+      "Uwezo wa hoja wenye nguvu"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "Fungua Upatikanaji wa Mtandao",
+      "text_to_image": "Fungua Tengeneza Picha",
+      "data_analysis": "Fungua Uchambuzi wa Data",
+      "artifacts": "Fungua {{ARTIFACTS}}",
+      "thinking_mode": "Fungua Hali ya Fikra"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "Kutatua Matatizo kwa Ufanisi",
+          "desc": "Tawala changamoto ngumu kwa kufikiri hatua nyingi!"
+        },
+        {
+          "title": "Uchambuzi wa Kina",
+          "desc": "Pata maarifa ya kina kwa maamuzi muhimu mara moja."
+        },
+        {
+          "title": "Mzunguko wa Akili",
+          "desc": "Boresha suluhu kwa urahisi kupitia fikra zilizongozwa."
+        }
+      ],
+      "search": [
+        {
+          "title": "Kaa Umeboreshwa",
+          "desc": "Pata taarifa za hivi punde mtandaoni."
+        },
+        {
+          "title": "Boresha Usahihi",
+          "desc": "Pata majibu sahihi na yanayofaa zaidi."
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "Washa Ubunifu",
+          "desc": "Geuza maelezo kuwa ya ubora wa juu mara moja."
+        },
+        {
+          "title": "Boresha Maudhui",
+          "desc": "Boresha miradi yako na vielelezo maalum."
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "Pata Maarifa",
+          "desc": "Chambua na taswira data kwa urahisi ili kupata wazi."
+        },
+        {
+          "title": "Andika Kode kwa Ujanja",
+          "desc": "Safisha, fasiri na endesha kode kwa utatuzi wa matatizo kwa ufanisi."
+        },
+        {
+          "title": "Faulu katika Hisabati",
+          "desc": "Tatua matatizo magumu ya hisabati kwa urahisi na usahihi."
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "Kuongeza Ufanisi",
+          "desc": "Badilisha mawazo kuwa matokeo halisi, mara moja!"
+        },
+        {
+          "title": "Mwonekano wa Wakati Halisi",
+          "desc": "Onyesha mara moja kurasa za wavuti, nyaraka, na chati zilizotengenezwa na AI."
+        },
+        {
+          "title": "Mzunguko Usio na Mshono",
+          "desc": "Boresha vitu vya kale kwa urahisi kupitia mazungumzo ya kawaida."
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "Ongea na maandishi yaliyochaguliwa",
+    "highlightSelection": "Tia alama maandishi yaliyochaguliwa",
+    "summarizePage": "Fupisha ukurasa",
+    "savePage": "Hifadhi ukurasa kwenye {{name}}",
+    "revertSavePage": "Ondoa kutoka {{name}}",
+    "translatePage": "Tafsiri kwa {{lang}}",
+    "revertTranslatePage": "Onyesha maandishi ya asili",
+    "imageTools": "Zana za Picha za {{AI}}",
+    "togglePageTranslation": "Tafsiri ukurasa / Onyesha maandishi asilia",
+    "openFullPageChat": "Fungua Gumzo la Ukurasa Wote"
+  },
+  "highlightType": {
+    "key-sentences": "Sentensi Muhimu",
+    "structural-importance": "Umuhimu wa Kimuundo",
+    "comprehensive-coverage": "Ufunikaji Kamili",
+    "memorable-quotes": "Manukuu ya Kukumbukwa"
+  },
+  "freeTrial": {
+    "panelTitle": "Mpango wa Siku 3 Bila Kikomo Jaribio la Bure",
+    "panelList": [
+      "Ongea kwa uhuru na GPT-4 & Claude 3",
+      "Ongea na PDF yoyote, picha & kiungo",
+      "Fupisha kurasa za wavuti & video za YouTube"
+    ],
+    "panelBtn": "Anza Jaribio la Bure",
+    "cancelTip": "Ghairi wakati wowote"
+  }
+}

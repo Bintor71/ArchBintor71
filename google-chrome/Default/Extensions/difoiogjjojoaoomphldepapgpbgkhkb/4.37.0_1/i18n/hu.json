@@ -1,0 +1,2571 @@
+{
+  "sidebar": "Oldalsáv",
+  "shortcut": "Gyorsbillentyűk",
+  "ask": "Kérdez",
+  "save": "Mentsd el",
+  "saved": "Mentett",
+  "delete": "Töröl",
+  "deleteAll": "Összes törlése",
+  "remove": "Távolítsa el",
+  "cancel": "Megszünteti",
+  "close": "Bezárás",
+  "minimize": "Kis méret",
+  "disable": "Letiltás",
+  "retry": "Újrapróbálkozás",
+  "stop": "Állj meg",
+  "pause": "Szünet",
+  "play": "Lejátszás",
+  "replay": "Újrajátszás",
+  "changeSpeed": "Sebesség változtatása",
+  "ttsDemo": "Minta",
+  "icon": "Ikon",
+  "select": "Kiválasztás",
+  "change": "Módosítás",
+  "insert": "Beszúrás",
+  "replace": "Cserélje ki",
+  "ok": "rendben",
+  "Loading": "Betöltés",
+  "thoughtProgress": "Gondolkodási folyamat",
+  "submit": "Beküldés",
+  "attention": "Értesítés",
+  "welcome": "Üdvözöljük",
+  "send": "Küld",
+  "copy": "Másolat",
+  "auto": "Automatikus",
+  "unpublish": "Közzététel visszavonása",
+  "unpublishArtifact": "Artefaktum közzétételének visszavonása",
+  "aiResCompare": "AI válaszok összehasonlítása",
+  "copied": "Másolva",
+  "clear": "Egyértelmű",
+  "table": "Táblázat",
+  "tryDemo": "Próbálja ki a demót",
+  "translate": "Fordítás",
+  "rewrite": "Újraírás",
+  "next": "Következő",
+  "prev": "Előző",
+  "hi": "Szia,",
+  "experimental": "Korai hozzáférés",
+  "experimentalDesc": "A fizetős felhasználók korai hozzáférést kapnak exkluzív, élvonalbeli eszközökhöz és kísérleti funkciókhoz, amelyek nem elérhetők az előfizetéssel nem rendelkező felhasználók számára.",
+  "clickToTry": "Kattintson ide, hogy kipróbálja ezt a funkciót",
+  "detected": "Észlelt",
+  "reset": "Visszaállítás",
+  "upTo6file": "Legfeljebb 6 fájlt tölthet fel",
+  "quote": "Idézet",
+  "download": "Letöltés",
+  "downloadTypeFile": "{{type}} fájl letöltése",
+  "collapse": "Oldalsáv összecsukása",
+  "done": "Kész",
+  "trial": "Próba",
+  "manage": "Kezelése",
+  "template": "sablon",
+  "edit": "Szerkesztés",
+  "exit": "Kilépés",
+  "add": "Hozzáadás",
+  "feedback": "Visszacsatolás",
+  "fullscreenBookmarkTip": "Kattintson a csillag ikonra, hogy könyvjelzővel lássa el a teljes képernyős csevegést, így legközelebb könnyen elérheti!",
+  "tweetit": "Kövess minket a(z) {{X}}-en",
+  "joinDiscord": "Csatlakozz a Discord közösségünkhöz",
+  "whatsnewInvite": "Próbáld ki ingyen",
+  "fullPageChat": "Teljes oldalas chat",
+  "whatNew": "Újdonságok",
+  "helpCenter": "Segítségközpont",
+  "learnMore": "Tudj meg többet",
+  "gotIt": "Megvan",
+  "you": "Te",
+  "settings": "Beállítások",
+  "signin": "Belépés",
+  "extractingText": "Szöveg kinyerése",
+  "extractingTextFailed": "Szöveg kinyerése sikertelen",
+  "textExtracted": "Szöveg kinyerve",
+  "audioExtractedText": "Kinyert szöveg hangból",
+  "account": "Fiók",
+  "createAccount": "Hozzon létre egy fiókot",
+  "createAccountTip": "Regisztrálj, hogy minden nap <a>{{NUM}} ingyenes</a> kreditet kapj",
+  "free": "Ingyenes",
+  "signinNow": "Jelentkezzen be most",
+  "unlimited": "Korlátlan",
+  "share": "Ossza meg",
+  "toolMoveTip": "A csevegőeszköz új otthont kapott! Itt érheti el az összes csevegési vezérlőt.",
+  "myChats": "Saját csevegéseim",
+  "general": "Általános konfiguráció",
+  "archive": "archívum",
+  "unarchive": "archiválás megszüntetése",
+  "searchPage": "Keresés oldal",
+  "addons": "Kiegészítők",
+  "webStore": "Webáruház",
+  "webApp": "Webes alkalmazás",
+  "webAccess": "Webes hozzáférés",
+  "upgradeNow": "Frissíts most",
+  "unlock": "Feloldás",
+  "allFeatures": "Minden funkció",
+  "everyThing": "Minden",
+  "unlockFeatMsg": "Elérted a csomagod határát. Frissíts most, hogy minden funkciót elérhess!",
+  "upgradeUnlock": "Frissítsen a feloldáshoz most!",
+  "upgrade": "Frissítés",
+  "subscribe": "Feliratkozás",
+  "language": "Nyelv",
+  "theme": "Téma",
+  "sendShortcut": "Parancsikon küldése",
+  "speechVoice": "Beszédhang",
+  "buyBooster": "Vásárolj erősítő csomagot",
+  "model": "Modell",
+  "version": "Változat",
+  "more": "Több",
+  "clickPreview": "Kattintson az előnézethez",
+  "clickView": "Kattintson a megtekintéshez",
+  "sendToChat": "Küldés a csevegésbe",
+  "listen": "Hallgat",
+  "openAnswerCompare": "Egymás melletti összehasonlítás",
+  "skip": "Kihagyás",
+  "basic": "Alap",
+  "advanced": "Haladó",
+  "superAdvanced": "Szuper fejlett",
+  "switchModel": "Modell váltása",
+  "switchVoice": "Hang váltása",
+  "changeVoice": "Hang változtatása",
+  "vote": "Szavazás",
+  "invite": "Meghív",
+  "hide": "Elrejtés",
+  "show": "Megjelenítés",
+  "logout": "Kijelentkezés",
+  "pin": "feltűz",
+  "unpin": "kibont",
+  "showMore": "Mutass többet",
+  "editTitle": "Cím szerkesztése",
+  "summarize": "Összesít",
+  "summary": "Összefoglaló",
+  "fact-check": "Tényellenőrzés",
+  "highlight-excerpts": "Kiemelés részletekben",
+  "key-concepts": "Tisztázza a kulcsfogalmakat",
+  "identify-assumptions": "Feltételezések azonosítása",
+  "contrast-analysis": "Elemzze az ellentéteket",
+  "about-author": "Tudjon meg többet a szerzőről",
+  "related-news": "Kapcsolódó hírek keresése",
+  "related-academic-research": "Kapcsolódó tanulmányok megtekintése",
+  "related-videos": "Kapcsolódó videók megtekintése",
+  "keypoints": "Főbb pontok",
+  "quiz": "Kvíz",
+  "autoToText": "Automatikus szöveg",
+  "textFromSelect": "Szöveg a kijelölésedből",
+  "textFromOCR": "Szöveg az OCR-ből",
+  "textFromTranslate": "Fordítás szövege",
+  "textFromWrite": "Szöveg írásból",
+  "textFromSearch": "Szöveg a keresőügynöktől",
+  "textFromGrammar": "Szöveg nyelvtanból",
+  "quoteText": "Idézett szöveg",
+  "summarizing": "Összegzés",
+  "summarizeFailed": "Összefoglalás sikertelen",
+  "answering": "Válaszol",
+  "productivity": "Termelékenység",
+  "generating": "Generálás",
+  "modelUpdateSuccess": "A modell sikeresen frissítve",
+  "modelUpdateFailed": "A modell frissítése nem sikerült",
+  "customPrompt": "Egyéni felszólítás",
+  "currentTpl": "Jelenlegi sablon:",
+  "current": "Jelenlegi",
+  "extra": "külön-",
+  "generatingTranscript": "Átirat generálása",
+  "transcriptGenerated": "Átirat generálva",
+  "transcriptFailed": "Átirat generálása sikertelen",
+  "transcriptReady": "Átirat kész",
+  "audioTranscript": "Hang átirat",
+  "audio-to-text": "Hangból szöveg",
+  "audio-summarize": "Összefoglalás",
+  "audio-meeting-minutes": "Jegyzőkönyv",
+  "publishArtifact": "Artefakt közzététele",
+  "uploadLocal": "Feltöltés a számítógépről",
+  "openTabs": "Választás a megnyitott lapok közül",
+  "editTpl": "Szerkessze ezt a sablont",
+  "delteTpl": "Törölje ezt a sablont",
+  "restoreTpl": "Állítsa vissza ezt a sablont",
+  "archiveTpl": "Archiválja ezt a sablont",
+  "showTpl": "Mutasd meg ezt a sablont",
+  "prompts": "Utasítások",
+  "selectPrompt": "Utasítás kiválasztása",
+  "imageRetryTip": "Hiba történt. Kérjük, próbálja újra.",
+  "mentionBot": "Modell megemlítése",
+  "mentionGPTs": "GPT-kat említése",
+  "promptName": "Prompt Name",
+  "promptContent": "Prompt Content",
+  "PromptManage": "Prompt Kezelés",
+  "contactUs": "Lépjen kapcsolatba velünk",
+  "webAssistant": "Webes asszisztens",
+  "quickAction": "Környezet menü",
+  "promptManage": "Prompt Manager",
+  "morePrompts": "További utasítások",
+  "addPrompts": "Utasítás hozzáadása",
+  "issueType": "probléma típus",
+  "pinExt": "Pin-kiterjesztés",
+  "yourEmailAddress": "Az email címed",
+  "troubleshooting": "Hibaelhárítás",
+  "openSidebar": "Nyissa meg az oldalsávot",
+  "pasteSelection": "Kijelölés beillesztése",
+  "pasteTextPage": "Szöveg beillesztése az oldalról",
+  "getAnotherKey": "Szerezz másik kulcsot",
+  "showSearchPanel": "Keresési panel megjelenítése",
+  "getItNow": "Szerezd meg most",
+  "addTools": "Eszközök hozzáadása",
+  "toolsTitle": "Eszközök",
+  "notNow": "Nem most",
+  "alwaysDisplay": "Mindig megjelenítés",
+  "credit": "Kredit",
+  "credits": "Kreditek",
+  "unlimitedCredits": "Korlátlan kreditek",
+  "total": "teljes",
+  "getMore": "szerezz többet",
+  "goPremium": "frissítés prémiumra",
+  "goPremiumGetMore": "frissítsen prémiumra, hogy többet szerezzen",
+  "myAccount": "A fiókom",
+  "clickToAsk": "Kattintson a kérdéshez",
+  "searchingFor": "Keresés-ra,-re:",
+  "searchedFor": "Keresés:",
+  "conversationTip": "Ez a csevegés {{CHATPROVIDER}} módban lett létrehozva. Váltson módot a folytatáshoz, vagy kezdjen új csevegést az aktuális módban.",
+  "using": "Használata",
+  "used": "Használt",
+  "switchAndContinue": "Mód váltása",
+  "ExtractText": "Szöveg kivonása",
+  "extracted": "Kinyert hang",
+  "describleImage": "Ismertetés",
+  "pricePerDay": "Kevesebb, mint {{num}}/nap",
+  "readingwriting": "Olvasás és írás",
+  "reading": "Olvasás",
+  "writing": "Írás",
+  "compareWith": "Összehasonlítás a következővel: {{NAME}}",
+  "smarterWith": "Kapjon okosabb választ {{NAME}}-tól",
+  "summarizePage": "Foglalja össze ezt az oldalt",
+  "searched3": "3 oldal kerestetett",
+  "browseFiles": "{{NUM}} fájlt böngészett",
+  "browseFiles1": "1 fájlt böngészett",
+  "readPage": "Olvassa el ezt az oldalt",
+  "moreQueries": "Több kredit!",
+  "newPlan": "Új terv",
+  "switchToXXX": "Váltás a következőre: {{model}}",
+  "switchToSider": "Váltson a {{APP_NAME}} API-ra",
+  "switch": "Váltás",
+  "settingApiKey": "Az API-kulcs beállítása",
+  "all": "Minden",
+  "dropMsg": "Húzd ide a Sider küldéséhez",
+  "success": "Siker",
+  "usedIn": "Használt",
+  "check": "Jelölje be",
+  "example": "Példa",
+  "toolsUpgradeTitle": "Frissítse a csevegési élményét!",
+  "ChangeTone": "Hangszín módosítása",
+  "screenshot": "Képernyőkép",
+  "takeAScreenshot": "Készíts képernyőképet",
+  "back": "Vissza",
+  "image": "Kép",
+  "uploadImage": "Tölts fel egy képet",
+  "hideImage": "Kép elrejtése",
+  "chatWithPDF": "Csevegés PDF-el",
+  "recentFiles": "Legutóbbi fájlok",
+  "orTakeAction": "Vagy tegyen más lépéseket:",
+  "NoFiles": "Nincsenek friss fájlok ebben a csevegésben",
+  "showImage": "Kép megjelenítése",
+  "fullscreen": "Teljes képernyő",
+  "moreQuery": "Több kredit",
+  "moreFeature": "További funkciók!",
+  "switchToSidepanel": "Váltás az oldalsávra",
+  "deepReadTools": "Mély olvasási eszközök",
+  "OR": "VAGY",
+  "enable": "Engedélyezés",
+  "refresh": "Frissítés",
+  "painterOnBoardingTip": "Kattintson ide az AI képkészítéshez és szerkesztéshez",
+  "pdfOnBoardingTip": "Kattintson ide a ChatPDF-hez",
+  "refreshModel": "Modellek frissítése",
+  "refreshing": "Frissítés",
+  "collapseNav": "Navigációs sáv összecsukása",
+  "expand": "Kibontás",
+  "expandNav": "Navigációs sáv kibontása",
+  "phoneNumber": "Telefonszám",
+  "recognizing": "Felismerés",
+  "useFreeVoice": "Ingyenes hang használata",
+  "reselect": "Újraválasztás",
+  "earnFree": "Ingyenes kreditek szerzése",
+  "appearance": "Megjelenés",
+  "result": "Eredmény",
+  "sidepanelTip": "Oldalpanel tippje",
+  "continue": "Folytatni",
+  "confirm": "megerősít",
+  "describeImage": "Ismertesse ezt a képet",
+  "inviteFriendTip": "<a>Hívd meg barátaidat</a> extra kreditekért",
+  "resetTime": "Visszaállítás <a>2023. augusztus 3-án</a>",
+  "imageQuoteTipTitle": "Kérdezd meg újra a képet? Idézni kell a képet",
+  "imageQuoteTipContent": "Ha ismét rá szeretne kérdezni a képre, egyszerűen idézze.",
+  "ocrEmptyMsg": "Sajnos nem találok szöveget ezen a képen.",
+  "imageInputHint": "Tegyen fel kérdéseket ezzel a képpel kapcsolatban",
+  "selectedTextInputHint": "Kérdések feltevése a kijelölt szöveggel kapcsolatban",
+  "fileInputHint": "Kérdések feltevése erről a fájlról",
+  "inviteYourFriends": "Meghívja barátait",
+  "xmasSale": "Karácsonyi kiárusítás",
+  "bigSale": "Akció",
+  "bigSaleRest": "Akció",
+  "videoTutorial": "Részletek megtekintése",
+  "edgePasteBug": "Nem lehet beilleszteni billentyűparancsokkal az Edge böngésző hibája miatt. Kérjük, kattintson a jobb gombbal a beillesztéshez.",
+  "enable&continue": "Engedélyezés és folytatás",
+  "readAloud": "Hangos olvasás",
+  "seeMoreHelp": "További információk a <a>Súgóközpontban</a>",
+  "translateInto": "Fordítás erre: {{lang}}",
+  "imageTranslateInto": "Fordítsa le a képen lévő szöveget {{lang}} nyelvre",
+  "translateBackInto": "Fordítás vissza: {{lang}}",
+  "explainSection": "El tudná magyarázni ezt a részt részletesebben?",
+  "betterAnswer": "Érjen el jobb eredményt a {{MODEL_NAME}} segítségével",
+  "genBy": "Generálta: {{MODEL_NAME}}",
+  "explain": "Magyarázat",
+  "building": "Építés...",
+  "keyboardShortcuts": "Billentyűparancsok",
+  "console": "Konzol",
+  "enterText": "Szöveg bevitele",
+  "publish": "Közzététel",
+  "publishing": "Közzététel",
+  "published": "Közzétéve",
+  "artifactPublished": "Artefakt közzétéve",
+  "artifactPublishTip1": "Miután közzéteszed ezt az artefaktot, létrehozunk egy nyilvános URL-t, így bárki hozzáférhet. A csevegésed privát marad, és bármikor leállíthatod a megosztást.",
+  "artifactPublishTip2": "Ez az artefakt nyilvánosan elérhető. Bárki hozzáférhet a megosztott linken keresztül.",
+  "artifactUnpublishedTip": "Miután visszavonod a közzétételt, mások már nem férhetnek hozzá az artefakthoz a megosztott linken keresztül.",
+  "artifactNarrow": "Alapértelmezett szélesség visszaállítása",
+  "artifactWide": "Teljes szélességre bővítés",
+  "artifactRemixContent": "Fedezzük fel ennek a {{ARTIFACT}} néhány változatát. Tudsz javasolni 3 módot a remixre, és várj a válaszomra?",
+  "faceError": "Találkoztam ezzel a hibával a legújabb {{ARTIFACT}}-ban, kérlek javítsd ki.",
+  "artifactError": {
+    "title": "Próbálkozhat a következő lehetőségekkel:",
+    "solution1": "<a>Előnézet frissítése</a>",
+    "solution2": "Küldje el a hibaüzenetet a csevegésben segítségért. <a>Hibaüzenet küldése</a>"
+  },
+  "artifactsBetaTip": "Élvezd az Artifacts (Pro) szolgáltatást ingyen a béta alatt—ne maradj le róla!",
+  "tryArtifact": "Próbálja ki a {{ARTIFACTS}}-t",
+  "tryNow": "Próbálja ki a példákat",
+  "errorOccurred": "Hiba történt",
+  "artifactDemos": [
+    {
+      "title": "Virtuális xilofon létrehozása",
+      "value": "Hozzon létre egy HTML-alapú xilofont színes billentyűkkel egy {{ARTIFACT}}-ban. Biztosítson vizuális visszajelzést az ütött billentyűk számára, és generáljon egyszerű, valósághű hangokat a Web Audio API segítségével a frekvencia paraméterek alapján. Tartalmazzon alapvető utasításokat."
+    },
+    {
+      "title": "Étel-evő emoji játék létrehozása",
+      "value": "Hozzon létre egy egyszerű HTML-alapú játékot, hasonlóan a Catch the Candy-hez, egy {{ARTIFACT}}-ban. A játékos egy emoji-t irányít a képernyő alján, gyorsan balra és jobbra mozgatva, hogy elkapja és megegye a felülről leeső élelmiszer-elemeket (pl. 🍓, 🍔, 🍎), miközben elkerüli a bombákat (💣). Minden alkalommal, amikor a játékos elkap egy élelmiszer emoji-t, az emoji egy kifejezettebb pozitív arckifejezésre vált (pl. 🤩, 😆, 😋) a siker jelzésére. Ha a játékos véletlenül elkap egy bombát, az emoji először egy robbanást mutat (💥), majd egy szédült arckifejezésre vált (😵‍💫)."
+    },
+    {
+      "title": "Okostelefon szállítási diagram létrehozása",
+      "value": "Használja a React-et egy gyönyörű vonaldiagram létrehozásához egy {{ARTIFACT}}-ban az alábbi táblázat alapján.\n------\n\nOkostelefon szállítások főbb márkák szerint az elmúlt évtizedben (milliárd darabban)\n\n| Év | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "Előnézet",
+  "dataAnalysisTip": "Ez az eszköz csak használatkor aktiválódik, és 1 Advanced Credit-et von le.",
+  "code": "Kód",
+  "code&preview": "Kód és Előnézet",
+  "tryItNow": "Próbálja ki most",
+  "letsTryItNow": "Próbáljuk ki most!",
+  "tryArtifactNow": "Próbáld ki most a {{ARTIFACTS}}-t",
+  "roast": {
+    "analyzing": "Elemzés...",
+    "roastX1": "🔥 Valaki épp most ugratott meg, nézd meg",
+    "roastX2": "Pirítsd meg ezt a fickót!",
+    "roast": "😜 Pörkölés",
+    "boast": "🥰 Dicsekvés"
+  },
+  "historyGroups": {
+    "today": "Ma",
+    "thisWeek": "Ezen a héten",
+    "thisMonth": "Ebben a hónapban",
+    "earlier": "Korábban"
+  },
+  "quotaInfo": {
+    "mobilePlan": "Mobilcsomag",
+    "resetsDaily": "Naponta újraindul",
+    "resetDate": "Újraindítás dátuma",
+    "tryForFree": "Próbáld ki ingyen",
+    "unlockFeats": "Minden prémium funkció feloldása",
+    "unlockToUse": "Korlátlan használat feloldása",
+    "unlockAllFeats": "Minden funkció feloldása",
+    "unlockAllFeatsDesc": "Elérted a prémium funkciók próbalimitjét. Frissíts a teljes funkciók feloldásához.",
+    "unlockAllFeats2": "Teljes hozzáférés feloldása",
+    "unlockAllFeatsDesc2": "Korlátlan csevegés, webhozzáférés, adatelemzés, képgenerálás, YouTube összefoglalók, fájl/link csevegés, szövegkinyerés és még sok más",
+    "enjoyUnlimitedCredits": "Élvezd a korlátlan krediteket",
+    "enjoyUnlimitedCreditsDesc": "Használd ki a GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro és még sok más lehetőségeit.",
+    "webAccess": "Webes hozzáférés",
+    "chatActionTranslate": "Fordítás erre: {{lang}}",
+    "dataAnalysis": "Fejlett adat elemzés",
+    "shortVideo": "AI Videó Rövidítő",
+    "chatPDF": "PDF/Link Csevegés",
+    "chatFileLink": "Fájl/Link chat",
+    "youtubeSummary": "YouTube összefoglaló",
+    "readAloud": "AI Hangos Olvasás",
+    "tryReadAloudForFree": "Próbáld ki az Olvasás hangosan funkciót ingyen",
+    "extractText": "AI szövegkivonat",
+    "upgradeFor": "Frissíts mindössze {{price}}/hó áron",
+    "off": "{{num}} kedvezmény",
+    "allPlans": "Összes terv megtekintése",
+    "usedCredits": "{{count}} kredit felhasználva",
+    "usedCredits_one": "{{count}} kredit felhasználva",
+    "usedCredits_other": "{{count}} kredit felhasználva",
+    "premiumTrial": "Próbáld ki a prémium funkciókat ingyen",
+    "premiumTrialTip": "A próbaverzió korlátozott hozzáférést biztosít a fizetős tagok számára elérhető prémium funkciókhoz. Kérjük, vedd figyelembe, hogy minden használat továbbra is kreditekbe kerül.",
+    "creditRuleTitle": "Kredit levonási szabályok",
+    "creditRuleTip": "A krediteket a használt modell, funkciók és a kontextus hossza alapján vonjuk le. A teljes részletekért látogass el a <a>Súgóközpontba</a>.",
+    "extraCreditTip": "Ezek egyszeri használatra szánt extra kreditek.",
+    "dailyCreditTip": "Az újraindítási szabály csak a terv kreditekre vonatkozik, nem az extra kreditekre.",
+    "inviteFriends": "<a>Hívd meg barátaidat</a> több kreditért",
+    "vipInviteFriends": "Élvezed a {{APP_NAME}}-t? <a>Hívd meg barátaidat!</a>",
+    "pocketPlanTips": "A Pocket kreditek csak mobilon használhatók. Élvezze néhány ingyenes asztali kreditet.",
+    "pocketUpgrade": "Frissítsen a több lehetőség feloldásához"
+  },
+  "prompt": "Felszólítás",
+  "addPrompt": "Felszólítás hozzáadása",
+  "allSettings": "Összes beállítás",
+  "getAIAnswer": "AI válasz lekérése",
+  "login": {
+    "google": "Folytatás Google-lal",
+    "apple": "Folytatás Apple-lel",
+    "microsoft": "Folytatás Microsoft-tal",
+    "phone": "Folytatás telefonnal"
+  },
+  "loginTip": "Még nincs fiókja? <a>Hozzon létre egy fiókot</a>",
+  "signupTip": "Már van fiókja? <a>Bejelentkezés</a>",
+  "guideVideoTitle": {
+    "chat": "Csevegés",
+    "translation": "Fordítás",
+    "summary": "Összefoglalás",
+    "chatpdf": "ChatPDF",
+    "write": "Írás",
+    "painter": "Festő",
+    "ocr": "OCR",
+    "grammar": "Nyelvtan",
+    "email": "Email válasz"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Multi-bot csevegés",
+      "web-access": "Web hozzáférés",
+      "data-analysis": "Haladó adatelemzés",
+      "painter": "Képgenerálás",
+      "prompts": "Egyéni kérések"
+    },
+    "translation": {
+      "widget": "Kijelölt szöveg az oldalsávon keresztül",
+      "selected": "Kijelölt szöveg a kontextus menüből",
+      "input": "Az oldalon gépelt szöveg",
+      "page": "Teljes weboldal",
+      "in-chat": "Csevegésben kijelölt szöveg",
+      "in-chat2": "Csevegésben gépelt szöveg"
+    },
+    "summary": {
+      "youtube": "YouTube videók",
+      "doc": "Feltöltött dokumentumok",
+      "page": "Weboldal a gyorsmenüből",
+      "page2": "Weboldal a csevegésből"
+    },
+    "chatpdf": {
+      "chatpdf": "Csevegés PDF-fel"
+    },
+    "write": {
+      "widget": "Igény szerinti összeállítás",
+      "context": "Kijelölt szöveg javítása",
+      "input": "Bevitel újraírása"
+    },
+    "painter": {
+      "image": "Képek generálása",
+      "bg-remove": "Háttér eltávolítása",
+      "bg-replace": "Háttér cseréje",
+      "upscale": "Képek nagyítása",
+      "eraser": "Kihúzott terület eltávolítása",
+      "text-remove": "Szöveg eltávolítása"
+    },
+    "ocr": {
+      "ocr": "Szöveg és egyenletek kinyerése"
+    },
+    "grammar": {
+      "widget": "Nyelvtan ellenőrzése az oldalsávon keresztül",
+      "context": "Nyelvtan ellenőrzése a kontextus menüből"
+    },
+    "email": {
+      "reply": "Email válaszok generálása"
+    }
+  },
+  "llmStatus": {
+    "thinking": "Gondolkodás..."
+  },
+  "popupPage": {
+    "thank": "Köszönjük, hogy a {{APP_NAME}} bővítményt használja!",
+    "desc": "Az aktuális oldal egy egyedi oldal, és az oldalsáv funkció nem érhető el. A beszélgetéshez azonban megnyithat egy teljes oldalt!",
+    "chatNow": "Csevegj most"
+  },
+  "setupPage": {
+    "loginSuccess": "Sikeres bejelentkezés",
+    "welcome": "Üdvözli a {{APP_NAME}}!",
+    "startUsing": "Kezdd el használni a(z) {{APP_NAME}} alkalmazást",
+    "explore": "Fedezzük fel a(z) {{FEATURE_NAME}} funkciót",
+    "favorites": "Chrome legnépszerűbb kiterjesztése",
+    "fiveStarRate": "5 csillagos értékelések",
+    "activeUser": "Aktív felhasználók",
+    "userCount": "4M+",
+    "spamMsg": "Az adataid nem fognak kiszivárogni, és nem lesz spam.",
+    "privacy": "A folytatással elfogadja a <a>Adatvédelmi irányelveket</a> és a <b>Felhasználási feltételeket</b>.",
+    "privacyPart1": "A folytatással elfogadja a",
+    "privacyPart2": "<a>Adatvédelmi irányelveket</a> és a <b>Felhasználási feltételeket</b>",
+    "loginWith": "Bejelentkezés a következővel: {{name}}",
+    "pinTips": "<b>Rögzítse a(z) {{APP_NAME}}</b> alkalmazást, könnyebben hozzáférhet!",
+    "pinClickTip": "Kattintson az {{icon}} gombra a(z) {{APP_NAME}} rögzítéséhez",
+    "pinClickTip2": "Tűzze ki a(z) {{APP_NAME}} alkalmazást a gyors hozzáférés érdekében",
+    "pinClickTip3": "Kattintson a {{icon}} ikonra a jobb felső sarokban",
+    "next": "Következő",
+    "tryOut": "próbáld ki",
+    "endTitle": "A(z) {{APP_NAME}} készen áll, hogy segítsen neked!",
+    "endTip": "Mostantól böngészhet bármely weboldalon, vagy merüljön el a Súgóközpontunkban, hogy többet megtudjon.",
+    "learnMore": "Tudj meg többet a(z) {{APP_NAME}} alkalmazásról",
+    "endBottom": "Szüksége van segítségre vagy van javaslata?",
+    "endBottom2": "Értékeljük a visszajelzését! <a>Adjon visszajelzést</a> a tapasztalatainak javítása érdekében."
+  },
+  "getKeyPage": {
+    "welcome": "Üdvözli a {{APP_NAME}}! Itt kezdődik az utazásod:",
+    "stepTitle": "Hogyan szerezzünk API-kulcsot.",
+    "step1": "1. lépés: Szerezze be az API-kulcsot",
+    "step1-1": "<i>Jelentkezzen be OpenAI-fiókjába</i> Ha nincs fiókja, regisztráljon <b>ITT</b>",
+    "step1-2": "Látogassa meg az OpenAI API kulcs oldalát",
+    "step1-3": "Hozzon létre egy új titkos kulcsot, és másolja ki az alábbiak szerint",
+    "step2": "2. lépés: Illessze be az API-kulcsot az alábbi mezőbe",
+    "step2-tips": "Ne aggódj. Az API-kulcsot csak helyileg használja a ChatGPT bővítmény. Az API használata stabilabb, mint a ChatGPT közvetlen használata.",
+    "step3": "3. lépés: Ellenőrizze a jóváírásait <i>itt</i>"
+  },
+  "optionPage": {
+    "openNewChat": "Új beszélgetés indítása",
+    "howToAccess": "Hogyan érheti el a ChatGPT-t és használhatja bárhol",
+    "howToAccessTip": "Annak érdekében, hogy a mesterséges intelligencia mindenki számára elérhető legyen, 3 módot biztosítunk a ChatGPT eléréséhez és bárhol történő használatához.",
+    "recommended": "Ajánlott",
+    "loginFirst": "Kérjük, először jelentkezzen be.",
+    "loginFirstTip": "Jelentkezzen be, hogy elkezdhesse használni a Sidert, és minden nap ingyenes krediteket kapjon.",
+    "displayMode": "Megjelenítési mód",
+    "displayLanguage": "Megjelenítési nyelv",
+    "fontSizeTitle": "Betűméret az üzenethez",
+    "fontSizeTip": "Csak az üzenet szövegéhez",
+    "fontSizeOptions": {
+      "regular": "Normál",
+      "large": "Nagy"
+    },
+    "fontSizeAutoTip": "Automatikus igazítás az oldalsáv szélessége szerint",
+    "sidepanelPosition": "Oldalsó panel pozíciója",
+    "sidepanelPositionTip": "Chrome 114 vagy újabb esetén csak a böngésző beállításaiban módosítható",
+    "providerPartTitle": "AI hozzáférés",
+    "serviceProvider": "Szolgáltató",
+    "providerSiderTip": "A {{APP_NAME}} zökkenőmentes, gyors és stabil hozzáférést biztosít a legjobb AI modellekhez, mint például az OpenAI o1, Claude 3.5, Gemini, Llama és mások—mind hivatalos API-kon keresztül egyetlen platformon.",
+    "providerWebappTip": "A látogatók és a bejelentkezett felhasználók élménye eltérő lehet az OpenAI korlátozásai miatt.",
+    "providerSiderDesc": "Vezető modellek hivatalos API-jai által támogatott, gyors és megbízható",
+    "providerAPIKeyDesc": "Ideális azoknak, akik rendelkeznek API kulccsal: stabil, használatalapú árazás",
+    "providerWebappDesc": "Instabil lehet az OpenAI irányelveinek változásai miatt",
+    "importantReminders": "Fontos emlékeztetők",
+    "webappReminder1": "Maradjon bejelentkezve a fiókjába.",
+    "webappReminder2": "Ez a szolgáltatás instabil lehet az OpenAI irányelveinek változásai miatt. Gyors és stabil teljesítmény érdekében javasoljuk a {{APP_NAME}} használatát.",
+    "defaultVoice": "Alapértelmezett hang",
+    "defaultSpeed": "Alapértelmezett sebesség",
+    "whenSidebarReopens": "Amikor az oldalsáv újra megnyílik",
+    "scrollingBehavior": "Görgetési viselkedés hosszú válaszoknál",
+    "autoQuoteSelectedText": "Automatikusan idézi a kijelölt szöveget a beviteli mezőben",
+    "autoQuoteSelectedTextTip": "Ha be van kapcsolva, a kijelölt szöveg automatikusan megjelenik a beviteli mezőben a gyors műveletekhez",
+    "siderIcon": "{{APP_NAME}} ikon",
+    "siderIconDisplay": "Mindig mutassa a {{APP_NAME}} ikont az oldalon",
+    "siderIconDisplayTip": "Ha be van kapcsolva, a {{APP_NAME}} ikon a jobb alsó sarokban jelenik meg és áthúzható",
+    "webAsstSearchTitle": "Kereséshez",
+    "webAsstYoutubeTitle": "YouTube-hoz",
+    "webAsstImageTitle": "Képekhez",
+    "webAsstEmailTitle": "E-mailhez",
+    "webAsstCodeTitle": "Kódhoz",
+    "webAsstQATitle": "Kérdés-válasz oldalakhoz",
+    "webAsstLinkPreviewTitle": "Hivatkozás előnézetekhez",
+    "webAsstAISitesTitle": "Modellek összehasonlítása a ChatGPT-n",
+    "webAsstSearchDesc": "Mutassa az AI választ a keresési eredmények mellett",
+    "webAsstVideoSummaryDesc": "Mutassa az összefoglaló panelt a YouTube-on",
+    "webAsstVideoBilingualDesc": "Mutassa a kétnyelvű vezérlőt a YouTube-on",
+    "webAsstImageDesc": "Mutassa az AI eszközöket a képek fölé húzva",
+    "webAsstEmailDesc": "Mutassa az AI válasz gombot a Gmailben",
+    "webAsstCodeDesc": "Mutassa a Kód magyarázata gombot a kódrészleteken",
+    "webAsstQADesc": "Mutassa a Válasz gombot a Kérdések és Válaszok oldalakon",
+    "webAsstAISitesDesc": "„Összehasonlítás” gomb megjelenítése a(z) {{url}} oldalon",
+    "webAsstInputBoxTitle": "Bemeneti mező",
+    "webAsstInputBoxDesc": "Pont ikon megjelenítése a bemeneti mezőben az írás javításához",
+    "webAsstLinkPreviewDesc": "Link előnézeti ablak megjelenítése, amikor egy linket húz.",
+    "webAsstLinkpreviewExampleLink": "Ez egy biztonságos link, próbálja meg húzni, hogy megtekintse az előnézeti ablakot",
+    "sendMessage": "Üzenet küldése",
+    "translatePage": "Oldal fordítása",
+    "activateContextMenu": "Gyors kérdés megnyitása",
+    "invalidShortcutTip": "Tartalmazza a(z) {{key1}}, {{key2}}, vagy {{key3}} elemet",
+    "shortcutInUseTip": "Már használatban van, próbálj meg egy másikat",
+    "disabledSites": "Letiltva az oldalakon",
+    "addASite": "Webhely hozzáadása",
+    "noSiteAdded": "Nincs hozzáadott webhely",
+    "wrongSiteTip": "Érvénytelen URL: Ellenőrizze az URL-t, és próbálja újra.",
+    "restoreDefault": "Alapértelmezett visszaállítása",
+    "recommend4all": "(Mindenkinek ajánlott)",
+    "sidebarProvider": "Az oldalsáv a ChatGPT Premium API-t használja a stabil hozzáférés biztosítására.",
+    "sidebarProviderGoPremium": "{{num}} ingyenes napi kreditet kínálunk, hogy mindenki számára elérhetővé tegyük az AI-t. <a>Frissíts prémiumra</a>, hogy növeld a napi kredit limitet és támogasd küldetésünket, hogy <b>mindenki számára univerzális AI-t biztosítsunk</b>.",
+    "webappGPT4": "(A ChatGPT Plus felhasználói kipróbálhatják)",
+    "webappTip1": "Ha Ön ChatGPT Plus felhasználó, most lehetősége van a GPT-4 kiválasztására. Az OpenAI azonban korlátozhatja a naponta elküldhető üzenetek számát.",
+    "webappTip2": "Kérjük, <m>rögzítse a ChatGPT lapot</m>, és maradjon bejelentkezve a ChatGPT webhelyén. Ez azonban nem biztos, hogy garantálja a stabilitást. Ha bármilyen problémába ütközik, látogasson el <v>a ChatGPT webhelyére </v>, és frissítse az oldalt.",
+    "GPT4Desc": "Be kell jelentkezve maradnod a ChatGPT fiókodba a weboldalon. A stabilitás mind a Plus, mind az ingyenes felhasználók számára ingadozhat az OpenAI korlátozása miatt.",
+    "apiKeyProviderTip": "(API-kulccsal rendelkező fejlesztőknek)",
+    "apiKeyProvider": "A hivatalos OpenAI API stabilabb, és a díjak használaton alapulnak.",
+    "apiKeyLocally": "Az API kulcsod helyileg a böngésződben van tárolva, és soha nem kerül máshová elküldésre.",
+    "ownURL": "Saját URL-cím használata",
+    "customModelName": "Használjon egyéni modellnevet",
+    "apiKeyTip1": "Lehet, hogy az ingyenes OpenAI API-kulcs lejárt. Kérjük, <a>ellenőrizze az API-kulcs lejárati állapotát itt.</a>",
+    "apiKeyTip2": "Ha ingyenes OpenAI API-kulcsot használ, előfordulhat, hogy a ChatGPT-hez való hozzáférés nem lesz stabil, ha nagy a kereslet.",
+    "apiFreeGuide": "Kövesse az útmutatót az API-kulcs beszerzéséhez.",
+    "apiKeyGpt4Tip": "A bővítmény támogatja a GPT-4-et, ha GPT-4 API-kulcsot ad meg.",
+    "displaySearchRes": "A ChatGPT válasz megjelenítése a keresési eredményoldalak mellett",
+    "whenToAsk": "Mikor kell megkérdezni a ChatGPT-t",
+    "promptTplForSearch": "Kérdező sablon a Google és más keresőmotorok számára",
+    "addNewTplForSearch": "Új prompt sablon hozzáadása",
+    "launchSidebar": "Oldalsáv megnyitása",
+    "sidebarLocation": "Oldalsáv helye",
+    "showSelectedTextTitle": "Automatikus kijelölt szöveg megjelenítése a beviteli mezőben",
+    "showSelectedTextDesc": "Automatikusan megjeleníti a kijelölt szöveget idézetként a beviteli mezőben a gyors műveletekhez a promptokkal",
+    "sendingMsgBehavior": "Viselkedés üzenet küldése után a csevegésben",
+    "showSelectedTextTip": "Ha a jövőben nem szeretnéd, hogy a kijelölt szöveg automatikusan megjelenjen, kikapcsolhatod a <a>oldalsáv beállításaiban</a>.",
+    "sidepanelLocation": "Oldalsáv helye",
+    "sidebarLeftOrRight": "Helyezze az oldalsávot a bal vagy a jobb oldalra",
+    "linkToSetting": "Az oldalsáv helyének megváltoztatása a böngésző beállításaiban",
+    "sidepanelLeftOrRight": "Helyezze az oldalsó panelt balra vagy jobbra. Az oldalsó panel csak a Google Chrome 114 vagy újabb verziójában érhető el.",
+    "sidebarDisplayOption": "Oldalsáv megjelenítési mód",
+    "sidebarDisplayOptionTip": "Válassza ki, hogyan jelenjen meg az oldalsáv az oldalon",
+    "sidebarDisplayOptions": {
+      "overlay": "Fedvény",
+      "expand": "Bővül"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "Automatikusan görgessen a válasz végére",
+      "messageTop": "Állítsa meg a görgetést, amikor a válasz eléri a tetejét"
+    },
+    "sidebarOnStartup": "Amikor megnyitod az oldalsávot",
+    "sidebarOnStartupTip": "Konfiguráld a chat felület megjelenítési módját az oldalsáv megnyitásakor",
+    "sidebarOnStartupOptions": {
+      "new": "Mindig új csevegést indít",
+      "last": "Mindig folytassa az utolsó csevegést",
+      "auto": "Automatikus folytatás vagy újraindítás"
+    },
+    "sidebarOnStartupAutoTip": "Ha 10 percen belül újra megnyitják, a csevegés folytatódik; ha 10 perc után, új csevegés indul",
+    "sidebarIcon": "Oldalsáv ikon",
+    "sidebarIconAccess": "Az oldalsávot az oldal jobb alsó sarkában található ikonon keresztül érheti el. Húzással mozgathatja fel és le",
+    "easiestWayUse": "A {{APP_NAME}} használatának legegyszerűbb módja",
+    "displayWhenSelect": "Megjelenítés, ha szöveg van kiválasztva",
+    "addNewTplForSidebar": "Új prompt sablon hozzáadása",
+    "editSearchTplTip": "használja a {{keywords}} kifejezést a keresési kulcsszavak hivatkozására",
+    "editSearchTplPlaceholder": "A {{keywords}} a prompt tartalmában automatikusan helyettesítve lesz a keresési kulcsszavakkal",
+    "editSidebarTplTip": "Illessze be vagy írja be ide a tartalmat",
+    "quickAction": {
+      "mainSwitchTitle": "{{name}} megjelenítése",
+      "mainSwitchDesc": "Bekapcsolva egy menü jelenik meg gyors műveletekkel a szöveg kiválasztásakor",
+      "displayOnSelect": "amikor szöveg van kiválasztva",
+      "displayOnShortcut": "amikor szöveg van kiválasztva és a(z) {{key}} meg van nyomva",
+      "displayOnSelectGuide": "Előnyben részesít egy letisztultabb nézetet? Aktiválja a gyorsmenüt egy választott gyorsbillentyűvel a <a>beállításokban</a>.",
+      "closeTips": "Gyors műveletek a kijelölt szöveghez. Kattintson a(z) {{icon}} ikonra a letiltáshoz, ha nincs rá szükség.",
+      "customPromptMenu": "{{name}} kérések kezelése",
+      "useageScene": "Felhasználási forgatókönyv",
+      "useageSceneRW": "Mutassa a(z) {{name}} lehetőséget, amikor szöveget választ ki bárhol",
+      "useageSceneR": "{{name}} megjelenítése, amikor szöveget választ ki egy weboldalon",
+      "useageSceneW": "{{name}} megjelenítése, amikor szöveget választ ki egy beviteli mezőben"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "YouTube Asszisztens",
+        "SummaryDesc": "<b>Videó összefoglaló</b>: Ha engedélyezve van, a {{APP_NAME}} segíthet összefoglalni a YouTube videókat",
+        "BilingualDesc": "<b>Kétnyelvű feliratok</b>: Ha engedélyezve van, a {{APP_NAME}} automatikusan megjeleníti a feliratokat YouTube videók nézése közben"
+      },
+      "qa": {
+        "title": "Kérdések és válaszok asszisztens",
+        "desc": "Ha be van kapcsolva, a {{APP_NAME}} válaszolhat a kérdésre a Quora, a StackOverflow és más minőségbiztosítási webhelyeken"
+      },
+      "code": {
+        "title": "Kódsegéd",
+        "desc": "Amikor be van kapcsolva, a {{APP_NAME}} segíthet kódok magyarázatában a weboldalon"
+      },
+      "image": {
+        "title": "Kép Asszisztens",
+        "desc": "Ha be van kapcsolva, akkor bármely kép fölé húzva gyorsan hozzáférhet az AI Képeszközökhöz"
+      },
+      "linkPreview": {
+        "autoSummarize": "Automatikus összefoglalás",
+        "collapse": "Összecsukás",
+        "guideTipDesc": "Húzzon egy linket az előnézethez anélkül, hogy elhagyná az oldalt. Ha nincs rá szükség, tiltsa le a <link>beállítások</link> között.",
+        "guideTipTitle": "Linkek hatékony előnézete",
+        "openInNewTab": "Megnyitás új lapon",
+        "pageLoadFailed": "Az oldal betöltése sikertelen",
+        "summarizeNotSupported": "Ez az oldal nem támogatja az összefoglalást.",
+        "viewSummary": "Összefoglaló megtekintése"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Új prompt",
+      "editPrompt": "Prompt szerkesztése",
+      "checkPrompt": "Jelölje be a promptot",
+      "showInList": "Megjelenítés a listában",
+      "hideFromList": "Elrejtés a listából",
+      "noPrompts": "Nincsenek itt utasítások",
+      "promptTabChatDesc": "A 'Megjelenítés a listában' utasítások a(z) {{name}} funkcióban jelennek meg.",
+      "promptTabReadDesc": "A 'Megjelenítés a listában' utasítások a(z) {{name}} oldalszövegében jelennek meg.",
+      "promptTabWriteDesc": "A 'Megjelenítés a listában' utasítások a(z) {{name}} bevitel mezőiben jelennek meg.",
+      "deletePromptWarn": "Törli ezt a promptot?",
+      "howToWritePrompt": "Hogyan írjunk felszólítást",
+      "howToVarTitle": "Milyen változók szerepelhetnek a promptban?",
+      "howToVar1": "Ezt a változót használhatja a bemenet vagy a kiválasztott tartalom megjelenítésére. Ha a prompt nem tartalmazza ezt a változót, akkor a bemenet vagy a kiválasztott tartalom háromszoros idézőjelbe kerül, és a prompt legvégére kerül.",
+      "howToVar2": "Ezt a változót használhatja a kimenethez használni kívánt nyelv megjelenítésére, a beállításokban beállított alapértelmezett nyelv alapján.",
+      "howToExample": "Kérjük, használja a következő témákat vagy kulcsszavakat egy címeket, fejezeteket és alfejezeteket tartalmazó vázlat létrehozásához.\nMarkdown formátumban adja ki. Csak a kimenetet adja meg, semmi mást. A vázlatnak {{lang}} nyelven kell lennie.\nTémák vagy kulcsszavak: {{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Problémajelentés",
+        "title": {
+          "label": "Probléma összefoglaló",
+          "tip": "Mondja el nekünk néhány szóban, mi történt rosszul."
+        },
+        "detail": {
+          "label": "A probléma részletei",
+          "tip": "Kérjük, írja le részletesen, mi történt rosszul, milyen műveleteket végzett, és milyen hibaüzeneteket kapott."
+        }
+      },
+      "fr": {
+        "name": "Funkciókérés",
+        "title": {
+          "label": "Cím",
+          "tip": "Miről szól a kérése?"
+        },
+        "detail": {
+          "label": "Leírás",
+          "tip": "Kérjük, adja meg a kívánt új funkció részletes leírását."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "Mentés új promptként",
+    "replacePrompt": "Cserélje ki a felszólítást",
+    "inputPlaceholder1": "Írja be a parancssort, vagy válasszon a menüből",
+    "inputPlaceholder2": "Illessze be vagy írja be ide a tartalmat",
+    "startNewLine": "Új sor indításához nyomja meg a {{shortcut}} gombot",
+    "inputPlaceholderCodes": "Illessze be vagy írja be a kódokat ide",
+    "inputPlaceholderQA": "Illessze be vagy írja be ide a kérdést",
+    "pressToSubmit": "A beküldéshez nyomja meg a {{key}} gombot",
+    "stopGenerating": "Hagyd abba a generálást",
+    "regenerate": "Válasz újragenerálása",
+    "askTabLabel": "Kérdez",
+    "chatTabLabel": "Csevegés",
+    "moreTabLabel": "Több",
+    "composeTabLabel": "Ír",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "fordít",
+    "grammarTabLabel": "Nyelvtan",
+    "searchTabLabel": "Keresés",
+    "toolsTabLabel": "Eszközök",
+    "freePlan": "Ingyenes terv",
+    "premiumPlan": "Prémium csomag",
+    "extraQuota": "Extra kvóta",
+    "submitOption": "Beküldési lehetőség",
+    "painterLabel": "Festő",
+    "downloadLabel": "Asztali/mobil alkalmazás letöltése",
+    "deleteAllConfirmTitle": "Összes törlése"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}} dinamikusan választja ki a GPT-4o mini, Claude 3 Haiku, Gemini 1.5 Flash vagy Llama 3 modellt az optimális válaszok érdekében a szituáció alapján.",
+    "gpt-3.5": "Nagyon gyors, kiváló a legtöbb mindennapi feladathoz.",
+    "gpt-4": "A legerősebb modell, a legmegfelelőbb összetett, fejlett érvelést igénylő feladatokhoz.",
+    "gpt-4o": "Az OpenAI legjobb modellje, amely a komplex feladatokhoz is kiváló minőséget biztosít.",
+    "gpt-4o-mini": "Az OpenAI legújabb modellje, amely gyors és kiváló teljesítményt nyújt a csevegés, kódolás és érvelési feladatok során a mindennapi használatra.",
+    "gpt-5": "Az OpenAI legújabb modellje, amely bonyolult feladatok elvégzésére a legalkalmasabb, miközben megőrzi a minőséget.",
+    "claude-instant": "Az Anthropic alapmodellje, alacsony késleltetésű, nagy áteresztőképességű használati esetek.",
+    "claude2": "Kategóriájában a legjobb ajánlatmodell az Anthropic-tól, kiváló teljesítmény az összetett érvelést igénylő feladatoknál.",
+    "claude-3-haiku": "Anthropic legkisebb modellje, amelyet a gyors válaszidő és a emberi interakciókat utánozó, zökkenőmentes AI élmények érdekében terveztek",
+    "claude-3-sonnet": "Anthropic legkiegyensúlyozott modellje az intelligencia és a sebesség között, ideális széles körű feladatokhoz.",
+    "claude-3.5-sonnet": "Az Anthropic legújabb modellje, amely kétszer olyan gyors, mint a Claude 3 Opus, és magasabb intelligenciával rendelkezik, jelentősen javítva az érvelési, tudás, kódolási és vizuális feladatokat.",
+    "claude-3-opus": "Anthropic legerősebb modellje, amely kiváló teljesítményt nyújt rendkívül bonyolult feladatokban, és folyékony és emberi-szerű megértést mutat.",
+    "bard": "A Google modellje (PaLM 2) jól teljesít a haladó érvelési feladatokban.",
+    "gemini-pro": "A Google legkiegyensúlyozottabb modellje, tökéletesen ötvözi a képességeket a hatékonysággal.",
+    "gemini-1.5-pro": "A Google legjobb modellje széles körű feladatok általános teljesítményére.",
+    "gemini-1.5-flash": "A Google könnyűsúlyú modellje, amelyet a sebességre és hatékonyságra optimalizáltak.",
+    "llama-3": "A Meta legújabb modellje, amely bonyolult feladatok elvégzésére is alkalmas, miközben megőrzi a minőséget."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Költség <m>1 alap kredit</m>.",
+    "gpt-3.5-n_one": "Költség <m>{{count}} alap hitel</m>.",
+    "gpt-3.5-n_other": "Költség <m>{{count}} alap hitelek</m>.",
+    "gpt-4": "Költség <m>1 fejlett kredit</m>.",
+    "gpt-4-2": "Költség <m>2 fejlett kredit</m>.",
+    "gpt-4-n_one": "Költség <m>{{count}} fejlett kredit</m>.",
+    "gpt-4-n_other": "Költség <m>{{count}} fejlett kredit</m>."
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "Válasz tőle",
+    "autoCloseBanner": "Automatikusan szünetel inaktivitás után",
+    "autoCloseTips": "A Kereső Asszisztens szünetel, ha nem kattintasz a kártyán lévő gombokra 30 keresésen belül. Bármikor újraaktiválhatod a gombra kattintva.",
+    "signinToAsk": "Jelentkezzen be az Ask {{MODEL_NAME}} használatához",
+    "newChat": "Új csevegés",
+    "chatHistory": "Csevegési előzmények",
+    "writeHistory": "Írás története",
+    "searchHistory": "Keresési előzmények",
+    "chatControls": "Csevegési vezérlők",
+    "inputPlaceholder": "Írjon be egy üzenetet...",
+    "send": "Küld",
+    "feedback": "Visszacsatolás",
+    "experimental": "Ez a funkció még fejlődik és változhat, ezért kérjük, ossza meg gondolatait.",
+    "share": "Ossza meg",
+    "replyLanguage": "Válasz nyelve",
+    "capabilities": "Képességek",
+    "deleteConfirmTitle": "Törli ezt a beszélgetést?",
+    "deleteConfirmContent": "Ez a művelet nem visszavonható.",
+    "compareWeb": "Hasonlítsa össze a választ az internetről",
+    "compareAnsWith": "Válasz összehasonlítása",
+    "smarterAnsWith": "Kapj okosabb választ",
+    "improveWithXXX": "Okosabb válasz a <b>Bottól</b>",
+    "improveWithXXX2": "Kapjon átfogó választ <b>Bottól</b>",
+    "compareWithXXX": "Kérdezzen <b>robotot</b>",
+    "improveWithSearch": "Kérjen internetes választ a Google-tól",
+    "improveWithBoth": "A Google Answers rendszerezése a GPT-4 segítségével",
+    "answerWithoutSearching": "Kérdezze meg az eredeti <b>botot</b>",
+    "screenshot": "Képernyőkép",
+    "upload": "Feltöltés",
+    "uploadFile": "Fájlok feltöltése",
+    "siderUploadFile": "Fájlok feltöltése PDF, DOC, XLSX, CSV, JPG, JSON és más formátumokban, egyszerre legfeljebb 6 fájl, fájlonként legfeljebb 100MB.",
+    "addImage": "Kép hozzáadása",
+    "uploadTip": {
+      "formatTitle": "Támogatás:",
+      "limitTitle": "Korlát:",
+      "format": "Weboldal, PDF, DOC, XLSX, CSV, JPG, JSON, MP3, WAV, M4A, MPGA és még sok más",
+      "limit": "Legfeljebb 6 fájl, egyenként 100MB"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "Írjon egy Shakespeare-stílusú szonettet az okostelefonokról"
+      },
+      {
+        "title": "",
+        "ques": "Javasoljon 10 kreatív Halloween jelmezt gyerekeknek"
+      },
+      {
+        "title": "",
+        "ques": "Vázolja fel a személyes pénzügyek tanulásának kezdő útitervét"
+      },
+      {
+        "title": "",
+        "ques": "Magyarázza el egy 10 éves gyereknek, miért kék az ég"
+      }
+    ],
+    "textSelectedTip": "Szöveg a kiválasztottból",
+    "ocrTextTip": "{{name}} Eredmény",
+    "translateTip": "Eredmény fordítása",
+    "textSelectedSystemMsg": "Mit szeretnél csinálni a szöveggel?",
+    "welcomeSystemMsg": "Helló! Hogyan segíthetek ma?",
+    "welcomeMsg": "Hogyan segíthetek ma?",
+    "chatActionTranslate": "Fordítás {{lang}} nyelvre",
+    "search": "Keresés",
+    "continueInChat": "Folytatás a chatben",
+    "chatWithVideo": "Videós csevegés",
+    "userStopTip": "A felhasználó visszavonta a kérést.",
+    "noChatHistory": "Még nincs előzmény.",
+    "noSearchHistory": "Nincs találat",
+    "webAccessModalTitle": "A {{APP_NAME}} lehetővé teszi a ChatGPT-3.5 és a GPT-4 internet elérését!",
+    "webAccessModalContent": "A ChatGPT adatai nem valós idejűek. A {{APP_NAME}} a ChatGPT intelligenciáját a valós idejű webes információkkal egyesíti, így a GPT hatékonyabban kezelheti a valós idejű információkkal kapcsolatos kérdéseket. Frissítsen, hogy megszerezze ezt a funkciót, és ne aggódjon többé az elavult információk miatt!",
+    "readDoc": "Dokumentumok olvasása",
+    "readDocFail": "Dokumentumok olvasása sikertelen"
+  },
+  "sidebarComposePanel": {
+    "compose": "Összeállít",
+    "reply": "Válasz",
+    "write": "Ír",
+    "writePlaceholder": "Írd be a témát, amiről írni szeretnél",
+    "replyPlaceholder1": "Írd be az eredeti szöveget, amelyre válaszolni szeretnél",
+    "replyPlaceholder2": "Írd le a válaszod általános elképzelését",
+    "submitShortcut": "A piszkozat létrehozásához nyomja meg a {{shortcut}} gombot",
+    "generate": "Piszkozat létrehozása",
+    "format": "Formátum",
+    "email": "Email",
+    "idea": "Ötlet",
+    "outline": "Vázlat",
+    "essay": "Esszé",
+    "paragraph": "Bekezdés",
+    "blog": "Blog bejegyzés",
+    "ads": "Marketing hirdetések",
+    "twitter": "Twitter",
+    "comment": "Megjegyzés",
+    "message": "Üzenet",
+    "tone": "Hang",
+    "basic": "alap",
+    "style": "Stílus",
+    "professional": "Szakmai",
+    "formal": "Hivatalos",
+    "casual": "Alkalmi",
+    "enthusiastic": "Lelkes",
+    "informational": "Tájékoztató",
+    "funny": "Vicces",
+    "length": "Hossz",
+    "short": "Rövid",
+    "medium": "Közepes",
+    "long": "Hosszú",
+    "regenerate": "Regenerátum",
+    "addToSite": "Hozzáadás a webhelyhez",
+    "addToSiteTip": "Helyezze az egérmutatót a kívánt beviteli mezőbe, és kattintson a „{{name}}” gombra a beszúráshoz",
+    "insertToSite": "Az eredmény beillesztése a weboldal beviteli mezőjébe",
+    "history": "Előzmények",
+    "formatExists": "A formátum már létezik",
+    "AIWriter": "AI író",
+    "continueOptimizeTips": "Folytassa a finomítást és a fejlesztést az MI-vel együtt",
+    "alsoWriteTips": "Írás Al mellett"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "Elfogad",
+    "checkFailed": "Az ellenőrzés sikertelen",
+    "checkNoError": "Nincsenek hibák",
+    "checking": "Ellenőrzés",
+    "fixError": "Összes javítása ({{errorCount}})",
+    "ignore": "Figyelmen kívül hagyni",
+    "improve": "Fejlesztés",
+    "inputPlaceholder": "Csak angol nyelv támogatott. Illessze be vagy írja be a szöveget az ellenőrzéshez.",
+    "reasonForChanges": "A változtatások oka"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Auto felismerés",
+    "placeholde": "Írja be vagy illessze be a szöveget ide...",
+    "errWrongTargetLang": "Azonos forrás- és célnyelv. Ellenőrizze a választását.",
+    "errTooManyChar": "{{num}}/{{total}}: A bemenet meghaladja a karakterkorlátot.",
+    "upgradeForLongChar": "Frissítsen most a hosszabb bevitel feloldásához ({{num}} karakter).",
+    "extraTransTips": "Fordíthatja még:",
+    "currentPage": "Aktuális oldal",
+    "customization": {
+      "defaultPreferences": "Alapértelmezett beállítások",
+      "title": "Fordítási beállítások",
+      "Length": "Hossz",
+      "LengthOpt": {
+        "Brief": "Rövid",
+        "Concise": "Tömör",
+        "Standard": "Alapértelmezett",
+        "Expanded": "Kiterjesztett"
+      },
+      "Tone": "Hang",
+      "ToneOpt": {
+        "Casual": "Alkalmi",
+        "Neutral": "Semleges",
+        "Formal": "Hivatalos",
+        "Authoritative": "Irányadó",
+        "Empathetic": "Empatikus"
+      },
+      "Style": "Stílus",
+      "StyleOpt": {
+        "Literal": "Szó szerinti",
+        "DynamicEquivalence": "Dinamikus ekvivalencia",
+        "CreativeAdaptation": "Kreatív alkalmazkodás"
+      },
+      "Complexity": "Bonyolultság",
+      "ComplexityOpt": {
+        "Layman": "Laikus",
+        "Standard": "Alapértelmezett",
+        "Expert": "Szakértő"
+      }
+    },
+    "inputTranslateAdText": "Fordítson azonnal szöveget bármely weboldalon található beviteli mezőben!",
+    "inputTranslateAdBtn": "Állítsa be most",
+    "seeDict": "Szótár megtekintése"
+  },
+  "sidebarSearchPanel": {
+    "history": "Előzmények",
+    "searchProgress": {
+      "searching": "Keresés",
+      "analyzing": "Elemzés",
+      "organizing": "Szervezés",
+      "generatingAnswer": "Válasz generálása",
+      "competed": "Befejezve",
+      "searchInWeb": "Keresés a weben",
+      "analyzeSearchResult": "Keresési eredmények elemzése",
+      "generateAnswer": "Válasz generálása",
+      "searchCompleted": "Keresés befejeződött",
+      "searchCancelled": "Keresés megszakítva"
+    },
+    "relatedSearches": "Kapcsolódó keresések",
+    "searchFrom": "Keresés innen",
+    "searchHistory": "Keresési előzmények",
+    "answer": "Válasz",
+    "currentVisit": "Aktuális látogatás",
+    "feedback": {
+      "stepAnswer": "Válasz generálása",
+      "stepSearch": "Keresés végrehajtása",
+      "stepUnderstand": "Kérdések megértése",
+      "tipTotal": "Összesen {{count}} kredit"
+    },
+    "stoppedSearch": "Megállítottad ezt a keresést.",
+    "newSearch": "Új keresés",
+    "searching": "Keresés",
+    "searchFromAll": "Keresés az egész interneten",
+    "searchAll": "Keresés mindenből",
+    "searchRange": "Keresés tartományban",
+    "searchFromSite": "Keresés a(z) {{domain}} oldalon",
+    "sources": "Források",
+    "suggestions": "Javaslatok",
+    "title": "Keresés",
+    "viewAll": "Összes megtekintése",
+    "defaultSearchSuggesiton": "Mikor a legjobb idő meglátogatni Párizst?",
+    "followUpQuestion": "Következő kérdés...",
+    "searchPlaceholder": "Írd be az információt, amit keresni szeretnél"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "Az AI OCR hibázhat",
+    "dragImgTips": "Kattintson a feltöltéshez, vagy húzza ide a képet a szöveg kinyeréséhez",
+    "noText": "Nem ismert szöveg",
+    "ocrCost": "Minden {{name}} {{num}} alap kreditbe kerül",
+    "ocrTips": "Szöveg, számok és egyenletek kinyerése egy képből"
+  },
+  "pageTranslation": {
+    "title": "Oldal fordítása",
+    "demoText": "A ChatGPT a Transformer által működik, amely egy mélytanulási modell, természetes nyelvfeldolgozásra tervezve, önfigyeléssel és előrecsatolt neurális hálózatokkal.",
+    "free": "Ingyenes",
+    "aiTranslator2": "AI Fordító",
+    "aiTranslatorFunTitle1": "Kontextus Megértése",
+    "aiTranslatorFunDesc1": "Megérti mind a szándékot, mind a hangnemet, mélyebbre hatolva, mint a szó szerinti fordítás",
+    "aiTranslatorFunTitle2": "Pontos Fordítás",
+    "aiTranslatorFunDesc2": "Fordítson tisztán és precízen, biztosítva, hogy semmilyen részlet ne vesszen el",
+    "newAITranslationTip": "Az AI Oldal Fordítás most már elérhető! Kattintson ide a beállításhoz.",
+    "translateService": "Fordító szolgáltatás",
+    "translateServiceTip": "Az AI fordítás alap krediteket használ a tartalom hosszától függően.",
+    "pageTranslation": "Oldal lefordítása",
+    "showOriginal": "Eredeti szöveg megjelenítése",
+    "transSettings": "Fordítási beállítások",
+    "source": "Forrásnyelv",
+    "target": "Célnyelv",
+    "autoDetect": "Auto felismerés",
+    "displayMode": "Megjelenítési mód",
+    "displayModes": [
+      "Kétnyelvű",
+      "Csak fordítás"
+    ],
+    "displayStyle": "Megjelenítési stílus",
+    "displayStyles": [
+      "Nincs",
+      "Aláhúzás",
+      "Gyengítés"
+    ],
+    "displayStyleDesc": "Csak kétnyelvű összehasonlító módú fordításokhoz",
+    "autoTrans": "Automatikus fordítás",
+    "autoTrans2": "Weboldalak automatikus fordítása",
+    "autoTrans2Desc": "Kikapcsolva kattintson a fordítás gombra vagy használja a gyorsbillentyűt",
+    "neverTransSite": "Soha ne fordítsa le ezt az oldalt",
+    "neverTransSites": "Soha ne fordítsa le ezeket az oldalakat",
+    "transAgain": "Fordítás újra"
+  },
+  "inputTranslation": {
+    "title": "Bemenet fordítása",
+    "mainSwitchTitle": "Fordítsa le a beviteli szöveget egy aktiváló billentyűvel",
+    "mainSwitchDesc": "Fordítson és cseréljen szöveget bármely weboldalon található beviteli mezőben",
+    "triggerKeyTitle": "Trigger billentyű",
+    "triggerKeyDesc": "Nyomja meg gyorsan háromszor a trigger billentyűt a fordításhoz, visszavonás: {{key}}",
+    "spaceKey": "Szóköz billentyű",
+    "model": "Fordítási modell",
+    "neverTransSites": "Soha ne fordítson ezeken a webhelyeken"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "Gondolkodó mód",
+      "desc": "A Gondolkodó mód a Gondolatmenet érvelést használja, hogy többlépcsős következtetéssel elemezze a bonyolult problémákat, átfogóbb és éleslátóbb válaszokat nyújtva.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Gondoljon arra: 9.11 vagy 9.8, melyik a nagyobb"
+        },
+        {
+          "title": "",
+          "value": "Gondolkodjon el és írjon egy függvényt a 'Hat lépés távolság' elmélet modellezésére. Adott egy szociális hálózat gráfként, találja meg a legrövidebb utat bármely két ember között."
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "Artefaktumok",
+      "desc": "Könnyedén készíthet és mutathat be tartalmakat, mint például weboldalak vagy folyamatábrák, egy új ablakban. Növelje a termelékenységet valós idejű interakciókkal és egy fókuszált munkaterülettel.",
+      "demos": [
+        {
+          "title": "Hozzon létre egy Virtuális Xilofont",
+          "value": "Hozzon létre egy HTML-alapú xilofont színes billentyűkkel egy {{ARTIFACT}}-ban. Biztosítson vizuális visszajelzést a megütött billentyűk számára, és generáljon egyszerű, valósághű hangokat a Web Audio API segítségével a frekvencia paraméterek alapján. Tartalmazzon alapvető utasításokat."
+        },
+        {
+          "title": "Hozzon létre egy Étel-Evő Emoji Játékot",
+          "value": "Hozzon létre egy egyszerű HTML-alapú játékot, hasonlóan a Catch the Candy-hez, egy {{ARTIFACT}}-ban. A játékos egy emojit irányít a képernyő alján, gyorsan balra és jobbra mozgatva, hogy elkapja és megegye az étkezési emojikat (pl. 🍓, 🍔, 🍎), amelyek felülről hullanak, miközben elkerüli a bombákat (💣). Minden alkalommal, amikor a játékos elkap egy étkezési emojit, az emoji egyre kifejezettebb pozitív arckifejezésre vált (pl. 🤩, 😆, 😋), jelezve a sikert. Ha a játékos véletlenül elkap egy bombát, az emoji először robbanást mutat (💥), majd szédült arckifejezésre vált (😵‍💫)."
+        },
+        {
+          "title": "Hozzon létre egy Okostelefon Szállítási Diagramot",
+          "value": "Használja a React-ot, hogy egy gyönyörű vonaldiagramot hozzon létre egy {{ARTIFACT}}-ban az alábbi táblázat alapján.\n------\n\nOkostelefon Szállítások Főbb Márkák Szerint Az Utolsó Évtizedben (Milliárdban)\n\n| Év | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+        }
+      ]
+    },
+    "search": {
+      "name": "Web-hozzáférés",
+      "desc": "Szerezzen valós idejű betekintést az előre betanított adatokon túl, biztosítva a pontos és időszerű válaszokat a jelenlegi eseményekre, friss hírekre és változó témákra.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Melyek a legjobbra értékelt filmek jelenleg az amerikai mozikban?"
+        },
+        {
+          "title": "",
+          "value": "Mely részvények tapasztaltak figyelemre méltó emelkedést ma?"
+        },
+        {
+          "title": "",
+          "value": "Mi a legfigyelemreméltóbb új elektronikai termék, amelyet ma adtak ki?"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "Kép generálása",
+      "desc": "Egyszerűen írja le, amit elképzelt, és azonnal generáljon kiváló minőségű képeket. Nincs szükség tervezési készségekre – csak a képzeletére.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Tervezzen egy futurisztikus repülő autót."
+        },
+        {
+          "title": "",
+          "value": "Rajzoljon egy arany retrievert, amely fűben fut."
+        },
+        {
+          "title": "",
+          "value": "Ábrázoljon egy idős nőt, aki lazán kávét iszik."
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "Adatelemzés",
+      "desc": "Futtasson Python kódot valós időben fejlett matematika, statisztika, gépi tanulás és adatfeldolgozás céljából, egyszerűsítve a feladatokat különböző formátumokban.",
+      "demos": [
+        {
+          "title": "Olvassa be a fájl adatait, és készítsen egy kördiagramot, amely bemutatja a különböző költségvetési tételek arányát.",
+          "value": "Olvassa be a fájl adatait, és készítsen egy kördiagramot, amely bemutatja a különböző költségvetési tételek arányát."
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Tetszik a bővítményünk?</b> Kérjük, értékeljen minket öt csillaggal az internetes áruházban, hogy segítsen növekedni",
+    "newInVersion": "Újdonságok a {{versionId}} verzióban",
+    "learnToUse": "Tanulja meg a használatát",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, AI Fordító",
+      "4_36_0": "Gyűjtsön tudást a Wisebase-szel",
+      "4_35_0": "Linkek előnézete: Böngésszen okosabban",
+      "4_34_0": "Gmail Al Válasz, Artefaktumok és Fordítási Fejlesztések",
+      "4_33_0": "O1 & Videóösszegzés fejlesztések",
+      "4_32_0": "Támogatás hangfájlokhoz a csevegésben",
+      "4_31_0": "Eszközök Nav, Bemenet Fordítás, Gyors Másolás",
+      "4_30_0": "Frissített GPT-4o, Oldalfordítás és YouTube Feliratok",
+      "4_29_0": "Fejlett csevegési élmény",
+      "4_28_0": "Claude 3.5 Haiku és Fejlett Opciók",
+      "4_27_0": "Fejlesztett helyi menü és artefaktumok",
+      "4_26_0": "Bemutatjuk a Gondolkodó módot (Kísérleti)",
+      "4_25_0": "Friss megjelenés a jobb élményért",
+      "4_24_0": "A Gemini modellek most okosabbak és gyorsabbak lettek!",
+      "4_23_0": "Az OpenAI o1-preview és o1-mini most elérhető!",
+      "4_22_0": "Démon vs Angyal: Röntgenezd az X-személyiségedet",
+      "4_20_0": "Fordítási funkciók frissítése",
+      "4_19_0": "{{ARTIFACTS}}: Valós idejű, interaktív tartalmi blokkok",
+      "4_18_0": "A csevegés megosztása most élő!",
+      "4_17_0": "Bemutatjuk a Watch Highlights funkciót a YouTube-hoz",
+      "4_16_0": "Bemutatkozik a GPT-4o mini",
+      "4_13_0": "Bemutatjuk az AI Hangos Olvasást: A személyes audio asszisztensed",
+      "4_12_0": "",
+      "4_11_0": "Mély olvasó, hogy fejleszd kritikai olvasási készségeidet!",
+      "4_10_0": "Az OpenAI GPT-4o most már itt van!",
+      "4_9_0": "Llama 3 Már Most! A Meta legújabb generációs, állapot-mentes nyílt forráskódú LLM-je.",
+      "4_8_0": "Gemini 1.5 Pro - Most már elérhető!",
+      "4_7_0": "In-Chat Video Summary, Felirat Kinyerés, Claude 3 Haiku! 🚀",
+      "4_6_0": "Támogasd most a Claude 3 családot!",
+      "4_5_0": "",
+      "4_4_0": "Minden eszköz a Csevegésben és a GPT-4 Kontextusmenüben",
+      "4_3_0": "Maximalizáld a tapasztalatod teljes képernyő mód segítségével!",
+      "4_2_0": "Hatékonyabb felhasználói felület és oldalsáv GPT-hozzáférés",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "A Sider készen áll, hogy megsüsse és dicsekedjen a nyilvános X (Twitter) bejegyzéseiddel! Válaszd ezt a nevetésért, nem tárolunk adatokat. Játékra fel, és oszd meg az örömöt a barátaiddal!"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>: Megfelel az OpenAI-o1 teljesítményének"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>: Kiemelkedik az összetett érvelés, matematika és kódolási feladatokban"
+          ]
+        },
+        {
+          "features": [
+            "<b>AI Fordító Weboldalhoz</b>: Természetes és pontos fordításokat nyújt"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>Weboldalak és kiemelések mentése</b>: Mentsd el az értékes webes tartalmakat a Wisebase-be (Al tudásbázis) egy kattintással"
+          ]
+        },
+        {
+          "features": [
+            "<b>Al Inbox</b>: Hagyja, hogy az Al automatikusan kategorizálja a tartalmát"
+          ]
+        },
+        {
+          "features": [
+            "<b>Csevegés több fájllal</b>: Kapjon azonnali válaszokat az összegyűjtött fájljaiból"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>Azonnali előnézetek</b>: Húzza a linkeket a tartalom megtekintéséhez új lapok megnyitása nélkül"
+          ]
+        },
+        {
+          "features": [
+            "<b>Intelligens összefoglalók</b>: Szerezzen kulcsfontosságú betekintést az oldalakból egy pillantással"
+          ]
+        },
+        {
+          "features": [
+            "<b>Hatékony böngészés</b>: Maradjon fókuszált kevesebb kattintással és kevesebb zavaró tényezővel"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Al Válasz a Gmailben</b>: Támogatja a fordítást és az Al modell kiválasztását a jobb kommunikáció érdekében"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artefaktumok</b>: Folyamatábrák exportálása képként az egyszerű megosztás érdekében"
+          ]
+        },
+        {
+          "features": [
+            "<b>Fordítás</b>: Al szótár a szavak és kifejezések pontos fordításához"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>: Gyorsabb, mint az 'o1-preview', kiváló a komplex, több lépésből álló feladatokban fejlett pontossággal"
+          ]
+        },
+        {
+          "features": [
+            "<b>Videók összegzése feliratok nélkül</b>: Szerezzen átiratokat és összefoglalókat felirat nélküli YouTube videókhoz"
+          ]
+        },
+        {
+          "features": [
+            "<b>Webtartalom összegzés</b>: Javítva olyan platformokhoz, mint a Reddit és a Twitter"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>Hangból szöveg</b>: Töltsön fel MP3, WAV, M4A vagy MPGA fájlt az átiratok generálásához"
+          ]
+        },
+        {
+          "features": [
+            "<b>Megtekintés és hallgatás</b>: Olvassa el az átiratokat, miközben hallgatja a hangot"
+          ]
+        },
+        {
+          "features": [
+            "<b>Könnyű összefoglalás</b>: Készítsen gyors összefoglalókat egy kattintással"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>Eszközök Nav</b>: AI eszközök elérése képekhez, PDF-ekhez és videókhoz a navigációs sávból"
+          ]
+        },
+        {
+          "features": [
+            "<b>Bemenet Fordítás</b>: Háromszoros szóköz a bemeneti szöveg fordításához (engedélyezze az Opciókban)"
+          ]
+        },
+        {
+          "features": [
+            "<b>Gyors Másolás</b>: Szöveg azonnali másolása a helyi menüvel"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>: Fejlettebb természetes írási képességek és jobb fájlkezelés"
+          ]
+        },
+        {
+          "features": [
+            "<b>Csak Fordítás Megjelenítése</b>: Az oldalfordítás mostantól támogatja csak a lefordított tartalom megtekintését"
+          ]
+        },
+        {
+          "features": [
+            "<b>Jobb YouTube Feliratok</b>: Élvezze a magasabb minőségű kétnyelvű feliratfordításokat"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>Üzenet szerkesztése</b>: Küldött üzenetek könnyű szerkesztése és új válaszokért való újraküldése"
+          ]
+        },
+        {
+          "features": [
+            "<b>Egymás melletti összehasonlítás</b>: Válaszok megtekintése több modellből teljes oldalon"
+          ]
+        },
+        {
+          "features": [
+            "<b>Egyéni utasítások ikonja</b>: Ikonok hozzárendelése az egyéni utasításokhoz a világosabb szervezés érdekében"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Haiku</b>: Teljesítményt nyújt, amely felülmúlja a Claude 3 Opus-t, kiváló a kódolásban, eszközhasználatban és érvelésben"
+          ]
+        },
+        {
+          "features": [
+            "<b>Betűméret testreszabása</b>: Most már megváltoztathatja az üzenet betűméretét"
+          ]
+        },
+        {
+          "features": [
+            "<b>Letisztult Felhasználói Felület</b>: Tisztább, intuitívabb Opciók felhasználói felület az egyszerű személyre szabásért"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>Egyszerűsített felhasználói felület</b>: Tisztább, intuitívabb felület a gördülékenyebb élményért"
+          ]
+        },
+        {
+          "features": [
+            "<b>Fejlesztett fordítás</b>: Kapcsolódó szavak jelentéseinek szállítása kontextuális pontossággal"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artefaktumok közzététele és megosztása</b>: Artefaktumok egyszerű megosztása nyilvánosan linkeken keresztül"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>Gondolatmenet érvelés</b>: Bonyolult feladatok lebontása lépésről lépésre az okosabb problémamegoldás érdekében"
+          ]
+        },
+        {
+          "features": [
+            "<b>Mélyebb betekintés</b>: Átgondolt válaszokat nyújt a nehéz kérdések megoldásához"
+          ]
+        },
+        {
+          "features": [
+            "<b>Minden modellel működik</b>: Zökkenőmentesen elérhető minden modellben"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>Finomított dizájn</b>: Modern vizuális elemek, tisztább elrendezés a könnyebb használat és fókusz érdekében"
+          ]
+        },
+        {
+          "features": [
+            "<b>Rögzített parancsok</b>: Gyakran használt parancsok rögzítése a gyors hozzáférés érdekében"
+          ]
+        },
+        {
+          "features": [
+            "<b>Bővíthető táblázatok</b>: Nagy adatok megtekintése új ablakban a jobb olvashatóság érdekében"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>: Felturbózott érvelés fejlettebb matematikai és vizuális képességekkel."
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>: 2x gyorsabb, 3x alacsonyabb késleltetés, jobb vizuális és kódolási képességek."
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>: Komplex feladatokat kezel és nehezebb problémákat old meg a tudomány, a kódolás és a matematika területén, mint a korábbi modellek. Üzenetenként 15 fejlett kreditbe kerül."
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>: Egy gyorsabb modell, amely különösen hatékony a kódolásban. Ideális a fókuszált érveléshez széleskörű tudás nélkül. Üzenetenként 3 fejlett kreditbe kerül."
+          ]
+        },
+        {
+          "features": [
+            "<b>Megjegyzés</b>: Vannak sebességkorlátozások."
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>Többmodellű fordítás</b>: Több modell egyidejű használata a pontosabb fordításokért."
+          ]
+        },
+        {
+          "features": [
+            "<b>Sokoldalú fordítási újraírások</b>: Fordítások újraírása különböző helyzetekhez."
+          ]
+        },
+        {
+          "features": [
+            "<b>Kétnyelvű feliratok</b>: Nézze meg a YouTube feliratokat egyszerre mindkét nyelven."
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>Élő előnézet:</b> Tekintse meg és lépjen interakcióba az AI által generált weboldalakkal, dokumentumokkal és diagramokkal valós időben."
+          ]
+        },
+        {
+          "features": [
+            "<b>Zökkenőmentes iteráció:</b> Iteráljon a generált artefaktumokon csevegésen keresztül."
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>Több formátum</b>: Ossza meg a csevegést linkként vagy képként."
+          ]
+        },
+        {
+          "features": [
+            "<b>Rugalmas kiválasztás</b>: Ossza meg az egész beszélgetést vagy csak egy részét."
+          ]
+        },
+        {
+          "features": [
+            "<b>Egyszerű vezérlés</b>: Bármikor visszavonhatja a megosztott linkeket."
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>Videókiemelések</b>: Az AI által generált narráció időt takarít meg azzal, hogy gyorsan kiemeli a videó főbb pontjait."
+          ]
+        },
+        {
+          "features": [
+            "<b>Természetes narráció</b>: A valósághű AI hangok fokozzák a nézési élményt."
+          ]
+        },
+        {
+          "features": [
+            "<b>Többnyelvű támogatás</b>: Könnyen megértheti a videókat a nyelvi akadályok ellenére."
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>Gyorsabb, Kiváló Teljesítmény:</b> Zökkenőmentesebbé és hatékonyabbá teszi a mindennapi feladatokat."
+          ]
+        },
+        {
+          "features": [
+            "<b>Fejlett Matematika és Kódolás:</b> Pontos teljesítményt biztosít a technikai feladatokhoz."
+          ]
+        },
+        {
+          "features": [
+            "<b>Frissítés a GPT-3.5-ről:</b> A GPT-4o mini jobb teljesítménnyel váltja fel a GPT-3.5-öt."
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>Természetes AI Hangok</b>: Élvezd a 9 természetes hangzású AI hangot több nyelven."
+          ]
+        },
+        {
+          "features": [
+            "<b>Hallgasd bárhol</b>: Válassz ki bármilyen szöveget egy weboldalon, hogy hangosan felolvassa."
+          ]
+        },
+        {
+          "features": [
+            "<b>Oldalsáv támogatás</b>: Könnyen hallgathatod az AI által generált tartalmat az oldalsáv widgetekből."
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>Támogatás a Claude 3.5 Sonnet számára:</b> Az Anthropic legújabb modellje, amely kétszer olyan gyors, mint a Claude 3 Opus, és magasabb intelligenciával rendelkezik, jelentősen javítja a következtetést, a tudást, a kódolást és a vizuális feladatokat."
+          ]
+        },
+        {
+          "features": [
+            "<b>A Claude 3 Opus nyugdíjazása:</b> helyette az előrehaladott Claude 3.5 Sonnet kerül bevezetésre."
+          ]
+        },
+        {
+          "features": [
+            "<b>Meghívás és kereset:</b> Hívd meg barátaidat, hogy ingyenes lekérdezéseket szerezz, és próbáld ki a legújabb modellt még ma!"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>Több weboldal:</b> Olvass egyszerre több weboldalt vagy dokumentumot"
+          ]
+        },
+        {
+          "features": [
+            "<b>Kritikai olvasási eszközök:</b> Kulcsfogalmak tisztázása, Feltételezések azonosítása, Kivonatok kiemelése, Információk a szerzőről, és még sok más."
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}:</b> Dinamikusan kiválasztja a legjobb gyors modellt (GPT-3.5, Claude 3 Haiku, Gemini 1.5 Flash vagy Llama 3) az adott feladathoz."
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Megnövelt sebesség:</b> 2x gyorsabb válaszokat kaphat, mint a GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Fejlesztett látás:</b> Jelentősen javult képértelmezés"
+          ]
+        },
+        {
+          "features": [
+            "<b>Bővült nyelvek:</b> Több nyelv, jobb minőség és gyorsabb teljesítmény"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Új Modell:</b> Támogassa már most a Llama 3-at"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Új modell:</b> Támogassa a Gemini 1.5 Pro-t most"
+          ]
+        },
+        {
+          "features": [
+            "<b>Új AI képeszközök:</b> Férjen hozzá az AI funkciókhoz bármely kép fölé húzva"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "In-Chat Összefoglaló: Kapj kulcsfontosságú pontokat a YouTube videókból a csevegőablakban található 'Olvassátok el ezt az oldalt' segítségével."
+          ]
+        },
+        {
+          "features": [
+            "Egyszerű Felirat Kinyerés: Kapj feliratokat egyetlen kattintással a YouTube-on, hogy mélyebb betekintést nyerj."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Most elérhető, hogy gazdagítsa a csevegési élményed."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Állítólag \"közel emberi\" képességekkel rendelkezik, és legyőzi a GPT-4-et."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Egyensúlyt teremt az intelligencia és a sebesség között, ideális információk lekérdezéséhez vagy értékesítés automatizálásához."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Keresőügynök widget:</b> Tapasztald meg a keresés jövőjét az AI automatizációval"
+          ]
+        },
+        {
+          "features": [
+            "<b>Weboldal lefordítása:</b> Olvasóbarátabb fordítási megjelenítési stílusok"
+          ]
+        },
+        {
+          "features": [
+            "<b>Új beállítás:</b> Automatikus visszatérés az utolsó chathez, amikor megnyitod az oldalsávot"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Új fejlett adatelemző eszköz:</b> Kódértelmező hatékony adatkezeléshez és bonyolult számításokhoz"
+          ]
+        },
+        {
+          "features": [
+            "<b>Új Festőeszköz:</b> Képek létrehozása azonnal a csevegésben"
+          ]
+        },
+        {
+          "features": [
+            "<b>Fejlett kontextusmenü:</b> Használja a GPT-4-et a kontextusmenüben."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Merülj el egy lenyűgöző, teljes képernyős nézetben"
+          ]
+        },
+        {
+          "features": [
+            "Élvezd az összes oldalsáv funkciót, most teljes képernyőn"
+          ]
+        },
+        {
+          "features": [
+            "Zökkenőmentesen váltogass a módok között a legjobb élményért"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Frissített felület:</b> Tisztább és könnyebben navigálható"
+          ]
+        },
+        {
+          "features": [
+            "<b>Összecsukható navigációs sáv:</b> Koncentrált csevegési élményt biztosít, miközben az alapvető funkciókat könnyen elérhető helyen tartja"
+          ]
+        },
+        {
+          "features": [
+            "<b>Oldalsáv GPT-hozzáférése:</b> A ChatGPT Plus felhasználói számára mostantól elérhető a GPT-k közvetlen elérése az oldalsávon webalkalmazás módban"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "GPT-4V(ision) előnézet! & AI válasz a Gmailhez",
+          "features": [
+            "A {{SIDERVISION}} tápellátását a GPT-4V biztosítja",
+            "A képek jobb megértése",
+            "Gyorsan megragadja az e-mail szándékait",
+            "Válasszon a különböző hangszínek és személyiségek közül",
+            "Könnyedén válasszon válaszjavaslatokat"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "GPT-4 Turbo és Chat weboldal!",
+          "features": [
+            "GPT-4 Turbo és GPT-3.5 Turbo támogatása",
+            "A teljes weboldal fordítása",
+            "Csevegés weboldal az oldalsávon",
+            "Chat PDF az oldalsávon"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Fordító widget",
+          "features": [
+            "Szabja testre fordítását egy erre a célra szolgáló Fordítás widgetben",
+            "Javítsd a ChatGPT válaszait a Google, Bing, Baidu stb. keresőkben"
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} okosabb lett",
+          "features": [
+            "{{4+VISION}}",
+            "1 kattintással válaszolhat ugyanarra a kérdésre különböző robotokkal"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Grammar Widget",
+          "features": [
+            "Ellenőrizze a nyelvtani hibákat",
+            "Javítsa ki a nyelvtani hibákat",
+            "Javítsa az írást a nyelvtanon túl"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} – ChatGPT oldalsáv Visionnal",
+          "features": [
+            "Szöveg kibontása a képből",
+            "Tegyen fel bármilyen kérdést a képpel kapcsolatban",
+            "3 mód a kép elküldésére a(z) {{SIDERVISION}} számára <div><ol><li>Képernyőkép készítése</li><li>Húzzon egy képet a csevegőablakba</li><li>Töltsön fel egy képet </li> li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Szöveg kibontása a képből"
+          ]
+        },
+        {
+          "features": [
+            "Szöveg kibontása a képből"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Új árképzési terv 5x több GPT-4 kredittel",
+          "features": [
+            null,
+            "Ha már prémium felhasználó, a rendszer automatikusan frissíti. Ráadásul van egy új „Korlátlan” csomagunk minden hatékony felhasználó számára!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Még több bot!",
+          "features": [
+            "A ChatGPT és Claude mellett a Sider most támogatja a Bardot is!"
+          ]
+        },
+        {
+          "title": "OCR: Szöveg kibontása bármely képből, és elküldése a ChatGPT-nek",
+          "features": [
+            "Több mint 10 fő nyelv felismerése",
+            "Ismerje fel az angol kézírást",
+            "Ismerje fel a <b>matematikai egyenleteket</b> a szövegben"
+          ]
+        },
+        {
+          "title": "Festő fejlesztése",
+          "features": [
+            "Cserélje ki a teljes hátteret",
+            "A kiválasztott terület eltávolítása"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>További csevegőbotok</b>: Most már támogatja a Claude-instant, a Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Csoportos csevegés</b>: Hasonlítsa össze a válaszokat a chatbotokban!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Megemlítés</b>: Használja a „@” jelet, hogy könnyedén megemlítsen és interakcióba lépjen a beszélgetésben szereplő csevegőbotokkal!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Gyors üzenet</b>: Csak írja be a „/” karaktert, és induljon!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Egyszerű kialakítás</b>: Tegye egyszerűvé és könnyen navigálhatóvá a kialakítást"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Továbbfejlesztett azonnali kezelő a számára",
+          "features": [
+            "Helyi menü olvasása",
+            "Helyi menü írása"
+          ]
+        },
+        {
+          "title": "AI képszerkesztő",
+          "features": [
+            "Távolítsa el a hátteret minden képről",
+            "Távolítsa el a szöveget a képekről"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Olvasási asszisztens: Használjon mesterséges intelligenciát a gyors megértéshez weboldalak olvasása közben",
+        "Írósegéd: Gyorsan generálhat tartalmat az AI segítségével a webes beviteli mezőben"
+      ],
+      "2_7_0": [
+        "Rajzolj képet a szövegből",
+        "Rajzoljon képet egy referenciaképből"
+      ],
+      "2_6_0": [
+        "A Sider támogatja a rögzített oldalsávot – Az összes lap között cseveghet anélkül, hogy a tartalmat átfedné <br /> (Chrome 114 vagy újabb verzióban érhető el)"
+      ],
+      "2_5_0": [
+        "YouTube összefoglaló! Nézz meg 1 óra YouTube-videót 1 percben",
+        "Hasonlítsa össze az emberek és a mesterséges intelligencia által adott válaszokat a Quora, a StackOverflow és a Zhihu oldalakon."
+      ],
+      "2_4_0": [
+        "<b>Intelligens internetes hozzáférés</b>: Lekérdezése alapján az Al dönti el, hogy hozzá kell-e férnie az internethez.",
+        "Stabilitás javítása"
+      ],
+      "2_3_0": [
+        "Böngészés és beépülő modulok támogatása a Plus felhasználók számára!",
+        "ChatGPT internet-hozzáféréssel mindenki számára!"
+      ],
+      "2_2_0": [
+        "Írjon bármilyen üzenetet",
+        "Válasz e-mailre, tweetre, megjegyzésre stb"
+      ],
+      "2_1_0": [
+        "Parancsikon a Gyorskereséshez",
+        "Méretezze át a Gyorskeresés ablakot",
+        "Hibajavítások és egyéb UX fejlesztések"
+      ],
+      "2_0_0": [
+        "A <b>GPT-4 </b> támogatása minden felhasználó számára!",
+        null,
+        "Hibajavítások és egyéb UX fejlesztések"
+      ],
+      "1_1_0": [
+        "Teljes csevegés az <b>új lapon</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> együtt!",
+        "Hibajavítások"
+      ],
+      "1_0_13": [
+        "Kérdések feltevése után folytassa a csevegést",
+        "Váltás a GPT-4 és a GPT-3.5 között a Plus felhasználók számára",
+        "Könnyen elérheti és keresheti a csevegési előzményeket"
+      ],
+      "1_0_12": [
+        "A bővítménybeállítások szinkronizálása számítógépek között",
+        "Hozzáférés az értesítésekhez különböző laptopokról",
+        "Mentse el a chateket későbbi használatra",
+        "A csevegés megosztása linken keresztül"
+      ],
+      "1_0_11": [
+        "Gyorsan hozzáférhet a műveletekhez egy felugró ablakon keresztül az oldalsáv megnyitása nélkül.",
+        "Támogatás hozzáadása további nyelvekhez.",
+        "A fordítási funkció használatakor őrizze meg a felhasználó nyelvi preferenciáját.",
+        "Oldja meg a parancsikon-ütközéseket olyan platformokon, mint a GitHub és mások."
+      ],
+      "1_0_10": [
+        "Több mint 50 nyelv támogatása most!"
+      ],
+      "1_0_8": [
+        "A GPT-4 támogatása a Plus felhasználók számára! Ellenőrizze a beállítások oldalát!"
+      ],
+      "1_0_7": [
+        "Emlékezzen a legutóbb használt felszólításra",
+        "Optimalizálja a chatGPT panel pozícióját a keresési oldalakon",
+        "Adjon hozzá egy lehetőséget, hogy az oldalsávon belüli ikont a bal oldalon helyezze el",
+        "Optimalizálja a csomag méretét",
+        "Sötét mód hozzáadása",
+        "Támogassa az API url proxyját"
+      ],
+      "1_0_6": [
+        "Az összefoglaló funkció javítása a Youtube oldalon"
+      ],
+      "1_0_5": [
+        "Emlékezzen az oldalsáv ikonjának helyére",
+        "A gyorsbillentyűk javítása",
+        "Mentse el a prompt sablonokat közvetlenül az oldalsávról"
+      ],
+      "1_0_4": [
+        "Rendelje újra a prompt elemeket a legördülő listában",
+        "Archiváljon olyan prompt elemeket, amelyeket nem fog használni",
+        "Támogatás több mint 50 nyelven"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter a gyors „Küldés” végrehajtásához",
+        "Lehetőség a panel elrejtésére a keresési eredményoldalon",
+        "Támogassa az ESC-t az oldalsáv elrejtéséhez",
+        "Támogatás összefoglalja a hosszú cikket"
+      ],
+      "1_0_2": [
+        "Stop gomb hozzáadása a válasz generálásának leállításához",
+        "Az összecsukás helyének módosítása gomb"
+      ],
+      "1_0_1": [
+        "Az összefoglaló funkció javítása a Youtube oldalon",
+        "Javítson ki néhány másolási/beillesztési és nyomtatási hibát"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Aktiválja a chat eszközöket, hogy feloldja a nagy teljesítményű funkciókat.",
+    "content2": [
+      "Fedezze fel a világhálót zökkenőmentesen.",
+      "Alakítsa át az ötleteit lenyűgöző vizuálissá.",
+      "Mélyen merüljön el az adatokban szakértői elemzéssel."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Szavazz a termékvadászatra",
+    "sidebar2Banner1": "Szavazz ránk a <b>Termékvadászatban</b> MOST, hogy terjesszük az igét.",
+    "sidebar2ModalTitle": "✨ A Sidebar 2.0 összefoglalója",
+    "sidebar2ModalDesc": "• Csevegés lap\n  • Gyors keresés a gyors lekérdezésekhez\n  • Fiók az üzenetek szinkronizálásához\n  • Mentés és megosztás chat\n  • Több nyelv támogatása\n  • GPT-4 támogatása",
+    "ios1Banner1": "Szavazz a ChitChat - ChatGPT iOS alkalmazásra 🎉",
+    "ios1Banner2": "Indítsuk nagy lendülettel a dolgokat! 😄",
+    "ios1ModalTitle": "✨ Újdonság a ChitChat iOS alkalmazásban",
+    "ios1ModalDesc": "• Válaszokat kaphat a ChatGPT 3.5-ből és 4-ből\n• A robotokból álló támogató csapat egy helyen segít\n  • Alakítsa át PDF-jét chatbottá"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}} Mac-hez",
+    "macContent": "Örömmel jelentjük be, hogy a Sider már elérhető a Mac felhasználók számára! Élvezze a zökkenőmentes és hatékony élményt, amelyet csak Mac-re szabtak, valamint a webes verziónk által kedvelt minden hatékony funkciót.",
+    "macContent2": "A {{APP_NAME}} már elérhető Mac rendszeren!",
+    "macDownload": "Letöltés most!",
+    "phTitle": "Szereti a bővítményünket?",
+    "phContent": "Szánj egy pillanatot, hogy támogass minket egy szavazattal a <i>Product Hunt</i>-on—gyors, egyszerű, és sokat segít nekünk!",
+    "phContent2": "Szavazz ránk a <b>Termékvadászatban</b>",
+    "phVote": "Szavazz most!",
+    "phTitle2": "Elindítottuk a Sider 3.X verzióit a <i>Termékvadászat</i> oldalon.",
+    "phFeatures1": "<b>ChatGPT widgetek</b>: Írjon, szöveget von ki a képekből, ellenőrizze a nyelvtant és fordítson – mindezt egy helyen.",
+    "phFeatures2": "<b>Sider Vision</b>: Csevegés a képekről a GPT-4 Vision segítségével, ami a mesterséges intelligencia beszélgetését a következő szintre emeli.",
+    "phFeatures3": "<b>Csoportos mesterséges intelligencia csevegés</b>: Vegyen részt a ChatGPT-vel, a GPT-4-gyel, Claude-dal és Barddal egy úttörő csoportos csevegésben.",
+    "phFeatures4": "<b>We Are All Ears</b>: Az Ön visszajelzése formálja a Sidert – ossza meg gondolatait, mi figyelünk!",
+    "phVote2": "Szavazz a <i>Termékvadászat</i>-ra",
+    "phVoteTips": "<b>A mai szavazás kulcsfontosságú</b> – Támogass minket most!",
+    "halloweenCountdown": "Kísérteties Ajánlat: <b>{{time}} hátra</b>",
+    "halloweenCountdown2": "{{price}} KEDVEZMÉNY: <b>{{time}} hátra</b>",
+    "halloweenCardTitle": "Halloween Kedvezmény",
+    "halloweenCardDesc": "Kísérteties Megtakarítások Feloldása",
+    "halloweenCardTitle2": "Igényeld a Halloween Finomságot",
+    "halloweenCardDesc2": "Élvezd a {{price}} KEDVEZMÉNYT",
+    "blackFridayCountdown": "Black Friday: <b>{{time}} hátralévő idő</b>",
+    "xmasCountdown": "Év végi kiárusítás: <b>{{time}} hátralévő idő</b>"
+  },
+  "timeUnit": {
+    "day": "Nap",
+    "day_one": "Nap",
+    "day_other": "Napok",
+    "hour": "Óra",
+    "hour_one": "Óra",
+    "hour_other": "Órák",
+    "minute": "Perc",
+    "minute_one": "Perc",
+    "minute_other": "Percek",
+    "second": "Másodperc",
+    "second_one": "Másodperc",
+    "second_other": "Másodpercek"
+  },
+  "searchTool": {
+    "questionMark": "Indítsa el a ChatGPT-t egy kérdőjel hozzáadásával a lekérdezés után",
+    "fiveStart": "Tetszik ez a bővítmény? Adjon nekünk 5 csillagos értékelést itt: {{store}}",
+    "loginAndCloudflareCheck": "Kérjük, jelentkezzen be, és adja át a Cloudflare ellenőrzést itt: {{web}}",
+    "braveTrouble": "Még mindig nem működik? Kövesse a következőt: {{url}}",
+    "cloudflareCheck": "Az OpenAI időnként megköveteli, hogy átmenjen egy biztonsági ellenőrzésen. Ha ez továbbra is megtörténik, módosítsa az AI-szolgáltatót OpenAI API-ra a <i>bővítési beállításokban</i>.",
+    "failedResponse": "Nem sikerült betölteni a választ a ChatGPT-től:",
+    "whenToAskTips": "Minden keresés egy alap kreditbe kerül. Kattints ide, hogy beállítsd, mikor kérdezzen a ChatGPT.",
+    "waitResponse": "Várakozás a ChatGPT válaszára..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> 5 csillagos értékelés",
+    "AIContentWarning": "A mesterséges intelligencia által generált tartalom nem mindig lehet hiteles",
+    "activeUsers": "<num>5 millió+</num> aktív felhasználó",
+    "copyIamge": "Kép másolása",
+    "copyLink": "Link másolása",
+    "downloadImage": "Kép letöltése",
+    "generateImage": "Kép generálása",
+    "generateLink": "Link generálása",
+    "linkCopied": "Link másolva",
+    "linkGenerated": "Link generálva",
+    "qrcodeTip": "Szkennelje be a {{APP_NAME}} letöltéséhez!",
+    "selectAll": "Összes kijelölése",
+    "shareOn": "Megosztás",
+    "slogan": "Az Ön AI asszisztense",
+    "socialMediaImageCopiedTip": "Kép másolva és készen áll a beillesztésre."
+  },
+  "sidepanel": {
+    "title": "A Sider támogatja a rögzített oldalsávot",
+    "tip": "Tipp: Állítsa be megfelelően az oldalsó panel szélességét a jobb élmény érdekében.",
+    "benefit1": "A Sider oldalsávja <b>soha nem tűnik el</b>, ha új oldalra lép.",
+    "benefit2": "Cseveghet az összes lap között anélkül, hogy <b>átfedné a tartalmat</b>.",
+    "benefit3": "Csak a <b>Google Chrome 114-es vagy újabb verziójában</b> érhető el"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Költség 1 alap kredit és 1 olvasói lekérdezés",
+    "smartPlayCost": "1 gyors szöveges lekérdezést és 1 olvasói lekérdezést igényel, a hangos olvasás használat alapú számlázással történik",
+    "smartPlayOnlyCost": "a hangos olvasás használat alapú számlázással történik",
+    "videoSummaryBtn": "Videó összefoglalója",
+    "videoSummaryMakeFullBtn": "Készítsen teljes összefoglalót",
+    "keyMomentsCollapse": "Összecsuk",
+    "keyMomentsClickExpand": "Kattintson a kibontáshoz",
+    "originalSubtitles": "Eredeti feliratok",
+    "transcribing": "Átirat készítése",
+    "expandAll": "Összes kibontása",
+    "loginToAsk": "Jelentkezzen be a Kérdezzen",
+    "videoSummaryText": "Videó összefoglaló",
+    "summary": "Összefoglalás",
+    "smartPlay": "Videó gyorsnézet",
+    "createShortenVideo": "Rövid videó készítése",
+    "smartPlayBtnTips": "Nézzen meg egy rövid videót, amely segít gyorsan áttekinteni a legfontosabbakat és időt megtakarítani.",
+    "shortenVideoTips": "Alakítsd át ezt a videót egy tömör összefoglaló videóvá, amely megragadja a legfontosabb pontokat!",
+    "smartPlaySwtichVoiceTitle": "Kredit levonási értesítés",
+    "smartPlaySwitchVoiceContent": "Egy másik hangra váltás esetén a kreditek újra levonásra kerülnek a teljes videó szövegének hossza alapján. A videó a jelenlegi pozícióból folytatódik. Szeretné folytatni?",
+    "smartPlaySwitchVoiceBtn": "Igen, váltson hangot",
+    "smartPlaySwitchVoiceCancel": "Nem, mégse",
+    "smartPlayReturnToCurrentProgress": "Visszatérés az aktuális előrehaladáshoz",
+    "smartPlayPlaybackEnded": "A kiemelések lejátszása véget ért",
+    "showHighlights": "Kiemelések megjelenítése",
+    "hideHighlights": "Kiemelések elrejtése",
+    "previousHighlight": "Előző kiemelés",
+    "nextHighlight": "Következő kiemelés",
+    "showSubtitles": "Feliratok megjelenítése",
+    "hideSubtitles": "Feliratok elrejtése",
+    "fullScreen": "Teljes képernyő",
+    "playbackSpeed": "Lejátszási sebesség",
+    "subtitle": "Felirat",
+    "subtitles": "Feliratok",
+    "responseLanguage": "Válasz nyelve",
+    "bilingual": "Kétnyelvű",
+    "subtitleFailed": "A feliratok betöltése sikertelen volt",
+    "videoTooLang": "Az összefoglaláshoz a videóknak 10 óránál rövidebbnek kell lenniük.",
+    "displayTranslation": "Fordítás megjelenítése",
+    "noSubtitleTips": "Az összefoglalás jelenleg csak felirattal rendelkező videókhoz érhető el.",
+    "shareToComment": "Megosztás hozzászóláshoz",
+    "generatedBy": "Generálva: {{name}}",
+    "shownotes": "Kiemelések",
+    "freeLimitTips": "Az ingyenes próbaidőszak kimerült, frissítsen most, hogy továbbra is használhassa a videó-összefoglaló funkciót.",
+    "askQuestionBtn": "Válasz",
+    "noQuestionTip": "A(z) {{APP_NAME}} nem tudja megoldani a problémát az oldalon.",
+    "targetLanguage": "Cél nyelv",
+    "whisperCostText": "Ez a videó nem rendelkezik külső feliratokkal, és átírásra van szükség az összefoglaláshoz. (1 Advanced Credit/10 perc vagy kevesebb)"
+  },
+  "quickActions": {
+    "requireSignin": "Bejelentkezés Szükséges",
+    "siginHint": "Kérjük, jelentkezzen be a funkció eléréséhez.",
+    "askAI": "Kérdezze meg a következőt: {{name}}",
+    "defaultPlaceholder": "Kérdezz bármit a(z) {{APP_NAME}} alkalmazásban",
+    "defaultPlaceholder2": "Kérdezze meg a(z) {{APP_NAME}} alkalmazást a fenti tartalommal",
+    "managePrompts": "Parancsok kezelése",
+    "pressToClose": "Nyomja meg a(z) {{name}} gombot a bezáráshoz",
+    "disableOnce": "Rejtse el a következő látogatásig",
+    "disableSite": "Letiltás ezen az oldalon",
+    "disableGlobal": "Letiltás minden oldalon",
+    "continueImproving": "Folytassa a javítást",
+    "dictExample": "Példa:"
+  },
+  "wisebase": {
+    "inbox": "AI Beérkező levelek",
+    "myWisebase": "Saját {{name}}",
+    "highlight": "Kiemelés",
+    "unhighlight": "Kiemelés megszüntetése",
+    "HighlightInvalid": "Hiányzó kiemelések",
+    "HighlightInvalidDesc": "Az oldal változásai miatt a kiemeléseid már nem láthatók. Továbbra is elérheted őket a <a>{{name}}</a> oldalon.",
+    "viewInSite": "Megtekintés a webhelyen",
+    "addCollection": "Adj hozzá egy {{name}}",
+    "savePage": "Oldal mentése",
+    "editSavedPage": "Mentett oldal szerkesztése",
+    "failedToSave": "Mentés sikertelen",
+    "failedToDelete": "Törlés sikertelen",
+    "pageRemoved": "Oldal törölve",
+    "removePage": "Oldal törlése?",
+    "removePageDesc": "Ez törli az oldalt a kiemelésekkel együtt.",
+    "saving": "Mentés",
+    "pageSaved": "Az oldal mentve",
+    "vistMyWisebase": "Nyisd meg a(z) {{name}}-t",
+    "errNameExists": "A név már létezik"
+  },
+  "msg": {
+    "searchNotFound": "Nincs találat",
+    "iosDownload": "iOS / Android alkalmazás letöltése",
+    "notSupportFile": "Nem támogatott fájlformátum",
+    "supportedFileFormat": "A támogatott fájlformátumok: {{formats}}",
+    "maxFileSize": "A fájl maximális mérete {{size}}",
+    "maxSize": "Max méret: {{num}}",
+    "fetchFailed": "A kép nem tölthető le. Letöltheti és manuálisan feltöltheti.",
+    "enterAPIKey": "Kérjük, adja meg OpenAI API-kulcsát",
+    "selectModel": "Kérjük, válasszon érvényes modellt",
+    "changeSaved": "változtatások elmentve",
+    "fiveStart": "Adjon nekünk egy 5 csillagot",
+    "inviteTitle": "Meghívás és jutalmak",
+    "inviteEarn": "Szerezz <mx>{{num}} kreditet</mx> magadnak és barátaidnak. <b>Minél többet hívsz meg, annál többet keresel</b>.",
+    "inviteStep1": "Ajánld barátaidat a Meghívó linkkel",
+    "inviteStep2": "Barátaid jelentkeznek",
+    "inviteStep3": "Telepítik a bővítményt és a bejelentkezést. Megszerzett jutalmak!",
+    "checkInvitation": "Ellenőrizze a meghívó nyilvántartást",
+    "invitedRewardObtained": "Megszerzett jutalmak!",
+    "invitedWelcome": "Üdvözlünk! A GPT kreditek hozzáadva a fiókodhoz!",
+    "inviteFriendJoin_one": "{{count}} barát csatlakozott",
+    "inviteFriendJoin_other": "{{count}} barát csatlakozott",
+    "getMoreGPT4": "Szerezz több fejlett kreditet",
+    "ttsChooseVoice": "Válassz egy hangot",
+    "ttsChooseVoiceLater": "Ezt később megváltoztathatod.",
+    "ttsCharacterLimit": "Elérted a karakterkorlátot",
+    "ttsCharacterLimitDesc": "Az AI Olvasás hangosan funkciónak {{count}} karakteres korlátja van. Kérlek, válassz rövidebb szöveget vagy használd az ingyenes hangot.",
+    "ttsCharacterLimitDesc2": "Ez az üzenet túl hosszú az AI hangok számára. Használhatod az ingyenes hangot helyette.",
+    "ttsCreditLimit": "Nincs elég alap kredit",
+    "ttsCreditLimitDesc": "Nincs elég alap kredited ehhez a hanghoz. Kérlek, frissítsd a csomagodat vagy használd az ingyenes hangot.",
+    "ttsChangeVoiceTip": "Kreditek levonásának értesítése",
+    "ttsChangeVoiceTipDesc": "Egy másik hangra váltás ismét krediteket von le. Biztosan folytatni szeretnéd?",
+    "dontRemindAgain": "Ne kérdezze meg újra",
+    "failToPlay": "Lejátszás sikertelen",
+    "onlyOneRequest": "Aktív kérés folyamatban",
+    "onlyOneRequestDesc": "Fiókodnak van egy aktív kérése - egyszerre csak egy kérés lehetséges. Kérjük, próbáld meg később.",
+    "basicCreditLimit": "Elfogytak az Alap Kreditek",
+    "basicCreditLimitDesc": "Minden Alap Kreditedet felhasználtad. Frissítsd a csomagodat, vagy hívj meg barátokat, hogy több kreditet kapj.",
+    "errSiderLoginExpired": "A bejelentkezésed lejárt, kérjük, jelentkezz be újra",
+    "errSiderAdminKickout": "Ki lettél rúgva, kérjük, jelentkezz be újra",
+    "errSiderUserBanned": "Fiókját felfüggesztettük a szokatlan tevékenység észlelése miatt (pl. szabálysértések vagy fiókmegosztás). Ha bármilyen kérdése van, kérjük, írjon nekünk e-mailt a care@sider.ai címre a fiókadataival.",
+    "errSiderDeviceLimitLogout": "Ki lettél jelentkeztetve a készülék limit elérése miatt. Újra bejelentkezhetsz, és ez kijelentkezteti a fiókod legkorábbi aktív készülékét.",
+    "errSiderApiTrialFeatLimit": "Elérted a prémium funkció próbalimitjét. Frissíts a teljes funkciók feloldásához.",
+    "errSiderApiLimitDevice": "Kérjük, jelentkezzen be a használathoz.",
+    "errSiderApiLimitLogin": "Mára felhasználtad az összes ingyenes kreditet. Frissíts vagy hívj meg barátokat több kreditért, vagy várj a holnapi kredit újraindításig.",
+    "errSiderApiLimitPremium": "Az e havi Alap Kreditjeit felhasználta. Váltson Haladó Kreditre, várjon a következő hónap (előfizetési dátum) visszaállítására, vagy frissítsen többért.",
+    "errSiderApiLimitPremiumDiscount": "Felhasználtad az összes kreditedet. Frissíts most korlátlan kreditekért <b>$1</b> kedvezménnyel.",
+    "errSiderTranslateApiLimitPremium": "Az e havi Alap Kreditjeit felhasználta. Kérjük, várjon a következő hónap (előfizetési dátum) visszaállítására, vagy frissítsen többért.",
+    "errSiderApiImageLimit": "Felhasználta az összes alap kreditet, kérjük, frissítsen a funkció további használatához.",
+    "errSiderApiSummaryVideoLimit": "Felhasználtad az összes kreditedet. Kérjük, frissíts vagy hívj meg barátokat több kreditért.",
+    "errSiderApiOcrLimit": "Felhasználtad az összes alap kreditedet. Kérjük, frissíts a funkció elérésének folytatásához.",
+    "errSiderApiImgLimitPremiumUltra": "Elérted az alap kreditek maximális számát. Kérjük, várj a következő újraindításig a folytatáshoz.",
+    "errSiderPremiumRequired": "Ez a funkció kizárólag prémium felhasználók számára érhető el. Frissítsen most a funkció feloldásához.",
+    "errSiderHighTrafficError": "A nagy forgalom miatt próbálkozzon újra később, vagy frissítsen prémium fiókra a gyorsabb hozzáférés érdekében.",
+    "errSiderHighTrafficTip": "Kérjük, fontolja meg <a>prémium fiókra frissítését</a> a stabil hozzáférés és a fejlesztés támogatása érdekében.",
+    "errSiderDeviceBinded": "Kérjük, jelentkezzen be a használathoz.",
+    "errSiderApiHighLoad": "Az OpenAI szerver jelenleg foglalt. Kérlek, próbáld újra később.",
+    "errSiderGPT4HighLoad": "Az OpenAI szerver jelenleg foglalt. Kérlek, próbáld újra később.",
+    "errSiderOpenaiFault": "Az Openai szerver foglalt. Kérjük, váltson a(z) {{model}} típusra az OpenAI leállása alatt.",
+    "errServiceUnavailable": "Az Openai szerver foglalt, próbálkozzon újra később, vagy váltson a Sider API-ra, és használja a(z) {{model}} alkalmazást az OpenAI leállása alatt.",
+    "errSiderGPT4LimitDevice": "Kérjük, <b>jelentkezz be</b> először, és <amb>hívd meg barátaidat</amb> vagy <ta>frissíts prémiumra</ta> több fejlett kreditért.",
+    "errSiderGPT4LimitLogin": "Frissíts vagy hívj meg barátokat több fejlett kredit feloldásához a részletesebb válaszokért.",
+    "errSiderGPT4LimitPremium": "Felhasználtad az összes havi Advanced Credits keretedet. Frissítsd a csomagodat egy magasabb havi kvótáért, vagy vásárolj egy Advanced Credits booster csomagot az azonnali használathoz!",
+    "errSiderGPT4LimitPremiumDiscount": "A havi fejlett kredited elfogyott. Frissíts most korlátlan kreditekért <b>$1</b> kedvezménnyel, vagy várj a következő hónap újraindításáig (előfizetési dátum).",
+    "errSiderDataAnalysisCredit": "Ehhez a válaszhoz Adat Elemzés szükséges (1 Haladó Kredit). Elfogytak a Haladó Kreditjei, így frissítsen vagy hívjon meg barátokat további kreditekért!",
+    "errSiderNeedLogin": "Kérjük, jelentkezzen be a használathoz.",
+    "errGeminiPro": "{{GEMINI}} hiba, kérjük, próbálja újra később.",
+    "errSiderO1Limit1": "Az OpenAI o1 modell iránt nagy a kereslet, és elérte a kvótahatárát. Ne aggódjon, ingyenesen is feltehet kérdéseket az OpenAI o1-ről a közösség által működtetett Kérdések és Válaszok weboldalunkon: <a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "Több fejlett kreditre van szüksége. Minden 10 perc (vagy kevesebb) hanganyag 1 fejlett kreditbe kerül. Frissítsen vagy hívjon meg barátokat, hogy többet kapjon!",
+    "goToSignIn": "Menjen a bejelentkezéshez",
+    "errSiderTimeout": "A kérés meghaladta a rendelkezésre álló időkeretet. Kérlek próbáld újra.",
+    "errSiderProcessing": "Egyszerre csak egy üzenet. Kérjük, hagyja, hogy a többi válasz befejeződjön, mielőtt újabb üzenetet küldene, vagy várjon egy kicsit.",
+    "errTrySiderAPI": "Váltson a <i>ChatGPT Sidebar API-ra</i>, hogy stabil hozzáférést kapjon (mindenki számára)",
+    "errTrySiderAPI2": "VAGY használja a saját API-kulcsát a <a>beállítási oldalon</a> (fejlesztőknek)",
+    "errChatGPTAuth": "Kérjük, <m>kattintson a linkre, hogy bejelentkezzen </m> a ChatGPT weboldalára, és mi segítünk a rögzítésében. Ezután használhatja az oldalsávon.",
+    "errChatGPTAuthTipTitle": "Ha nem működik:",
+    "errChatGPTFailToFetch": "Nem sikerült választ kapni a ChatGPT-től.",
+    "errOpenaiFailToFetch": "Nem sikerült választ kapni az OpenAI-tól az API-kulcson keresztül.",
+    "errSiderCreditUsageLimit": "Használati limit elérve",
+    "errSiderCreditFreqLimit": "Elérted a jelenlegi használati limitet. Ez a limit biztosítja a tisztességes használatot minden felhasználó számára. Kérjük, próbáld meg újra {{count}} perc múlva.",
+    "errSiderBasicTextLimit": "Elérte az alap hitelkeret limitjét. Jelenleg {{count}} üzenet küldhető 60 percenként. Alternatív megoldásként használhatja a fejlett hitelkeretet, és térjen vissza később.",
+    "errSiderAdvancedTextLimit": "Elérte a fejlett hitelkeret limitjét. Jelenleg {{count}} üzenet küldhető 60 percenként. Alternatív megoldásként használhatja az alap hitelkeretet, és térjen vissza később.",
+    "errSiderUnlimitedLimit": "Elérted az ideiglenes korlátot ({{timesToUse}} alkalom / {{periodTime}} óra) az Advanced Credits esetében. Próbálunk több kreditet szerezni neked. Az új kreditek elérhetők lesznek ekkor: {{resetTime}}. Több kell most? Próbálj ki egy booster csomagot!",
+    "errorOutputLimit": "Elérte a hosszúsági korlátot. Frissítsen, hogy hosszabb választ kapjon.",
+    "errorFileType": "Nem támogatott fájlformátum",
+    "error1139_1": "Köszönjük, hogy korlátlan csomagokat használ! Továbbra is használhatja a fejlett AI modelleket. Azonban elérte az ideiglenes sebességkorlátot. <a>Itt van, miért van sebességkorlát, és hogyan próbálunk segíteni Önnek</a>. Kérjük, <mx>OLVASSA EL</mx>.",
+    "error1139_1_2": "Köszönjük, hogy korlátlan csomagokat használ! Továbbra is használhatja a fejlett AI modelleket. Azonban elérte az ideiglenes sebességkorlátot, és felhasználta az összes extra fejlett lekérdezést. Itt van <a>miért van sebességkorlát, és hogyan próbálunk segíteni Önnek</a>. Kérjük, <mx>OLVASSA EL</mx>.",
+    "error1139_1_3": "Köszönjük, hogy korlátlan csomagokat használ! Továbbra is használhatja a fejlett AI modelleket. Azonban elérte az ideiglenes sebességkorlátot, és felhasználta az összes ajándék fejlett lekérdezést. Itt van <a>miért van sebességkorlát, és hogyan próbálunk segíteni Önnek</a>. Kérjük, <mx>OLVASSA EL</mx>.",
+    "error1139_2": "Annak érdekében, hogy ne szakítsuk meg a jelenlegi munkáját, ajándékként adtunk néhány extra fejlett lekérdezést, hogy feloldja a jelenlegi sebességkorlátot. <b>Miután felhasználta az összes extra fejlett lekérdezést, sebességkorlátja lesz</b>.",
+    "error1139_3": "A jelenlegi sebességkorlát ({{timesToUse}} alkalom / {{periodTime}} óra) a fejlett lekérdezéseknél. Kapacitásaink szerint módosíthatjuk. Többre van szüksége most? Próbáljon ki egy booster csomagot!",
+    "error1139_4": "Ajándékként 50 extra fejlett lekérdezést adtunk, hogy feloldja a jelenlegi sebességkorlátot. <b>Miután felhasználta az összes extra fejlett kreditet, sebességkorlátja lesz.</b>",
+    "loginAndCloudflareCheck": "Váltson az <a>Sidebar API-ra</a>, hogy stabil hozzáférést kapjon, VAGY jelentkezzen be, és teljesítse a Cloudflare ellenőrzést a <i>chat.openai.com</i> oldalon.",
+    "invalidApiKey": "Az API-kulcs érvénytelen, kérjen másikat.",
+    "getApiKeyGuide": "A működéshez OpenAI API-kulcsra van szükség. Kövesse útmutatónkat az API-kulcs beszerzéséhez.",
+    "thankForFeedback": "Köszönöm. Az űrlap sikeresen elküldve. Hamarosan felvesszük Önnel a kapcsolatot.",
+    "writeSomething": "Kérlek írj valamit.",
+    "enterEmail": "Adjon meg egy e-mail címet, hogy értesítést kapjon a problémáról.",
+    "emailRequired": "E-mail megadása kötelező.",
+    "promptNameRequired": "A név megadása kötelező.",
+    "titleRequired": "A cím kötelező.",
+    "nameYourPrompt": "Nevezze el a felszólítást",
+    "nameYourTitle": "Nevezze el a beszélgetést",
+    "promptTplRequired": "Gyors tartalom kötelező.",
+    "deletePromptWarn": "Törli ezt a felszólítást?",
+    "restorePromptWarn": "Vissza szeretné állítani ezt a prompt sablont?",
+    "notValidEmail": "nem érvényes email",
+    "signinTips": "Jelentkezzen be az értesítések és beállítások szinkronizálásához",
+    "signinAward": "Jelentkezz be, hogy napi {{num}} <span>INGYENES</span> kreditet kapj",
+    "signinAward2": "Az összes kredit felhasználva a be nem jelentkezett felhasználók számára. Jelentkezz be, hogy napi <b>{{num}} ingyenes kreditet</b> kapj.",
+    "signinAward3": "Jelentkezz be, hogy több kreditet kapj naponta",
+    "signinAward4": "Indulj el egy varázslatos AI utazásra a böngésződdel és kapj napi {{num}} <span>INGYENES</span> kreditet",
+    "chatgptTabGuardTips": "Kérjük, tartsa nyitva ezt a lapot, most már visszatérhet a(z) {{APP_NAME}} alkalmazáshoz",
+    "chatgptTabGuardRefreshingTips": "Hiba történt a ChatGPT-vel. Újracsatlakozás, kérjük, várjon...",
+    "chatgptTabGuardRefreshingTips1": "Hiba történt a ChatGPT-vel.",
+    "chatgptTabGuardRefreshingTips2": "Újracsatlakozás, kérjük, várjon...",
+    "chatgptTabGuardSetupSuccessTips": "Javítva, próbáld újra",
+    "switchToSiderApiToContinue": "Ez a funkció jelenleg csak a {{APP_NAME}} API módot támogatja. A folytatáshoz <a>váltson a {{APP_NAME}} API-ra</a>.",
+    "switchRequired": "Váltson a(z) {{APP_NAME}} alkalmazásra?",
+    "switchToSiderDesc": "A funkció használatához kérjük, váltson az AI hozzáférési módjára a(z) {{APP_NAME}} alkalmazásra.",
+    "signInRequired": "Bejelentkezés Szükséges",
+    "useUpUpgrade": "A krediteid elfogytak, kérjük, frissíts több kreditért.",
+    "featureLimit": "Funkciókorlát",
+    "featureLimitTip": "Kérjük, frissítsen a Claude and Bard használatára.",
+    "featureUnavailableOnPage": "Nem futtatható ezen az oldalon",
+    "featureBrowserLimit": "Ez az oldal nem támogatja a böngészőbővítményeket. A korlátozott oldalak általában új lapokat, a webáruházat, más bővítményeket és a beállításokat (chrome:// URL-ek) tartalmazzák. Kérjük, próbáljon meg egy normál oldalt használni.",
+    "localFileAccessRequiredTitle": "Fájlhozzáférés szükséges",
+    "localFileAccessRequiredDesc": "A bővítmény helyi fájlokkal való használatához kérjük, lépjen a bővítmény beállításaihoz, és kapcsolja be a \"<b>Fájl URL-ekhez való hozzáférés engedélyezése</b>\" lehetőséget.",
+    "localFileAccessRequiredBtn": "Lépjen a bővítmény beállításaihoz",
+    "quotaModelContent": "Elérted a GPT-4/Claude-2 lekérdezési limitet. Frissíts a Prémium Tervre több hozzáférésért, vagy hívj meg barátokat ingyenes extra kreditekért.",
+    "signinFeature": "Kérjük, jelentkezzen be a funkció eléréséhez",
+    "dragImgTips": "Kattints az feltöltéshez vagy húzz ide egy képet",
+    "dragTips": "Kattintson a feltöltéshez vagy húzza ide a fájlokat",
+    "fileSizeTip": "Maximális méret: 100MB mindegyik. Legfeljebb 5 fájl.",
+    "reEnableInSettings": "Újra engedélyezheti a <a>Beállításokban</a>",
+    "switchBarTip": "Szélesítse az oldalsó panelt a navigációs sáv rögzítéséhez.",
+    "upgradeSupport": "Frissítsen prémium csomagra, hogy támogasson minket",
+    "upgradeSupport2": "Frissítés több funkcióhoz",
+    "imageSizeLimit": "Képkorlát",
+    "fileSizeLimit": "A fájl túl nagy",
+    "imageSizeLimitTip": "Győződjön meg arról, hogy a kép kisebb 10 MB-nál, és szélessége vagy magassága nem haladja meg a 4096 képpontot, majd próbálja újra.",
+    "fileSizeLimitTip": "A fájl meghaladja a 100MB-os feltöltési limitet. Kérjük, csökkentse a fájl méretét és próbálja újra.",
+    "errOpenAIFilter": "A válasz szűrve lett az OpenAI tartalomkezelési irányelveinek aktiválása miatt. Kérlek, módosítsd a promptot és próbáld újra.",
+    "unreadableMsg": "Ezen az oldalon nem található a fő tartalom. Kérjük, próbálkozzon másik oldallal.",
+    "unreadableTitle": "Hiányzik a fő tartalom",
+    "noSubtitleMsg": "A videónak nincsenek feliratai és nem lehet összefoglalni.",
+    "noSubtitleTitle": "Felirat szükséges az összefoglaláshoz",
+    "fileLimit": "A fájl feldolgozásához engedélyezd a Fejlett Adat Elemző Eszközt. Minden használat 1 fejlett kreditbe kerül. Szeretnéd engedélyezni és folytatni?",
+    "fileLimitFree": "A feltöltött fájlhoz fejlett adat elemzés szükséges a feldolgozáshoz. Frissíts most, hogy felold ezt a funkciót.",
+    "openLastConversationTitle": "Utolsó beszélgetés megnyitása?",
+    "openLastConversationContent": "Most beállíthatjuk, hogy a sidebar minden indításkor visszaállítsa-e az utolsó beszélgetést.",
+    "openLastConversationCancel": "Rendben",
+    "openLastConversationOk": "Beállításokhoz",
+    "keepConversationTip": "Minden alkalommal, amikor megnyitja a Sider-t, egy új csevegés indul. Az utolsó csevegés folytatásához állítsa be a <a>beállításokat</a>.",
+    "uploadFailed": "\"{{FILENAME}}\" feltöltése sikertelen.",
+    "askOriginalModel": "Eredeti {{MODELNAME}}",
+    "videoTooLang": "A videó túl hosszú (max 10 óra). Kérjük, válasszon rövidebb videót.",
+    "somethingWrong": "Valami hiba történt. Kérjük, próbálja meg később újra.",
+    "cantBeTranscribed": "A videó összefoglalása szerzői jogi korlátozások miatt nem lehetséges. Kérjük, próbáljon meg egy másikat.",
+    "notSupportLiveVideo": "Az élő videó összefoglalása jelenleg nem támogatott."
+  },
+  "options": {
+    "title": "Beállítások",
+    "shortcut": {
+      "tips": "Írjon be egy gyorsbillentyűt"
+    },
+    "theme": {
+      "auto": "automatikus",
+      "light": "fényes mód",
+      "dark": "sötét mód"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Mindig",
+        "desc": "Mindig"
+      },
+      "questionMark": {
+        "title": "Kérdőjel",
+        "desc": "Amikor a kérdés kérdőjellel végződik"
+      },
+      "manually": {
+        "title": "Manuálisan",
+        "desc": "Amikor a válasz gombra kattintanak"
+      }
+    },
+    "sidebarLocation": {
+      "left": "bal oldal",
+      "right": "jobb oldal"
+    },
+    "sidebarMode": {
+      "sidepanel": "Rögzített oldalsáv",
+      "inpage": "Oldalon belüli oldalsáv"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "Lapok váltásakor a Sider mindig a böngésző jobb oldalán marad.",
+      "inpage": "Fülek váltásakor a Sider nem marad a kijelzőn; újra meg kell nyitnia az oldalsávot az új oldalon."
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "Magyarázd el",
+        "template": "Magyarázza meg a következő tartalmat:"
+      },
+      "explain-codes": {
+        "title": "Magyarázd el a kódokat",
+        "template": "Magyarázza meg a következő kódokat:"
+      },
+      "translate": {
+        "title": "fordít",
+        "template": "Fordítsa le a következő tartalmat {{lang}} nyelvre:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Ingyenes csomag",
+    "basic": "Alapterv",
+    "pro": "Pro terv",
+    "ultra": "Korlátlan csomag",
+    "starter": "Kezdő csomag"
+  },
+  "shortPlanNames": {
+    "free": "Ingyenes",
+    "basic": "Alap",
+    "pro": "Pro",
+    "ultra": "Korlátlan",
+    "starter": "Kezdő",
+    "pocket": "Pocket"
+  },
+  "queryNames": {
+    "fast": "Alap",
+    "advanced": "Fejlett",
+    "image": "Kép",
+    "reader": "Olvasó"
+  },
+  "upgradeModal": {
+    "off": "Kedvezmény!",
+    "desc": "Több kredit és több funkció",
+    "upgradeToUseXXX": "Frissítse a <b>bot</b> használatához",
+    "getAllTTSVoices": "Minden hang feloldása",
+    "allVoices": "Minden hang",
+    "getAllTTSVoicesDesc": "Ez a hang kizárólag prémium felhasználók számára elérhető. Frissíts most, hogy hozzáférj minden hanghoz.",
+    "getAllTTSVoicesDesc2": "Elérted a prémium hangok próbalimitjét. Frissíts most a korlátlan hozzáféréshez 9 természetes hangzású AI hanghoz vagy használd az ingyenes hangot.",
+    "tryAllVoices": "Nyugodtan próbálja ki az összes hangot",
+    "getWebAccess": "Frissítsen, hogy webes választ kapjon",
+    "videoSummay": "Frissíts a videó összefoglaló használatához",
+    "gpt4Desc": "A GPT-4o jelentősen okosabb és segíthet logikusabb és pontosabb válaszok megszerzésében.",
+    "claude3SonnetDesc": "A Claude 3 Sonnet egy kifinomult nyelvi modell a pontos, árnyalt kommunikációhoz.",
+    "claude35SonnetDesc": "A Claude 3.5 Sonnet az Anthropic legújabb modellje, amely kétszer olyan gyors, mint a Claude 3 Opus, és magasabb intelligenciával rendelkezik, jelentősen javítva az érvelési, tudás, kódolási és vizuális feladatokat.",
+    "claude3OpusDesc": "A Claude 3 Opus egy fejlett AI, amely bonyolult feladatok megoldására képes rendkívüli hatékonysággal.",
+    "webAccessDesc": "A Sider válaszokat keres a kérdéseire a Google-tól, és mesterséges intelligenciát alkalmaz a tömör rendszerezés és összefoglalás érdekében.",
+    "videoSummaryDesc": "Elérte az ingyenes használati korlátot. Ha továbbra is hozzá szeretne férni ehhez a funkcióhoz, fontolja meg a prémium tagságra való frissítést."
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Fedezze fel a határokon túl!",
+      "pro": "Elérte a kvótakorlátot",
+      "ultra": "Elérte a kvótakorlátot"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Elérte ingyenes kvótakorlátját. Frissítsen magasabb kvótáért, és oldja fel a speciális funkciókat.",
+      "pro": "Elérte az e havi kvótakorlátot. Frissítsen további kvótáért.",
+      "ultra": "Elérte az e havi kvótakorlátot. Kérjük, vegye fel velünk a kapcsolatot a <a>care@sider.ai</a> címen, és tegyen javaslatokat."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Értékeljen minket öt csillaggal",
+    "enjoy": "😘 Tetszik ez a bővítmény?",
+    "enjoyNo": "Nincs visszajelzés",
+    "enjoyYes": "Igen, 5 csillagos értékelés!",
+    "feedbackTip": "🥹 Kérjük, mondja el nekünk elégedetlenségének okát.",
+    "feedbackThx": "Köszönjük a visszajelzést."
+  },
+  "sidepanelPinGuide": {
+    "title": "Kattintson a \"{{icon}}\" gombra",
+    "desc": "Adja hozzá a {{APP_NAME}}-t az eszköztárához a gyors elérés érdekében"
+  },
+  "emailEnhance": {
+    "emailAssistant": "E-mail asszisztens",
+    "emailAssistantDesc": "Ha be van kapcsolva, a Sider segíthet gyorsan válaszolni az e-mailekre.",
+    "hideTranslation": "Fordítás elrejtése",
+    "inputPlaceholder": "Mondd el Sidernek, hogyan szeretnél válaszolni...",
+    "intent": "Feladó szándéka",
+    "orgLang": "E-mail Nyelv",
+    "quickAIReply": "AI válasz",
+    "replyInputPlaceholder": "Mit szeretnél válaszolni?",
+    "resultsTitle": "Válasz tervezet",
+    "showTranslation": "Fordítás megjelenítése",
+    "translateEmail": "Email fordítása",
+    "tryAgain": "Próbáld újra",
+    "voice": {
+      "applicant": "Pályázó",
+      "casual": "Alkalmi",
+      "colleague": "Kolléga",
+      "confident": "magabiztos",
+      "customer-service-staff": "Ügyfélszolgálati munkatársak",
+      "direct": "közvetlen",
+      "emailLength": "E-mail hossza",
+      "empathetic": "empatikus",
+      "enthusiastic": "Szenvedélyes",
+      "formal": "Hivatalos",
+      "formality": "Alakiság",
+      "friendly": "barátságos",
+      "human-resources": "Emberi Erőforrások",
+      "informational": "tájékoztató",
+      "leader": "Vezető",
+      "long": "Hosszú",
+      "medium": "Közepes",
+      "neutral": "Semleges",
+      "personable": "kedves",
+      "project-manager": "Projekt menedzser",
+      "sales-representative": "Üzletkötő",
+      "short": "Rövid",
+      "subordinate": "Alárendelt",
+      "tone": "Hang",
+      "witty": "okos",
+      "yourRole": "A te szereped"
+    },
+    "voiceSettings": "Hangszín beállítás",
+    "wayToReply": "Válaszötletek"
+  },
+  "searchEnhance": {
+    "getStarted": "Indíts most",
+    "adContent": "Okosabb, mint a GPT-4? Itt van a Claude 3! Hívd meg a barátaidat és próbáld ki ingyen!",
+    "noLoginAdContent": "Oldd fel az AI erejét: Keresés, Olvasás, Írás, Fordítás Gyorsabban & Okosabban!",
+    "noLoginBtn": "Csatlakozz a több mint 4 millió elégedett felhasználóhoz!"
+  },
+  "imageToolbar": {
+    "AITools": "MI Eszközök",
+    "chatWithImage": "Csevegés képpel",
+    "extractText": "Szöveg kivonása",
+    "imageTools": "Képeszközök",
+    "inpaint": "Kicserélt ecsetelt terület",
+    "removeBackground": "Háttér eltávolítása",
+    "removeText": "Szöveg eltávolítása",
+    "replaceBackground": "Háttér cseréje",
+    "upscale": "Nagyítás",
+    "variation": "Variációk létrehozása"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "Jobb válaszok lekérése",
+      "Sokszínűbb tudás",
+      "Erősebb megértés"
+    ],
+    "claude3Advantages": [
+      "Ugyanolyan erős, mint a GPT-4",
+      "Természetesebb válaszok",
+      "Erőteljes érvelési képességek"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "Webes hozzáférés feloldása",
+      "text_to_image": "Kép generálás feloldása",
+      "data_analysis": "Adatelemzés feloldása",
+      "artifacts": "Oldd fel a(z) {{ARTIFACTS}}",
+      "thinking_mode": "Gondolkodó mód feloldása"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "Fejlett Problémamegoldás",
+          "desc": "Mesterkedjen összetett kihívásokban több lépéses érveléssel!"
+        },
+        {
+          "title": "Átfogó Elemzés",
+          "desc": "Azonnal szerezzen mélyreható betekintést kritikus döntésekhez."
+        },
+        {
+          "title": "Intelligens Iteráció",
+          "desc": "Finomítsa a megoldásokat könnyedén irányított gondolkodás révén."
+        }
+      ],
+      "search": [
+        {
+          "title": "Maradj Naprakész",
+          "desc": "Hozzáférés a weben elérhető naprakész információkhoz."
+        },
+        {
+          "title": "Pontosság javítása",
+          "desc": "Pontosabb és relevánsabb válaszokat kapjon."
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "Kreativitás szikrázása",
+          "desc": "Azonnal változtasson leírásokat magas minőségűre."
+        },
+        {
+          "title": "Tartalom Fejlesztése",
+          "desc": "Fejlessze projektjeit egyedi vizuális elemekkel."
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "Betekintések Nyújtása",
+          "desc": "Könnyedén elemezzen és vizualizáljon adatokat a világos."
+        },
+        {
+          "title": "Okosabb Kódolás",
+          "desc": "Finomítsa, értelmezze és futtassa a kódot hatékony problémamegoldáshoz."
+        },
+        {
+          "title": "Kitűnés Matematikából",
+          "desc": "Oldjon meg bonyolult matematikai problémákat könnyedén és pontossággal."
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "Fokozott termelékenység",
+          "desc": "Alakítsa át ötleteit kézzelfogható eredményekké, azonnal!"
+        },
+        {
+          "title": "Valós idejű előnézet",
+          "desc": "Azonnal megjeleníthető AI által generált weboldalak, dokumentumok és diagramok."
+        },
+        {
+          "title": "Zökkenőmentes iteráció",
+          "desc": "Finomítsa az artefaktokat erőfeszítés nélkül, természetes beszélgetés útján."
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "Csevegés a kiválasztott szöveggel",
+    "highlightSelection": "Kiemelés a kiválasztott szövegből",
+    "summarizePage": "Oldal összefoglalása",
+    "savePage": "Oldal mentése a(z) {{name}}-be",
+    "revertSavePage": "Eltávolítás a(z) {{name}}-ből",
+    "translatePage": "Fordítás erre: {{lang}}",
+    "revertTranslatePage": "Eredeti szöveg megjelenítése",
+    "imageTools": "{{AI}} képeszközök",
+    "togglePageTranslation": "Fordítsa le az oldalt / Eredeti szöveg megjelenítése",
+    "openFullPageChat": "Nyissa meg a teljes oldalas csevegést"
+  },
+  "highlightType": {
+    "key-sentences": "Kulcsfontosságú mondatok",
+    "structural-importance": "Szerkezeti fontosság",
+    "comprehensive-coverage": "Átfogó lefedettség",
+    "memorable-quotes": "Emlékezetes idézetek"
+  },
+  "freeTrial": {
+    "panelTitle": "3 napos korlátlan terv ingyenes próba",
+    "panelList": [
+      "Beszélgessen szabadon GPT-4 és Claude 3-mal",
+      "Beszélgessen bármilyen PDF-fel, képpel és linkkel",
+      "Összefoglalja a weboldalakat és a YouTube videókat"
+    ],
+    "panelBtn": "Ingyenes próba indítása",
+    "cancelTip": "Bármikor lemondható"
+  }
+}

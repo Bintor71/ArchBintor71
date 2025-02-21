@@ -1,0 +1,2571 @@
+{
+  "sidebar": "Barra Lateral",
+  "shortcut": "Atalhos",
+  "ask": "Perguntar",
+  "save": "Salve isso",
+  "saved": "Salvou",
+  "delete": "Excluir",
+  "deleteAll": "Excluir tudo",
+  "remove": "Remover",
+  "cancel": "Cancelar",
+  "close": "Fechar",
+  "minimize": "Minimizar",
+  "disable": "Desativar",
+  "retry": "Tentar novamente",
+  "stop": "Parar",
+  "pause": "Pausar",
+  "play": "Reproduzir",
+  "replay": "Repetir",
+  "changeSpeed": "Alterar velocidade",
+  "ttsDemo": "Exemplo",
+  "icon": "Ícone",
+  "select": "Selecionar",
+  "change": "Alterar",
+  "insert": "Inserir",
+  "replace": "Substituir",
+  "ok": "OK",
+  "Loading": "Carregando",
+  "thoughtProgress": "Processo de pensamento",
+  "submit": "Enviar",
+  "attention": "Perceber",
+  "welcome": "Bem-vindo",
+  "send": "Enviar",
+  "copy": "cópia de",
+  "auto": "Automático",
+  "unpublish": "Despublicar",
+  "unpublishArtifact": "Despublicar Artefato",
+  "aiResCompare": "Comparação de Respostas de IA",
+  "copied": "Copiada",
+  "clear": "Clara",
+  "table": "Tabela",
+  "tryDemo": "Experimente uma demonstração",
+  "translate": "Traduzir",
+  "rewrite": "Reescrever",
+  "next": "Próximo",
+  "prev": "Anterior",
+  "hi": "Oi,",
+  "experimental": "Acesso antecipado",
+  "experimentalDesc": "Usuários pagos têm acesso antecipado a ferramentas exclusivas e de ponta, além de recursos experimentais que não estão disponíveis para não assinantes.",
+  "clickToTry": "Clique para experimentar este recurso",
+  "detected": "Detectado",
+  "reset": "Redefinir",
+  "upTo6file": "Envie até 6 arquivos",
+  "quote": "Citar",
+  "download": "Baixar",
+  "downloadTypeFile": "Baixar Arquivo {{type}}",
+  "collapse": "Recolher barra lateral",
+  "done": "Feita",
+  "trial": "Teste",
+  "manage": "Gerenciar",
+  "template": "modelo",
+  "edit": "Editar",
+  "exit": "Sair",
+  "add": "Adicionar",
+  "feedback": "Opinião",
+  "fullscreenBookmarkTip": "Clique no ícone de estrela para adicionar o chat em tela cheia aos favoritos para fácil acesso na próxima vez!",
+  "tweetit": "Siga-nos no {{X}}",
+  "joinDiscord": "Junte-se à nossa comunidade no Discord",
+  "whatsnewInvite": "Convide para experimentar gratuitamente",
+  "fullPageChat": "Bate-papo de página inteira",
+  "whatNew": "Novidades",
+  "helpCenter": "Central de Ajuda",
+  "learnMore": "Saiba mais",
+  "gotIt": "Entendi",
+  "you": "Você",
+  "settings": "Configurações",
+  "signin": "Conecte-se",
+  "extractingText": "Extraindo texto",
+  "extractingTextFailed": "Falha ao extrair texto",
+  "textExtracted": "Texto extraído",
+  "audioExtractedText": "Texto extraído do áudio",
+  "account": "Conta",
+  "createAccount": "Criar uma conta",
+  "createAccountTip": "Inscreva-se para obter <a>{{NUM}} grátis</a> créditos todos os dias",
+  "free": "Grátis",
+  "signinNow": "Conecte-se agora",
+  "unlimited": "Ilimitado",
+  "share": "Compartilhar",
+  "toolMoveTip": "A ferramenta de chat tem um novo lar! Você pode acessar todos os controles de chat aqui.",
+  "myChats": "Meus chats",
+  "general": "Configuração geral",
+  "archive": "arquivo",
+  "unarchive": "desarquivar",
+  "searchPage": "Página de pesquisa",
+  "addons": "Complementos",
+  "webStore": "Loja virtual",
+  "webApp": "aplicativo web",
+  "webAccess": "Acesso Web",
+  "upgradeNow": "Atualize agora",
+  "unlock": "Desbloquear",
+  "allFeatures": "Todos os Recursos",
+  "everyThing": "Tudo",
+  "unlockFeatMsg": "Você atingiu o limite do seu plano. Faça um upgrade agora para desbloquear todos os recursos!",
+  "upgradeUnlock": "Faça upgrade para desbloquear agora!",
+  "upgrade": "Atualizar",
+  "subscribe": "Assinar",
+  "language": "Linguagem",
+  "theme": "Tema",
+  "sendShortcut": "Enviar atalho",
+  "speechVoice": "Voz de Fala",
+  "buyBooster": "Comprar pacote de reforço",
+  "model": "Modelo",
+  "version": "Versão",
+  "more": "Mais",
+  "clickPreview": "Clique para visualizar",
+  "clickView": "Clique para ver",
+  "sendToChat": "Enviar para o chat",
+  "listen": "Ouvir",
+  "openAnswerCompare": "Comparação lado a lado",
+  "skip": "Pular",
+  "basic": "Básico",
+  "advanced": "Avançado",
+  "superAdvanced": "Super avançado",
+  "switchModel": "Trocar modelo",
+  "switchVoice": "Trocar Voz",
+  "changeVoice": "Mudar de voz",
+  "vote": "Voto",
+  "invite": "Convidar",
+  "hide": "Ocultar",
+  "show": "Mostrar",
+  "logout": "Sair",
+  "pin": "pôster",
+  "unpin": "desafixar",
+  "showMore": "Mostre mais",
+  "editTitle": "Editar título",
+  "summarize": "Resumir",
+  "summary": "Resumo",
+  "fact-check": "Checagem de fatos",
+  "highlight-excerpts": "Destacar trechos",
+  "key-concepts": "Esclarecer conceitos-chave",
+  "identify-assumptions": "Identificar suposições",
+  "contrast-analysis": "Analisar contrastes",
+  "about-author": "Aprender sobre o autor",
+  "related-news": "Encontrar notícias relacionadas",
+  "related-academic-research": "Ver trabalhos relacionados",
+  "related-videos": "Assistir vídeos relacionados",
+  "keypoints": "Pontos chave",
+  "quiz": "Questionário",
+  "autoToText": "Automático para texto",
+  "textFromSelect": "Texto da sua seleção",
+  "textFromOCR": "Texto do OCR",
+  "textFromTranslate": "Texto da tradução",
+  "textFromWrite": "Texto da escrita",
+  "textFromSearch": "Texto do agente de busca",
+  "textFromGrammar": "Texto da gramática",
+  "quoteText": "Texto da citação",
+  "summarizing": "Resumindo",
+  "summarizeFailed": "Resumo falhou",
+  "answering": "Respondendo",
+  "productivity": "Produtividade",
+  "generating": "Gerando",
+  "modelUpdateSuccess": "Modelo atualizado com sucesso",
+  "modelUpdateFailed": "Falha na atualização do modelo",
+  "customPrompt": "Solicitação personalizada",
+  "currentTpl": "Modelo atual:",
+  "current": "Atual",
+  "extra": "extra",
+  "generatingTranscript": "Gerando transcrição",
+  "transcriptGenerated": "Transcrição gerada",
+  "transcriptFailed": "Falha na geração da transcrição",
+  "transcriptReady": "Transcrição pronta",
+  "audioTranscript": "Transcrição de áudio",
+  "audio-to-text": "Áudio para texto",
+  "audio-summarize": "Resumir",
+  "audio-meeting-minutes": "Atas da reunião",
+  "publishArtifact": "Publicar Artefato",
+  "uploadLocal": "Carregar do seu computador",
+  "openTabs": "Escolher entre as abas abertas",
+  "editTpl": "Editar este modelo",
+  "delteTpl": "Excluir este modelo",
+  "restoreTpl": "Restaurar este modelo",
+  "archiveTpl": "Arquivar este modelo",
+  "showTpl": "Mostrar este modelo",
+  "prompts": "Comandos",
+  "selectPrompt": "Selecionar comando",
+  "imageRetryTip": "Ocorreu um erro. Por favor, tente novamente.",
+  "mentionBot": "Mencionar modelo",
+  "mentionGPTs": "Mencionar GPTs",
+  "promptName": "Nome do prompt",
+  "promptContent": "Conteúdo de solicitação",
+  "PromptManage": "Gerenciar Prompt",
+  "contactUs": "Contate-nos",
+  "webAssistant": "Assistente web",
+  "quickAction": "Menu de contexto",
+  "promptManage": "Gerenciador de prompts",
+  "morePrompts": "Mais sugestões",
+  "addPrompts": "Adicionar sugestão",
+  "issueType": "Tipo de problema",
+  "pinExt": "Fixar extensão",
+  "yourEmailAddress": "Seu endereço de email",
+  "troubleshooting": "Solução de problemas",
+  "openSidebar": "Abrir barra lateral",
+  "pasteSelection": "Colar seleção",
+  "pasteTextPage": "Colar texto da página",
+  "getAnotherKey": "Obter outra chave",
+  "showSearchPanel": "Mostrar painel de pesquisa",
+  "getItNow": "Obtê-lo agora",
+  "addTools": "Adicionar Ferramentas",
+  "toolsTitle": "Ferramentas",
+  "notNow": "Agora não",
+  "alwaysDisplay": "Mostrar sempre",
+  "credit": "Crédito",
+  "credits": "Créditos",
+  "unlimitedCredits": "Créditos Ilimitados",
+  "total": "total",
+  "getMore": "pegue mais",
+  "goPremium": "atualizar para premium",
+  "goPremiumGetMore": "atualize para premium para obter mais",
+  "myAccount": "Minha conta",
+  "clickToAsk": "Clique para perguntar",
+  "searchingFor": "Procurando por:",
+  "searchedFor": "Procurou por:",
+  "conversationTip": "Este chat foi criado no modo {{CHATPROVIDER}}. Mude o modo para continuar, ou inicie um novo chat no modo atual.",
+  "using": "Usando",
+  "used": "Usado",
+  "switchAndContinue": "Mudar modo",
+  "ExtractText": "Extrair texto",
+  "extracted": "Áudio extraído",
+  "describleImage": "Descrever",
+  "pricePerDay": "Menos de {{num}}/dia",
+  "readingwriting": "Leitura & Escrita",
+  "reading": "Leitura",
+  "writing": "Escrita",
+  "compareWith": "Comparar com {{NAME}}",
+  "smarterWith": "Obtenha uma resposta mais inteligente de {{NAME}}",
+  "summarizePage": "Resuma esta página",
+  "searched3": "Pesquisou 3 sites",
+  "browseFiles": "Navegou por {{NUM}} arquivos",
+  "browseFiles1": "Navegou por 1 arquivo",
+  "readPage": "Leia esta página",
+  "moreQueries": "Mais créditos!",
+  "newPlan": "Novo plano",
+  "switchToXXX": "Mudar para {{model}}",
+  "switchToSider": "Mude para a API {{APP_NAME}}",
+  "switch": "Alternar",
+  "settingApiKey": "Configurando sua chave de API",
+  "all": "Todos",
+  "dropMsg": "Arraste aqui para enviar para o Sider",
+  "success": "Sucesso",
+  "usedIn": "Usado em",
+  "check": "Verificar",
+  "example": "Exemplo",
+  "toolsUpgradeTitle": "Atualize para Elevar sua Experiência de Chat!",
+  "ChangeTone": "Alterar tom",
+  "screenshot": "Captura de tela",
+  "takeAScreenshot": "Tire uma captura de tela",
+  "back": "Voltar",
+  "image": "Imagem",
+  "uploadImage": "Carregar uma imagem",
+  "hideImage": "Ocultar imagem",
+  "chatWithPDF": "Converse com PDF",
+  "recentFiles": "Arquivos recentes",
+  "orTakeAction": "Ou execute outras ações:",
+  "NoFiles": "Nenhum arquivo recente neste chat",
+  "showImage": "Mostrar imagem",
+  "fullscreen": "Tela cheia",
+  "moreQuery": "Mais Créditos",
+  "moreFeature": "Mais recursos!",
+  "switchToSidepanel": "Alternar para barra lateral",
+  "deepReadTools": "Ferramentas de leitura profunda",
+  "OR": "OU",
+  "enable": "Ativar",
+  "refresh": "Atualizar",
+  "painterOnBoardingTip": "Clique aqui para criação e edição de imagens de IA",
+  "pdfOnBoardingTip": "Clique aqui para ChatPDF",
+  "refreshModel": "Atualizar modelos",
+  "refreshing": "Atualizando",
+  "collapseNav": "Recolher barra de navegação",
+  "expand": "Expandir",
+  "expandNav": "Expandir barra de navegação",
+  "phoneNumber": "Número de telefone",
+  "recognizing": "Reconhecendo",
+  "useFreeVoice": "Usar Voz Grátis",
+  "reselect": "Reselecionar",
+  "earnFree": "Ganhe Créditos Grátis",
+  "appearance": "Aparência",
+  "result": "Resultado",
+  "sidepanelTip": "Ponta do painel lateral",
+  "continue": "Continuar",
+  "confirm": "confirme",
+  "describeImage": "Descreva esta imagem",
+  "inviteFriendTip": "<a>Convide amigos</a> para ganhar créditos extras",
+  "resetTime": "Redefinir em <a>3 de agosto de 2023</a>",
+  "imageQuoteTipTitle": "Pergunte a imagem novamente? Você precisa citar a imagem",
+  "imageQuoteTipContent": "Para perguntar novamente sobre a imagem, basta citá-la.",
+  "ocrEmptyMsg": "Desculpe, não consigo encontrar texto nesta imagem.",
+  "imageInputHint": "Faça perguntas sobre esta imagem",
+  "selectedTextInputHint": "Fazer perguntas sobre o texto selecionado",
+  "fileInputHint": "Fazer perguntas sobre este arquivo",
+  "inviteYourFriends": "Convide amigos",
+  "xmasSale": "Liquidação de Natal",
+  "bigSale": "Venda",
+  "bigSaleRest": "Venda",
+  "videoTutorial": "Ver detalhes",
+  "edgePasteBug": "Não é possível colar usando atalhos de teclado devido a um bug do navegador Edge. Clique com o botão direito do mouse para colar.",
+  "enable&continue": "Ativar e Continuar",
+  "readAloud": "Ler em voz alta",
+  "seeMoreHelp": "Veja mais em <a>Centro de Ajuda</a>",
+  "translateInto": "Traduzir para: {{lang}}",
+  "imageTranslateInto": "Traduza o texto na imagem para {{lang}}",
+  "translateBackInto": "Traduzir de volta para: {{lang}}",
+  "explainSection": "Você pode me explicar esta seção com mais detalhes?",
+  "betterAnswer": "Obtenha um resultado melhor com {{MODEL_NAME}}",
+  "genBy": "Gerado por {{MODEL_NAME}}",
+  "explain": "Explicar",
+  "building": "Construindo...",
+  "keyboardShortcuts": "Atalhos do teclado",
+  "console": "Console",
+  "enterText": "Digite o texto",
+  "publish": "Publicar",
+  "publishing": "Publicação",
+  "published": "Publicado",
+  "artifactPublished": "Artefato Publicado",
+  "artifactPublishTip1": "Uma vez que você publique este artefato, criaremos um URL público para que qualquer pessoa possa acessá-lo. Seu chat permanecerá privado, e você pode parar de compartilhar a qualquer momento.",
+  "artifactPublishTip2": "Este artefato está disponível para o público. Qualquer pessoa pode acessá-lo com o link compartilhado.",
+  "artifactUnpublishedTip": "Uma vez que você despublique, outros não poderão mais acessar o Artefato através do link compartilhado.",
+  "artifactNarrow": "Restaurar largura padrão",
+  "artifactWide": "Expandir para largura total",
+  "artifactRemixContent": "Vamos explorar algumas variações deste {{ARTIFACT}}. Você pode sugerir 3 maneiras de remixá-lo e aguardar minha resposta?",
+  "faceError": "Encontrei este erro no último {{ARTIFACT}}, por favor, corrija-o.",
+  "artifactError": {
+    "title": "Você pode tentar as seguintes opções:",
+    "solution1": "<a>Atualizar a Visualização</a>",
+    "solution2": "Envie a mensagem de erro no chat para obter ajuda. <a>Enviar mensagem de erro</a>"
+  },
+  "artifactsBetaTip": "Aproveite o Artifacts (Pro) gratuitamente durante a versão beta—não perca!",
+  "tryArtifact": "Tente {{ARTIFACTS}}",
+  "tryNow": "Tente exemplos",
+  "errorOccurred": "Ocorreu um erro",
+  "artifactDemos": [
+    {
+      "title": "Criar um Xilofone Virtual",
+      "value": "Crie um xilofone baseado em HTML com teclas coloridas dentro de um {{ARTIFACT}}. Forneça feedback visual para as teclas tocadas e gere sons simples e realistas usando a Web Audio API com base em parâmetros de frequência. Inclua instruções básicas."
+    },
+    {
+      "title": "Criar um Jogo de Emoji Comendo Comida",
+      "value": "Crie um jogo simples baseado em HTML, semelhante ao Catch the Candy, dentro de um {{ARTIFACT}}. O jogador controla um emoji na parte inferior da tela, movendo-o rapidamente para a esquerda e para a direita para pegar e comer itens de comida (por exemplo, 🍓, 🍔, 🍎) que caem de cima, enquanto evita bombas (💣). Cada vez que o jogador pega um emoji de comida, seu emoji mudará para uma expressão positiva mais exagerada (por exemplo, 🤩, 😆, 😋) para indicar sucesso. Se o jogador pegar acidentalmente uma bomba, o emoji primeiro mostrará uma explosão (💥) e depois mudará para uma expressão tonta (😵‍💫)."
+    },
+    {
+      "title": "Criar um Gráfico de Remessa de Smartphones",
+      "value": "Use React para criar um belo gráfico de linha dentro de um {{ARTIFACT}} com base na tabela a seguir.\n------\n\nRemessas de Smartphones por Principais Marcas na Última Década (em Bilhões)\n\n| Ano | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60 | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+    }
+  ],
+  "preview": "Visualizar",
+  "dataAnalysisTip": "Esta ferramenta é acionada apenas quando utilizada, deduzindo 1 Crédito Avançado.",
+  "code": "Código",
+  "code&preview": "Código e Visualização",
+  "tryItNow": "Experimente agora",
+  "letsTryItNow": "Vamos tentar agora!",
+  "tryArtifactNow": "Experimente {{ARTIFACTS}} Agora",
+  "roast": {
+    "analyzing": "Analisando...",
+    "roastX1": "🔥 Alguém acabou de provocar você, dê uma olhada",
+    "roastX2": "Zoa esse cara!",
+    "roast": "😜 Provocar",
+    "boast": "🥰 Gabar"
+  },
+  "historyGroups": {
+    "today": "Hoje",
+    "thisWeek": "Esta Semana",
+    "thisMonth": "Este Mês",
+    "earlier": "Anterior"
+  },
+  "quotaInfo": {
+    "mobilePlan": "Plano Móvel",
+    "resetsDaily": "Reinicia diariamente",
+    "resetDate": "Data de Reinício",
+    "tryForFree": "Experimente grátis",
+    "unlockFeats": "Desbloquear Todos os Recursos Premium",
+    "unlockToUse": "Desbloquear Uso Ilimitado",
+    "unlockAllFeats": "Desbloquear Todos os Recursos",
+    "unlockAllFeatsDesc": "Você atingiu o limite de teste para recursos premium. Faça upgrade para desbloquear todos os recursos.",
+    "unlockAllFeats2": "Desbloquear Acesso Completo",
+    "unlockAllFeatsDesc2": "Obtenha chats ilimitados, acesso à web, análise de dados, geração de imagens, resumos do YouTube, chat de arquivos/links, extração de texto e muito mais",
+    "enjoyUnlimitedCredits": "Aproveite Créditos Ilimitados",
+    "enjoyUnlimitedCreditsDesc": "Aproveite ao máximo GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro e mais.",
+    "webAccess": "Acesso à Web",
+    "chatActionTranslate": "Traduzir para {{lang}}",
+    "dataAnalysis": "Análise Avançada de Dados",
+    "shortVideo": "Redutor de Vídeo com IA",
+    "chatPDF": "Chat PDF/Link",
+    "chatFileLink": "Chat de Arquivo/Link",
+    "youtubeSummary": "Resumo do YouTube",
+    "readAloud": "Leitura em Voz Alta por IA",
+    "tryReadAloudForFree": "Experimente Ler em Voz Alta Gratuitamente",
+    "extractText": "Extração de Texto por IA",
+    "upgradeFor": "Faça upgrade por apenas {{price}}/mês",
+    "off": "{{num}} Desconto",
+    "allPlans": "Ver todos os planos",
+    "usedCredits": "{{count}} créditos utilizados",
+    "usedCredits_one": "{{count}} crédito usado",
+    "usedCredits_other": "{{count}} créditos usados",
+    "premiumTrial": "Experimente recursos premium gratuitamente",
+    "premiumTrialTip": "O teste oferece acesso limitado a recursos premium exclusivos para membros pagos. Observe que cada uso ainda custará créditos.",
+    "creditRuleTitle": "Regras de dedução de crédito",
+    "creditRuleTip": "Deduímos créditos com base no modelo, recursos e duração do contexto que você usa. Para detalhes completos, visite o <a>Centro de Ajuda</a>.",
+    "extraCreditTip": "Estes são créditos extras para uso único.",
+    "dailyCreditTip": "A regra de reinício se aplica apenas aos créditos do plano, não aos créditos extras.",
+    "inviteFriends": "<a>Convide amigos</a> para obter mais créditos",
+    "vipInviteFriends": "Está gostando do {{APP_NAME}}? <a>Convide seus amigos!</a>",
+    "pocketPlanTips": "Os créditos do Pocket são utilizáveis apenas no celular. Aproveite alguns créditos de desktop gratuitamente.",
+    "pocketUpgrade": "Faça upgrade para desbloquear mais"
+  },
+  "prompt": "Prompt",
+  "addPrompt": "Adicionar prompt",
+  "allSettings": "Todas as configurações",
+  "getAIAnswer": "Obter resposta da IA",
+  "login": {
+    "google": "Continuar com o Google",
+    "apple": "Continuar com a Apple",
+    "microsoft": "Continuar com a Microsoft",
+    "phone": "Continuar com o Telefone"
+  },
+  "loginTip": "Não tem uma conta? <a>Criar uma conta</a>",
+  "signupTip": "Já tem uma conta? <a>Entrar</a>",
+  "guideVideoTitle": {
+    "chat": "Chat",
+    "translation": "Traduzir",
+    "summary": "Resumir",
+    "chatpdf": "ChatPDF",
+    "write": "Escrever",
+    "painter": "Pintor",
+    "ocr": "OCR",
+    "grammar": "Gramática",
+    "email": "Responder Email"
+  },
+  "guideVideos": {
+    "chat": {
+      "ai-bot": "Chat Multi-bot",
+      "web-access": "Acesso à Web",
+      "data-analysis": "Análise de Dados Avançada",
+      "painter": "Geração de Imagens",
+      "prompts": "Prompts Personalizados"
+    },
+    "translation": {
+      "widget": "Texto Selecionado via Barra Lateral",
+      "selected": "Texto Selecionado via Menu de Contexto",
+      "input": "Texto Digitado na Página",
+      "page": "Página Web Completa",
+      "in-chat": "Texto Selecionado no Chat",
+      "in-chat2": "Texto Digitado no Chat"
+    },
+    "summary": {
+      "youtube": "Vídeos do YouTube",
+      "doc": "Documentos Carregados",
+      "page": "Página Web via Menu Rápido",
+      "page2": "Página Web via Chat"
+    },
+    "chatpdf": {
+      "chatpdf": "Chat com PDF"
+    },
+    "write": {
+      "widget": "Compor Sob Demanda",
+      "context": "Melhorar Texto Selecionado",
+      "input": "Reescrever Entradas"
+    },
+    "painter": {
+      "image": "Gerar Imagens",
+      "bg-remove": "Remover Fundo",
+      "bg-replace": "Substituir Fundo",
+      "upscale": "Melhorar Imagens",
+      "eraser": "Remover Área Pincelada",
+      "text-remove": "Remover Texto"
+    },
+    "ocr": {
+      "ocr": "Extrair Texto e Equações"
+    },
+    "grammar": {
+      "widget": "Verificação de Gramática via Barra Lateral",
+      "context": "Verificação de Gramática via Menu de Contexto"
+    },
+    "email": {
+      "reply": "Gerar Respostas de Email"
+    }
+  },
+  "llmStatus": {
+    "thinking": "Pensando..."
+  },
+  "popupPage": {
+    "thank": "Obrigado por usar a extensão {{APP_NAME}}!",
+    "desc": "A página atual é uma página única e o recurso da barra lateral não está disponível. No entanto, você pode abrir uma página inteira para conversar!",
+    "chatNow": "Conversar Agora"
+  },
+  "setupPage": {
+    "loginSuccess": "Login bem-sucedido",
+    "welcome": "Bem-vindo ao {{APP_NAME}}!",
+    "startUsing": "Comece a Usar {{APP_NAME}}",
+    "explore": "Vamos Explorar a Função {{FEATURE_NAME}}",
+    "favorites": "A extensão mais popular do Chrome",
+    "fiveStarRate": "Avaliações de 5 estrelas",
+    "activeUser": "Usuários Ativos",
+    "userCount": "4M+",
+    "spamMsg": "Seus dados não serão vazados e não haverá spam.",
+    "privacy": "Ao continuar, você concorda com a <a>Política de Privacidade</a> & <b>Termos de Uso</b>.",
+    "privacyPart1": "Ao continuar, você concorda com a",
+    "privacyPart2": "<a>Política de Privacidade</a> & <b>Termos de Uso</b>",
+    "loginWith": "Faça login com {{name}}",
+    "pinTips": "<b>Fixar {{APP_NAME}}</b>, acesso mais fácil!",
+    "pinClickTip": "Clique em {{icon}} para fixar {{APP_NAME}}",
+    "pinClickTip2": "Fixar o {{APP_NAME}} para Acesso Rápido",
+    "pinClickTip3": "Clique no ícone {{icon}} no canto superior direito",
+    "next": "Próximo",
+    "tryOut": "Experimente",
+    "endTitle": "{{APP_NAME}} está Pronto para Ajudá-lo!",
+    "endTip": "Você agora pode navegar em qualquer página da web ou explorar nosso Centro de Ajuda para aprender mais.",
+    "learnMore": "Saiba mais sobre {{APP_NAME}}",
+    "endBottom": "Precisa de Assistência ou Tem Sugestões?",
+    "endBottom2": "Valorizamos sua opinião! <a>Forneça Feedback</a> para nos ajudar a melhorar sua experiência."
+  },
+  "getKeyPage": {
+    "welcome": "Bem-vindo ao {{APP_NAME}}! Aqui está sua jornada para começar:",
+    "stepTitle": "Como obter uma chave de API.",
+    "step1": "Etapa 1: obter a chave da API",
+    "step1-1": "<i>Faça login na sua conta OpenAI</i> Se você não tem uma conta, cadastre-se <b>AQUI</b>",
+    "step1-2": "Visite a página da chave da API OpenAI",
+    "step1-3": "Crie uma nova chave secreta e copie-a da seguinte maneira",
+    "step2": "Etapa 2: cole a chave da API na caixa abaixo",
+    "step2-tips": "Não se preocupe. Sua chave de API é usada apenas localmente na extensão ChatGPT. Usar a API é mais estável do que usar diretamente o ChatGPT.",
+    "step3": "Etapa 3: verifique seus créditos <i>aqui</i>"
+  },
+  "optionPage": {
+    "openNewChat": "Iniciar um novo chat",
+    "howToAccess": "Como acessar o ChatGPT e usá-lo em qualquer lugar",
+    "howToAccessTip": "Para garantir que a IA seja acessível a todos, fornecemos 3 maneiras de acessar o ChatGPT e usá-lo em qualquer lugar.",
+    "recommended": "Recomendado",
+    "loginFirst": "Por favor, faça login primeiro.",
+    "loginFirstTip": "Faça login para começar a usar o Sider e ganhar créditos gratuitos todos os dias.",
+    "displayMode": "Modo de exibição",
+    "displayLanguage": "Idioma de exibição",
+    "fontSizeTitle": "Tamanho da fonte para mensagem",
+    "fontSizeTip": "Apenas para texto da mensagem",
+    "fontSizeOptions": {
+      "regular": "Regular",
+      "large": "Grande"
+    },
+    "fontSizeAutoTip": "Ajuste automático de acordo com a largura da barra lateral",
+    "sidepanelPosition": "Posição do painel lateral",
+    "sidepanelPositionTip": "Para Chrome 114 ou superior, só pode ser alterado nas configurações do navegador",
+    "providerPartTitle": "Acesso à IA",
+    "serviceProvider": "Fornecedor de serviços",
+    "providerSiderTip": "{{APP_NAME}} oferece acesso contínuo, rápido e estável aos principais modelos de IA, como OpenAI o1, Claude 3.5, Gemini, Llama e outros—tudo através de APIs oficiais em uma única plataforma.",
+    "providerWebappTip": "A experiência pode variar para visitantes e usuários logados devido às restrições do OpenAI.",
+    "providerSiderDesc": "Desenvolvido por APIs oficiais de modelos líderes, rápido e confiável",
+    "providerAPIKeyDesc": "Ideal para quem possui uma chave de API: estável, com preços baseados no uso",
+    "providerWebappDesc": "Pode ser instável devido a mudanças nas políticas do OpenAI",
+    "importantReminders": "Lembretes importantes",
+    "webappReminder1": "Permaneça logado na sua conta.",
+    "webappReminder2": "Este serviço pode ser instável devido a mudanças nas políticas do OpenAI. Para um desempenho rápido e estável, recomendamos usar o {{APP_NAME}}.",
+    "defaultVoice": "Voz padrão",
+    "defaultSpeed": "Velocidade padrão",
+    "whenSidebarReopens": "Quando a barra lateral reabre",
+    "scrollingBehavior": "Comportamento de rolagem para respostas longas",
+    "autoQuoteSelectedText": "Auto-citar texto selecionado na caixa de entrada",
+    "autoQuoteSelectedTextTip": "Quando ativado, o texto selecionado aparece automaticamente na caixa de entrada para ações rápidas",
+    "siderIcon": "Ícone do {{APP_NAME}}",
+    "siderIconDisplay": "Sempre mostrar o ícone do {{APP_NAME}} na página",
+    "siderIconDisplayTip": "Quando ativado, o ícone do {{APP_NAME}} aparece no canto inferior direito e pode ser arrastado",
+    "webAsstSearchTitle": "Para pesquisa",
+    "webAsstYoutubeTitle": "Para YouTube",
+    "webAsstImageTitle": "Para imagens",
+    "webAsstEmailTitle": "Para email",
+    "webAsstCodeTitle": "Para código",
+    "webAsstQATitle": "Para sites de perguntas e respostas",
+    "webAsstLinkPreviewTitle": "Para pré-visualizações de links",
+    "webAsstAISitesTitle": "Compare modelos no ChatGPT",
+    "webAsstSearchDesc": "Mostrar resposta da IA junto aos resultados de pesquisa",
+    "webAsstVideoSummaryDesc": "Mostrar painel de resumo no YouTube",
+    "webAsstVideoBilingualDesc": "Mostrar controle bilíngue no YouTube",
+    "webAsstImageDesc": "Mostrar ferramentas de IA ao passar o mouse sobre a imagem",
+    "webAsstEmailDesc": "Mostrar botão de Resposta da IA no Gmail",
+    "webAsstCodeDesc": "Mostrar botão Explicar Código no bloco de código",
+    "webAsstQADesc": "Mostrar botão Responder em sites de perguntas e respostas",
+    "webAsstAISitesDesc": "Mostrar botão \"Comparar com\" em {{url}}",
+    "webAsstInputBoxTitle": "Caixa de entrada",
+    "webAsstInputBoxDesc": "Mostrar ícone de ponto em uma caixa de entrada para melhorar a escrita",
+    "webAsstLinkPreviewDesc": "Exibir janela de visualização do link ao arrastar um link.",
+    "webAsstLinkpreviewExampleLink": "Este é um link seguro, tente arrastá-lo para ver a janela de visualização",
+    "sendMessage": "Enviar mensagem",
+    "translatePage": "Traduzir página",
+    "activateContextMenu": "Abrir pergunta rápida",
+    "invalidShortcutTip": "Incluir {{key1}}, {{key2}} ou {{key3}}",
+    "shortcutInUseTip": "Já está em uso, tente outro",
+    "disabledSites": "Desativado em sites",
+    "addASite": "Adicionar um site",
+    "noSiteAdded": "Nenhum site adicionado",
+    "wrongSiteTip": "URL inválida: Verifique a URL e tente novamente.",
+    "restoreDefault": "Restaurar padrão",
+    "recommend4all": "(Recomendado para todos)",
+    "sidebarProvider": "A barra lateral usa a API ChatGPT Premium para garantir um acesso estável.",
+    "sidebarProviderGoPremium": "Oferecemos {{num}} créditos diários gratuitos para garantir a acessibilidade da IA para todos. <a>Faça upgrade para premium</a> para aumentar seu limite diário de créditos e apoiar nossa missão de <b>fornecer IA Universal para todos</b>.",
+    "webappGPT4": "(Os usuários do ChatGPT Plus podem experimentá-lo)",
+    "webappTip1": "Se você é usuário do ChatGPT Plus, agora tem a opção de escolher o GPT-4. No entanto, OpenAI pode limitar o número de mensagens que você pode enviar por dia.",
+    "webappTip2": "Por favor, <m>Fixe a guia ChatGPT</m> e permaneça conectado no site do ChatGPT. No entanto, isso pode não garantir a estabilidade. Se você encontrar algum problema, visite <v>o site do ChatGPT </v>e atualize a página.",
+    "GPT4Desc": "Você deve permanecer logado na sua conta ChatGPT no site. A estabilidade pode ser inconsistente tanto para usuários Plus quanto para usuários gratuitos devido à restrição da OpenAI.",
+    "apiKeyProviderTip": "(Para desenvolvedores com chave de API)",
+    "apiKeyProvider": "A API OpenAI oficial é mais estável e as cobranças são baseadas no uso.",
+    "apiKeyLocally": "Sua chave de API é armazenada localmente no seu navegador e nunca é enviada para outro lugar.",
+    "ownURL": "Usar meu próprio URL",
+    "customModelName": "Utilize um nome de modelo personalizado",
+    "apiKeyTip1": "Sua chave de API OpenAI gratuita pode ter expirado. <a>Verifique o status de expiração da chave de API aqui.</a>",
+    "apiKeyTip2": "Se você usar a chave API OpenAI gratuita, o acesso ao ChatGPT pode não ser estável quando houver alta demanda.",
+    "apiFreeGuide": "Siga o guia para obter a chave de API.",
+    "apiKeyGpt4Tip": "A extensão suporta GPT-4 se você inserir uma chave de API GPT-4.",
+    "displaySearchRes": "Exibir a resposta do ChatGPT ao lado das páginas de resultados de pesquisa",
+    "whenToAsk": "Quando perguntar ao ChatGPT",
+    "promptTplForSearch": "Modelo de prompt para o Google e outros mecanismos de pesquisa",
+    "addNewTplForSearch": "Adicionar um novo modelo de prompt",
+    "launchSidebar": "Abrir barra lateral",
+    "sidebarLocation": "Localização da barra lateral",
+    "showSelectedTextTitle": "Exibir Automaticamente o Texto Selecionado na Caixa de Entrada",
+    "showSelectedTextDesc": "Mostrar automaticamente o texto selecionado como uma citação na caixa de entrada para ações rápidas com prompts",
+    "sendingMsgBehavior": "Comportamento após enviar mensagem no chat",
+    "showSelectedTextTip": "Se preferir não ter o texto selecionado exibido automaticamente no futuro, Você pode desativar isso nas <a>configurações da barra lateral</a>.",
+    "sidepanelLocation": "Localização da barra lateral",
+    "sidebarLeftOrRight": "Coloque a barra lateral no lado esquerdo ou direito",
+    "linkToSetting": "Alterar a localização da barra lateral nas configurações do navegador",
+    "sidepanelLeftOrRight": "Coloque o painel lateral no lado esquerdo ou direito. O painel lateral está disponível apenas no Google Chrome 114 ou posterior.",
+    "sidebarDisplayOption": "Modo de Exibição da Barra Lateral",
+    "sidebarDisplayOptionTip": "Escolha como a barra lateral aparece na página",
+    "sidebarDisplayOptions": {
+      "overlay": "Sobreposição",
+      "expand": "Expandindo"
+    },
+    "sendingMsgBehaviorOptions": {
+      "bottom": "Rolar automaticamente até o final da resposta",
+      "messageTop": "Pausar rolagem quando a resposta atingir o topo"
+    },
+    "sidebarOnStartup": "Ao abrir a barra lateral",
+    "sidebarOnStartupTip": "Configure o modo de exibição da interface de chat ao abrir a Barra Lateral",
+    "sidebarOnStartupOptions": {
+      "new": "Sempre iniciar um novo chat",
+      "last": "Sempre retomar o último chat",
+      "auto": "Retomar ou reiniciar automaticamente"
+    },
+    "sidebarOnStartupAutoTip": "Se reaberto em até 10 minutos, o chat é retomado; se após 10 minutos, um novo chat começa",
+    "sidebarIcon": "Ícone da barra lateral",
+    "sidebarIconAccess": "Acesse a barra lateral através do ícone localizado no canto inferior direito da página. Você pode arrastar para movê-lo para cima e para baixo",
+    "easiestWayUse": "A maneira mais fácil de usar o {{APP_NAME}}",
+    "displayWhenSelect": "Exibir quando o texto é selecionado",
+    "addNewTplForSidebar": "Adicionar novo modelo de prompt",
+    "editSearchTplTip": "use {{keywords}} para referenciar suas palavras-chave de pesquisa",
+    "editSearchTplPlaceholder": "{{keywords}} no conteúdo do prompt serão substituídas automaticamente pelas suas palavras-chave de busca",
+    "editSidebarTplTip": "Cole ou insira conteúdo aqui",
+    "quickAction": {
+      "mainSwitchTitle": "Mostrar {{name}}",
+      "mainSwitchDesc": "Quando ativado, um menu com ações rápidas aparece ao selecionar texto",
+      "displayOnSelect": "quando o texto é selecionado",
+      "displayOnShortcut": "quando o texto é selecionado e {{key}} é pressionada",
+      "displayOnSelectGuide": "Prefere uma visualização mais limpa? Ative o menu de contexto com uma tecla de atalho de sua escolha em <a>configurações</a>.",
+      "closeTips": "Ações rápidas para o texto selecionado. Clique em {{icon}} para desativar se não for necessário.",
+      "customPromptMenu": "Gerenciar prompts para {{name}}",
+      "useageScene": "Cenário de uso",
+      "useageSceneRW": "Mostrar {{name}} ao selecionar texto em qualquer lugar",
+      "useageSceneR": "Mostrar {{name}} ao selecionar texto em uma página da web",
+      "useageSceneW": "Mostrar {{name}} ao selecionar texto em uma caixa de entrada"
+    },
+    "webAssistant": {
+      "video": {
+        "title": "Assistente do YouTube",
+        "SummaryDesc": "<b>Resumo de Vídeo</b>: Quando ativado, {{APP_NAME}} pode ajudar a resumir vídeos do YouTube",
+        "BilingualDesc": "<b>Legendas Bilíngues</b>: Quando ativado, {{APP_NAME}} exibirá automaticamente enquanto assiste a vídeos do YouTube"
+      },
+      "qa": {
+        "title": "Assistente de perguntas e respostas",
+        "desc": "Quando ativado, {{APP_NAME}} pode responder a perguntas no Quora, StackOverflow e outros sites de controle de qualidade"
+      },
+      "code": {
+        "title": "Assistente de Código",
+        "desc": "Quando ativado, o {{APP_NAME}} pode ajudar a explicar códigos em páginas da web"
+      },
+      "image": {
+        "title": "Assistente de Imagem",
+        "desc": "Quando ativado, você pode acessar rapidamente as Ferramentas de Imagem AI ao passar o mouse sobre qualquer imagem"
+      },
+      "linkPreview": {
+        "autoSummarize": "Resumo Automático",
+        "collapse": "Recolher",
+        "guideTipDesc": "Arraste um link para visualizá-lo sem sair. Desative em <link>configurações</link> se não for necessário.",
+        "guideTipTitle": "Visualize links de forma eficiente",
+        "openInNewTab": "Abrir em nova aba",
+        "pageLoadFailed": "Falha ao carregar a página",
+        "summarizeNotSupported": "Esta página não suporta resumir.",
+        "viewSummary": "Ver resumo"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Nova solicitação",
+      "editPrompt": "Editar prompt",
+      "checkPrompt": "Verificar prompt",
+      "showInList": "Mostrar na lista",
+      "hideFromList": "Ocultar da lista",
+      "noPrompts": "Nenhum comando aqui",
+      "promptTabChatDesc": "Comandos em 'Mostrar na lista' aparecem na funcionalidade {{name}}.",
+      "promptTabReadDesc": "Comandos em 'Mostrar na lista' aparecem no {{name}} para texto da página.",
+      "promptTabWriteDesc": "Comandos em 'Mostrar na lista' aparecem no {{name}} para caixas de entrada.",
+      "deletePromptWarn": "Excluir este prompt?",
+      "howToWritePrompt": "Como escrever prompt",
+      "howToVarTitle": "Quais variáveis podem ser incluídas no prompt?",
+      "howToVar1": "Você pode usar essa variável para representar a entrada ou o conteúdo selecionado. Se o prompt não incluir esta variável, a entrada ou o conteúdo selecionado será colocado entre aspas triplas e colocado bem no final do prompt.",
+      "howToVar2": "Você pode usar esta variável para representar o idioma que deseja usar para a saída, com base no idioma padrão definido nas configurações.",
+      "howToExample": "Use os seguintes tópicos ou palavras-chave para gerar um resumo que inclua títulos, capítulos e subseções.\nProduza-o no formato Markdown. Apenas me dê a saída e nada mais. O esboço deve estar no idioma {{lang}}.\nTópicos ou palavras-chave: {{content}}"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Relatório de problemas",
+        "title": {
+          "label": "Resumo do problema",
+          "tip": "Deixe-nos saber o que deu errado em poucas palavras."
+        },
+        "detail": {
+          "label": "Detalhes do problema",
+          "tip": "Descreva em detalhes o que deu errado, as ações que você realizou e as mensagens de erro recebidas."
+        }
+      },
+      "fr": {
+        "name": "Solicitação de recurso",
+        "title": {
+          "label": "Título",
+          "tip": "Qual é o seu pedido?"
+        },
+        "detail": {
+          "label": "Descrição",
+          "tip": "Por favor, forneça uma descrição detalhada do novo recurso que você deseja."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "saveNewPrompt": "Salvar como um novo prompt",
+    "replacePrompt": "Substitua o prompt",
+    "inputPlaceholder1": "Prompt de entrada ou escolha no menu",
+    "inputPlaceholder2": "Cole ou insira conteúdo aqui",
+    "startNewLine": "Pressione {{shortcut}} para iniciar uma nova linha",
+    "inputPlaceholderCodes": "Cole ou insira códigos aqui",
+    "inputPlaceholderQA": "Cole ou insira a pergunta aqui",
+    "pressToSubmit": "Pressione {{key}} para enviar",
+    "stopGenerating": "Parar de gerar",
+    "regenerate": "Regenerar resposta",
+    "askTabLabel": "Perguntar",
+    "chatTabLabel": "Bater papo",
+    "moreTabLabel": "Mais",
+    "composeTabLabel": "Escrever",
+    "ocrTabLabel": "OCR",
+    "translateTabLabel": "Traduzir",
+    "grammarTabLabel": "Gramática",
+    "searchTabLabel": "Pesquisar",
+    "toolsTabLabel": "Ferramentas",
+    "freePlan": "Plano Gratuito",
+    "premiumPlan": "Plano Premium",
+    "extraQuota": "Cota extra",
+    "submitOption": "Enviar opção",
+    "painterLabel": "Pintora(feminine)",
+    "downloadLabel": "Baixar aplicativo para desktop/celular",
+    "deleteAllConfirmTitle": "Excluir tudo"
+  },
+  "modelDesc": {
+    "sider": "{{SIDER}} seleciona dinamicamente GPT-4o mini, Claude 3 Haiku, Gemini 1.5 Flash ou Llama 3 para respostas otimizadas com base no cenário.",
+    "gpt-3.5": "Muito rápido, ótimo para a maioria das tarefas diárias.",
+    "gpt-4": "Modelo mais capaz, melhor para tarefas complexas que exigem raciocínio avançado.",
+    "gpt-4o": "Melhor modelo da OpenAI, ideal para tarefas complexas mantendo a qualidade.",
+    "gpt-4o-mini": "Último modelo da OpenAI, oferece desempenho rápido e superior em tarefas de chat, codificação e raciocínio para uso diário.",
+    "gpt-5": "O modelo mais recente da OpenAI, ideal para tarefas complexas mantendo a qualidade.",
+    "claude-instant": "O modelo básico dos casos de uso antrópicos, de baixa latência e alto rendimento.",
+    "claude2": "O melhor modelo de oferta da Anthropic, desempenho superior em tarefas que exigem raciocínio complexo.",
+    "claude-3-haiku": "O modelo mais compacto da Anthropic, projetado para uma resposta quase instantânea e experiências de IA perfeitas que imitam interações humanas",
+    "claude-3-sonnet": "O modelo mais equilibrado da Anthropic entre inteligência e velocidade, ideal para uma ampla gama de tarefas.",
+    "claude-3.5-sonnet": "O modelo mais recente da Anthropic, oferecendo o dobro da velocidade do Claude 3 Opus e maior inteligência, melhorando significativamente o raciocínio, conhecimento, codificação e tarefas visuais.",
+    "claude-3-opus": "O modelo mais poderoso da Anthropic, oferecendo desempenho de ponta em tarefas altamente complexas e demonstrando fluência e compreensão semelhante à humana.",
+    "bard": "O modelo do Google (PaLM 2) apresenta bom desempenho em tarefas de raciocínio avançado.",
+    "gemini-pro": "O modelo mais equilibrado do Google, combinando perfeitamente capacidade com eficiência.",
+    "gemini-1.5-pro": "O melhor modelo do Google para desempenho geral em uma ampla gama de tarefas.",
+    "gemini-1.5-flash": "Modelo leve do Google, otimizado para velocidade e eficiência.",
+    "llama-3": "O modelo mais recente da Meta, ideal para tarefas complexas enquanto mantém a qualidade."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Custa <m>1 crédito básico</m>.",
+    "gpt-3.5-n_one": "Custo <m>{{count}} crédito básico</m>.",
+    "gpt-3.5-n_other": "Custo <m>{{count}} créditos básicos</m>.",
+    "gpt-4": "Custa <m>1 crédito avançado</m>.",
+    "gpt-4-2": "Custa <m>2 créditos avançados</m>.",
+    "gpt-4-n_one": "Custa <m>{{count}} crédito avançado</m>.",
+    "gpt-4-n_other": "Custa <m>{{count}} créditos avançados</m>."
+  },
+  "sidebarChatPanel": {
+    "answerFrom": "Resposta de",
+    "autoCloseBanner": "Pausa automaticamente após inatividade",
+    "autoCloseTips": "O Assistente de Pesquisa irá pausar se você não clicar em nenhum botão no cartão dentro de 30 pesquisas. Você pode reativá-lo a qualquer momento clicando no botão.",
+    "signinToAsk": "Faça login para perguntar a {{MODEL_NAME}}",
+    "newChat": "Novo chat",
+    "chatHistory": "Histórico de chat",
+    "writeHistory": "Histórico de escrita",
+    "searchHistory": "Histórico de busca",
+    "chatControls": "Controles de chat",
+    "inputPlaceholder": "Digite uma mensagem...",
+    "send": "Enviar",
+    "feedback": "Opinião",
+    "experimental": "Este recurso ainda está evoluindo e pode mudar, então, por favor, compartilhe suas opiniões.",
+    "share": "Compartilhar",
+    "replyLanguage": "Idioma da resposta",
+    "capabilities": "Capacidades",
+    "deleteConfirmTitle": "Excluir esta conversa?",
+    "deleteConfirmContent": "Essa ação não pode ser desfeita.",
+    "compareWeb": "Comparar resposta da web",
+    "compareAnsWith": "Comparar resposta com",
+    "smarterAnsWith": "Obtenha respostas mais inteligentes de",
+    "improveWithXXX": "Obtenha respostas mais inteligentes do <b>Bot</b>",
+    "improveWithXXX2": "Obtenha respostas abrangentes do <b>Bot</b>",
+    "compareWithXXX": "Pergunte <b>ao Bot</b>",
+    "improveWithSearch": "Obtenha resposta da web do Google",
+    "improveWithBoth": "Organize as Respostas do Google com GPT-4",
+    "answerWithoutSearching": "Pergunte ao <b>Bot</b> original",
+    "screenshot": "Captura de tela",
+    "upload": "Carregar",
+    "uploadFile": "Enviar Arquivos",
+    "siderUploadFile": "Carregar arquivos em PDF, DOC, XLSX, CSV, JPG, JSON e outros formatos, até 6 arquivos por vez, com até 100MB por arquivo.",
+    "addImage": "Adicione uma imagem",
+    "uploadTip": {
+      "formatTitle": "Suporte:",
+      "limitTitle": "Limite:",
+      "format": "Página da Web, PDF, DOC, XLSX, CSV, JPG, JSON, MP3, WAV, M4A, MPGA e mais",
+      "limit": "Até 6 arquivos, 100MB cada"
+    },
+    "welcomeQues": [
+      {
+        "title": "",
+        "ques": "Escreva um soneto no estilo de Shakespeare sobre smartphones"
+      },
+      {
+        "title": "",
+        "ques": "Sugira 10 fantasias criativas de Halloween para crianças"
+      },
+      {
+        "title": "",
+        "ques": "Esboce um roteiro para iniciantes sobre como aprender finanças pessoais"
+      },
+      {
+        "title": "",
+        "ques": "Explique para uma criança de 10 anos por que o céu é azul"
+      }
+    ],
+    "textSelectedTip": "Texto da sua seleção",
+    "ocrTextTip": "{{name}} Resultado",
+    "translateTip": "Traduzir resultado",
+    "textSelectedSystemMsg": "O que você gostaria de fazer com o texto?",
+    "welcomeSystemMsg": "Olá! Como posso ajudá-lo hoje?",
+    "welcomeMsg": "Como posso ajudar hoje?",
+    "chatActionTranslate": "Traduzir para {{lang}}",
+    "search": "Procurar",
+    "continueInChat": "Continuar no chat",
+    "chatWithVideo": "Bate-papo com vídeo",
+    "userStopTip": "O usuário cancelou a solicitação.",
+    "noChatHistory": "Ainda não há histórico.",
+    "noSearchHistory": "Nenhum resultado encontrado",
+    "webAccessModalTitle": "{{APP_NAME}} permite que ChatGPT-3.5 e GPT-4 acessem a web!",
+    "webAccessModalContent": "Os dados do ChatGPT não são em tempo real. {{APP_NAME}} combina a inteligência do ChatGPT com informações da web em tempo real, permitindo que a GPT lide com perguntas relacionadas a informações em tempo real de maneira mais eficaz. Atualize para obter esse recurso e não se preocupe mais com informações desatualizadas!",
+    "readDoc": "Ler documentos",
+    "readDocFail": "Falha ao ler documentos"
+  },
+  "sidebarComposePanel": {
+    "compose": "Compor",
+    "reply": "Responder",
+    "write": "Escrever",
+    "writePlaceholder": "Digite o tópico sobre o qual você quer escrever",
+    "replyPlaceholder1": "Digite o texto original ao qual você quer responder",
+    "replyPlaceholder2": "Descreva a ideia geral da sua resposta",
+    "submitShortcut": "Pressione {{shortcut}} para gerar rascunho",
+    "generate": "Gerar rascunho",
+    "format": "Formatar",
+    "email": "E-mail",
+    "idea": "Ideia",
+    "outline": "Contorno",
+    "essay": "Ensaio",
+    "paragraph": "Parágrafo",
+    "blog": "postagem no blog",
+    "ads": "Anúncios de marketing",
+    "twitter": "Twitter",
+    "comment": "Comente",
+    "message": "Mensagem",
+    "tone": "Tom",
+    "basic": "básico",
+    "style": "Estilo",
+    "professional": "Profissional",
+    "formal": "Formal",
+    "casual": "Casual",
+    "enthusiastic": "Entusiasmado",
+    "informational": "Informativo",
+    "funny": "Engraçado",
+    "length": "Comprimento",
+    "short": "Curto",
+    "medium": "Médio",
+    "long": "Longo",
+    "regenerate": "Regenerado",
+    "addToSite": "Adicionar ao site",
+    "addToSiteTip": "Coloque o cursor do mouse na caixa de entrada desejada e clique em '{{name}}' para inserir",
+    "insertToSite": "Inserir o resultado na caixa de entrada da página web",
+    "history": "Histórico",
+    "formatExists": "Formato já existe",
+    "AIWriter": "Redator de IA",
+    "continueOptimizeTips": "Continue a refinar e melhorar lado a lado com a IA",
+    "alsoWriteTips": "Escrevendo lado a lado com Al"
+  },
+  "sidebarGrammarPanel": {
+    "accept": "Aceitar",
+    "checkFailed": "Falha na verificação",
+    "checkNoError": "Sem erros",
+    "checking": "Verificando",
+    "fixError": "Corrigir Todos ({{errorCount}})",
+    "ignore": "Ignorar",
+    "improve": "Melhorar",
+    "inputPlaceholder": "Apenas o inglês é suportado. Cole ou digite o texto para verificar.",
+    "reasonForChanges": "Motivo das alterações"
+  },
+  "sidebarTranslatePanel": {
+    "auto-detect": "Detecção automática",
+    "placeholde": "Digite ou cole o texto aqui...",
+    "errWrongTargetLang": "Mesma língua de origem e destino. Verifique sua seleção.",
+    "errTooManyChar": "{{num}}/{{total}}: Entrada excede o limite de caracteres.",
+    "upgradeForLongChar": "Faça upgrade agora para desbloquear entradas mais longas ({{num}} caracteres).",
+    "extraTransTips": "Você também pode traduzir:",
+    "currentPage": "Página Atual",
+    "customization": {
+      "defaultPreferences": "Preferências padrão",
+      "title": "Preferências de tradução",
+      "Length": "Comprimento",
+      "LengthOpt": {
+        "Brief": "Apresentação",
+        "Concise": "Conciso",
+        "Standard": "Padrão",
+        "Expanded": "Expandido"
+      },
+      "Tone": "Tom",
+      "ToneOpt": {
+        "Casual": "Casual",
+        "Neutral": "Neutro",
+        "Formal": "Formal",
+        "Authoritative": "Autoritário",
+        "Empathetic": "Empático"
+      },
+      "Style": "Estilo",
+      "StyleOpt": {
+        "Literal": "Literal",
+        "DynamicEquivalence": "Equivalência Dinâmica",
+        "CreativeAdaptation": "Adaptação Criativa"
+      },
+      "Complexity": "Complexidade",
+      "ComplexityOpt": {
+        "Layman": "Leigo",
+        "Standard": "Padrão",
+        "Expert": "Especialista"
+      }
+    },
+    "inputTranslateAdText": "Traduza instantaneamente o texto em uma caixa de entrada em qualquer página da web!",
+    "inputTranslateAdBtn": "Configure agora",
+    "seeDict": "Ver dicionário"
+  },
+  "sidebarSearchPanel": {
+    "history": "Histórico",
+    "searchProgress": {
+      "searching": "Pesquisando",
+      "analyzing": "Analisando",
+      "organizing": "Organizando",
+      "generatingAnswer": "Gerando resposta",
+      "competed": "Concluído",
+      "searchInWeb": "Pesquisar na web",
+      "analyzeSearchResult": "Analisar resultados da pesquisa",
+      "generateAnswer": "Gerar resposta",
+      "searchCompleted": "Pesquisa concluída",
+      "searchCancelled": "Pesquisa cancelada"
+    },
+    "relatedSearches": "Pesquisas Relacionadas",
+    "searchFrom": "Pesquisar de",
+    "searchHistory": "Histórico de Pesquisa",
+    "answer": "Resposta",
+    "currentVisit": "Visita atual",
+    "feedback": {
+      "stepAnswer": "Gerar resposta",
+      "stepSearch": "Realizar pesquisa",
+      "stepUnderstand": "Entender perguntas",
+      "tipTotal": "Total de {{count}} créditos"
+    },
+    "stoppedSearch": "Você interrompeu esta pesquisa.",
+    "newSearch": "Nova pesquisa",
+    "searching": "Buscando",
+    "searchFromAll": "Pesquisar em toda a Internet",
+    "searchAll": "Pesquisar em Todos",
+    "searchRange": "Intervalo de Pesquisa",
+    "searchFromSite": "Pesquisar no site {{domain}}",
+    "sources": "Fontes",
+    "suggestions": "Sugestões",
+    "title": "Pesquisar",
+    "viewAll": "Ver tudo",
+    "defaultSearchSuggesiton": "Qual é a melhor época para visitar Paris?",
+    "followUpQuestion": "Pergunta de acompanhamento...",
+    "searchPlaceholder": "Digite a informação que você quer pesquisar"
+  },
+  "OCRPanel": {
+    "aiOCRTips": "O OCR de IA pode cometer erros",
+    "dragImgTips": "Clique para fazer upload ou solte uma imagem aqui para extrair o texto",
+    "noText": "Nenhum texto reconhecido",
+    "ocrCost": "Cada {{name}} custará {{num}} crédito básico",
+    "ocrTips": "Extraia texto, números e equações de uma imagem"
+  },
+  "pageTranslation": {
+    "title": "Traduzir página",
+    "demoText": "O ChatGPT é alimentado pelo Transformer, um modelo de aprendizado profundo projetado para processamento de linguagem natural, com redes neurais de autoatenção e feedforward.",
+    "free": "Grátis",
+    "aiTranslator2": "Tradutor de IA",
+    "aiTranslatorFunTitle1": "Compreensão de Contexto",
+    "aiTranslatorFunDesc1": "Captura tanto a intenção quanto o tom, indo além da tradução literal",
+    "aiTranslatorFunTitle2": "Tradução Precisa",
+    "aiTranslatorFunDesc2": "Traduza com clareza e precisão, garantindo que nenhum detalhe seja perdido",
+    "newAITranslationTip": "A Tradução de Páginas com IA está agora disponível! Clique aqui para configurá-la.",
+    "translateService": "Serviço de tradução",
+    "translateServiceTip": "A tradução por IA custa créditos básicos com base no comprimento do conteúdo.",
+    "pageTranslation": "Traduza esta página",
+    "showOriginal": "Mostrar texto original",
+    "transSettings": "Configurações de tradução",
+    "source": "Idioma de origem",
+    "target": "Idioma de destino",
+    "autoDetect": "Detecção automática",
+    "displayMode": "Modo de exibição",
+    "displayModes": [
+      "Bilingue",
+      "Apenas tradução"
+    ],
+    "displayStyle": "Estilo de exibição",
+    "displayStyles": [
+      "Nenhum",
+      "Sublinhado",
+      "Enfraquecido"
+    ],
+    "displayStyleDesc": "Apenas para traduções no modo de comparação bilíngue",
+    "autoTrans": "Traduzir automaticamente",
+    "autoTrans2": "Traduzir páginas da web automaticamente",
+    "autoTrans2Desc": "Quando desativado, clique no botão de tradução ou use o atalho",
+    "neverTransSite": "Nunca traduzir este site",
+    "neverTransSites": "Nunca traduzir estes sites",
+    "transAgain": "Traduzir novamente"
+  },
+  "inputTranslation": {
+    "title": "Traduzir entrada",
+    "mainSwitchTitle": "Traduza o texto de entrada com uma tecla de atalho",
+    "mainSwitchDesc": "Traduza e substitua o texto em uma caixa de entrada em qualquer página da web",
+    "triggerKeyTitle": "Tecla de ativação",
+    "triggerKeyDesc": "Pressione a tecla de ativação 3 vezes rapidamente para traduzir, desfazer com {{key}}",
+    "spaceKey": "Tecla de espaço",
+    "model": "Modelo de tradução",
+    "neverTransSites": "Nunca traduzir nesses sites"
+  },
+  "tools": {
+    "thinking_mode": {
+      "name": "Modo de Pensamento",
+      "desc": "O Modo de Pensamento utiliza o raciocínio de Cadeia de Pensamento para analisar problemas complexos através de inferência em várias etapas, fornecendo respostas mais abrangentes e perspicazes.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Pense sobre: 9.11 ou 9.8, qual é maior"
+        },
+        {
+          "title": "",
+          "value": "Pense e escreva uma função para modelar a teoria dos 'Seis Graus de Separação'. Dado uma rede social como um grafo, encontre o caminho mais curto entre duas pessoas quaisquer."
+        }
+      ]
+    },
+    "artifacts": {
+      "name": "Artifacts",
+      "desc": "Crie e apresente facilmente conteúdo, como páginas da web ou fluxogramas, em uma nova janela. Aumente a produtividade com interações em tempo real e um espaço de trabalho focado.",
+      "demos": [
+        {
+          "title": "Criar um Xilofone Virtual",
+          "value": "Criar um xilofone baseado em HTML com teclas coloridas dentro de um {{ARTIFACT}}. Fornecer feedback visual para as teclas pressionadas e gerar sons simples e realistas usando a Web Audio API com base em parâmetros de frequência. Incluir instruções básicas."
+        },
+        {
+          "title": "Criar um Jogo de Emoji comendo Comida",
+          "value": "Criar um jogo simples baseado em HTML, semelhante ao Catch the Candy, dentro de um {{ARTIFACT}}. O jogador controla um emoji na parte inferior da tela, movendo-o rapidamente para a esquerda e para a direita para pegar e comer itens de comida (por exemplo, 🍓, 🍔, 🍎) que caem de cima, enquanto evita bombas (💣). Cada vez que o jogador pega um emoji de comida, seu emoji mudará para uma expressão positiva mais exagerada (por exemplo, 🤩, 😆, 😋) para indicar sucesso. Se o jogador acidentalmente pegar uma bomba, o emoji mostrará primeiro uma explosão (💥) e depois mudará para uma expressão de tonto (😵‍💫)."
+        },
+        {
+          "title": "Criar um Gráfico de Envio de Smartphones",
+          "value": "Usar React para criar um belo gráfico de linhas dentro de um {{ARTIFACT}} com base na seguinte tabela.\n------\n\nEnvios de Smartphones por Grandes Marcas na Última Década (em Bilhões)\n\n| Ano | Samsung | Apple | Huawei | Xiaomi | OPPO |\n|------|---------|-------|--------|--------|------|\n| 2014 | 3.24 | 1.76 | 0.75 | 0.50 | 0.40 |\n| 2015 | 3.36 | 2.00 | 1.00 | 1.00 | 0.80 |\n| 2016 | 3.43 | 2.16 | 1.40 | 1.50 | 1.20 |\n| 2017 | 3.20 | 2.10 | 1.60  | 2.00 | 1.50 |\n| 2018 | 2.94 | 2.20 | 1.70 | 2.50 | 1.80 |\n| 2019 | 3.00 | 2.50 | 2.20 | 3.00 | 2.00 |\n| 2020 | 2.80 | 2.80 | 2.50 | 4.00 | 3.00 |\n| 2021 | 2.90 | 2.90 | 2.00 | 4.50 | 3.50 |\n| 2022 | 2.60 | 2.25 | 1.60 | 3.50 | 3.00 |\n| 2023 | 2.26 | 2.34 | 1.20 | 3.00 | 3.50 |"
+        }
+      ]
+    },
+    "search": {
+      "name": "Acesso Web",
+      "desc": "Obtenha insights em tempo real além dos dados pré-treinados, garantindo respostas precisas e oportunas para eventos atuais, notícias de última hora e tópicos em evolução.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Quais são os filmes mais bem avaliados atualmente nos cinemas dos EUA?"
+        },
+        {
+          "title": "",
+          "value": "Quais ações tiveram aumentos notáveis hoje?"
+        },
+        {
+          "title": "",
+          "value": "Qual é o novo produto eletrônico mais notável lançado hoje?"
+        }
+      ]
+    },
+    "text_to_image": {
+      "name": "Gerar Imagem",
+      "desc": "Descreva simplesmente o que você tem em mente e gere imagens de alta qualidade instantaneamente. Não são necessárias habilidades de design – apenas sua imaginação.",
+      "demos": [
+        {
+          "title": "",
+          "value": "Desenhar um carro voador futurista."
+        },
+        {
+          "title": "",
+          "value": "Esboçar um golden retriever correndo na grama."
+        },
+        {
+          "title": "",
+          "value": "Retratar uma mulher idosa bebendo café casualmente."
+        }
+      ]
+    },
+    "data_analysis": {
+      "name": "Análise de Dados",
+      "desc": "Execute código Python em tempo real para matemática avançada, estatísticas, aprendizado de máquina e processamento de dados, simplificando tarefas em vários formatos.",
+      "demos": [
+        {
+          "title": "Leia os dados do arquivo e crie um gráfico de pizza mostrando a proporção de vários orçamentos de despesas.",
+          "value": "Leia os dados do arquivo e crie um gráfico de pizza mostrando a proporção de vários orçamentos de despesas."
+        }
+      ]
+    }
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Gostou da nossa extensão?</b> Avalie-nos com cinco estrelas na loja virtual para nos ajudar a crescer",
+    "newInVersion": "Novidades na versão {{versionId}}",
+    "learnToUse": "Aprenda a usar",
+    "logTitles": {
+      "4_37_0": "DeepSeek-R1 & V3, Tradutor de IA",
+      "4_36_0": "Colete Conhecimento com Wisebase",
+      "4_35_0": "Visualização de Links: Navegue de Forma Inteligente",
+      "4_34_0": "Respostas Al no Gmail, Artefatos e Melhorias na Tradução",
+      "4_33_0": "O1 & Melhorias no Resumo de Vídeo",
+      "4_32_0": "Suporte para arquivos de áudio no chat",
+      "4_31_0": "Ferramentas Nav, Traduzir Entrada, Cópia Rápida",
+      "4_30_0": "GPT-4o Atualizado, Tradução de Página e Legendas do YouTube",
+      "4_29_0": "Experiência de Chat Aprimorada",
+      "4_28_0": "Claude 3.5 Haiku & Opções Avançadas",
+      "4_27_0": "Menu de Contexto e Artefatos Melhorados",
+      "4_26_0": "Apresentando o Modo de Pensamento (Experimental)",
+      "4_25_0": "Novo Visual para uma Melhor Experiência",
+      "4_24_0": "Os modelos Gemini ficaram mais inteligentes e rápidos!",
+      "4_23_0": "OpenAI o1-preview & o1-mini estão disponíveis agora!",
+      "4_22_0": "Demônio vs Anjo: Raio-X da Sua X-personalidade",
+      "4_20_0": "Upgrade de Recursos de Tradução",
+      "4_19_0": "{{ARTIFACTS}}: Blocos de Conteúdo Interativos em Tempo Real",
+      "4_18_0": "Compartilhamento de Chat Está Disponível!",
+      "4_17_0": "Apresentando Destaques de Vídeos para YouTube",
+      "4_16_0": "Apresentando GPT-4o mini",
+      "4_13_0": "Apresentando Leitura em Voz Alta por IA: Seu Assistente de Áudio Pessoal",
+      "4_12_0": "",
+      "4_11_0": "Leitor profundo para melhorar suas habilidades de leitura crítica!",
+      "4_10_0": "O GPT-4o da OpenAI já está aqui!",
+      "4_9_0": "Llama 3 Agora! A próxima geração do LLM de código aberto de última geração da Meta.",
+      "4_8_0": "Gemini 1.5 Pro - Já Disponível!",
+      "4_7_0": "Resumo em vídeo no chat, extração de legendas, Claude 3 Haiku! 🚀",
+      "4_6_0": "Apoie agora a família Claude 3!",
+      "4_5_0": "",
+      "4_4_0": "Todas as Ferramentas no Menu de Contexto do Chat & GPT-4",
+      "4_3_0": "Maximize sua experiência com o modo de tela cheia!",
+      "4_2_0": "Interface do usuário mais eficiente e acesso a GPTs da barra lateral",
+      "4_1_0": ""
+    },
+    "logContents": {
+      "4_22_0": "Sider está pronto para zoar e vangloriar suas postagens públicas no X (Twitter)! Participe para dar risadas, nenhum dado é mantido. Jogue e compartilhe a alegria com seus amigos!"
+    },
+    "logs": {
+      "4_37_0": [
+        {
+          "features": [
+            "<b>DeepSeek-R1</b>: Igual ao desempenho do OpenAI-o1"
+          ]
+        },
+        {
+          "features": [
+            "<b>DeepSeek-V3</b>: Sobressai em raciocínio complexo, matemática e tarefas de codificação"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tradutor de IA para Página Web</b>: Oferece traduções naturais e precisas"
+          ]
+        }
+      ],
+      "4_36_0": [
+        {
+          "features": [
+            "<b>Salve Páginas da Web e Destaques</b>: Salve conteúdo valioso da web no Wisebase (base de conhecimento Al) com um clique"
+          ]
+        },
+        {
+          "features": [
+            "<b>Al Inbox</b>: Deixe o Al categorizar seu conteúdo automaticamente"
+          ]
+        },
+        {
+          "features": [
+            "<b>Converse com Múltiplos Arquivos</b>: Obtenha respostas instantâneas dos seus arquivos coletados"
+          ]
+        }
+      ],
+      "4_35_0": [
+        {
+          "features": [
+            "<b>Visualizações Instantâneas</b>: Arraste links para ver o conteúdo sem abrir novas abas"
+          ]
+        },
+        {
+          "features": [
+            "<b>Resumos Inteligentes</b>: Obtenha insights principais das páginas num piscar de olhos"
+          ]
+        },
+        {
+          "features": [
+            "<b>Navegação Eficiente</b>: Mantenha o foco com menos cliques e menos distrações"
+          ]
+        }
+      ],
+      "4_34_0": [
+        {
+          "features": [
+            "<b>Respostas Al no Gmail</b>: Suporte para tradução e seleção de modelo Al para melhor comunicação"
+          ]
+        },
+        {
+          "features": [
+            "<b>Artefatos</b>: Exportar fluxogramas como imagens para fácil compartilhamento"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tradução</b>: Dicionário Al para traduções precisas de palavras e frases"
+          ]
+        }
+      ],
+      "4_33_0": [
+        {
+          "features": [
+            "<b>OpenAI o1</b>: Mais rápido que 'o1-preview', destaca-se em tarefas complexas de múltiplas etapas com precisão avançada"
+          ]
+        },
+        {
+          "features": [
+            "<b>Resumir Vídeos Sem Legendas</b>: Obtenha transcrições e resumos de vídeos do YouTube sem legendas"
+          ]
+        },
+        {
+          "features": [
+            "<b>Resumo de Conteúdo da Web</b>: Melhorado para plataformas como Reddit e Twitter"
+          ]
+        }
+      ],
+      "4_32_0": [
+        {
+          "features": [
+            "<b>Áudio para Texto</b>: Envie arquivo MP3, WAV, M4A ou MPGA para gerar transcrições"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ver & Ouvir</b>: Leia transcrições enquanto ouve o áudio"
+          ]
+        },
+        {
+          "features": [
+            "<b>Resumir com Facilidade</b>: Crie resumos rápidos com um clique"
+          ]
+        }
+      ],
+      "4_31_0": [
+        {
+          "features": [
+            "<b>Ferramentas Nav</b>: Acesse ferramentas de IA para imagens, PDFs e vídeos na barra de navegação"
+          ]
+        },
+        {
+          "features": [
+            "<b>Traduzir Entrada</b>: Pressione espaço três vezes para traduzir o texto de entrada (ative em Opções)"
+          ]
+        },
+        {
+          "features": [
+            "<b>Cópia Rápida</b>: Copie texto instantaneamente com o menu de contexto"
+          ]
+        }
+      ],
+      "4_30_0": [
+        {
+          "features": [
+            "<b>GPT-4o (2024-11-20)</b>: Capacidades de escrita natural aprimoradas e melhor manuseio de arquivos"
+          ]
+        },
+        {
+          "features": [
+            "<b>Exibição Apenas de Tradução</b>: A tradução de página agora suporta a visualização apenas do conteúdo traduzido"
+          ]
+        },
+        {
+          "features": [
+            "<b>Melhores Legendas do YouTube</b>: Desfrute de traduções de legendas bilíngues de maior qualidade"
+          ]
+        }
+      ],
+      "4_29_0": [
+        {
+          "features": [
+            "<b>Edição de Mensagens</b>: Edite facilmente mensagens enviadas e reenvie para novas respostas"
+          ]
+        },
+        {
+          "features": [
+            "<b>Comparação Lado a Lado</b>: Veja respostas de múltiplos modelos em página completa"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ícone para Prompts Personalizados</b>: Atribua ícones a prompts personalizados para uma organização mais clara"
+          ]
+        }
+      ],
+      "4_28_0": [
+        {
+          "features": [
+            "<b>Claude 3.5 Haiku</b>: Oferece desempenho que supera o Claude 3 Opus, destacando-se em codificação, uso de ferramentas e raciocínio"
+          ]
+        },
+        {
+          "features": [
+            "<b>Personalizar Tamanho da Fonte</b>: Agora você pode alterar o tamanho da fonte da mensagem"
+          ]
+        },
+        {
+          "features": [
+            "<b>Interface de Usuário Simplificada</b>: Uma interface de opções mais limpa e intuitiva para fácil personalização"
+          ]
+        }
+      ],
+      "4_27_0": [
+        {
+          "features": [
+            "<b>Interface de Usuário Simplificada</b>: Interface mais limpa e intuitiva para uma experiência mais suave"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tradução Aprimorada</b>: Fornece significados de palavras relacionadas com precisão contextual"
+          ]
+        },
+        {
+          "features": [
+            "<b>Publicar e Compartilhar Artefatos</b>: Compartilhe facilmente seus Artefatos publicamente via links"
+          ]
+        }
+      ],
+      "4_26_0": [
+        {
+          "features": [
+            "<b>Raciocínio de Cadeia de Pensamento</b>: Divide tarefas complexas passo a passo para uma solução de problemas mais inteligente"
+          ]
+        },
+        {
+          "features": [
+            "<b>Insights Mais Profundos</b>: Fornece respostas ponderadas para enfrentar questões difíceis"
+          ]
+        },
+        {
+          "features": [
+            "<b>Funciona com Todos os Modelos</b>: Disponível de forma integrada em todos os modelos"
+          ]
+        }
+      ],
+      "4_25_0": [
+        {
+          "features": [
+            "<b>Design Refinado</b>: Visuais modernos, layout mais limpo para facilitar o uso e o foco"
+          ]
+        },
+        {
+          "features": [
+            "<b>Fixação de Prompt</b>: Fixe prompts usados frequentemente para acesso rápido"
+          ]
+        },
+        {
+          "features": [
+            "<b>Tabelas Expansíveis</b>: Visualize grandes volumes de dados em uma nova janela para melhor legibilidade"
+          ]
+        }
+      ],
+      "4_24_0": [
+        {
+          "features": [
+            "<b>Gemini 1.5 Pro</b>: Raciocínio supercarregado com habilidades matemáticas e visuais aprimoradas."
+          ]
+        },
+        {
+          "features": [
+            "<b>Gemini 1.5 Flash</b>: 2x mais rápido, 3x menor latência, melhor em visuais e codificação."
+          ]
+        }
+      ],
+      "4_23_0": [
+        {
+          "features": [
+            "<b>o1-preview</b>: Lida com tarefas complexas e resolve problemas mais difíceis do que os modelos anteriores em ciência, programação e matemática. Custa 15 créditos avançados por mensagem."
+          ]
+        },
+        {
+          "features": [
+            "<b>o1-mini</b>: Um modelo mais rápido, particularmente eficaz em programação. Ideal para raciocínio focado sem conhecimento amplo. Custa 3 créditos avançados por mensagem."
+          ]
+        },
+        {
+          "features": [
+            "<b>Nota</b>: Existem limites de taxa."
+          ]
+        }
+      ],
+      "4_20_0": [
+        {
+          "features": [
+            "<b>Tradução Multi-Modelo</b>: Use vários modelos ao mesmo tempo para traduções mais precisas."
+          ]
+        },
+        {
+          "features": [
+            "<b>Reescritas de Tradução Versáteis</b>: Reescreva traduções para diferentes cenários."
+          ]
+        },
+        {
+          "features": [
+            "<b>Legendas Bilíngues</b>: Veja legendas do YouTube em ambos os idiomas simultaneamente."
+          ]
+        }
+      ],
+      "4_19_0": [
+        {
+          "features": [
+            "<b>Visualização ao Vivo:</b> Visualize e interaja com páginas da web, documentos e gráficos gerados por IA em tempo real."
+          ]
+        },
+        {
+          "features": [
+            "<b>Iteração Sem Interrupções:</b> Itere sobre artefatos gerados através do chat."
+          ]
+        }
+      ],
+      "4_18_0": [
+        {
+          "features": [
+            "<b>Vários Formatos</b>: Compartilhe seu chat como um link ou uma imagem."
+          ]
+        },
+        {
+          "features": [
+            "<b>Seleção Flexível</b>: Selecione e compartilhe uma conversa inteira ou apenas parte dela."
+          ]
+        },
+        {
+          "features": [
+            "<b>Controle Fácil</b>: Revogue links compartilhados a qualquer momento."
+          ]
+        }
+      ],
+      "4_17_0": [
+        {
+          "features": [
+            "<b>Destaques de Vídeos</b>: Narração gerada por IA economiza seu tempo ao destacar rapidamente os pontos principais do vídeo."
+          ]
+        },
+        {
+          "features": [
+            "<b>Narração Natural</b>: Vozes realistas de IA melhoram sua experiência de visualização."
+          ]
+        },
+        {
+          "features": [
+            "<b>Suporte Multilíngue</b>: Entenda facilmente vídeos em diferentes idiomas."
+          ]
+        }
+      ],
+      "4_16_0": [
+        {
+          "features": [
+            "<b>Desempenho Rápido e Superior:</b> Torna as tarefas diárias mais suaves e eficientes."
+          ]
+        },
+        {
+          "features": [
+            "<b>Matemática e Codificação Aprimoradas:</b> Garante desempenho preciso para tarefas técnicas."
+          ]
+        },
+        {
+          "features": [
+            "<b>Atualização do GPT-3.5:</b> GPT-4o mini substitui o GPT-3.5 com melhor desempenho."
+          ]
+        }
+      ],
+      "4_13_0": [
+        {
+          "features": [
+            "<b>Vozes Naturais de IA</b>: Desfrute de 9 vozes de IA com som natural em vários idiomas."
+          ]
+        },
+        {
+          "features": [
+            "<b>Ouça em Qualquer Lugar</b>: Selecione qualquer texto em uma página web para ouvi-lo em voz alta."
+          ]
+        },
+        {
+          "features": [
+            "<b>Suporte à Barra Lateral</b>: Ouça facilmente o conteúdo gerado por IA a partir de widgets na barra lateral."
+          ]
+        }
+      ],
+      "4_12_0": [
+        {
+          "features": [
+            "<b>Suporte para Claude 3.5 Sonnet:</b> O modelo mais recente da Anthropic, com o dobro da velocidade do Claude 3 Opus e inteligência superior, melhora significativamente o raciocínio, conhecimento, codificação e tarefas visuais."
+          ]
+        },
+        {
+          "features": [
+            "<b>Aposentadoria do Claude 3 Opus:</b> substituído pelo avançado Claude 3.5 Sonnet."
+          ]
+        },
+        {
+          "features": [
+            "<b>Convide & Ganhe:</b> Convide seus amigos para ganhar consultas gratuitas e experimentar o modelo mais recente hoje mesmo!"
+          ]
+        }
+      ],
+      "4_11_0": [
+        {
+          "features": [
+            "<b>Múltiplas páginas da web:</b> Leia várias páginas da web ou documentos ao mesmo tempo"
+          ]
+        },
+        {
+          "features": [
+            "<b>Ferramentas de leitura crítica:</b> Esclareça conceitos-chave, Identifique suposições, Destaque trechos, Saiba mais sobre o autor e muito mais."
+          ]
+        },
+        {
+          "features": [
+            "<b>{{SIDERFUSION}}:</b> Seleciona dinamicamente o melhor modelo rápido (GPT-3.5, Claude 3 Haiku, Gemini 1.5 Flash ou Llama 3) para a sua tarefa específica."
+          ]
+        }
+      ],
+      "4_10_0": [
+        {
+          "features": [
+            "<b>Velocidade Aumentada:</b> Obtenha respostas 2x mais rápidas do que GPT-4"
+          ]
+        },
+        {
+          "features": [
+            "<b>Visão Aprimorada:</b> Compreensão de imagens grandemente melhorada"
+          ]
+        },
+        {
+          "features": [
+            "<b>Línguas Expandidas:</b> Mais línguas, melhor qualidade e desempenho mais rápido"
+          ]
+        }
+      ],
+      "4_9_0": [
+        {
+          "features": [
+            "<b>Novo Modelo:</b> Suporte ao Llama 3 agora"
+          ]
+        }
+      ],
+      "4_8_0": [
+        {
+          "features": [
+            "<b>Novo Modelo:</b> Suporte ao Gemini 1.5 Pro agora"
+          ]
+        },
+        {
+          "features": [
+            "<b>Novas Ferramentas de Imagem IA:</b> Acesse recursos de IA passando o mouse sobre qualquer imagem"
+          ]
+        }
+      ],
+      "4_7_0": [
+        {
+          "features": [
+            "Resumo no chat: Obtenha pontos-chave de vídeos do YouTube com 'Leia esta página' na janela de chat."
+          ]
+        },
+        {
+          "features": [
+            "Extração fácil de legendas: Obtenha legendas com um único clique no YouTube para insights mais profundos."
+          ]
+        },
+        {
+          "features": [
+            "Claude 3 Haiku: Agora disponível para enriquecer sua experiência de chat."
+          ]
+        }
+      ],
+      "4_6_0": [
+        {
+          "features": [
+            "<b>Claude 3 Opus:</b> Alega ter habilidades \"quase humanas\" e pode vencer o GPT-4."
+          ]
+        },
+        {
+          "features": [
+            "<b>Claude 3 Sonnet:</b> Equilibra inteligência e velocidade, ideal para recuperar informações ou automatizar vendas."
+          ]
+        }
+      ],
+      "4_5_0": [
+        {
+          "features": [
+            "<b>Widget de Agente de Busca:</b> Experimente o futuro da busca com automação de IA"
+          ]
+        },
+        {
+          "features": [
+            "<b>Traduzir página da web:</b> Estilos de exibição de tradução mais amigáveis para o leitor"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nova Configuração:</b> Retomar automaticamente o último chat ao abrir a Barra Lateral"
+          ]
+        }
+      ],
+      "4_4_0": [
+        {
+          "features": [
+            "<b>Nova Ferramenta Avançada de Análise de Dados:</b> Interpretador de Código para manipulação eficiente de dados e cálculos complexos"
+          ]
+        },
+        {
+          "features": [
+            "<b>Nova Ferramenta de Pintura:</b> Crie imagens instantaneamente no chat"
+          ]
+        },
+        {
+          "features": [
+            "<b>Menu de Contexto Aprimorado:</b> Use o GPT-4 no menu de contexto."
+          ]
+        }
+      ],
+      "4_3_0": [
+        {
+          "features": [
+            "Mergulhe em uma visualização imersiva em tela cheia"
+          ]
+        },
+        {
+          "features": [
+            "Aproveite todos os recursos da barra lateral, agora em tela cheia"
+          ]
+        },
+        {
+          "features": [
+            "Alternância perfeita entre os modos para o melhor dos dois mundos"
+          ]
+        }
+      ],
+      "4_2_0": [
+        {
+          "features": [
+            "<b>Interface atualizada:</b> Mais limpo e fácil de navegar"
+          ]
+        },
+        {
+          "features": [
+            "<b>Barra de navegação dobrável:</b> Garante uma experiência de bate-papo focada, mantendo os recursos essenciais ao seu alcance"
+          ]
+        },
+        {
+          "features": [
+            "<b>Acesso a GPTs da barra lateral:</b> Para usuários do ChatGPT Plus, o acesso direto aos GPTs agora está disponível na barra lateral no modo de aplicativo Web"
+          ]
+        }
+      ],
+      "4_1_0": [
+        {
+          "title": "Visualização do GPT-4V (isão)! & Resposta de IA para Gmail",
+          "features": [
+            "{{SIDERVISION}} é alimentado por GPT-4V",
+            "Melhor compreensão das imagens",
+            "Entenda rapidamente as intenções do e-mail",
+            "Selecione entre diversos tons e personas",
+            "Escolha sugestões de resposta sem esforço"
+          ]
+        }
+      ],
+      "4_0_0": [
+        {
+          "title": "Página GPT-4 Turbo e Chat!",
+          "features": [
+            "Suporta GPT-4 Turbo e GPT-3.5 Turbo",
+            "Traduzir página inteira da web",
+            "Página de bate-papo na barra lateral",
+            "PDF de bate-papo na barra lateral"
+          ]
+        }
+      ],
+      "3_6_0": [
+        {
+          "title": "Widget de tradução",
+          "features": [
+            "Personalize sua tradução em um widget de tradução dedicado",
+            "Melhore as respostas do ChatGPT no Google, Bing, Baidu, etc."
+          ]
+        }
+      ],
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} ficou mais inteligente",
+          "features": [
+            "{{4+VISION}}",
+            "1 clique para responder à mesma pergunta com bots diferentes"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Widget de gramática sider",
+          "features": [
+            "Verifique erros gramaticais",
+            "Corrigir erros gramaticais",
+            "Melhore a escrita além da gramática"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Barra lateral ChatGPT com Vision",
+          "features": [
+            "Extraia texto de uma imagem",
+            "Faça qualquer pergunta sobre a imagem",
+            "3 maneiras de enviar imagem para {{SIDERVISION}} <div><ol><li>Fazer uma captura de tela</li><li>Arrastar e soltar uma imagem na janela de bate-papo</li><li>Fazer upload de uma imagem </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Extraia texto de uma imagem"
+          ]
+        },
+        {
+          "features": [
+            "Extraia texto de uma imagem"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Novo plano de preços com 5x mais créditos GPT-4",
+          "features": [
+            "Ótima notícia! Nossa atualização de preços agora oferece ainda mais acesso a créditos GPT-4 e Claude 2.",
+            "Se você já for um usuário premium, será atualizado automaticamente. Além disso, temos um novo plano ‘Ilimitado’ para todos os usuários avançados!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Mais robôs!",
+          "features": [
+            "Além de ChatGPT e Claude, Sider apoia Bard agora!"
+          ]
+        },
+        {
+          "title": "OCR: Extraia texto de qualquer imagem e envie para ChatGPT",
+          "features": [
+            "Reconheça mais de 10 idiomas principais",
+            "Reconhecer manuscritos em inglês",
+            "Reconhecer <b>equações matemáticas</b> no texto"
+          ]
+        },
+        {
+          "title": "Melhorar o Pintor",
+          "features": [
+            "Substitua todo o fundo",
+            "Remover área selecionada"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Mais Chatbots</b>: Agora apoiando Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Bate-papo em grupo</b>: compare respostas entre chatbots!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Mencionar</b>: Use '@' para mencionar e interagir facilmente com qualquer chatbot na conversa!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Prompt rápido</b>: basta digitar '/' e pronto!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Design Simples</b>: Torne o design simples e fácil de navegar"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Gerenciador de prompt aprimorado para",
+          "features": [
+            "Lendo o menu de contexto",
+            "Escrevendo menu de contexto"
+          ]
+        },
+        {
+          "title": "Editor de imagens de IA",
+          "features": [
+            "Remova o fundo de qualquer imagem",
+            "Remova o texto de qualquer imagem"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Assistente de leitura: use IA para compreensão rápida ao ler páginas da web",
+        "Assistente de redação: gere conteúdo rapidamente com IA na caixa de entrada da web"
+      ],
+      "2_7_0": [
+        "Desenhar a partir do texto",
+        "Desenhar a partir de uma imagem de referência"
+      ],
+      "2_6_0": [
+        "O Sider oferece suporte à barra lateral fixa - você pode conversar entre todas as guias sem sobrepor nenhum conteúdo <br /> (disponível no Chrome 114 ou posterior)"
+      ],
+      "2_5_0": [
+        "Resumo do YouTube! Assista 1 hora de vídeo do YouTube em 1 minuto",
+        "Compare as respostas fornecidas por humanos e IA em sites de perguntas e respostas, como Quora, StackOverflow e Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Acesso inteligente à web</b>: Com base em sua consulta, o Al decidirá se precisa acessar a web.",
+        "Melhoria de estabilidade"
+      ],
+      "2_3_0": [
+        "Navegação de suporte e plug-ins para usuários Plus!",
+        "ChatGPT com acesso à internet para todos!"
+      ],
+      "2_2_0": [
+        "Componha qualquer mensagem",
+        "Responder e-mail, twittar, comentar, etc."
+      ],
+      "2_1_0": [
+        "Atalho para pesquisa rápida",
+        "Redimensionar a janela de pesquisa rápida",
+        "Correções de bugs e outras melhorias de UX"
+      ],
+      "2_0_0": [
+        "Suporte <b>GPT-4 </b>para todos os usuários!",
+        "Convide amigos e ganhe créditos <b>GPT-4</b> para ambos!",
+        "Correções de bugs e outras melhorias de UX"
+      ],
+      "1_1_0": [
+        "Bate-papo completo na <b>nova guia</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> juntos!",
+        "Correções de bugs"
+      ],
+      "1_0_13": [
+        "Continue o bate-papo depois de fazer perguntas",
+        "Alternar entre GPT-4 e GPT-3.5 para usuários Plus",
+        "Acesse e pesquise facilmente o histórico de bate-papo"
+      ],
+      "1_0_12": [
+        "Sincronizar configurações de extensão entre computadores",
+        "Acesse seus prompts de diferentes laptops",
+        "Salvar bate-papos para uso futuro",
+        "Compartilhar bate-papos via link"
+      ],
+      "1_0_11": [
+        "Acesse ações rapidamente por meio de uma janela pop-up sem abrir a barra lateral.",
+        "Adicione suporte para idiomas adicionais.",
+        "Mantenha a preferência de idioma do usuário ao usar o recurso de tradução.",
+        "Resolva conflitos de atalho em plataformas como GitHub e outras."
+      ],
+      "1_0_10": [
+        "Suporte a mais de 50 idiomas agora!"
+      ],
+      "1_0_8": [
+        "Suporte GPT-4 para usuários Plus! Verifique a página de configurações!"
+      ],
+      "1_0_7": [
+        "Lembre-se do prompt usado da última vez",
+        "Otimize a posição do painel chatGPT nas páginas de pesquisa",
+        "Adicione uma opção para colocar o ícone in-page da barra lateral no lado esquerdo",
+        "Otimize o tamanho do pacote",
+        "Adicionar modo escuro",
+        "Apoie seu proxy de URL de API"
+      ],
+      "1_0_6": [
+        "Melhorar o recurso de resumo na página do Youtube"
+      ],
+      "1_0_5": [
+        "Lembre-se da localização do ícone da barra lateral",
+        "Melhore as teclas de atalho",
+        "Salve modelos de prompt diretamente na barra lateral"
+      ],
+      "1_0_4": [
+        "Reordenar itens de prompt na lista suspensa",
+        "Arquivar itens de prompt que você não usará",
+        "Resposta de suporte em mais de 50 idiomas"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter para fazer um “Enviar” rápido",
+        "Opção para ocultar o painel na página de resultados da pesquisa",
+        "Suporte ESC para ocultar a barra lateral",
+        "Suporte resumir artigo longo"
+      ],
+      "1_0_2": [
+        "Adicionar botão de parada para parar de gerar resposta",
+        "Alterar o local do botão de recolhimento"
+      ],
+      "1_0_1": [
+        "Melhorar o recurso de resumo na página do Youtube",
+        "Corrija alguns bugs relacionados a copiar/colar e imprimir"
+      ]
+    }
+  },
+  "toolsUpgradeContent": {
+    "content1": "Ative as ferramentas de chat para desbloquear recursos poderosos.",
+    "content2": [
+      "Explore a internet de forma contínua.",
+      "Transforme suas ideias em visuais impressionantes.",
+      "Aprofunde-se nos dados com análises especializadas."
+    ]
+  },
+  "producthuntPromote": {
+    "voteBtn": "Vote na Caça ao Produto",
+    "sidebar2Banner1": "Vote em nós no <b>Product Hunt</b> AGORA para espalhar a palavra.",
+    "sidebar2ModalTitle": "✨ Resumo da barra lateral 2.0",
+    "sidebar2ModalDesc": "• guia de bate-papo\n  • Pesquisa rápida para consultas rápidas\n  • Uma conta para sincronizar prompts\n  • Salvar e compartilhar bate-papos\n  • Suporta mais idiomas\n  • Suporte GPT-4",
+    "ios1Banner1": "Vote no ChitChat - aplicativo ChatGPT para iOS 🎉",
+    "ios1Banner2": "Vamos começar as coisas com um estrondo! 😄",
+    "ios1ModalTitle": "✨ Novidade no aplicativo ChitChat para iOS",
+    "ios1ModalDesc": "• Obtenha respostas do ChatGPT 3.5 e 4\n• Uma equipe de suporte de bots ajuda você em um só lugar\n  • Transforme seu PDF em um chatbot"
+  },
+  "promotePreset": {
+    "macTitle": "{{APP_NAME}} para Mac",
+    "macContent": "Temos o prazer de anunciar que o Sider agora está disponível para usuários de Mac! Desfrute de uma experiência perfeita e eficiente adaptada apenas para Mac, juntamente com todos os recursos poderosos que você adora em nossa versão web.",
+    "macContent2": "{{APP_NAME}} agora está disponível para Mac!",
+    "macDownload": "Baixe Agora!",
+    "phTitle": "Adora usar nossa extensão?",
+    "phContent": "Tire um momento para nos apoiar com um voto positivo no <i>Product Hunt</i>—é rápido, fácil e nos ajuda muito!",
+    "phContent2": "Vote em nós no <b>Product Hunt</b>",
+    "phVote": "Vote agora!",
+    "phTitle2": "Lançamos versões do Sider 3.X no <i>Product Hunt</i>.",
+    "phFeatures1": "<b>Widgets ChatGPT</b>: escreva, extraia texto de imagens, verifique gramática e traduza, tudo em um só lugar.",
+    "phFeatures2": "<b>Sider Vision</b>: converse sobre imagens com o GPT-4 Vision, levando a conversação sobre IA para o próximo nível.",
+    "phFeatures3": "<b>Bate-papo com IA em grupo</b>: interaja com ChatGPT, GPT-4, Claude e Bard em um bate-papo em grupo inovador.",
+    "phFeatures4": "<b>Somos todos ouvidos</b>: Seu feedback molda a Sider - compartilhe suas idéias, estamos ouvindo!",
+    "phVote2": "Vote na <i>Product Hunt</i>",
+    "phVoteTips": "<b>A votação de hoje é fundamental</b> - Apoie-nos agora!",
+    "halloweenCountdown": "Oferta Assustadora: <b>{{time}} Restante</b>",
+    "halloweenCountdown2": "{{price}} DE DESCONTO: <b>{{time}} Restante</b>",
+    "halloweenCardTitle": "Desconto de Halloween",
+    "halloweenCardDesc": "Desbloqueie Economias Assustadoras",
+    "halloweenCardTitle2": "Garanta seu Brinde de Halloween",
+    "halloweenCardDesc2": "Aproveite {{price}} DE DESCONTO",
+    "blackFridayCountdown": "Black Friday: <b>{{time}} Restante</b>",
+    "xmasCountdown": "Promoção de Fim de Ano: <b>{{time}} Restantes</b>"
+  },
+  "timeUnit": {
+    "day": "Dia",
+    "day_one": "Dia",
+    "day_other": "Dias",
+    "hour": "Hora",
+    "hour_one": "Hora",
+    "hour_other": "Horas",
+    "minute": "Minuto",
+    "minute_one": "Minuto",
+    "minute_other": "Minutos",
+    "second": "Segundo",
+    "second_one": "Segundo",
+    "second_other": "Segundos"
+  },
+  "searchTool": {
+    "questionMark": "Acione o ChatGPT acrescentando um ponto de interrogação após sua consulta",
+    "fiveStart": "Gostou desta extensão? Dê-nos uma classificação de 5 estrelas em {{store}}",
+    "loginAndCloudflareCheck": "Faça o login e passe na verificação Cloudflare em {{web}}",
+    "braveTrouble": "Ainda não funciona? Siga {{url}}",
+    "cloudflareCheck": "O OpenAI requer passar por uma verificação de segurança de vez em quando. Se isso continuar acontecendo, altere o provedor AI para OpenAI API nas <i>opções de extensão</i>.",
+    "failedResponse": "Falha ao carregar a resposta do ChatGPT:",
+    "whenToAskTips": "Cada pesquisa consome um crédito básico. Clique aqui para definir quando pedir ao ChatGPT.",
+    "waitResponse": "Aguardando resposta do ChatGPT..."
+  },
+  "shareChat": {
+    "5starRatings": "<num>50K</num> Avaliações de 5 Estrelas",
+    "AIContentWarning": "Conteúdo gerado por IA pode nem sempre ser autêntico",
+    "activeUsers": "<num>5M+</num> Usuários Ativos",
+    "copyIamge": "Copiar Imagem",
+    "copyLink": "Copiar Link",
+    "downloadImage": "Baixar Imagem",
+    "generateImage": "Gerar Imagem",
+    "generateLink": "Gerar Link",
+    "linkCopied": "Link Copiado",
+    "linkGenerated": "Link Gerado",
+    "qrcodeTip": "Escaneie para obter o {{APP_NAME}}!",
+    "selectAll": "Selecionar tudo",
+    "shareOn": "Compartilhar no",
+    "slogan": "Seu assistente de IA",
+    "socialMediaImageCopiedTip": "Imagem copiada e pronta para colar."
+  },
+  "sidepanel": {
+    "title": "Sider suporta barra lateral fixa",
+    "tip": "Dica: ajuste a largura do painel lateral adequadamente para uma melhor experiência.",
+    "benefit1": "A barra lateral do Sider <b>nunca desaparecerá</b> se você navegar para uma nova página.",
+    "benefit2": "Você pode conversar entre todas as guias sem <b>sobrepor nenhum conteúdo</b>.",
+    "benefit3": "Disponível apenas no <b>Google Chrome 114 ou posterior</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Custa 1 crédito básico e 1 consulta de leitor",
+    "smartPlayCost": "Custa 1 consulta de texto rápido e 1 consulta de leitor, a leitura por voz é cobrada conforme o uso",
+    "smartPlayOnlyCost": "a leitura por voz é cobrada conforme o uso",
+    "videoSummaryBtn": "Resumir vídeo",
+    "videoSummaryMakeFullBtn": "Fazer um Resumo Completo",
+    "keyMomentsCollapse": "Recolher",
+    "keyMomentsClickExpand": "Clique para expandir",
+    "originalSubtitles": "Legendas originais",
+    "transcribing": "Transcrição",
+    "expandAll": "Expandir tudo",
+    "loginToAsk": "Faça login para perguntar",
+    "videoSummaryText": "Resumo de vídeo",
+    "summary": "Resumir",
+    "smartPlay": "Resumo de vídeo",
+    "createShortenVideo": "Criar Vídeo Curto",
+    "smartPlayBtnTips": "Assista a um vídeo curto que ajuda você a ver os destaques rapidamente e economizar tempo.",
+    "shortenVideoTips": "Converter este vídeo em um resumo conciso capturando os pontos principais!",
+    "smartPlaySwtichVoiceTitle": "Aviso de Dedução de Créditos",
+    "smartPlaySwitchVoiceContent": "Mudar para uma voz diferente deduzirá créditos novamente com base no comprimento total do roteiro do vídeo. O vídeo continuará a ser reproduzido a partir da posição atual. Você quer continuar?",
+    "smartPlaySwitchVoiceBtn": "Sim, Mudar Voz",
+    "smartPlaySwitchVoiceCancel": "Não, Cancelar",
+    "smartPlayReturnToCurrentProgress": "Retornar ao progresso atual",
+    "smartPlayPlaybackEnded": "Reprodução dos destaques encerrada",
+    "showHighlights": "Mostrar destaques",
+    "hideHighlights": "Ocultar destaques",
+    "previousHighlight": "Destaque anterior",
+    "nextHighlight": "Próximo destaque",
+    "showSubtitles": "Mostrar legendas",
+    "hideSubtitles": "Ocultar legendas",
+    "fullScreen": "Tela cheia",
+    "playbackSpeed": "Velocidade de reprodução",
+    "subtitle": "Legenda",
+    "subtitles": "Legendas",
+    "responseLanguage": "Idioma da resposta",
+    "bilingual": "Bilíngue",
+    "subtitleFailed": "Falha ao carregar legendas",
+    "videoTooLang": "Para a sumarização, os vídeos devem ter menos de 10 horas de duração.",
+    "displayTranslation": "Mostrar tradução",
+    "noSubtitleTips": "A sumarização está disponível apenas para vídeos com legendas no momento.",
+    "shareToComment": "Compartilhar para comentar",
+    "generatedBy": "Gerado por {{name}}",
+    "shownotes": "Destaques",
+    "freeLimitTips": "Seu teste gratuito acabou, atualize agora para continuar usando o recurso de resumo em vídeo.",
+    "askQuestionBtn": "Responder",
+    "noQuestionTip": "{{APP_NAME}} não consegue obter o problema na página.",
+    "targetLanguage": "Idioma de destino",
+    "whisperCostText": "Este vídeo não possui legendas externas e requer transcrição para resumir. (1 Crédito Avançado/10 min ou menos)"
+  },
+  "quickActions": {
+    "requireSignin": "Login obrigatório",
+    "siginHint": "Faça login para acessar este recurso.",
+    "askAI": "Pergunte a {{name}}",
+    "defaultPlaceholder": "Pergunte qualquer coisa ao {{APP_NAME}}",
+    "defaultPlaceholder2": "Pergunte ao {{APP_NAME}} com o conteúdo acima",
+    "managePrompts": "Gerenciar prompts",
+    "pressToClose": "Pressione {{name}} para fechar",
+    "disableOnce": "Ocultar até a próxima visita",
+    "disableSite": "Desativar neste site",
+    "disableGlobal": "Desativar em todos os sites",
+    "continueImproving": "Continuar melhorando",
+    "dictExample": "Exemplo:"
+  },
+  "wisebase": {
+    "inbox": "Caixa de Entrada de IA",
+    "myWisebase": "Meu {{name}}",
+    "highlight": "Destacar",
+    "unhighlight": "Remover destaque",
+    "HighlightInvalid": "Destaques ausentes",
+    "HighlightInvalidDesc": "Devido a alterações nesta página da web, seus destaques não estão mais visíveis. Você ainda pode acessá-los no seu <a>{{name}}</a>.",
+    "viewInSite": "Ver no site",
+    "addCollection": "Adicionar um {{name}}",
+    "savePage": "Salvar página",
+    "editSavedPage": "Editar página salva",
+    "failedToSave": "Falha ao salvar",
+    "failedToDelete": "Falha ao excluir",
+    "pageRemoved": "Página excluída",
+    "removePage": "Excluir página?",
+    "removePageDesc": "Isso excluirá a página junto com seus destaques.",
+    "saving": "Salvando",
+    "pageSaved": "Página salva",
+    "vistMyWisebase": "Abrir {{name}}",
+    "errNameExists": "Nome já existe"
+  },
+  "msg": {
+    "searchNotFound": "Nenhum resultado encontrado",
+    "iosDownload": "Baixar aplicativo para iOS / Android",
+    "notSupportFile": "Formato de arquivo não suportado",
+    "supportedFileFormat": "Os formatos de arquivo suportados são {{formats}}",
+    "maxFileSize": "O tamanho máximo do arquivo é {{size}}",
+    "maxSize": "Tamanho máximo: {{num}}",
+    "fetchFailed": "A imagem não pôde ser recuperada. Você pode baixá-la e enviá-la manualmente.",
+    "enterAPIKey": "Insira sua chave de API OpenAI",
+    "selectModel": "Selecione um modelo válido",
+    "changeSaved": "Alterações salvas",
+    "fiveStart": "Dê-nos um 5 estrelas",
+    "inviteTitle": "Convidar e Recompensas",
+    "inviteEarn": "Ganhe <mx>{{num}} créditos</mx> para você e seus amigos. <b>Quanto mais você indicar, mais você ganha</b>.",
+    "inviteStep1": "Indique seus amigos com link de convite",
+    "inviteStep2": "Seus amigos se inscrevem",
+    "inviteStep3": "Eles instalam extensão e login. Recompensas conquistadas!",
+    "checkInvitation": "Verifique os registros de convite",
+    "invitedRewardObtained": "Recompensas Obtidas!",
+    "invitedWelcome": "Bem-vindo! Os créditos GPT foram adicionados à sua conta!",
+    "inviteFriendJoin_one": "{{count}} amigo se juntou",
+    "inviteFriendJoin_other": "{{count}} amigos se juntaram",
+    "getMoreGPT4": "Obtenha mais Crédito Avançado",
+    "ttsChooseVoice": "Escolha uma Voz",
+    "ttsChooseVoiceLater": "Você pode mudar isso mais tarde.",
+    "ttsCharacterLimit": "Limite de Caracteres Atingido",
+    "ttsCharacterLimitDesc": "O Ler em Voz Alta por IA tem um limite de {{count}} caracteres. Por favor, selecione um texto mais curto ou use a voz grátis.",
+    "ttsCharacterLimitDesc2": "Esta mensagem é muito longa para ser lida por vozes de IA. Você pode usar a voz grátis em vez disso.",
+    "ttsCreditLimit": "Créditos básicos insuficientes",
+    "ttsCreditLimitDesc": "Você não tem créditos básicos suficientes para esta voz. Por favor, faça upgrade do seu plano ou use a voz grátis.",
+    "ttsChangeVoiceTip": "Aviso de Dedução de Créditos",
+    "ttsChangeVoiceTipDesc": "Trocar para uma voz diferente deduzirá créditos novamente. Tem certeza de que deseja continuar?",
+    "dontRemindAgain": "Não me pergunte novamente",
+    "failToPlay": "Falha ao reproduzir",
+    "onlyOneRequest": "Solicitação Ativa em Andamento",
+    "onlyOneRequestDesc": "Sua conta tem uma solicitação ativa - apenas uma solicitação por vez. Por favor, tente novamente mais tarde.",
+    "basicCreditLimit": "Créditos Básicos Esgotados",
+    "basicCreditLimitDesc": "Você usou todos os seus Créditos Básicos. Atualize seu plano ou convide amigos para obter mais créditos.",
+    "errSiderLoginExpired": "Sua sessão expirou, por favor faça login novamente",
+    "errSiderAdminKickout": "Você foi desconectado, por favor faça login novamente",
+    "errSiderUserBanned": "Sua conta foi suspensa devido à detecção de atividade incomum (por exemplo, violações de regras ou compartilhamento de conta). Se tiver alguma dúvida, envie um e-mail para care@sider.ai com os detalhes da sua conta.",
+    "errSiderDeviceLimitLogout": "Você foi desconectado devido ao limite de dispositivos atingido. Você pode fazer login novamente e isso desconectará o dispositivo ativo mais antigo da sua conta.",
+    "errSiderApiTrialFeatLimit": "Você atingiu o limite de teste para o recurso premium. Faça upgrade para desbloquear todos os recursos.",
+    "errSiderApiLimitDevice": "Faça login para usar.",
+    "errSiderApiLimitLogin": "Você usou todos os créditos gratuitos hoje. Faça upgrade ou convide amigos para mais, ou espere até o reinício dos créditos amanhã.",
+    "errSiderApiLimitPremium": "Seu Crédito Básico para este mês foi esgotado. Mude para Crédito Avançado, aguarde a redefinição no próximo mês (data de assinatura) ou faça um upgrade para mais.",
+    "errSiderApiLimitPremiumDiscount": "Você usou todos os seus créditos. Faça upgrade agora para créditos ilimitados com <b>$1</b> de desconto.",
+    "errSiderTranslateApiLimitPremium": "Seu Crédito Básico para este mês foi esgotado. Por favor, aguarde a redefinição no próximo mês (data de assinatura) ou faça um upgrade para mais.",
+    "errSiderApiImageLimit": "Você usou todos os créditos básicos e por favor faça um upgrade para continuar usando este recurso.",
+    "errSiderApiSummaryVideoLimit": "Você usou todos os seus créditos. Por favor, faça upgrade ou convide amigos para obter mais.",
+    "errSiderApiOcrLimit": "Você usou todos os seus créditos básicos. Por favor, faça upgrade para continuar acessando este recurso.",
+    "errSiderApiImgLimitPremiumUltra": "Você atingiu o número máximo de créditos básicos. Por favor, espere o próximo reinício para continuar usando.",
+    "errSiderPremiumRequired": "Este recurso está disponível exclusivamente para usuários premium. Atualize agora para desbloquear esta funcionalidade.",
+    "errSiderHighTrafficError": "Devido ao alto tráfego, tente novamente mais tarde ou atualize para uma conta premium para acesso mais rápido.",
+    "errSiderHighTrafficTip": "Por favor, considere <a>atualizar para uma conta premium</a> para acesso estável e para apoiar nosso desenvolvimento.",
+    "errSiderDeviceBinded": "Faça login para usar.",
+    "errSiderApiHighLoad": "O servidor OpenAI está ocupado no momento. Por favor, tente novamente mais tarde.",
+    "errSiderGPT4HighLoad": "O servidor OpenAI está ocupado no momento. Por favor, tente novamente mais tarde.",
+    "errSiderOpenaiFault": "O servidor Openai está ocupado. Mude para {{model}} durante a interrupção do OpenAI.",
+    "errServiceUnavailable": "O servidor Openai está ocupado, tente novamente mais tarde ou mude para a API Sider e use {{model}} durante a interrupção do OpenAI.",
+    "errSiderGPT4LimitDevice": "Por favor, <b>faça login</b> primeiro, e <amb>convide seus amigos</amb> ou <ta>faça upgrade para premium</ta> para obter mais crédito avançado.",
+    "errSiderGPT4LimitLogin": "Faça upgrade ou convide amigos para desbloquear mais Créditos Avançados para respostas mais detalhadas.",
+    "errSiderGPT4LimitPremium": "Você usou todos os seus Créditos Avançados mensais. Atualize seu plano para uma cota mensal maior ou adquira um pacote de reforço de Créditos Avançados para uso imediato!",
+    "errSiderGPT4LimitPremiumDiscount": "Seus Créditos Avançados para este mês foram usados. Faça upgrade agora para créditos ilimitados com <b>$1</b> de desconto, ou espere o reinício no próximo mês (data de assinatura).",
+    "errSiderDataAnalysisCredit": "Esta resposta precisa de Análise de Dados (1 Crédito Avançado). Você está sem Créditos Avançados, então faça um upgrade ou convide amigos para obter mais!",
+    "errSiderNeedLogin": "Faça login para usar.",
+    "errGeminiPro": "Erro {{GEMINI}}, por favor tente novamente mais tarde.",
+    "errSiderO1Limit1": "O modelo OpenAI o1 está em alta demanda e atingiu seu limite de cota. Não se preocupe, você também pode fazer perguntas ao OpenAI o1 gratuitamente em nosso site de perguntas e respostas dirigido pela comunidade: <a>ask.sider.ai</a>",
+    "errSiderAudioAdvancedLimit": "Você precisa de mais Créditos Avançados. Cada 10 minutos (ou menos) de áudio custa 1 Crédito Avançado. Atualize ou convide amigos para obter mais!",
+    "goToSignIn": "Vá para fazer login",
+    "errSiderTimeout": "A solicitação expirou. Por favor, tente novamente.",
+    "errSiderProcessing": "Apenas uma mensagem por vez. Aguarde a conclusão de qualquer outra resposta antes de enviar outra mensagem ou aguarde um momento.",
+    "errTrySiderAPI": "Alterne para <i>ChatGPT Sidebar API</i> para obter acesso estável (para todos)",
+    "errTrySiderAPI2": "OU use sua própria chave de API na <a>página de configuração</a> (para desenvolvedores)",
+    "errChatGPTAuth": "<m>clique no link para fazer login </m>na sua página do ChatGPT e nós o ajudaremos a fixá-lo. Então você pode usá-lo na barra lateral.",
+    "errChatGPTAuthTipTitle": "Se não funcionar:",
+    "errChatGPTFailToFetch": "Falha ao obter resposta do ChatGPT.",
+    "errOpenaiFailToFetch": "Falha ao obter resposta do OpenAI por meio de sua chave de API.",
+    "errSiderCreditUsageLimit": "Limite de Uso Atingido",
+    "errSiderCreditFreqLimit": "Você atingiu o limite de uso atual. Este limite garante o uso justo para todos os usuários. Por favor, tente novamente após {{count}} minutos.",
+    "errSiderBasicTextLimit": "Você atingiu o limite de taxa para crédito básico. Atualmente, há uma restrição de {{count}} mensagens a cada 60 minutos. Alternativamente, você pode usar crédito avançado e voltar mais tarde.",
+    "errSiderAdvancedTextLimit": "Você atingiu o limite de taxa para crédito avançado. Atualmente, há uma restrição de {{count}} mensagens a cada 60 minutos. Alternativamente, você pode usar crédito básico e voltar mais tarde.",
+    "errSiderUnlimitedLimit": "Você atingiu um limite temporário ({{timesToUse}} vezes / {{periodTime}} hora) em Créditos Avançados. Estamos tentando obter mais créditos para você. Novos créditos estarão disponíveis em {{resetTime}}. Precisa de mais agora? Experimente um pacote de reforço!",
+    "errorOutputLimit": "Limite de comprimento atingido. Faça upgrade para obter uma resposta mais longa.",
+    "errorFileType": "Formato de arquivo não suportado",
+    "error1139_1": "Obrigado por usar planos ilimitados! Você ainda pode continuar a usar modelos avançados de IA. No entanto, você atingiu um limite de velocidade temporário. <a>Aqui está o motivo pelo qual há um limite de velocidade e como estamos tentando ajudá-lo</a>. Por favor, <mx>LEIA ISSO</mx>.",
+    "error1139_1_2": "Obrigado por usar planos ilimitados! Você ainda pode continuar a usar modelos avançados de IA. No entanto, você atingiu um limite de velocidade temporário e usou todas as consultas avançadas extras. Aqui está <a>o motivo pelo qual há um limite de velocidade e como estamos tentando ajudá-lo</a>. Por favor, <mx>LEIA ISSO</mx>.",
+    "error1139_1_3": "Obrigado por usar planos ilimitados! Você ainda pode continuar a usar modelos avançados de IA. No entanto, você atingiu um limite de velocidade temporário e usou todas as consultas avançadas de presente. Aqui está <a>o motivo pelo qual há um limite de velocidade e como estamos tentando ajudá-lo</a>. Por favor, <mx>LEIA ISSO</mx>.",
+    "error1139_2": "Para não interromper seu trabalho atual, nós lhe demos algumas consultas avançadas extras como presente para desbloquear o limite de velocidade atual. <b>Depois de usar todas essas consultas avançadas extras, você terá um limite de velocidade</b>.",
+    "error1139_3": "O limite de velocidade atual é ({{timesToUse}} vezes / {{periodTime}} horas) em Consultas Avançadas. Podemos ajustá-lo de acordo com nossas capacidades. Precisa de mais agora? Experimente um pacote de reforço!",
+    "error1139_4": "Nós lhe demos 50 consultas avançadas extras como presente para desbloquear o limite de velocidade atual. <b>Depois de usar todos esses créditos avançados extras, você terá um limite de velocidade.</b>",
+    "loginAndCloudflareCheck": "Mude para a <a>API Sidebar</a> para obter acesso estável OU faça login e passe na verificação da Cloudflare em <i>chat.openai.com</i>",
+    "invalidApiKey": "A chave da API é inválida. Obtenha outra.",
+    "getApiKeyGuide": "Você precisa de uma chave de API OpenAI para fazê-la funcionar. Siga nosso guia para obter a chave de API.",
+    "thankForFeedback": "Obrigado. O formulário foi enviado com sucesso. Entraremos em contato em breve.",
+    "writeSomething": "Por favor, escreva alguma coisa.",
+    "enterEmail": "Digite um endereço de e-mail para receber atualizações sobre o problema.",
+    "emailRequired": "O e-mail é obrigatório.",
+    "promptNameRequired": "O nome do prompt é obrigatório.",
+    "titleRequired": "O título é obrigatório.",
+    "nameYourPrompt": "Dê um nome ao seu prompt",
+    "nameYourTitle": "Nomeie sua conversa",
+    "promptTplRequired": "O conteúdo do prompt é obrigatório.",
+    "deletePromptWarn": "Deseja excluir este prompt?",
+    "restorePromptWarn": "Deseja restaurar este modelo de prompt?",
+    "notValidEmail": "não é um e-mail válido",
+    "signinTips": "Faça login para sincronizar seus prompts e configurações",
+    "signinAward": "Faça login para obter {{num}} <span>GRÁTIS</span> créditos por dia",
+    "signinAward2": "Os créditos foram usados para usuário não logado. Você pode fazer login para obter <b>{{num}} créditos gratuitos por dia</b>.",
+    "signinAward3": "Faça login para obter mais créditos por dia",
+    "signinAward4": "Embarque em uma jornada mágica de IA com seu navegador e receba {{num}} <span>GRÁTIS</span> créditos todos os dias",
+    "chatgptTabGuardTips": "Por favor, mantenha esta guia aberta, agora você pode voltar para {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Algo deu errado com o ChatGPT. Reconectando, aguarde...",
+    "chatgptTabGuardRefreshingTips1": "Algo deu errado com o ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Reconectando, aguarde...",
+    "chatgptTabGuardSetupSuccessTips": "Corrigido, por favor tente novamente",
+    "switchToSiderApiToContinue": "Atualmente, este recurso suporta apenas o modo API {{APP_NAME}}, por favor, <a>mude para {{APP_NAME}} API</a> para continuar.",
+    "switchRequired": "Mudar para {{APP_NAME}}?",
+    "switchToSiderDesc": "Para usar este recurso, por favor, mude seu método de acesso à IA para {{APP_NAME}}.",
+    "signInRequired": "Login obrigatório",
+    "useUpUpgrade": "Seus créditos foram usados, por favor, faça upgrade para obter mais crédito.",
+    "featureLimit": "Limite de recursos",
+    "featureLimitTip": "Atualize para usar Claude e Bard.",
+    "featureUnavailableOnPage": "Não é possível executar nesta página",
+    "featureBrowserLimit": "Esta página não suporta extensões de navegador. Páginas restritas geralmente incluem novas abas, a loja da web, outras extensões e configurações (URLs chrome://). Por favor, tente uma página regular.",
+    "localFileAccessRequiredTitle": "Acesso a arquivos necessário",
+    "localFileAccessRequiredDesc": "Para usar a extensão com arquivos locais, por favor, vá para as configurações da extensão e ative \"<b>Permitir acesso a URLs de arquivos</b>\".",
+    "localFileAccessRequiredBtn": "Ir para as configurações da extensão",
+    "quotaModelContent": "Seu limite de consultas GPT-4/Claude-2 foi atingido. Faça upgrade para o Plano Premium para mais acesso, ou convide amigos para créditos extras gratuitos.",
+    "signinFeature": "Por favor, faça login para acessar este recurso",
+    "dragImgTips": "Clique para fazer upload ou solte uma imagem aqui",
+    "dragTips": "Clique para carregar ou solte arquivos aqui",
+    "fileSizeTip": "Tamanho máximo: 100MB cada. Até 5 arquivos.",
+    "reEnableInSettings": "Você pode reativar em <a>Configurações</a>",
+    "switchBarTip": "Amplie o painel lateral para fixar a barra de navegação.",
+    "upgradeSupport": "Atualize para o plano premium para nos apoiar",
+    "upgradeSupport2": "Atualize para obter mais recursos",
+    "imageSizeLimit": "Limite de imagem",
+    "fileSizeLimit": "Arquivo muito grande",
+    "imageSizeLimitTip": "Certifique-se de que a imagem seja menor que 10 MB e que sua largura ou altura não exceda 4.096 pixels e tente novamente.",
+    "fileSizeLimitTip": "O arquivo excede o limite de upload de 100MB. Por favor, reduza o tamanho do arquivo e tente novamente.",
+    "errOpenAIFilter": "A resposta foi filtrada devido ao prompt ter acionado a política de gerenciamento de conteúdo da OpenAI. Por favor, modifique seu prompt e tente novamente.",
+    "unreadableMsg": "Não é possível encontrar o conteúdo principal desta página. Por favor, tente outra página.",
+    "unreadableTitle": "Conteúdo principal ausente",
+    "noSubtitleMsg": "O vídeo não possui legendas e não pode ser resumido.",
+    "noSubtitleTitle": "Legenda Necessária para Resumo",
+    "fileLimit": "Para processar este arquivo, por favor, habilite a Ferramenta de Análise Avançada de Dados. Custa 1 crédito avançado por uso. Gostaria de habilitá-la e continuar?",
+    "fileLimitFree": "Seu arquivo enviado requer Análise Avançada de Dados para processamento. Atualize agora para desbloquear este recurso.",
+    "openLastConversationTitle": "Abrir última conversa?",
+    "openLastConversationContent": "Agora podemos definir se a barra lateral irá restaurar a última conversa sempre que for iniciada.",
+    "openLastConversationCancel": "Entendi",
+    "openLastConversationOk": "Ir para Configurações",
+    "keepConversationTip": "Cada vez que você abre o Sider, uma nova conversa começa. Para continuar a última conversa, ajuste as <a>configurações</a>.",
+    "uploadFailed": "Falha no envio de \"{{FILENAME}}\".",
+    "askOriginalModel": "Original {{MODELNAME}}",
+    "videoTooLang": "O vídeo é muito longo (máximo de 10 horas). Por favor, escolha um vídeo mais curto.",
+    "somethingWrong": "Algo deu errado. Por favor, tente novamente mais tarde.",
+    "cantBeTranscribed": "Não é possível resumir este vídeo devido a restrições de direitos autorais. Por favor, tente outro.",
+    "notSupportLiveVideo": "A sumarização de vídeo ao vivo não é suportada neste momento."
+  },
+  "options": {
+    "title": "Opções",
+    "shortcut": {
+      "tips": "Digite um atalho"
+    },
+    "theme": {
+      "auto": "automático",
+      "light": "modo brilhante",
+      "dark": "modo escuro"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Sempre",
+        "desc": "Sempre"
+      },
+      "questionMark": {
+        "title": "Ponto de interrogação",
+        "desc": "Quando a consulta termina com um ponto de interrogação"
+      },
+      "manually": {
+        "title": "manualmente",
+        "desc": "Quando o botão de resposta é clicado"
+      }
+    },
+    "sidebarLocation": {
+      "left": "lado esquerdo",
+      "right": "lado direito"
+    },
+    "sidebarMode": {
+      "sidepanel": "Barra lateral fixa",
+      "inpage": "Barra lateral na página"
+    },
+    "sidebarModeTip": {
+      "sidepanel": "Ao alternar abas, o Sider sempre permanecerá fixo no lado direito do navegador.",
+      "inpage": "Ao trocar de aba, o Sider não ficará em exibição; você deve reabrir a Barra Lateral na nova página."
+    },
+    "sidebarPromptTpl": {
+      "explain": {
+        "title": "Explicar",
+        "template": "Explique o seguinte conteúdo:"
+      },
+      "explain-codes": {
+        "title": "Explicar códigos",
+        "template": "Explique os seguintes códigos:"
+      },
+      "translate": {
+        "title": "Traduzir",
+        "template": "Traduza o seguinte conteúdo para o idioma {{lang}}:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Plano gratuito",
+    "basic": "Plano Básico",
+    "pro": "Plano Profissional",
+    "ultra": "Plano ilimitado",
+    "starter": "Plano Inicial"
+  },
+  "shortPlanNames": {
+    "free": "Grátis",
+    "basic": "Básico",
+    "pro": "Pro",
+    "ultra": "Ilimitado",
+    "starter": "Início",
+    "pocket": "Pocket"
+  },
+  "queryNames": {
+    "fast": "Básico",
+    "advanced": "Avançado",
+    "image": "Imagem",
+    "reader": "Leitor"
+  },
+  "upgradeModal": {
+    "off": "Desconto!",
+    "desc": "Mais créditos e mais recursos",
+    "upgradeToUseXXX": "Atualize para usar o <b>bot</b>",
+    "getAllTTSVoices": "Desbloquear Todas as Vozes",
+    "allVoices": "Todas as Vozes",
+    "getAllTTSVoicesDesc": "Esta voz é exclusiva para usuários premium. Atualize agora para acessar todas as vozes.",
+    "getAllTTSVoicesDesc2": "Você atingiu o limite de teste para vozes premium. Faça upgrade agora para acesso ilimitado a 9 vozes de IA com som natural ou use a voz grátis.",
+    "tryAllVoices": "Sinta-se à vontade para experimentar todas as vozes",
+    "getWebAccess": "Atualize para obter resposta na web",
+    "videoSummay": "Faça upgrade para usar resumo de vídeo",
+    "gpt4Desc": "GPT-4o é significativamente mais inteligente e pode ajudá-lo a obter respostas mais lógicas e precisas.",
+    "claude3SonnetDesc": "Claude 3 Sonnet é um modelo de linguagem refinado para comunicação precisa e sutil.",
+    "claude35SonnetDesc": "Claude 3.5 Sonnet é o modelo mais recente da Anthropic, oferecendo o dobro da velocidade do Claude 3 Opus e maior inteligência, melhorando significativamente o raciocínio, conhecimento, codificação e tarefas visuais.",
+    "claude3OpusDesc": "Claude 3 Opus é uma IA avançada para enfrentar tarefas complexas com notável eficiência.",
+    "webAccessDesc": "Sider recupera respostas às suas perguntas do Google e emprega IA para organização e resumo concisos.",
+    "videoSummaryDesc": "Você atingiu seu limite de uso gratuito. Para continuar acessando esse recurso, considere atualizar para uma assinatura premium."
+  },
+  "upgradeTitle": {
+    "reader": {
+      "free": "Explorar alem dos limites!",
+      "pro": "Limite de cota atingido",
+      "ultra": "Limite de cota atingido"
+    }
+  },
+  "upgradeContent": {
+    "reader": {
+      "free": "Você atingiu seu limite de cota gratuita. Atualize para uma cota maior e desbloqueie recursos avançados.",
+      "pro": "Você atingiu o limite de cota deste mês. Atualize para cota adicional.",
+      "ultra": "Você atingiu o limite de cota deste mês. Entre em contato conosco em <a>care@sider.ai</a> para fornecer suas sugestões."
+    }
+  },
+  "fiveStarRate": {
+    "rate": "Avalie-nos com cinco estrelas",
+    "enjoy": "😘 Você gosta desta extensão?",
+    "enjoyNo": "Não, comentários",
+    "enjoyYes": "Sim, avaliação de 5 estrelas!",
+    "feedbackTip": "🥹 Por favor, conte-nos o motivo da sua insatisfação.",
+    "feedbackThx": "Obrigado pelo seu feedback!"
+  },
+  "sidepanelPinGuide": {
+    "title": "Clique em \"{{icon}}\"",
+    "desc": "Adicione {{APP_NAME}} à sua barra de ferramentas para acesso rápido"
+  },
+  "emailEnhance": {
+    "emailAssistant": "Assistente de e-mail",
+    "emailAssistantDesc": "Quando ativado, o Sider pode ajudá-lo a responder e-mails rapidamente.",
+    "hideTranslation": "Ocultar tradução",
+    "inputPlaceholder": "Diga ao sider como você deseja responder...",
+    "intent": "Intenção do remetente",
+    "orgLang": "Idioma do Email",
+    "quickAIReply": "Resposta de IA",
+    "replyInputPlaceholder": "O que você gostaria de responder?",
+    "resultsTitle": "Rascunho de resposta",
+    "showTranslation": "Mostrar tradução",
+    "translateEmail": "Traduzir o e-mail",
+    "tryAgain": "Tente novamente",
+    "voice": {
+      "applicant": "Candidato",
+      "casual": "Casual",
+      "colleague": "Colega",
+      "confident": "confiante",
+      "customer-service-staff": "Equipe de atendimento ao consumidor",
+      "direct": "direto",
+      "emailLength": "Comprimento do e-mail",
+      "empathetic": "empático",
+      "enthusiastic": "Apaixonado",
+      "formal": "Formal",
+      "formality": "Formalidade",
+      "friendly": "amigável",
+      "human-resources": "Recursos Humanos",
+      "informational": "informativo",
+      "leader": "Líder",
+      "long": "Longo",
+      "medium": "Médio",
+      "neutral": "Neutro",
+      "personable": "Querido",
+      "project-manager": "Gestor de projeto",
+      "sales-representative": "Representante de vendas",
+      "short": "Curto",
+      "subordinate": "Subordinar",
+      "tone": "Tom",
+      "witty": "esperto",
+      "yourRole": "Seu papel"
+    },
+    "voiceSettings": "Configuração de tom",
+    "wayToReply": "Ideias de resposta"
+  },
+  "searchEnhance": {
+    "getStarted": "Comece agora",
+    "adContent": "Mais inteligente que o GPT-4? Claude 3 está aqui! Convide amigos e experimente gratuitamente!",
+    "noLoginAdContent": "Desbloqueie o Poder da IA: Pesquisar, Ler, Escrever, Traduzir Mais Rápido e de Forma Mais Inteligente!",
+    "noLoginBtn": "Junte-se a Mais de 4 Milhões de Usuários Satisfeitos!"
+  },
+  "imageToolbar": {
+    "AITools": "Ferramentas de IA",
+    "chatWithImage": "Conversar com Imagem",
+    "extractText": "Extrair Texto",
+    "imageTools": "Ferramentas de Imagem",
+    "inpaint": "Substituir Área Pincelada",
+    "removeBackground": "Remover Fundo",
+    "removeText": "Remover Texto",
+    "replaceBackground": "Substituir Fundo",
+    "upscale": "Ampliar",
+    "variation": "Criar Variações"
+  },
+  "googleSearchPage": {
+    "gpt4Advantages": [
+      "Obter melhores respostas",
+      "Conhecimento mais diversificado",
+      "Compreensão mais forte"
+    ],
+    "claude3Advantages": [
+      "Igualmente poderoso como GPT-4",
+      "Respostas mais naturais",
+      "Capacidades de raciocínio poderosas"
+    ]
+  },
+  "Tools": {
+    "title": {
+      "search": "Desbloquear Acesso Web",
+      "text_to_image": "Desbloquear Gerar Imagem",
+      "data_analysis": "Desbloquear Análise de Dados",
+      "artifacts": "Desbloquear {{ARTIFACTS}}",
+      "thinking_mode": "Desbloquear Modo de Pensamento"
+    },
+    "desc": {
+      "thinking_mode": [
+        {
+          "title": "Solução de Problemas Aprimorada",
+          "desc": "Domine desafios complexos com raciocínio em múltiplas etapas!"
+        },
+        {
+          "title": "Análise Abrangente",
+          "desc": "Obtenha insights detalhados para decisões críticas instantaneamente."
+        },
+        {
+          "title": "Iteração Inteligente",
+          "desc": "Refine soluções sem esforço através de um pensamento orientado."
+        }
+      ],
+      "search": [
+        {
+          "title": "Mantenha-se Atualizado",
+          "desc": "Acesse informações atualizadas na web."
+        },
+        {
+          "title": "Melhore a Precisão",
+          "desc": "Obtenha respostas mais precisas e relevantes."
+        }
+      ],
+      "text_to_image": [
+        {
+          "title": "Estimule a Criatividade",
+          "desc": "Transforme descrições em alta qualidade instantaneamente."
+        },
+        {
+          "title": "Aprimore o Conteúdo",
+          "desc": "Aprimore seus projetos com visuais personalizados."
+        }
+      ],
+      "data_analysis": [
+        {
+          "title": "Obtenha Insights",
+          "desc": "Analise e visualize dados facilmente para encontrar clareza."
+        },
+        {
+          "title": "Programe de Forma Mais Inteligente",
+          "desc": "Refine, interprete e execute código para resolver problemas de forma eficaz."
+        },
+        {
+          "title": "Excelência em Matemática",
+          "desc": "Resolva problemas complexos de matemática com facilidade e precisão."
+        }
+      ],
+      "artifacts": [
+        {
+          "title": "Produtividade Aprimorada",
+          "desc": "Transforme ideias em resultados tangíveis, instantaneamente!"
+        },
+        {
+          "title": "Visualização em Tempo Real",
+          "desc": "Visualize instantaneamente páginas da web, documentos e gráficos gerados por IA."
+        },
+        {
+          "title": "Iteração Sem Interrupções",
+          "desc": "Refine artefatos sem esforço através de conversas naturais."
+        }
+      ]
+    }
+  },
+  "contextMenu": {
+    "chatSelection": "Conversar com texto selecionado",
+    "highlightSelection": "Destacar texto selecionado",
+    "summarizePage": "Resumir a página",
+    "savePage": "Salvar a página em {{name}}",
+    "revertSavePage": "Remover de {{name}}",
+    "translatePage": "Traduzir para {{lang}}",
+    "revertTranslatePage": "Mostrar texto original",
+    "imageTools": "Ferramentas de Imagem {{AI}}",
+    "togglePageTranslation": "Traduzir a página / Mostrar texto original",
+    "openFullPageChat": "Abrir Chat em Página Completa"
+  },
+  "highlightType": {
+    "key-sentences": "Frases-chave",
+    "structural-importance": "Importância Estrutural",
+    "comprehensive-coverage": "Cobertura Abrangente",
+    "memorable-quotes": "Citações Memoráveis"
+  },
+  "freeTrial": {
+    "panelTitle": "Plano Ilimitado de 3 Dias Gratuito",
+    "panelList": [
+      "Converse livremente com GPT-4 & Claude 3",
+      "Converse com qualquer PDF, imagem & link",
+      "Resuma páginas da web & vídeos do YouTube"
+    ],
+    "panelBtn": "Iniciar Teste Gratuito",
+    "cancelTip": "Cancele a qualquer momento"
+  }
+}

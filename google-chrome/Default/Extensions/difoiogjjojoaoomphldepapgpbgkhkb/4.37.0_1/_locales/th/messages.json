@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "แถบข้าง ChatGPT: ใช้ ChatGPT, GPT-4o, Claude3, & Gemini สำหรับการค้นหา, อ่าน, และเขียนด้วย AI ขั้นสูง"
+   },
+   "appDescEdge": {
+      "message": "แถบข้าง ChatGPT: ใช้ ChatGPT, GPT-4o, Claude3, & Gemini สำหรับการค้นหา, อ่าน, และเขียนด้วย AI ขั้นสูง"
+   },
+   "appName": {
+      "message": "Sider: แถบข้าง ChatGPT + GPT-4o, Claude 3 & Gemini AI"
+   },
+   "appNameEdge": {
+      "message": "Sider: แถบด้านข้าง ChatGPT"
+   }
+}

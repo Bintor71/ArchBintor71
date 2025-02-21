@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT サイドバー: ChatGPT、GPT-4o、Claude3.5、Gemini 1.5 Proで作業フローを向上。AIによる高度な検索、読み取り、書き込みを実現。"
+   },
+   "appDescEdge": {
+      "message": "ChatGPT サイドバー: ChatGPT、GPT-4o、Claude3、Gemini 1.5 Proで作業フローを向上。AIによる高度な検索、読み取り、書き込みを実現。"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT サイドバー + GPT-4o, Claude 3.5, Gemini 1.5 & AIツール"
+   },
+   "appNameEdge": {
+      "message": "サイダー: ChatGPT サイドバー"
+   }
+}

@@ -1,0 +1,9 @@
+[Unit]
+Description=Run Battery Alert Script Every 5 Minutes
+
+[Timer]
+OnUnitActiveSec=5m
+Unit=battery_alert.service
+
+[Install]
+WantedBy=timers.target
